@@ -1,0 +1,22 @@
+ PS124,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [CJR H-M<LWT <PC>]
+ PS124,001 ---- NmCl  << NmCl  ?       1       2  1..    |  [L-DWD <PC>]
+                               =======                 ==============================================================================================/
+ PS124,001 ---- NmCl  <<  [Q]  Q       2       3  0.q   [LWLJ <Cj>] [JHWH <Su>]
+ PS124,001 3sgM xQt0 [predic.] Q       2       4  2..    |   |  [C-<Re>] [HJH <Pr>] [LNW <PC>]
+                               =======                 ==============================================================================================/
+ PS124,001 3sgM ZYqX  << NmCl  ?       21      5  1.#    |  [J>MR <Pr>] [N> <Ij>] [JFR>L <Su>]
+                               =======                 ==============================================================================================/
+ PS124,002 ---- NmCl  << NmCl  Q       2       6  0..   [LWLJ <Cj>] [JHWH <Su>]
+ PS124,002 3sgM xQt0 [predic.] Q       2       7  3..        |   |  [C-<Re>] [HJH <Pr>] [LNW <PC>]
+ PS124,002 ---- InfC [adjunct] Q       2       8  4..        |   |      [B-QWM <Pr>] [<LJNW <Co>] [>DM <Su>]
+ PS124,003 3pl- xQt0  << NmCl  Q       2       9  2..        |  [>ZJ <Mo>] [XJJM <Pj>] [BL<WNW <PO>]
+ PS124,003 ---- InfC [adjunct] Q       2      10  4..        |       |  [B-XRWT <Pr>] [>PM <Su>] [BNW <Co>]
+ PS124,004 3pl- XQtl [coordin] Q       2      11  3..        |      [>ZJ <Mo>] [H-MJM <Su>] [CVPWNW <PO>]
+ PS124,004 3sgM XQtl [coordin] Q       2      12  5..        |           |  [NXLH <Su>] [<BR <Pr>] [<L NPCNW <Co>]
+ PS124,005 3sgM xQtX [coordin] Q       2      13  4..        |          [>ZJ <Mo>] [<BR <Pr>] [<L NPCNW <Co>] [H-MJM H-ZJDWNJM <Su>]
+ PS124,006 -sgM Ptcp  << NmCl  Q       2      14  1..       [BRWK <PC>] [JHWH <Su>]
+ PS124,006 3sgM xQt0 [attrib.] Q       2      15  4..            |   |  [C-<Re>] [L> <Ng>] [NTNNW <PO>] [VRP <Ob>] [L-CNJHM <Co>]
+ PS124,007 3sgF XQtl  << Ptcp  Q       2      16  3..            |  [NPCNW <Su>] [K-YPWR <Aj>] [NMLVH <Pr>] [M-PX JWQCJM <Co>]
+ PS124,007 -sgM Ptcp  << XQtl  Q       2      17  4..            |      [H-PX <Su>] [NCBR <PC>]
+ PS124,007 1pl- WXQt  << Ptcp  Q       22     18  5.#            |          [W-<Cj>] [>NXNW <Su>] [NMLVNW <Pr>]
+ PS124,008 ---- NmCl  << Ptcp  Q       2      19  2..           [<ZRNW <Su>] [B-CM JHWH / <FH CMJM W->RY <sp><PC>]

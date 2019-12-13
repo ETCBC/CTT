@@ -1,0 +1,169 @@
+ ICHR17,01 3sgM Way0  <<  [R]  N       1       1  0.N   [W-<Cj>] [JHJ <Pr>]
+ ICHR17,01 3sgM xQtX [adjunct] N       1       2  3..        |   |  [K->CR <Cj>] [JCB <Pr>] [DWJD <Su>] [B-BJTW <Co>]
+ ICHR17,01 3sgM WayX  << Way0  N       11      3  2.#        |  [W-<Cj>] [J>MR <Pr>] [DWJD <Su>] [>L NTN / H-NBJ> <ap><Co>]
+                               =======                       |       |+===========================================================================\
+ ICHR17,01 -sgM Ptcp  <<  [Q]  NQ      111     4  4.q        |       || [HNH <Ij>] [>NKJ <Su>] [JWCB <PC>] [B-BJT H->RZJM <Co>]
+ ICHR17,01 ---- NmCl  << Ptcp  NQ      111     5  5..        |       ||     [W-<Cj>] [>RWN BRJT JHWH <Su>] [TXT JRJ<WT <PC>]
+                               =======                       |        +===========================================================================/
+ ICHR17,02 3sgM WayX  << WayX  N       112     6  3.#        |      [W-<Cj>] [J>MR <Pr>] [NTN <Su>] [>L DWJD <Co>]
+                               =======                       |        +===========================================================================\
+ ICHR17,02 ---- Defc  <<  [Q]  NQ      1121    7  4dq        |       || [KL <Ob>]
+ ICHR17,02 ---- NmCl [reg/rec] NQ      1121    8  7.e        |       ||      |   |  [>CR <Re>] [B-LBBK <PC>]
+ ICHR17,02 2sgM ZIm0  << Defc  NQ      1121    9  6..        |       ||      |  [<FH <Pr>]
+ ICHR17,02 ---- NmCl  << Defc  NQ      1121   10  5..        |       ||     [KJ <Cj>] [H->LHJM <Su>] [<MK <PC>]
+                               =======                                +===========================================================================/
+ ICHR17,03 3sgM Way0  << Way0  N       1      11  1..       [W-<Cj>] [JHJ <Pr>] [B--LJLH H-HW> <Ti>]
+ ICHR17,03 3sgM WayX  << Way0  N       12     12  2.#           [W-<Cj>] [JHJ <Pr>] [DBR >LHJM <Su>] [>L NTN <PC>]
+ ICHR17,03 ---- InfC [adjunct] N       12     13  4..                |  [L->MR <Pr>]
+                               =======                               |    +=======================================================================\
+ ICHR17,04 2sgM ZIm0  <<  [Q]  NQ      121    14  5.q                |    | [LK <Pr>]
+ ICHR17,04 2sgM WQt0  << ZIm0  NQ      121    15  7..                |    |      |  [W-<Cj>] [>MRT <Pr>] [>L DWJD / <BDJ <ap><Co>]
+                               =======                               |    |      |    +========================================================\
+ ICHR17,04 3sgM xQtX  <<  [Q]  NQQ     1211   16  8.q                |    |      |    | [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
+                               =======                               |    |      |    |   +=================================================\
+ ICHR17,04 2sgM XYqt  <<  [Q]  NQQQ    12111  17  9.q                |    |      |    |  || [L> <Ng>] [>TH <Su>] [TBNH <Pr>] [LJ <Aj>] [H-BJT <Ob>]
+ ICHR17,04 ---- InfC [adjunct] NQQQ    12111  18 11..                |    |      |    |  ||      |  [L-CBT <Pr>]
+ ICHR17,05 1sg- xQt0  << XYqt  NQQQ    12111  19 10..                |    |      |    |  ||     [KJ <Cj>] [L> <Ng>] [JCBTJ <Pr>] [B-BJT <Co>] [MN H-JWM <Ti>]
+ ICHR17,05 1sg- xQt0 [attrib.] NQQQ    12111  20 13.e                |    |      |    |  ||          |   |  [>CR <Re>] [H<LJTJ <Pr>] [>T JFR>L <Ob>]
+ ICHR17,05 ---- Defc  << xQt0  NQQQ    12111  21 12d.                |    |      |    |  ||          |  [<D H-JWM H-ZH <Ti>]
+                               -------                               |    |      |    |   |       +--------------------------------------\
+ ICHR17,05 1sg- Way0  << xQt0  NQQQN   12111  22 11..                |    |      |    |  ||       | [W-<Cj>] [>HJH <Pr>] [M->HL / >L >HL / W-/ M-MCKN <pa><cj><sp><PC>]
+ ICHR17,06 ---- Defc  << Way0  NQQQN   12111  23 12d.                |    |      |    |  ||       |     [B-KL <Aj>]
+ ICHR17,06 1sg- xQt0 [reg/rec] NQQQN   12111  24 14.e                |    |      |    |  ||       |          |  [>CR <Re>] [HTHLKTJ <Pr>] [B-KL JFR>L <Co>]
+ ICHR17,06 1sg- xQt0  << Defc  NQQQN   12111  25 13..                |    |      |    |  ||       |         [H-DBR <Ob>] [DBRTJ <Pr>] [>T >XD CPVJ JFR>L <Co>]
+ ICHR17,06 1sg- xQt0 [attrib.] NQQQN   12111  26 15..                |    |      |    |  ||       |              |  [>CR <Re>] [YWJTJ <Pr>]
+ ICHR17,06 ---- InfC [object ] NQQQN   12111  27 16..                |    |      |    |  ||       |              |      [L-R<WT <Pr>] [>T <MJ <Ob>]
+ ICHR17,06 ---- InfC [adjunct] NQQQN   12111  28 14..                |    |      |    |  ||       |             [L->MR <Pr>]
+                               =======                               |    |      |    |   |       |               +===================\
+ ICHR17,06 2plM xQt0  <<  [Q]  NQQQNQ  121111 29 15.q                |    |      |    |  ||       |               | [LMH <Qu>] [L> <Ng>] [BNJTM <Pr>] [LJ <Aj>] [BJT >RZJM <Ob>]
+                               =======                               |    |           +========================================================/
+ ICHR17,07 ---- MSyn  << ZIm0  NQ      121    30  6m.                |    |     [W-<Cj>] [<TH <Ti>]
+ ICHR17,07 2sgM xYq0  << MSyn  NQ      121    31  7..                |    |         [KH <Mo>] [T>MR <Pr>] [L-<BDJ / L-DWJD <ap><Co>]
+                               =======                               |    |           +========================================================\
+ ICHR17,07 3sgM xQtX  <<  [Q]  NQQ     1212   32  8.q                |    |           | [KH <Mo>] [>MR <Pr>] [JHWH YB>WT <Su>]
+                               =======                               |    |           |   +=================================================\
+ ICHR17,07 1sg- XQtl  <<  [Q]  NQQQ    12121  33  9.q                |    |           |  || [>NJ <Su>] [LQXTJK <PO>] [MN H-NWH / MN >XRJ H-Y>N <pa><Co>]
+ ICHR17,07 ---- InfC [adjunct] NQQQ    12121  34 11..                |    |           |  ||      |  [L-HJWT <Pr>] [NGJD <PC>] [<L <MJ / JFR>L <ap><Co>]
+                               -------                               |    |           |   |   +------------------------------------------\
+ ICHR17,08 1sg- Way0  << XQtl  NQQQN   12121  35 10..                |    |           |  ||   | [W-<Cj>] [>HJH <Pr>] [<MK <PC>] [B-KL <Aj>]
+ ICHR17,08 2sgM xQt0 [reg/rec] NQQQN   12121  36 11..                |    |           |  ||   |  |  [>CR <Re>] [HLKT <Pr>]
+ ICHR17,08 1sg- Way0  << Way0  NQQQN   12121  37 10..                |    |           |  ||   | [W-<Cj>] [>KRJT <Pr>] [>T KL >WJBJK <Ob>] [M-PNJK <Co>]
+ ICHR17,08 1sg- WQt0  << Way0  NQQQN   12121  38 11..                |    |           |  ||   |  |  [W-<Cj>] [<FJTJ <Pr>] [LK <Aj>] [CM / K-CM H-GDWLJM <sp><Ob>]
+ ICHR17,08 ---- NmCl [attrib.] NQQQN   12121  39 13..                |    |           |  ||   |  |   |   |  [>CR <Re>] [B-->RY <PC>]
+ ICHR17,09 1sg- WQt0  << WQt0  NQQQN   12121  40 12..                |    |           |  ||   |  |   |  [W-<Cj>] [FMTJ <Pr>] [MQWM <Ob>] [L-<MJ / JFR>L <ap><Co>]
+ ICHR17,09 1sg- WQt0  << WQt0  NQQQN   12121  41 13..                |    |           |  ||   |  |   |      [W-<Cj>] [NV<TJHW <PO>]
+ ICHR17,09 3sgM WQt0  << WQt0  NQQQN   12121  42 14..                |    |           |  ||   |  |   |          [W-<Cj>] [CKN <Pr>] [TXTJW <Co>]
+                               -------                               |    |           |   |   |  |   |            +-------------------\
+ ICHR17,09 3sgM WxY0  << WQt0  NQQQND  12121  43 15..                |    |           |  ||   |  |   |            | [W-<Cj>] [L> <Ng>] [JRGZ <Pr>] [<WD <Mo>]
+ ICHR17,09 3plM WxYX  << WxY0  NQQQND  12121  44 16..                |    |           |  ||   |  |   |            |     [W-<Cj>] [L> <Ng>] [JWSJPW <Pr>] [BNJ <WLH <Su>]
+ ICHR17,09 ---- InfC [object ] NQQQND  12121  45 17..                |    |           |  ||   |  |   |            |         [L-BLTW <PO>]
+ ICHR17,09 ---- NmCl [adjunct] NQQQND  12121  46 18..                |    |           |  ||   |  |   |            |             [K->CR <Cj>] [B--R>CWNH <PC>]
+ ICHR17,10 ---- Ellp  << NmCl  NQQQND  12121  47 19l.                |    |           |  ||   |  |   |            |                 [W-<Cj>] [L-M-JMJM <Ti>]
+ ICHR17,10 1sg- xQt0 [attrib.] NQQQND  12121  48 20..                |    |           |  ||   |  |   |            |                     [>CR <Re>] [YWJTJ <Pr>] [CPVJM <Ob>] [<L <MJ / JFR>L <ap><Co>]
+                               -------                               |    |           |   |   |  |                +-------------------/
+ ICHR17,10 1sg- WQt0  << WQt0  NQQQN   12121  49 11..                |    |           |  ||   |  |  [W-<Cj>] [HKN<TJ <Pr>] [>T KL >WJBJK <Ob>]
+ ICHR17,10 1sg- Way0  << Way0  NQQQN   12121  50 10..                |    |           |  ||   | [W-<Cj>] [>GD <Pr>] [LK <Co>]
+                               -------                               |    |           |   |   |      |+-------------------------------\
+ ICHR17,10 3sgM WxYX  << Way0  NQQQND  12121  51 12..                |    |           |  ||   |       | [W-<Cj>] [BJT <Ob>] [JBNH <Pr>] [LK <Co>] [JHWH <Su>]
+                               -------                               |    |           |   |   |       +-------------------------------/
+ ICHR17,11 3sgM MSyn  << Way0  NQQQN   12121  52 11m.                |    |           |  ||   |     [W-<Cj>] [HJH <Pr>]
+ ICHR17,11 3pl- xQtX  << MSyn  NQQQN   12121  53 13..                |    |           |  ||   |          |  [KJ <Cj>] [ML>W <Pr>] [JMJK <Su>]
+ ICHR17,11 ---- InfC [adjunct] NQQQN   12121  54 14..                |    |           |  ||   |          |      [L-LKT <Pr>] [<M >BTJK <Co>]
+ ICHR17,11 1sg- WQt0  << MSyn  NQQQN   12121  55 12..                |    |           |  ||   |         [W-<Cj>] [HQJMWTJ <Pr>] [>T ZR<K <Ob>] [>XRJK <Aj>]
+                               -------                               |    |           |   |   |              |   |   |+---------------\
+ ICHR17,11 3sgM xYq0 [attrib.] NQQQND  12121  56 16..                |    |           |  ||   |              |   |    | [>CR <Re>] [JHJH <Pr>] [M-BNJK <PC>]
+                               -------                               |    |           |   |   |              |   |    +---------------/
+ ICHR17,11 1sg- WQt0  << WQt0  NQQQN   12121  57 15..                |    |           |  ||   |              |   |  [W-<Cj>] [HKJNWTJ <Pr>] [>T MLKWTW <Ob>]
+                               -------                               |    |           |   |   |              |+-----------------------\
+ ICHR17,12 3sgM XYqt  << WQt0  NQQQND  12121  58 14..                |    |           |  ||   |               | [HW> <Su>] [JBNH <Pr>] [LJ <Aj>] [BJT <Ob>]
+                               -------                               |    |           |   |   |               +-----------------------/
+ ICHR17,12 1sg- WQt0  << WQt0  NQQQN   12121  59 13..                |    |           |  ||   |             [W-<Cj>] [KNNTJ <Pr>] [>T KS>W <Ob>] [<D <WLM <Ti>]
+                               -------                               |    |           |   |   |                  |+-------------------\
+ ICHR17,13 1sg- XYqt  << WQt0  NQQQND  12121  60 15..                |    |           |  ||   |                   | [>NJ <Su>] [>HJH <Pr>] [LW <Co>] [L->B <PC>]
+ ICHR17,13 3sgM WXYq  << XYqt  NQQQND  12121  61 17..                |    |           |  ||   |                   |      |  [W-<Cj>] [HW> <Su>] [JHJH <Pr>] [LJ <Co>] [L-BN <PC>]
+ ICHR17,13 1sg- WxY0  << XYqt  NQQQND  12121  62 16..                |    |           |  ||   |                   |     [W-<Cj>] [XSDJ <Ob>] [L> <Ng>] [>SJR <Pr>] [M-<MW <Co>]
+ ICHR17,13 1sg- xQt0 [adjunct] NQQQND  12121  63 17..                |    |           |  ||   |                   |         [K->CR <Cj>] [HSJRWTJ <Pr>]
+ ICHR17,13 3sgM xQt0 [complm.] NQQQND  12121  64 18..                |    |           |  ||   |                   |             [M->CR <Re>] [HJH <Pr>] [L-PNJK <PC>]
+                               -------                               |    |           |   |   |                   +-------------------/
+ ICHR17,14 1sg- WQt0  << WQt0  NQQQN   12121  65 14..                |    |           |  ||   |                 [W-<Cj>] [H<MDTJHW <PO>] [B-BJTJ W-B-MLKWTJ <Co>] [<D H-<WLM <Ti>]
+                               -------                               |    |           |   |   |                   +-------------------\
+ ICHR17,14 3sgM WXYq  << WQt0  NQQQND  12121  66 15..                |    |           |  ||   |                   | [W-<Cj>] [KS>W <Su>] [JHJH <Pr>] [NKWN <PC>] [<D <WLM <Ti>]
+                               =======                                    +=======================================================================/
+ ICHR17,15 ---- CPen  << WayX  N       12     67  3c.               [K-KL H-DBRJM H->LH W-K-KL H-XZWN H-ZH <Fr>]
+ ICHR17,15 3sgM xQtX [resumpt] N       12     68  5..                    |  [KN <Mo>] [DBR <Pr>] [NTN <Su>] [>L DWJD <Co>]
+ ICHR17,16 3sgM WayX  << CPen  N       122    69  4.#                   [W-<Cj>] [JB> <Pr>] [H-MLK / DWJD <ap><Su>]
+ ICHR17,16 3sgM Way0  << WayX  N       122    70  5..                       [W-<Cj>] [JCB <Pr>] [L-PNJ JHWH <Co>]
+ ICHR17,16 3sgM Way0  << Way0  N       122    71  6..                           [W-<Cj>] [J>MR <Pr>]
+                               =======                                            +===============================================================\
+ ICHR17,16 ---- NmCl  <<  [Q]  NQ      1221   72  7.q                             | [MJ <PC>] [>NJ <Su>]
+ ICHR17,16 ---- Voct  << NmCl  NQ      1221   73 12v.                             |      |   |   |   |  [JHWH / >LHJM <sp><Vo>]
+ ICHR17,16 ---- NmCl  << NmCl  NQ      1221   74 11..                             |      |   |   |  [W-<Cj>] [MJ <PC>] [BJTJ <Su>]
+ ICHR17,16 2sgM xQt0  << NmCl  NQ      1221   75 12..                             |      |   |   |      [KJ <Cj>] [HBJ>TNJ <PO>] [<D HLM <Co>]
+                               -------                                            |      |   |   |        +------------------------------------\
+ ICHR17,17 3sgF WayX  << xQt0  NQN     12211  76 13.#                             |      |   |   |        | [W-<Cj>] [TQVN <Pr>] [Z>T <Su>] [B-<JNJK <Aj>]
+                               =======                                            |      |   |   |        |      |+=========================\
+ ICHR17,17 ---- Voct  << WayX  NQNQ    12211  77 15v.                             |      |   |   |        |       | [>LHJM <Vo>]
+                               =======                                            |      |   |   |        |       +=========================/
+ ICHR17,17 2sgM Way0  << WayX  NQN     12211  78 14..                             |      |   |   |        |     [W-<Cj>] [TDBR <Pr>] [<L BJT <BDK <Co>] [L-M-RXWQ <Aj>]
+ ICHR17,17 2sgM WQt0  << Way0  NQN     12211  79 15..                             |      |   |   |        |         [W-<Cj>] [R>JTNJ <PO>] [K-TWR H->DM H-M<LH <Co>]
+                               =======                                            |      |   |   |        |           +=====================\
+ ICHR17,17 ---- Voct  << WQt0  NQNQ    12211  80 16v.                             |      |   |   |        |           | [JHWH / >LHJM <sp><Vo>]
+                               -------                                            |      |   |            +------------------------------------/
+ ICHR17,18 3sgM xYqX  << NmCl  NQ      1221   81 10..                             |      |   |  [MH <Ob>] [JWSJP <Pr>] [<WD <Mo>] [DWJD <Su>] [>LJK <Co>] [L-KBWD / >T <BDK <sp><Aj>]
+ ICHR17,18 2sgM WXQt  << xYqX  NQ      12212  82 11.#                             |      |   |      [W-<Cj>] [>TH <Su>] [>T <BDK <Ob>] [JD<T <Pr>]
+ ICHR17,19 ---- Voct  << NmCl  NQ      1221   83  9v.                             |      |  [JHWH <Vo>]
+ ICHR17,19 2sgM xQt0 [ref.Voc] NQ      1221   84 10..                             |      |   |  [B-<BWR <BDK W-K-LBK <Aj>] [<FJT <Pr>] [>T KL H-GDWLH H-Z>T <Ob>]
+ ICHR17,19 ---- InfC [adjunct] NQ      1221   85 11..                             |      |   |      [L-HDJ< <Pr>] [>T KL H-GDLWT <Ob>]
+ ICHR17,20 ---- Voct  << Voct  NQ      1221   86  9v.                             |      |  [JHWH <Vo>]
+ ICHR17,20 ---- NmCl [ref.Voc] NQ      1221   87 10..                             |      |      [>JN <NC>] [KMWK <PC>]
+ ICHR17,20 ---- NmCl  << NmCl  NQ      1221   88 12..                             |      |           |  [W-<Cj>] [>JN <NC>] [>LHJM <Su>] [ZWLTK <PC>] [B-KL <Aj>]
+ ICHR17,20 1pl- xQt0 [reg/rec] NQ      1221   89 13..                             |      |           |      [>CR <Re>] [CM<NW <Pr>] [B->ZNJNW <Co>]
+ ICHR17,21 ---- NmCl  << NmCl  NQ      1221   90 11..                             |      |          [W-<Cj>] [MJ <Su>] [K-<MK / JFR>L / GWJ >XD / B-->RY <sp><sp><ap><PC>]
+ ICHR17,21 3sgM xQtX [attrib.] NQ      1221   91 13..                             |      |               |  [>CR <Re>] [HLK <Pr>] [H->LHJM <Su>]
+ ICHR17,21 ---- InfC [adjunct] NQ      1221   92 14..                             |      |               |      [L-PDWT <Pr>] [LW <Aj>] [<M <Ob>]
+ ICHR17,21 ---- InfC [coordin] NQ      1221   93 14..                             |      |               |      [L-FWM <Pr>] [LK <Aj>] [CM <Ob>] [GDLWT W-NR>WT <Ob>]
+ ICHR17,21 ---- InfC [adjunct] NQ      1221   94 15..                             |      |               |          [L-GRC <Pr>] [M-PNJ <MK <Co>]
+ ICHR17,21 2sgM xQt0 [attrib.] NQ      1221   95 17.e                             |      |               |               |  [>CR <Re>] [PDJT <Pr>] [M-MYRJM <Co>]
+ ICHR17,21 ---- Defc  << InfC  NQ      1221   96 16d.                             |      |               |              [GWJM <Ob>]
+                               -------                                            |      |            +----------------------------------------\
+ ICHR17,22 2sgM Way0  << NmCl  NQN     1221   97 12..                             |      |            | [W-<Cj>] [TTN <Pr>] [>T <MK / JFR>L <ap><Ob>] [LK <Aj>] [L-<M <Co>] [<D <WLM <Ti>]
+ ICHR17,22 ---- Defc  << Way0  NQN     1221   98 13d.                             |      |            |     [W-<Cj>] [>TH <Su>]
+                               =======                                            |      |            |          |+=========================\
+ ICHR17,22 ---- Voct  << Defc  NQNQ    1221   99 15ve                             |      |            |           | [JHWH <Vo>]
+                               =======                                            |      |            |           +=========================/
+ ICHR17,22 2sgM ZQt0  << Defc  NQN     1221  100 14..                             |      |            |         [HJJT <Pr>] [LHM <Co>] [L->LHJM <PC>]
+                               -------                                            |      |            +----------------------------------------/
+ ICHR17,23 ---- MSyn  << NmCl  NQ      1221  101  8m.                             |     [W-<Cj>] [<TH <Ti>]
+ ICHR17,23 ---- Voct  << MSyn  NQ      1221  102 10v.                             |      |   |  [JHWH <Vo>]
+ ICHR17,23 ---- Defc  << MSyn  NQ      1221  103  9d.                             |      |  [H-DBR <Su>]
+ ICHR17,23 2sgM xQt0 [attrib.] NQ      1221  104 13.e                             |      |       |   |   |  [>CR <Re>] [DBRT <Pr>] [<L <BDK W-<L BJTW <Co>]
+ ICHR17,23 3sgM ZYq0  << Defc  NQ      1221  105 12..                             |      |       |   |  [J>MN <Pr>] [<D <WLM <Ti>]
+ ICHR17,23 2sgM WIm0  << Defc  NQ      1221  106 11..                             |      |       |  [W-<Cj>] [<FH <Pr>]
+ ICHR17,23 2sgM xQt0 [adjunct] NQ      1221  107 13..                             |      |       |       |  [K->CR <Cj>] [DBRT <Pr>]
+ ICHR17,24 3sgM WYq0  << WIm0  NQ      1221  108 12..                             |      |       |      [W-<Cj>] [J>MN <Pr>]
+ ICHR17,24 3sgM WYqX  << WYq0  NQ      1221  109 13..                             |      |       |          [W-<Cj>] [JGDL <Pr>] [CMK <Su>] [<D <WLM <Ti>]
+ ICHR17,24 ---- InfC [adjunct] NQ      1221  110 14..                             |      |       |              [L->MR <Pr>]
+                               =======                                            |      |       |                +============================\
+ ICHR17,24 ---- NmCl  <<  [Q]  NQQ     12213 111 15.q                             |      |       |                | [JHWH YB>WT / >LHJ JFR>L <ap><Su>] [>LHJM / L-JFR>L <sp><PC>]
+ ICHR17,24 -sgM Ptcp  << NmCl  NQQ     12213 112 16..                             |      |       |                |     [W-<Cj>] [BJT DWJD / <BDK <ap><Su>] [NKWN <PC>] [L-PNJK <Co>]
+                               =======                                            |      |                        +============================/
+ ICHR17,25 ---- Defc  << Defc  NQ      1221  113 10d.                             |      |      [KJ <Cj>] [>TH <Su>]
+ ICHR17,25 ---- Voct  << Defc  NQ      1221  114 13ve                             |      |           |   |  [>LHJ <Vo>]
+ ICHR17,25 2sgM ZQt0  << Defc  NQ      1221  115 12..                             |      |           |  [GLJT <Pr>] [>T >ZN <BDK <Ob>]
+ ICHR17,25 ---- InfC [adjunct] NQ      1221  116 13..                             |      |           |      [L-BNWT <Pr>] [LW <Aj>] [BJT <Ob>]
+ ICHR17,25 3sgM xQtX  << Defc  NQ      1221  117 11..                             |      |          [<L KN <Aj>] [MY> <Pr>] [<BDK <Su>]
+ ICHR17,25 ---- InfC [object ] NQ      1221  118 12..                             |      |              [L-HTPLL <Pr>] [L-PNJK <Co>]
+ ICHR17,26 ---- MSyn  << MSyn  NQ      1221  119  8m.                             |     [W-<Cj>] [<TH <Ti>]
+ ICHR17,26 ---- Voct  << MSyn  NQ      1221  120  9v.                             |      |  [JHWH <Vo>]
+ ICHR17,26 ---- NmCl [ref.Voc] NQ      1221  121 10..                             |      |      [>TH <Su>] [HW> <Ep>] [H->LHJM <PC>]
+                               -------                                            |      |        +--------------------------------------------\
+ ICHR17,26 2sgM Way0  << NmCl  NQN     1221  122 11..                             |      |        | [W-<Cj>] [TDBR <Pr>] [<L <BDK <Co>] [H-VWBH H-Z>T <Ob>]
+                               -------                                            |               +--------------------------------------------/
+ ICHR17,27 ---- MSyn  << MSyn  NQ      1221  123  8m.                             |     [W-<Cj>] [<TH <Ti>]
+ ICHR17,27 2sgM ZQt0  << MSyn  NQ      1221  124  9..                             |         [HW>LT <Pr>]
+ ICHR17,27 ---- InfC [object ] NQ      1221  125 11..                             |              |  [L-BRK <Pr>] [>T BJT <BDK <Ob>]
+ ICHR17,27 ---- InfC [adjunct] NQ      1221  126 12..                             |              |      [L-HJWT <Pr>] [L-<WLM <Ti>] [L-PNJK <PC>]
+ ICHR17,27 ---- Defc  << ZQt0  NQ      1221  127 10d.                             |             [KJ <Cj>] [>TH <Su>]
+ ICHR17,27 ---- Voct  << Defc  NQ      1221  128 13ve                             |                  |   |  [JHWH <Vo>]
+ ICHR17,27 2sgM ZQt0  << Defc  NQ      1221  129 12..                             |                  |  [BRKT <Pr>]
+ ICHR17,27 -sgM AjCl  << Defc  NQ      1221  130 11..                             |                 [W-<Cj>] [MBRK <PC>] [L-<WLM <Ti>]

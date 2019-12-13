@@ -1,0 +1,189 @@
+ GEN 29,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JF> <Pr>] [J<QB <Su>] [RGLJW <Ob>]
+ GEN 29,01 3sgM Way0  << WayX  N       1       2  1..    |  [W-<Cj>] [JLK <Pr>] [>RYH BNJ QDM <Co>]
+ GEN 29,02 3sgM Way0  << Way0  N       1       3  1..    |  [W-<Cj>] [JR> <Pr>]
+ GEN 29,02 ---- NmCl  << Way0  N       1       4  2..    |      [W-<Cj>] [HNH <Ij>] [B>R <Su>] [B--FDH <PC>]
+ GEN 29,02 -plM Ptcp  << NmCl  N       1       5  3..    |          [W-<Cj>] [HNH <Ij>] [CM <Lo>] [CLCH <DRJ Y>N <Su>] [RBYJM <PC>] [<LJH <Co>]
+                               -------                   |            +---------------------------------------------------------------------------\
+ GEN 29,02 3plM xYq0  << Ptcp  ND      1       6  4..    |            | [KJ <Cj>] [MN H-B>R H-HW> <Co>] [JCQW <Pr>] [H-<DRJM <Ob>]
+ GEN 29,02 -sgF AjCl  << xYq0  ND      1       7  6..    |            |      |  [W-<Cj>] [H->BN <Su>] [GDLH <PC>] [<L PJ H-B>R <Lo>]
+ GEN 29,03 3pl- WQtX  << xYq0  ND      1       8  5..    |            |     [W-<Cj>] [N>SPW <Pr>] [CMH <Co>] [KL H-<DRJM <Su>]
+ GEN 29,03 3pl- WQt0  << WQtX  ND      1       9  6..    |            |         [W-<Cj>] [GLLW <Pr>] [>T H->BN <Ob>] [M-<L PJ H-B>R <Co>]
+ GEN 29,03 3pl- WQt0  << WQt0  ND      1      10  6..    |            |         [W-<Cj>] [HCQW <Pr>] [>T H-Y>N <Ob>]
+ GEN 29,03 3pl- WQt0  << WQt0  ND      1      11  6..    |            |         [W-<Cj>] [HCJBW <Pr>] [>T H->BN <Ob>] [<L PJ H-B>R <Co>] [L-MQMH <Lo>]
+                               -------                                +---------------------------------------------------------------------------/
+ GEN 29,04 3sgM WayX  << WayX  N       2      12  0.#   [W-<Cj>] [J>MR <Pr>] [LHM <Co>] [J<QB <Su>]
+                               =======                   |   |   |+===============================================================================\
+ GEN 29,04 ---- Voct  <<  [Q]  NQ      21     13  3vq    |   |   || [>XJ <Vo>]
+ GEN 29,04 ---- NmCl [ref.Voc] NQ      21     14  4..    |   |   ||     [M->JN <PC>] [>TM <Su>]
+                               =======                   |   |    +===============================================================================/
+ GEN 29,04 3plM Way0  << WayX  N       22     15  2.#    |   |  [W-<Cj>] [J>MRW <Pr>]
+                               =======                   |   |    +===============================================================================\
+ GEN 29,04 ---- NmCl  <<  [Q]  NQ      221    16  3.q    |   |   || [M-XRN <PC>] [>NXNW <Su>]
+                               =======                   |   |    +===============================================================================/
+ GEN 29,05 3sgM Way0  << WayX  N       2      17  1..    |  [W-<Cj>] [J>MR <Pr>] [LHM <Co>]
+                               =======                   |   |   |+===============================================================================\
+ GEN 29,05 2plM xQt0  <<  [Q]  NQ      23     18  3.q    |   |   || [H-<Qu>] [JD<TM <Pr>] [>T LBN / BN NXWR <ap><Ob>]
+                               =======                   |   |    +===============================================================================/
+ GEN 29,05 3plM Way0  << Way0  N       24     19  2.#    |   |  [W-<Cj>] [J>MRW <Pr>]
+                               =======                   |   |    +===============================================================================\
+ GEN 29,05 1pl- ZQt0  <<  [Q]  NQ      241    20  3.q    |   |   || [JD<NW <Pr>]
+                               =======                   |   |    +===============================================================================/
+ GEN 29,06 3sgM Way0  << Way0  N       2      21  1..    |  [W-<Cj>] [J>MR <Pr>] [LHM <Co>]
+                               =======                   |   |   |+===============================================================================\
+ GEN 29,06 ---- NmCl  <<  [Q]  NQ      25     22  3.q    |   |   || [H-<Qu>] [CLWM <Su>] [LW <PC>]
+                               =======                   |   |    +===============================================================================/
+ GEN 29,06 3plM Way0  << Way0  N       26     23  2.#    |   |  [W-<Cj>] [J>MRW <Pr>]
+                               =======                   |   |    +===============================================================================\
+ GEN 29,06 ---- NmCl  <<  [Q]  NQ      261    24  3.q    |   |   || [CLWM <Su>]
+ GEN 29,06 -sgF Ptcp  << NmCl  NQ      261    25  4..    |   |   ||     [W-<Cj>] [HNH <Ij>] [RXL / BTW <ap><Su>] [B>H <PC>] [<M H-Y>N <Co>]
+                               =======                   |        +===============================================================================/
+ GEN 29,07 3sgM Way0  << Way0  N       2      26  1..    |  [W-<Cj>] [J>MR <Pr>]
+                               =======                   |       |   |+===========================================================================\
+ GEN 29,07 -sgM AjCl  <<  [Q]  NQ      27     27  4.q    |       |    | [HN <Ij>] [<WD <Mo>] [H-JWM <Su>] [GDWL <PC>]
+ GEN 29,07 ---- NmCl  << AjCl  NQ      27     28  6..    |       |    |      |  [L> <Ng>] [<T <Su>]
+ GEN 29,07 ---- InfC [reg/rec] NQ      27     29  7..    |       |    |      |      [H>SP <Pr>] [H-MQNH <Su>]
+ GEN 29,07 2plM ZIm0  << AjCl  NQ      27     30  5..    |       |    |     [HCQW <Pr>] [H-Y>N <Ob>]
+ GEN 29,07 2plM WIm0  << ZIm0  NQ      27     31  6..    |       |    |         [W-<Cj>] [LKW <Pr>]
+ GEN 29,07 2plM ZIm0  << WIm0  NQ      27     32  7..    |       |    |             [R<W <Pr>]
+                               =======                   |       |    +===========================================================================/
+ GEN 29,08 3plM Way0  << Way0  N       28     33  3.#    |       |  [W-<Cj>] [J>MRW <Pr>]
+                               =======                   |       |    +===========================================================================\
+ GEN 29,08 1pl- xYq0  <<  [Q]  NQ      281    34  4.q    |       |    | [L> <Ng>] [NWKL <Pr>]
+ GEN 29,08 3plM xYqX [adjunct] NQ      281    35  5..    |       |    |     [<D >CR <Cj>] [J>SPW <Pr>] [KL H-<DRJM <Su>]
+ GEN 29,08 3pl- WQt0 [coordin] NQ      281    36  6..    |       |    |         [W-<Cj>] [GLLW <Pr>] [>T H->BN <Ob>] [M-<L PJ H-B>R <Co>]
+ GEN 29,08 1pl- WQt0  << WQt0  NQ      281    37  7..    |       |    |             [W-<Cj>] [HCQJNW <Pr>] [H-Y>N <Ob>]
+                               =======                   |            +===========================================================================/
+ GEN 29,09 -sgM Ptcp  << Way0  N       2      38  2..    |      [<WDNW <Ms>] [MDBR <PC>] [<MM <Co>]
+ GEN 29,09 3sgF WXQt  << Ptcp  N       29     39  3.#    |          [W-<Cj>] [RXL <Su>] [B>H <Pr>] [<M H-Y>N <Co>]
+ GEN 29,09 ---- NmCl [attrib.] N       29     40  5..    |               |  [>CR <Re>] [L->BJH <PC>]
+ GEN 29,09 ---- NmCl  << WXQt  N       29     41  4..    |              [KJ <Cj>] [R<H <PC>] [HW> <Su>]
+ GEN 29,10 3sgM Way0  << WayX  N       3      42  0.#   [W-<Cj>] [JHJ <Pr>]
+ GEN 29,10 3sgM xQtX [adjunct] N       3      43  2..    |   |  [K->CR <Cj>] [R>H <Pr>] [J<QB <Su>] [>T RXL / BT LBN / >XJ >MW / W-/ >T Y>N LBN / >XJ >MW <ap><pa><cj><ap><ap><Ob>]
+ GEN 29,10 3sgM WayX  << Way0  N       31     44  1.#    |  [W-<Cj>] [JGC <Pr>] [J<QB <Su>]
+ GEN 29,10 3sgM Way0  << WayX  N       31     45  2..    |   |  [W-<Cj>] [JGL <Pr>] [>T H->BN <Ob>] [M-<L PJ H-B>R <Co>]
+ GEN 29,10 3sgM Way0  << Way0  N       31     46  2..    |   |  [W-<Cj>] [JCQ <Pr>] [>T Y>N LBN / >XJ >MW <ap><Ob>]
+ GEN 29,11 3sgM WayX  << WayX  N       32     47  1.#    |  [W-<Cj>] [JCQ <Pr>] [J<QB <Su>] [L-RXL <Co>]
+ GEN 29,11 3sgM Way0  << WayX  N       32     48  2..    |   |  [W-<Cj>] [JF> <Pr>] [>T QLW <Ob>]
+ GEN 29,11 3sgM Way0  << Way0  N       32     49  2..    |   |  [W-<Cj>] [JBK <Pr>]
+ GEN 29,12 3sgM WayX  << WayX  N       33     50  1.#    |  [W-<Cj>] [JGD <Pr>] [J<QB <Su>] [L-RXL <Co>]
+ GEN 29,12 ---- NmCl [object ] N       33     51  3..    |       |  [KJ <Cj>] [>XJ >BJH <PC>] [HW> <Su>]
+ GEN 29,12 ---- NmCl [coordin] N       33     52  4..    |       |      [W-<Cj>] [KJ <Cj>] [BN RBQH <PC>] [HW> <Su>]
+ GEN 29,12 3sgF Way0  << WayX  N       331    53  2.#    |      [W-<Cj>] [TRY <Pr>]
+ GEN 29,12 3sgF Way0  << Way0  N       331    54  2..    |      [W-<Cj>] [TGD <Pr>] [L->BJH <Co>]
+ GEN 29,13 3sgM Way0  << Way0  N       4      55  0.#   [W-<Cj>] [JHJ <Pr>]
+ GEN 29,13 ---- InfC [adjunct] N       4      56  2..    |   |  [K-CM< <Pr>] [LBN <Su>] [>T CM< J<QB / BN >XTW <ap><Ob>]
+ GEN 29,13 3sgM Way0  << Way0  N       4      57  1..    |  [W-<Cj>] [JRY <Pr>]
+ GEN 29,13 ---- InfC [adjunct] N       4      58  2..    |   |  [L-QR>TW <PO>]
+ GEN 29,13 3sgM Way0  << Way0  N       4      59  1..    |  [W-<Cj>] [JXBQ <Pr>] [LW <Co>]
+ GEN 29,13 3sgM Way0  << Way0  N       4      60  1..    |  [W-<Cj>] [JNCQ <Pr>] [LW <Co>]
+ GEN 29,13 3sgM Way0  << Way0  N       4      61  2..    |      [W-<Cj>] [JBJ>HW <PO>] [>L BJTW <Co>]
+ GEN 29,13 3sgM Way0  << Way0  N       41     62  3.#    |          [W-<Cj>] [JSPR <Pr>] [L-LBN <Co>] [>T KL H-DBRJM H->LH <Ob>]
+ GEN 29,14 3sgM WayX  << Way0  N       411    63  4.#    |           |  [W-<Cj>] [J>MR <Pr>] [LW <Co>] [LBN <Su>]
+                               =======                   |           |    +=======================================================================\
+ GEN 29,14 ---- NmCl  <<  [Q]  NQ      4111   64  5.q    |           |    | [>K <Mo>] [<YMJ W-BFRJ <PC>] [>TH <Su>]
+                               =======                   |                +=======================================================================/
+ GEN 29,14 3sgM Way0  << Way0  N       41     65  3..    |          [W-<Cj>] [JCB <Pr>] [<MW <Co>] [XDC JMJM <Ti>]
+ GEN 29,15 3sgM WayX  << Way0  N       5      66  0.#   [W-<Cj>] [J>MR <Pr>] [LBN <Su>] [L-J<QB <Co>]
+                               =======                   |   |   |+===============================================================================\
+ GEN 29,15 ---- NmCl  <<  [Q]  NQ      51     67  3.q    |   |   || [H-<Qu>] [KJ <Cj>] [>XJ <PC>] [>TH <Su>]
+ GEN 29,15 2sgM WQt0  << NmCl  NQ      51     68  5..    |   |   ||      |  [W-<Cj>] [<BDTNJ <PO>] [XNM <Mo>]
+ GEN 29,15 2sgM ZIm0  << NmCl  NQ      51     69  4..    |   |   ||     [HGJDH <Pr>] [LJ <Co>]
+ GEN 29,15 ---- NmCl [object ] NQ      51     70  5..    |   |   ||         [MH <PC>] [MFKRTK <Su>]
+                               =======                   |   |    +===============================================================================/
+ GEN 29,16 ---- NmCl  << WayX  N       5      71  2..    |   |  [W-<Cj>] [L-LBN <PC>] [CTJ BNWT <Su>]
+ GEN 29,16 ---- NmCl  << NmCl  N       5      72  3..    |   |      [CM H-GDLH <Su>] [L>H <PC>]
+ GEN 29,16 ---- NmCl  << NmCl  N       5      73  5..    |   |           |  [W-<Cj>] [CM H-QVNH <Su>] [RXL <PC>]
+ GEN 29,17 -plF AjCl  << NmCl  N       5      74  4..    |   |          [W-<Cj>] [<JNJ L>H <Su>] [RKWT <PC>]
+ GEN 29,17 3sgF WXQt  << AjCl  N       52     75  5.#    |   |              [W-<Cj>] [RXL <Su>] [HJTH <Pr>] [JPT T>R W-JPT MR>H <PC>]
+ GEN 29,18 3sgM WayX  << WayX  N       53     76  1.#    |  [W-<Cj>] [J>HB <Pr>] [J<QB <Su>] [>T RXL <Ob>]
+ GEN 29,18 3sgM Way0  << WayX  N       53     77  2..    |   |  [W-<Cj>] [J>MR <Pr>]
+                               =======                   |   |    +===============================================================================\
+ GEN 29,18 1sg- ZYq0  <<  [Q]  NQ      531    78  3.q    |   |   || [><BDK <PO>] [CB< CNJM <Ti>] [B-RXL / BTK H-QVNH <ap><Co>]
+                               =======                   |   |    +===============================================================================/
+ GEN 29,19 3sgM WayX  << WayX  N       54     79  1.#    |  [W-<Cj>] [J>MR <Pr>] [LBN <Su>]
+                               =======                   |   |+===================================================================================\
+ GEN 29,19 -sgM AjCl  <<  [Q]  NQ      541    80  2.q    |   || [VWB <PC>]
+ GEN 29,19 ---- InfC [subject] NQ      541    81  5..    |   ||      |   |  [TTJ <Ps>] [>TH <Ob>] [LK <Co>]
+ GEN 29,19 ---- InfC [adjunct] NQ      541    82  4..    |   ||      |  [M-TTJ <Ps>] [>TH <Ob>] [L->JC >XR <Co>]
+ GEN 29,19 2sgM ZIm0  << AjCl  NQ      541    83  3..    |   ||     [CBH <Pr>] [<MDJ <Co>]
+                               =======                   |    +===================================================================================/
+ GEN 29,20 3sgM WayX  << WayX  N       55     84  1.#    |  [W-<Cj>] [J<BD <Pr>] [J<QB <Su>] [B-RXL <Co>] [CB< CNJM <Ti>]
+ GEN 29,20 3plM Way0  << WayX  N       55     85  2..    |      [W-<Cj>] [JHJW <Pr>] [B-<JNJW <Aj>] [K-JMJM >XDJM <PC>] [B->HBTW / >TH <sp><Aj>]
+ GEN 29,21 3sgM WayX  << WayX  N       6      86  0.#   [W-<Cj>] [J>MR <Pr>] [J<QB <Su>] [>L LBN <Co>]
+                               =======                   |   |   |+===============================================================================\
+ GEN 29,21 2sgM ZIm0  <<  [Q]  NQ      61     87  3.q    |   |   || [HBH <Pr>] [>T >CTJ <Ob>]
+ GEN 29,21 3pl- xQtX  << ZIm0  NQ      61     88  5..    |   |   ||      |  [KJ <Cj>] [ML>W <Pr>] [JMJ <Su>]
+ GEN 29,21 1sg- WYq0  << ZIm0  NQ      61     89  4..    |   |   ||     [W-<Cj>] [>BW>H <Pr>] [>LJH <Co>]
+                               =======                   |   |    +===============================================================================/
+ GEN 29,22 3sgM WayX  << WayX  N       62     90  2.#    |   |  [W-<Cj>] [J>SP <Pr>] [LBN <Su>] [>T KL >NCJ H-MQWM <Ob>]
+ GEN 29,22 3sgM Way0  << WayX  N       62     91  4..    |   |       |  [W-<Cj>] [J<F <Pr>] [MCTH <Ob>]
+ GEN 29,23 3sgM Way0  << WayX  N       621    92  3.#    |   |      [W-<Cj>] [JHJ <Pr>] [B--<RB <Ti>]
+ GEN 29,23 3sgM Way0  << Way0  N       621    93  4..    |   |       |  [W-<Cj>] [JQX <Pr>] [>T L>H / BTW <ap><Ob>]
+ GEN 29,23 3sgM Way0  << Way0  N       621    94  4..    |   |       |  [W-<Cj>] [JB> <Pr>] [>TH <Ob>] [>LJW <Co>]
+ GEN 29,23 3sgM Way0  << Way0  N       6211   95  6.#    |   |       |       |  [W-<Cj>] [JB> <Pr>] [>LJH <Co>]
+ GEN 29,24 3sgM WayX  << Way0  N       6212   96  5.#    |   |       |      [W-<Cj>] [JTN <Pr>] [LBN <Su>] [LH <Co>] [>T ZLPH / CPXTW <ap><Ob>]
+ GEN 29,24 ---- Ellp  << WayX  N       6212   97  6l.    |   |       |          [L-L>H / BTW <ap><Co>] [CPXH <Ob>]
+ GEN 29,25 3sgM Way0  << Way0  N       622    98  3.#    |   |      [W-<Cj>] [JHJ <Pr>] [B--BQR <Ti>]
+ GEN 29,25 ---- NmCl  << Way0  N       622    99  4..    |   |          [W-<Cj>] [HNH <Ij>] [HW> <Su>] [L>H <PC>]
+ GEN 29,25 3sgM Way0  << WayX  N       6     100  1..    |  [W-<Cj>] [J>MR <Pr>] [>L LBN <Co>]
+                               =======                   |       |+===============================================================================\
+ GEN 29,25 2sgM xQt0  <<  [Q]  NQ      63    101  3.q    |        | [MH Z>T <Ob>] [<FJT <Pr>] [LJ <Co>]
+ GEN 29,25 1sg- xQt0  << xQt0  NQ      63    102  4..    |        |     [H-<Qu>] [L> <Ng>] [B-RXL <Co>] [<BDTJ <Pr>] [<MK <Aj>]
+ GEN 29,25 2sgM WxQ0  << xQt0  NQ      63    103  5..    |        |         [W-<Cj>] [LMH <Qu>] [RMJTNJ <PO>]
+                               =======                   |        +===============================================================================/
+ GEN 29,26 3sgM WayX  << Way0  N       64    104  2.#    |      [W-<Cj>] [J>MR <Pr>] [LBN <Su>]
+                               =======                   |        +===============================================================================\
+ GEN 29,26 3sgM xYq0  <<  [Q]  NQ      641   105  3.q    |        | [L> <Ng>] [J<FH <Pr>] [KN <Mo>] [B-MQWMNW <Lo>]
+ GEN 29,26 ---- InfC [adjunct] NQ      641   106  5..    |        |      |  [L-TT <Pr>] [H-Y<JRH <Ob>] [L-PNJ H-BKJRH <Co>]
+ GEN 29,27 2sgM ZIm0  << xYq0  NQ      641   107  4..    |        |     [ML> <Pr>] [CB< Z>T <Ob>]
+ GEN 29,27 1pl- WYq0  << ZIm0  NQ      641   108  5..    |        |         [W-<Cj>] [NTNH <Pr>] [LK <Co>] [GM >T Z>T <Ob>] [B-<BDH <Aj>]
+ GEN 29,27 2sgM xYq0 [attrib.] NQ      641   109  6..    |        |             [>CR <Re>] [T<BD <Pr>] [<MDJ <Co>] [<WD <Mo>] [CB< CNJM >XRWT <Ti>]
+                               =======                            +===============================================================================/
+ GEN 29,28 3sgM WayX  << WayX  N       7     110  0.#   [W-<Cj>] [J<F <Pr>] [J<QB <Su>] [KN <Mo>]
+ GEN 29,28 3sgM Way0  << WayX  N       7     111  1..    |  [W-<Cj>] [JML> <Pr>] [CB< Z>T <Ob>]
+ GEN 29,28 3sgM Way0  << Way0  N       71    112  2.#    |   |  [W-<Cj>] [JTN <Pr>] [LW <Co>] [>T RXL / BTW <ap><Ob>]
+ GEN 29,28 ---- Ellp  << Way0  N       71    113  4l.    |   |       |  [LW <Co>] [L->CH <Co>]
+ GEN 29,29 3sgM WayX  << Way0  N       711   114  3.#    |   |      [W-<Cj>] [JTN <Pr>] [LBN <Su>] [L-RXL / BTW <ap><Co>] [>T BLHH / CPXTW <ap><Ob>]
+ GEN 29,29 ---- Ellp  << WayX  N       711   115  4l.    |   |          [LH <Co>] [L-CPXH <Co>]
+ GEN 29,30 3sgM Way0  << Way0  N       7     116  1..    |  [W-<Cj>] [JB> <Pr>] [GM >L RXL <Co>]
+ GEN 29,30 3sgM Way0  << Way0  N       7     117  1..    |  [W-<Cj>] [J>HB <Pr>] [GM >T RXL <Ob>] [M-L>H <Aj>]
+ GEN 29,30 3sgM Way0  << Way0  N       7     118  1..    |  [W-<Cj>] [J<BD <Pr>] [<MW <Co>] [<WD <Mo>] [CB< CNJM >XRWT <Ti>]
+ GEN 29,31 3sgM WayX  << WayX  N       8     119  0.#   [W-<Cj>] [JR> <Pr>] [JHWH <Su>]
+ GEN 29,31 -sgF AjCl [object ] N       8     120  2..        |  [KJ <Cj>] [FNW>H <PC>] [L>H <Su>]
+ GEN 29,31 3sgM Way0  << WayX  N       8     121  1..       [W-<Cj>] [JPTX <Pr>] [>T RXMH <Ob>]
+ GEN 29,31 -sgF AjCl  << Way0  N       8     122  3..            |  [W-<Cj>] [RXL <Su>] [<QRH <PC>]
+ GEN 29,32 3sgF WayX  << Way0  N       81    123  2.#           [W-<Cj>] [THR <Pr>] [L>H <Su>]
+ GEN 29,32 3sgF Way0  << WayX  N       81    124  4..                |  [W-<Cj>] [TLD <Pr>] [BN <Ob>]
+ GEN 29,32 3sgF Way0  << Way0  N       81    125  4..                |  [W-<Cj>] [TQR> <Pr>] [CMW <Ob>] [R>WBN <Ob>]
+ GEN 29,32 3sgF xQt0  << Way0  N       81    126  5..                |      [KJ <Cj>] [>MRH <Pr>]
+                               =======                               |        +===================================================================\
+ GEN 29,32 3sgM xQtX  <<  [Q]  NQ      811   127  6.q                |        | [KJ <Cj>] [R>H <Pr>] [JHWH <Su>] [B-<NJJ <Co>]
+ GEN 29,32 3sgM xYqX  << xQtX  NQ      811   128  7..                |        |     [KJ <Cj>] [<TH <Ti>] [J>HBNJ <PO>] [>JCJ <Su>]
+                               =======                               |        +===================================================================/
+ GEN 29,33 3sgF Way0  << WayX  N       81    129  3..               [W-<Cj>] [THR <Pr>] [<WD <Mo>]
+ GEN 29,33 3sgF Way0  << Way0  N       81    130  4..                |  [W-<Cj>] [TLD <Pr>] [BN <Ob>]
+ GEN 29,33 3sgF Way0  << Way0  N       81    131  4..                |  [W-<Cj>] [T>MR <Pr>]
+                               =======                               |   |+=======================================================================\
+ GEN 29,33 3sgM xQtX  <<  [Q]  NQ      812   132  5.q                |    | [KJ <Cj>] [CM< <Pr>] [JHWH <Su>]
+ GEN 29,33 -sgF AjCl [object ] NQ      812   133  7..                |    |      |  [KJ <Cj>] [FNW>H <PC>] [>NKJ <Su>]
+                               -------                               |   ||   +----------------------------------------------------------------\
+ GEN 29,33 3sgM Way0  << xQtX  NQN     812   134  6..                |    |   | [W-<Cj>] [JTN <Pr>] [LJ <Co>] [GM >T ZH <Ob>]
+                               =======                               |    +=======================================================================/
+ GEN 29,33 3sgF Way0  << Way0  N       81    135  4..                |  [W-<Cj>] [TQR> <Pr>] [CMW <Ob>] [CM<WN <Ob>]
+ GEN 29,34 3sgF Way0  << Way0  N       81    136  3..               [W-<Cj>] [THR <Pr>] [<WD <Mo>]
+ GEN 29,34 3sgF Way0  << Way0  N       81    137  4..                |  [W-<Cj>] [TLD <Pr>] [BN <Ob>]
+ GEN 29,34 3sgF Way0  << Way0  N       81    138  4..                |  [W-<Cj>] [T>MR <Pr>]
+                               =======                               |       |+===================================================================\
+ GEN 29,34 3sgM xYqX  <<  [Q]  NQ      813   139  6.q                |        | [<TH <Ti>] [H-P<M <Mo>] [JLWH <Pr>] [>JCJ <Su>] [>LJ <Co>]
+ GEN 29,34 1sg- xQt0  << xYqX  NQ      813   140  7..                |        |     [KJ <Cj>] [JLDTJ <Pr>] [LW <Co>] [CLCH BNJM <Ob>]
+                               =======                               |        +===================================================================/
+ GEN 29,34 3sgM xQt0  << Way0  N       81    141  5..                |      [<L KN <Aj>] [QR> <Pr>] [CMW <Ob>] [LWJ <Ob>]
+ GEN 29,35 3sgF Way0  << Way0  N       81    142  3..               [W-<Cj>] [THR <Pr>] [<WD <Mo>]
+ GEN 29,35 3sgF Way0  << Way0  N       81    143  4..                |  [W-<Cj>] [TLD <Pr>] [BN <Ob>]
+ GEN 29,35 3sgF Way0  << Way0  N       81    144  4..                |  [W-<Cj>] [T>MR <Pr>]
+                               =======                               |       |+===================================================================\
+ GEN 29,35 1sg- xYq0  <<  [Q]  NQ      814   145  6.q                |        | [H-P<M <Mo>] [>WDH <Pr>] [>T JHWH <Ob>]
+                               =======                               |        +===================================================================/
+ GEN 29,35 3sgF xQt0  << Way0  N       81    146  5..                |      [<L KN <Aj>] [QR>H <Pr>] [CMW <Ob>] [JHWDH <Ob>]
+ GEN 29,35 3sgF Way0  << Way0  N       81    147  3..               [W-<Cj>] [T<MD <Pr>]
+ GEN 29,35 ---- InfC [adjunct] N       81    148  4..                   [M-LDT <Pr>]

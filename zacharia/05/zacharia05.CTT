@@ -1,0 +1,79 @@
+ ZACH05,01 1sg- Way0  <<  [R]  N       1       1  0.N   [W-<Cj>] [>CWB <Pr>]
+ ZACH05,01 1sg- Way0  << Way0  N       1       2  3..        |   |  [W-<Cj>] [>F> <Pr>] [<JNJ <Ob>]
+ ZACH05,01 1sg- Way0  << Way0  N       1       3  2..        |  [W-<Cj>] [>R>H <Pr>]
+ ZACH05,01 ---- NmCl  << Way0  N       1       4  4..        |       |  [W-<Cj>] [HNH <Ij>] [MGLH <PH <PC>]
+ ZACH05,02 3sgM Way0  << Way0  N       1       5  3..        |      [W-<Cj>] [J>MR <Pr>] [>LJ <Co>]
+                               =======                       |       |   |+=======================================================================\
+ ZACH05,02 -sgM Ptcp  <<  [Q]  NQ      11      6  5.q        |       |   || [MH <Ob>] [>TH <Su>] [R>H <PC>]
+                               =======                       |       |    +=======================================================================/
+ ZACH05,02 1sg- Way0  << Way0  N       1       7  4..        |       |  [W-<Cj>] [>MR <Pr>]
+                               =======                       |       |    +=======================================================================\
+ ZACH05,02 -sgM Ptcp  <<  [Q]  NQ      12      8  5.q        |       |   || [>NJ <Su>] [R>H <PC>] [MGLH <PH <Ob>]
+ ZACH05,02 ---- NmCl  << Ptcp  NQ      12      9  6..        |       |   ||     [>RKH <Su>] [<FRJM <PC>] [B-->MH <Aj>]
+ ZACH05,02 ---- NmCl  << NmCl  NQ      12     10  7..        |       |   ||         [W-<Cj>] [RXBH <Su>] [<FR <PC>] [B-->MH <Aj>]
+                               =======                       |            +=======================================================================/
+ ZACH05,03 3sgM Way0  << Way0  N       1      11  3..        |      [W-<Cj>] [J>MR <Pr>] [>LJ <Co>]
+                               =======                       |        +===========================================================================\
+ ZACH05,03 ---- NmCl  <<  [Q]  NQ      13     12  4.q        |       || [Z>T <Su>] [H->LH <PC>]
+ ZACH05,03 -sgF Ptcp [attrib.] NQ      13     13  7..        |       ||      |   |  [H-<Re>] [JWY>T <PC>] [<L PNJ KL H->RY <Co>]
+ ZACH05,03 ---- Defc  << NmCl  NQ      13     14  6d.        |       ||      |  [KJ <Cj>] [KL <Su>]
+ ZACH05,03 -sgM Ptcp [reg/rec] NQ      13     15  9.e        |       ||      |       |   |  [H-<Re>] [GNB <PC>]
+ ZACH05,03 3sgM xQt0  << Defc  NQ      13     16  8..        |       ||      |       |  [M-ZH <Co>] [KMWH <Aj>] [NQH <Pr>]
+ ZACH05,03 ---- Defc  << Defc  NQ      13     17  7d.        |       ||      |      [W-<Cj>] [KL <Su>]
+ ZACH05,03 -sgM Ptcp [reg/rec] NQ      13     18  9.e        |       ||      |           |  [H-<Re>] [NCB< <PC>]
+ ZACH05,03 3sgM xQt0  << Defc  NQ      13     19  8..        |       ||      |          [M-ZH <Co>] [KMWH <Aj>] [NQH <Pr>]
+ ZACH05,04 1sg- ZQt0  << NmCl  NQ      13     20  5..        |       ||     [HWY>TJH <PO>]
+ ZACH05,04 ---- MSyn  << ZQt0  NQ      13     21  7m.        |       ||          |  [N>M JHWH YB>WT <PC>]
+ ZACH05,04 3sgF WQt0  << ZQt0  NQ      13     22  6..        |       ||         [W-<Cj>] [B>H <Pr>] [>L BJT H-GNB W->L BJT <Co>]
+ ZACH05,04 -sgM Ptcp [reg/rec] NQ      13     23  7..        |       ||          |  [H-<Re>] [NCB< <PC>] [B-CMJ <Co>] [L--CQR <Aj>]
+ ZACH05,04 3sgF WQt0  << WQt0  NQ      13     24  6..        |       ||         [W-<Cj>] [LNH <Pr>] [B-TWK BJTW <Co>]
+ ZACH05,04 3sgF WQt0  << WQt0  NQ      13     25  7..        |       ||             [W-<Cj>] [KLTW <PO>]
+ ZACH05,04 ---- Ellp  << WQt0  NQ      13     26  8l.        |       ||                 [W-<Cj>] [>T <YJW W->T >BNJW <Ob>]
+                               =======                                +===========================================================================/
+ ZACH05,05 3sgM WayX  << Way0  N       14     27  1.#       [W-<Cj>] [JY> <Pr>] [H-ML>K <Su>]
+ ZACH05,05 -sgM Ptcp [attrib.] N       14     28  3..            |  [H-<Re>] [DBR <PC>] [BJ <Co>]
+ ZACH05,05 3sgM Way0  << WayX  N       14     29  2..           [W-<Cj>] [J>MR <Pr>] [>LJ <Co>]
+                               =======                               |+===========================================================================\
+ ZACH05,05 2sgM ZIm0  <<  [Q]  NQ      141    30  4.q                 | [F> <Pr>] [N> <Ij>] [<JNJK <Ob>]
+ ZACH05,05 2sgM WIm0  << ZIm0  NQ      141    31  5..                 |     [W-<Cj>] [R>H <Pr>]
+ ZACH05,05 ---- NmCl [object ] NQ      141    32  6..                 |         [MH <PC>] [H-JWY>T H-Z>T <Su>]
+                               =======                                +===========================================================================/
+ ZACH05,06 1sg- Way0  << Way0  N       14     33  3..               [W-<Cj>] [>MR <Pr>]
+                               =======                                   |+=======================================================================\
+ ZACH05,06 ---- NmCl  <<  [Q]  NQ      142    34  5.q                     | [MH <PC>] [HJ> <Su>]
+                               =======                                   |+=======================================================================/
+ ZACH05,06 3sgM Way0  << Way0  N       14     35  4..                   [W-<Cj>] [J>MR <Pr>]
+                               =======                                   |+=======================================================================\
+ ZACH05,06 ---- NmCl  <<  [Q]  NQ      143    36  5.q                     | [Z>T <Su>] [H->JPH <PC>]
+ ZACH05,06 -sgF Ptcp [attrib.] NQ      143    37  6..                     |     [H-<Re>] [JWY>T <PC>]
+                               =======                                   |+=======================================================================/
+ ZACH05,06 3sgM Way0  << Way0  N       14     38  4..                   [W-<Cj>] [J>MR <Pr>]
+                               =======                                   |   |+===================================================================\
+ ZACH05,06 ---- NmCl  <<  [Q]  NQ      144    39  6.q                    |    | [Z>T <Su>] [<JNM <PC>] [B-KL H->RY <Lo>]
+                               =======                                   |    +===================================================================/
+ ZACH05,07 ---- NmCl  << Way0  N       14     40  5..                    |  [W-<Cj>] [HNH <Ij>]
+ ZACH05,07 -sgF Ptcp  << NmCl  N       14     41  6..                    |      [KKR <PRT <Su>] [NF>T <PC>]
+ ZACH05,07 ---- NmCl  << Ptcp  N       14     42  7..                    |          [W-<Cj>] [Z>T <Su>] [>CH >XT <PC>]
+ ZACH05,07 -sgF Ptcp [attrib.] N       14     43  8..                    |              [JWCBT <PC>] [B-TWK H->JPH <Co>]
+ ZACH05,08 3sgM Way0  << Way0  N       14     44  4..                   [W-<Cj>] [J>MR <Pr>]
+                               =======                                       |   |+===============================================================\
+ ZACH05,08 ---- NmCl  <<  [Q]  NQ      145    45  7.q                        |    | [Z>T <Su>] [H-RC<H <PC>]
+                               =======                                       |   |+===============================================================/
+ ZACH05,08 3sgM Way0  << Way0  N       14     46  6..                        |  [W-<Cj>] [JCLK <Pr>] [>TH <Ob>] [>L TWK H->JPH <Co>]
+ ZACH05,08 3sgM Way0  << Way0  N       14     47  6..                        |  [W-<Cj>] [JCLK <Pr>] [>T >BN H-<PRT <Ob>] [>L PJH <Co>]
+ ZACH05,09 1sg- Way0  << Way0  N       14     48  5..                       [W-<Cj>] [>F> <Pr>] [<JNJ <Ob>]
+ ZACH05,09 1sg- Way0  << Way0  N       14     49  5..                       [W-<Cj>] [>R> <Pr>]
+ ZACH05,09 -plF Ptcp  << Way0  N       14     50  6..                        |  [W-<Cj>] [HNH <Ij>] [CTJM NCJM <Su>] [JWY>WT <PC>]
+ ZACH05,09 ---- NmCl  << Ptcp  N       14     51  8..                        |       |  [W-<Cj>] [RWX <Su>] [B-KNPJHM <PC>]
+ ZACH05,09 ---- NmCl  << NmCl  N       14     52  9..                        |       |      [W-<Cj>] [L-HNH <PC>] [KNPJM <Su>] [K-KNPJ H-XSJDH <Aj>]
+ ZACH05,09 3plF Way0  << Ptcp  N       14     53  7..                        |      [W-<Cj>] [TF>NH <Pr>] [>T H->JPH <Ob>] [BJN H->RY W-BJN H-CMJM <Co>]
+ ZACH05,10 1sg- Way0  << Way0  N       14     54  5..                       [W-<Cj>] [>MR <Pr>] [>L H-ML>K <Co>]
+ ZACH05,10 -sgM Ptcp [attrib.] N       14     55  8..                            |   |  [H-<Re>] [DBR <PC>] [BJ <Co>]
+                               =======                                           |+===============================================================\
+ ZACH05,10 -plF Ptcp  <<  [Q]  NQ      146    56  7.q                             | [>NH <Qu>] [HMH <Su>] [MWLKWT <PC>] [>T H->JPH <Ob>]
+                               =======                                            +===============================================================/
+ ZACH05,11 3sgM Way0  << Way0  N       14     57  6..                           [W-<Cj>] [J>MR <Pr>] [>LJ <Co>]
+                               =======                                            +===============================================================\
+ ZACH05,11 ---- InfC  <<  [Q]  NQ      147    58  7.q                             | [L-BNWT <Pr>] [LH <Co>] [BJT <Ob>] [B->RY CN<R <Lo>]
+ ZACH05,11 3sgM WQt0  << InfC  NQ      147    59  8..                             |     [W-<Cj>] [HWKN <Pr>]
+ ZACH05,11 3sgF WQt0  << WQt0  NQ      147    60  9..                             |         [W-<Cj>] [HNJXH <Pr>] [CM <Lo>] [<L MKNTH <Co>]

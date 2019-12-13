@@ -1,0 +1,38 @@
+ PS003,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [MZMWR / L-DWD <sp><PC>]
+ PS003,001 ---- InfC [adjunct] ?       1       2  1..    |  [B-BRXW <Ps>] [M-PNJ >BCLWM / BNW <ap><Co>]
+                               =======                 ==============================================================================================/
+ PS003,002 ---- Voct  << NmCl  Q       2       3  0vN   [JHWH <Vo>]
+ PS003,002 3pl- xQtX  << Voct  Q       2       4  4..        |   |   |  [MH <Qu>] [RBW <Pr>] [YRJ <Su>]
+ PS003,002 -plM Ptcp  << xQtX  Q       2       5  5..        |   |   |      [RBJM <Su>] [QMJM <PC>] [<LJ <Co>]
+ PS003,003 -plM Ptcp  << Ptcp  Q       2       6  5..        |   |   |      [RBJM <Su>] [>MRJM <PC>] [L-NPCJ <Co>]
+                               =======                       |   |   |           |+===============================================================\
+ PS003,003 ---- NmCl  <<  [Q]  QQ      21      7  7.q        |   |   |           || [>JN <NC>] [JCW<TH <PC>] [LW <Co>] [B->LHJM <Aj>]
+                               =======                       |   |   |            +===============================================================/
+ PS003,003 ---- MSyn  << Ptcp  Q       2       8  6m.        |   |   |          [SLH <Ij>]
+ PS003,004 ---- Defc  << Voct  Q       2       9  3d.        |   |  [W-<Cj>] [>TH <Su>]
+ PS003,004 ---- Voct  << Defc  Q       2      10  6ve        |   |       |   |  [JHWH <Vo>]
+ PS003,004 ---- NmCl  << Defc  Q       2      11  5..        |   |       |  [MGN <PC>] [B<DJ <Co>]
+ PS003,004 ---- NmCl [coordin] Q       2      12  4..        |   |      [KBWDJ <PC>]
+ PS003,004 -sgM Ptcp [coordin] Q       2      13  5..        |   |          [W-<Cj>] [MRJM <PC>] [R>CJ <Ob>]
+ PS003,005 1sg- xYq0  << Voct  Q       22     14  2.#        |  [QWLJ <Aj>] [>L JHWH <Co>] [>QR> <Pr>]
+                               -------                       |       |   |   |+-------------------------------------------------------------------\
+ PS003,005 3sgM Way0  << xYq0  QN      22     15  6..        |       |   |   || [W-<Cj>] [J<NNJ <PO>] [M-HR QDCW <Lo>]
+                               -------                       |       |   |    +-------------------------------------------------------------------/
+ PS003,005 ---- MSyn  << xYq0  Q       22     16  5m.        |       |   |  [SLH <Ij>]
+ PS003,006 1sg- XQtl  << xYq0  Q       22     17  4..        |       |  [>NJ <Su>] [CKBTJ <Pr>]
+                               -------                       |       |       |+-------------------------------------------------------------------\
+ PS003,006 1sg- Way0  << XQtl  QN      22     18  6..        |       |       || [W-<Cj>] [>JCNH <Pr>]
+                               -------                       |       |        +-------------------------------------------------------------------/
+ PS003,006 1sg- ZQt0  << XQtl  Q       22     19  5..        |       |      [HQJYWTJ <Pr>]
+ PS003,006 3sgM XYqt  << ZQt0  Q       22     20  6..        |       |          [KJ <Cj>] [JHWH <Su>] [JSMKNJ <PO>]
+ PS003,007 1sg- xYq0  << xYq0  Q       22     21  3..        |      [L> <Ng>] [>JR> <Pr>] [M-RBBWT <M <Co>]
+ PS003,007 3pl- xQt0 [attrib.] Q       22     22  4..        |          [>CR <Re>] [SBJB <Mo>] [CTW <Pr>] [<LJ <Co>]
+ PS003,008 2sgM ZIm0  << Voct  Q       2      23  1..       [QWMH <Pr>]
+ PS003,008 ---- Voct  << ZIm0  Q       2      24  3v.            |  [JHWH <Vo>]
+ PS003,008 2sgM ZIm0  << ZIm0  Q       2      25  2..           [HWCJ<NJ <PO>]
+ PS003,008 ---- Voct  << ZIm0  Q       2      26  5v.                |   |  [>LHJ <Vo>]
+ PS003,008 2sgM xQt0  << ZIm0  Q       2      27  4..                |  [KJ <Cj>] [HKJT <Pr>] [>T KL >JBJ <Ob>] [LXJ <Co>]
+ PS003,008 2sgM xQt0 [coordin] Q       2      28  5..                |      [CNJ RC<JM <Ob>] [CBRT <Pr>]
+ PS003,009 ---- NmCl  << ZIm0  Q       2      29  3..               [L-JHWH <PC>] [H-JCW<H <Su>]
+ PS003,009 ---- NmCl  << NmCl  Q       2      30  4..                   [<L <MK <PC>] [BRKTK <Su>]
+ PS003,009 ---- MSyn  << NmCl  Q       2      31  5m.                       [SLH <Ij>]

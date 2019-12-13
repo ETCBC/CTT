@@ -1,0 +1,79 @@
+ HOS 13,01 ---- InfC  <<  [R]  ?       1       1  0.N   [K-DBR <Pr>] [>PRJM <Su>]
+ HOS 13,01 ---- NmCl  << InfC  ?       1       2  2..    |   |  [RTT <PC>]
+ HOS 13,01 3sgM ZQtX  << InfC  ?       1       3  1..    |  [NF> <Pr>] [HW> <Su>] [B-JFR>L <Aj>]
+                               =======                 ==============================================================================================/
+ HOS 13,01 3sgM Way0  << ZQtX  N       1       4  3..    |       |  [W-<Cj>] [J>CM <Pr>] [B--B<L <Co>]
+ HOS 13,01 3sgM Way0  << Way0  N       1       5  3..    |       |  [W-<Cj>] [JMT <Pr>]
+                               =======                 ==============================================================================================/
+ HOS 13,02 3plM WxY0  << ZQtX  ?       1       6  2..    |      [W-<Cj>] [<TH <Ti>] [JWSPW <Pr>]
+ HOS 13,02 ---- InfC [adjunct] ?       1       7  8..    |           |   |   |   |   |  [L-XV> <Pr>]
+                               =======                 ==============================================================================================/
+ HOS 13,02 3plM Way0  << WxY0  N       1       8  7..    |           |   |   |   |  [W-<Cj>] [J<FW <Pr>] [LHM <sc>] [MSKH <Ob>]
+ HOS 13,02 ---- Ellp  << Way0  N       1       9  9l.    |           |   |   |   |       |  [M-KSPM <Co>] [K-TBWNM <Aj>] [<YBJM <Ob>]
+ HOS 13,02 ---- NmCl  << Way0  N       1      10  8..    |           |   |   |   |      [M<FH XRCJM <PC>] [KLH <Su>]
+                               =======                 ==============================================================================================/
+ HOS 13,02 -plM Ptcp  << WxY0  ?       1      11  6..    |           |   |   |  [LHM <Co>] [HM <Su>] [>MRJM <PC>]
+                               =======                   |           |   |   |    +===============================================================\
+ HOS 13,02 3plM XYqt  <<  [Q]  ?Q      11     12  7.q    |           |   |   |    | [ZBXJ >DM <Su>] [<GLJM <Ob>] [JCQWN <Pr>]
+                               =======                   |           |   |        +===============================================================/
+ HOS 13,03 3plM xYq0  << WxY0  ?       1      13  5..    |           |   |  [LKN <Mo>] [JHJW <Pr>] [K-<NN BQR W-K--VL <Aj>]
+ HOS 13,03 -sgM Ptcp [attrib.] ?       1      14  7..    |           |   |       |  [MCKJM <PC>]
+ HOS 13,03 -sgM Ptcp [coordin] ?       1      15  8..    |           |   |       |      [HLK <PC>]
+ HOS 13,03 ---- Ellp  << xYq0  ?       1      16  6l.    |           |   |      [K-MY <Aj>]
+ HOS 13,03 3sgM ZYq0 [attrib.] ?       1      17  8..    |           |   |           |  [JS<R <Pr>] [M-GRN <Co>]
+ HOS 13,03 ---- Ellp  << Ellp  ?       1      18  7l.    |           |   |          [W-<Cj>] [K-<CN / M->RBH <sp><Aj>]
+                               =======                   |           |+===========================================================================\
+ HOS 13,04 ---- NmCl  << WxY0  ?Q      12     19  4.#    |            | [W-<Cj>] [>NKJ <Su>] [JHWH / >LHJK <ap><PC>] [M->RY MYRJM <Aj>]
+ HOS 13,04 2sgM WxY0  << NmCl  ?Q      12     20  6..    |            |      |  [W-<Cj>] [>LHJM / ZWLTJ <sp><Ob>] [L> <Ng>] [TD< <Pr>]
+ HOS 13,04 ---- NmCl  << WxY0  ?Q      12     21  7..    |            |      |      [W-<Cj>] [MWCJ< <Su>] [>JN <NC>] [BLTJ <Aj>]
+ HOS 13,05 1sg- XQtl  << NmCl  ?Q      12     22  5..    |            |     [>NJ <Su>] [JD<TJK <PO>] [B--MDBR / B->RY TL>BWT <sp><Lo>]
+                               =======                   |            +===========================================================================/
+ HOS 13,06 ---- CPen  << WxY0  ?       1      23  3c.    |          [K-MR<JTM <PC>]
+ HOS 13,06 3plM Way0 [resumpt] ?       1      24  6..    |               |   |  [W-<Cj>] [JFB<W <Pr>]
+ HOS 13,06 3pl- ZQt0  << CPen  ?       1      25  5..    |               |  [FB<W <Pr>]
+                               -------                   |               |    +-------------------------------------------------------------------\
+ HOS 13,06 3sgM WayX  << ZQt0  ?N      13     26  6.#    |               |    | [W-<Cj>] [JRM <Pr>] [LBM <Su>]
+                               =======                 ==============================================================================================/
+ HOS 13,06 3pl- xQt0  << CPen  Q       1      27  4..    |              [<L KN <Aj>] [CKXWNJ <PO>]
+                               -------                   |                   |   |+---------------------------------------------------------------\
+ HOS 13,07 1sg- Way0  << xQt0  QN      1      28  7..    |                   |    | [W-<Cj>] [>HJ <Pr>] [LHM <Co>] [KMW CXL <Aj>]
+                               -------                   |                   |    +---------------------------------------------------------------/
+ HOS 13,07 1sg- xYq0  << xQt0  Q       1      29  6..    |                   |  [K-NMR <Aj>] [<L DRK <Lo>] [>CWR <Pr>]
+ HOS 13,08 1sg- ZYq0  << xYq0  Q       1      30  7..    |                   |      [>PGCM <PO>] [K-DB CKWL <Aj>]
+ HOS 13,08 1sg- WYq0  << ZYq0  Q       1      31  8..    |                   |          [W-<Cj>] [>QR< <Pr>] [SGWR LBM <Ob>]
+ HOS 13,08 1sg- WYq0  << WYq0  Q       1      32  9..    |                   |              [W-<Cj>] [>KLM <PO>] [CM <Mo>] [K-LBJ> <Aj>]
+ HOS 13,08 3sgF XYqt  << WYq0  Q       1      33 10..    |                   |                  [XJT H-FDH <Su>] [TBQ<M <PO>]
+ HOS 13,09 3sgM ZQt0  << xQt0  Q       1      34  5..    |                  [CXTK <PO>]
+ HOS 13,09 ---- Voct  << ZQt0  Q       1      35  8v.    |                       |   |  [JFR>L <Vo>]
+ HOS 13,09 ---- NmCl  << ZQt0  Q       1      36  7..    |                       |  [KJ <Cj>] [BJ / B-<ZRK <ap><PC>]
+ HOS 13,10 ---- NmCl  << ZQt0  Q       1      37  6..    |                      [>HJ <Qu>] [MLKK <Su>] [>PW> <Ij>]
+ HOS 13,10 3sgM WYq0  << NmCl  Q       1      38  9..    |                           |   |  [W-<Cj>] [JWCJ<K <PO>] [B-KL <RJK <Aj>]
+ HOS 13,10 ---- Ellp  << NmCl  Q       1      39  8l.    |                           |  [W-<Cj>] [CPVJK <Su>]
+ HOS 13,10 2sgM xQt0 [attrib.] Q       1      40  9..    |                           |      [>CR <Re>] [>MRT <Pr>]
+                               =======                   |                           |        +===================================================\
+ HOS 13,10 2sgM ZIm0  <<  [Q]  QQ      14     41 10.q    |                           |        | [TNH <Pr>] [LJ <Co>] [MLK W-FRJM <Ob>]
+                               =======                   |                                    +===================================================/
+ HOS 13,11 1sg- ZYq0  << NmCl  Q       1      42  7..    |                          [>TN <Pr>] [LK <Co>] [MLK <Ob>] [B->PJ <Aj>]
+ HOS 13,11 1sg- WYq0  << ZYq0  Q       1      43  8..    |                              [W-<Cj>] [>QX <Pr>] [B-<BRTJ <Aj>]
+                               =======                 ==============================================================================================/
+ HOS 13,12 -sgM Ptcp  << InfC  ?       2      44  0.#   [YRWR <PC>] [<WN >PRJM <Su>]
+ HOS 13,12 -sgF Ptcp  << Ptcp  ?       2      45  2..    |   |  [YPWNH <PC>] [XV>TW <Su>]
+ HOS 13,13 3plM XYqt  << Ptcp  ?       2      46  1..    |  [XBLJ JWLDH <Su>] [JB>W <Pr>] [LW <Aj>]
+ HOS 13,13 ---- NmCl  << XYqt  ?       2      47  2..    |      [HW> <Su>] [BN <PC>]
+ HOS 13,13 -sgM AjCl [attrib.] ?       2      48  4..    |           |  [L> <Ng>] [XKM <PC>]
+ HOS 13,13 ---- NmCl  << NmCl  ?       2      49  3..    |          [KJ <Cj>] [<T <Ti>]
+ HOS 13,13 3sgM xYq0  << NmCl  ?       2      50  4..    |              [L> <Ng>] [J<MD <Pr>] [B-MCBR BNJM <Aj>]
+                               =======                 ==============================================================================================/
+ HOS 13,14 1sg- xYq0  << Ptcp  Q       3      51  0.#   [M-JD C>WL <Co>] [>PDM <PO>]
+ HOS 13,14 1sg- xYq0  << xYq0  Q       3      52  2..    |   |  [M-MWT <Co>] [>G>LM <PO>]
+ HOS 13,14 ---- NmCl  << xYq0  Q       3      53  1..    |  [>HJ <Qu>] [DBRJK <Su>]
+ HOS 13,14 ---- Voct  << NmCl  Q       3      54  2v.    |   |  [MWT <Vo>]
+ HOS 13,14 ---- NmCl  << NmCl  Q       3      55  1..    |  [>HJ <Qu>] [QVBK <Su>]
+ HOS 13,14 ---- Voct  << NmCl  Q       3      56  3v.    |       |  [C>WL <Vo>]
+ HOS 13,14 3sgM XYqt  << NmCl  Q       3      57  2..    |      [NXM <Su>] [JSTR <Pr>] [M-<JNJ <Co>]
+ HOS 13,15 3sgM XYqt  << xYq0  Q       4      58  0.#   [KJ <Cj>] [HW> <Su>] [BN >XJM <Ob>] [JPRJ> <Pr>]
+ HOS 13,15 3sgM ZYqX  << XYqt  Q       4      59  1..       [JBW> <Pr>] [QDJM <Su>]
+ HOS 13,15 -sgM Ptcp  << ZYqX  Q       4      60  4..            |   |  [RWX JHWH <Su>] [M-MDBR <Co>] [<LH <PC>]
+ HOS 13,15 3sgM WYqX  << ZYqX  Q       4      61  3..            |  [W-<Cj>] [JBWC <Pr>] [MQWRW <Su>]
+ HOS 13,15 3sgM WYqX  << WYqX  Q       4      62  3..            |  [W-<Cj>] [JXRB <Pr>] [M<JNW <Su>]
+ HOS 13,15 3sgM XYqt  << ZYqX  Q       4      63  2..           [HW> <Su>] [JCSH <Pr>] [>WYR KL KLJ XMDH <Ob>]

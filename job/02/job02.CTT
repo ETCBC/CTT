@@ -1,0 +1,80 @@
+ IOB 02,01 3sgM Way0  <<  [R]  N       1       1  0.N   [W-<Cj>] [JHJ <Pr>] [H-JWM <Ti>]
+ IOB 02,01 3plM WayX  << Way0  N       11      2  1.#       [W-<Cj>] [JB>W <Pr>] [BNJ H->LHJM <Su>]
+ IOB 02,01 ---- InfC [adjunct] N       11      3  3..        |   |  [L-HTJYB <Pr>] [<L JHWH <Co>]
+ IOB 02,01 3sgM WayX  << WayX  N       111     4  2.#        |  [W-<Cj>] [JBW> <Pr>] [GM H-FVN <Su>] [B-TKM <Aj>]
+ IOB 02,01 ---- InfC [adjunct] N       111     5  4..        |   |   |  [L-HTJYB <Pr>] [<L JHWH <Co>]
+ IOB 02,02 3sgM WayX  << WayX  N       1111    6  3.#        |   |  [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L H-FVN <Co>]
+                               =======                       |   |   |   |+=======================================================================\
+ IOB 02,02 2sgM xYq0  <<  [Q]  NQ      11111   7  5.q        |   |   |   || [>J / M-ZH <sp><Co>] [TB> <Pr>]
+                               =======                       |   |   |    +=======================================================================/
+ IOB 02,02 3sgM WayX  << WayX  N       11112   8  4.#        |   |   |  [W-<Cj>] [J<N <Pr>] [H-FVN <Su>] [>T JHWH <Ob>]
+ IOB 02,02 3sgM Way0  << WayX  N       11112   9  5..        |   |   |      [W-<Cj>] [J>MR <Pr>]
+                               =======                       |   |   |        +===================================================================\
+ IOB 02,02 ---- InfC  <<  [Q]  NQ      111121 10  6.q        |   |   |       || [M-CV <Pr>] [B-->RY <Co>]
+ IOB 02,02 ---- InfC [coordin] NQ      111121 11  7..        |   |   |       ||     [W-<Cj>] [M-HTHLK <Pr>] [BH <Co>]
+                               =======                       |   |   |        +===================================================================/
+ IOB 02,03 3sgM WayX  << WayX  N       1112   12  3.#        |   |  [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L H-FVN <Co>]
+                               =======                       |   |   |   |+=======================================================================\
+ IOB 02,03 2sgM xQt0  <<  [Q]  NQ      11121  13  5.q        |   |   |   || [H-<Qu>] [FMT <Pr>] [LBK <Ob>] [>L <BDJ / >JWB <ap><Co>]
+ IOB 02,03 ---- NmCl  << xQt0  NQ      11121  14  6..        |   |   |   ||     [KJ <Cj>] [>JN <NC>] [KMHW <PC>] [B-->RY <Lo>] [>JC <Su>]
+ IOB 02,03 -plM AjCl [attrib.] NQ      11121  15  8..        |   |   |   ||          |  [TM W-JCR JR> >LHJM <PC>]
+ IOB 02,03 -sgM Ptcp [coordin] NQ      11121  16  9..        |   |   |   ||          |      [W-<Cj>] [SR <PC>] [M-R< <Co>]
+ IOB 02,03 -sgM Ptcp  << NmCl  NQ      11121  17  7..        |   |   |   ||         [W-<Cj>] [<DNW <Ms>] [MXZJQ <PC>] [B-TMTW <Co>]
+                               -------                       |   |   |   ||           +--------------------------------------------------------\
+ IOB 02,03 2sgM Way0  << Ptcp  NQN     11121  18  8..        |   |   |   ||          || [W-<Cj>] [TSJTNJ <PO>] [BW <Co>]
+ IOB 02,03 ---- InfC [adjunct] NQN     11121  19  9..        |   |   |   ||          ||     [L-BL<W <PO>] [XNM <Mo>]
+                               =======                       |   |   |    +=======================================================================/
+ IOB 02,04 3sgM WayX  << WayX  N       11122  20  4.#        |   |   |  [W-<Cj>] [J<N <Pr>] [H-FVN <Su>] [>T JHWH <Ob>]
+ IOB 02,04 3sgM Way0  << WayX  N       11122  21  5..        |   |   |      [W-<Cj>] [J>MR <Pr>]
+                               =======                       |   |   |        +===================================================================\
+ IOB 02,04 ---- Ellp  <<  [Q]  NQ      111221 22  6lq        |   |   |       || [<WR <Ob>] [B<D <WR <Aj>]
+ IOB 02,04 ---- Defc  << Ellp  NQ      111221 23  8d.        |   |   |       ||      |  [W-<Cj>] [KL <Ob>]
+ IOB 02,04 ---- NmCl [reg/rec] NQ      111221 24 10.e        |   |   |       ||      |       |  [>CR <Re>] [L-->JC <PC>]
+ IOB 02,04 3sgM ZYq0  << Defc  NQ      111221 25  9..        |   |   |       ||      |      [JTN <Pr>] [B<D NPCW <Aj>]
+ IOB 02,05 2sgM xIm0  << Ellp  NQ      111221 26  7..        |   |   |       ||     [>WLM <Mo>] [CLX <Pr>] [N> <Ij>] [JDK <Ob>]
+ IOB 02,05 2sgM WIm0  << xIm0  NQ      111221 27  9..        |   |   |       ||          |  [W-<Cj>] [G< <Pr>] [>L <YMW W->L BFRW <Co>]
+ IOB 02,05 3sgM xYq0  << xIm0  NQ      111221 28  8..        |   |   |       ||         [>M <Cj>] [L> <Ng>] [>L PNJK <Co>] [JBRKK <PO>]
+                               =======                       |   |            +===================================================================/
+ IOB 02,06 3sgM WayX  << WayX  N       1113   29  3.#        |   |  [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L H-FVN <Co>]
+                               =======                       |   |    +===========================================================================\
+ IOB 02,06 ---- NmCl  <<  [Q]  NQ      11131  30  4.q        |   |   || [HNW <Is>] [B-JDK <PC>]
+ IOB 02,06 2sgM xIm0  << NmCl  NQ      11131  31  5..        |   |   ||     [>K >T NPCW <Ob>] [CMR <Pr>]
+                               =======                       |        +===========================================================================/
+ IOB 02,07 3sgM WayX  << WayX  N       112    32  2.#        |  [W-<Cj>] [JY> <Pr>] [H-FVN <Su>] [M->T PNJ JHWH <Co>]
+ IOB 02,07 3sgM Way0  << WayX  N       112    33  3..        |      [W-<Cj>] [JK <Pr>] [>T >JWB <Ob>] [B-CXJN R< / M-KP RGLW -<D QDQDW <sp><Co>]
+ IOB 02,08 3sgM Way0  << Way0  N       112    34  5..        |           |  [W-<Cj>] [JQX <Pr>] [LW <sc>] [XRF <Ob>]
+ IOB 02,08 ---- InfC [adjunct] N       112    35  8..        |           |       |   |  [L-HTGRD <Pr>] [BW <Co>]
+ IOB 02,08 -sgM Ptcp  << Way0  N       112    36  7..        |           |       |  [W-<Cj>] [HW> <Su>] [JCB <PC>] [B-TWK H->PR <Co>]
+ IOB 02,09 3sgF WayX  << Way0  N       1121   37  6.#        |           |      [W-<Cj>] [T>MR <Pr>] [LW <Co>] [>CTW <Su>]
+                               =======                       |           |           |+===========================================================\
+ IOB 02,09 -sgM Ptcp  <<  [Q]  NQ      11211  38  8.q        |           |           || [<DK <Ms>] [MXZJQ <PC>] [B-TMTK <Co>]
+ IOB 02,09 2sgM ZIm0  << Ptcp  NQ      11211  39  9..        |           |           ||     [BRK <Pr>] [>LHJM <Ob>]
+ IOB 02,09 2sgM WIm0  << ZIm0  NQ      11211  40 10..        |           |           ||         [W-<Cj>] [MT <Pr>]
+                               =======                       |           |            +===========================================================/
+ IOB 02,10 3sgM Way0  << WayX  N       1121   41  7..        |           |          [W-<Cj>] [J>MR <Pr>] [>LJH <Co>]
+                               =======                       |           |            +===========================================================\
+ IOB 02,10 ---- InfC [adjunct] NQ      11212  42  9.\        |           |           ||  |  [K-DBR <Pr>] [>XT H-NBLWT <Su>]
+ IOB 02,10 2sgF ZYq0  <<  [Q]  NQ      11212  43  8.q        |           |           || [TDBRJ <Pr>]
+ IOB 02,10 1pl- xYq0  << ZYq0  NQ      11212  44  9..        |           |           ||     [GM >T H-VWB <Ob>] [NQBL <Pr>] [M->T H->LHJM <Co>]
+ IOB 02,10 1pl- WxY0  << xYq0  NQ      11212  45 10..        |           |           ||         [W-<Cj>] [>T H-R< <Ob>] [L> <Ng>] [NQBL <Pr>]
+                               =======                       |                        +===========================================================/
+ IOB 02,10 3sgM xQtX  << Way0  N       112    46  4..        |          [B-KL Z>T <Co>] [L> <Ng>] [XV> <Pr>] [>JWB <Su>] [B-FPTJW <Aj>]
+ IOB 02,11 3plM WayX  << WayX  N       12     47  1.#       [W-<Cj>] [JCM<W <Pr>] [CLCT R<J >JWB <Su>] [>T KL H-R<H H-Z>T <Ob>]
+ IOB 02,11 3sgF xQt0 [attrib.] N       12     48  3..            |  [H-<Re>] [B>H <Pr>] [<LJW <Co>]
+ IOB 02,11 3plM Way0  << WayX  N       12     49  2..           [W-<Cj>] [JB>W <Pr>]
+ IOB 02,11 ---- Ellp [adjunct] N       12     50  4l.            |   |  [>JC <Su>] [M-MQMW <Co>]
+ IOB 02,11 ---- Ellp  << Way0  N       12     51  3l.            |  [>LJPZ / H-TJMNJ / W-/ BLDD / H-CWXJ / W-/ YWPR / H-N<MTJ <ap><pa><cj><ap><pa><cj><ap><Su>]
+ IOB 02,11 3plM Way0  << Way0  N       12     52  2..           [W-<Cj>] [JW<DW <Pr>] [JXDW <Mo>]
+ IOB 02,11 ---- InfC [adjunct] N       12     53  3..            |  [L-BW> <Pr>]
+ IOB 02,11 ---- InfC [adjunct] N       12     54  4..            |      [L-NWD <Pr>] [LW <Co>]
+ IOB 02,11 ---- InfC [coordin] N       12     55  5..            |          [W-<Cj>] [L-NXMW <PO>]
+ IOB 02,12 3plM Way0  << Way0  N       12     56  2..           [W-<Cj>] [JF>W <Pr>] [>T <JNJHM <Ob>] [M-RXWQ <Co>]
+ IOB 02,12 3pl- WxQ0  << Way0  N       12     57  3..            |  [W-<Cj>] [L> <Ng>] [HKJRHW <PO>]
+ IOB 02,12 3plM Way0  << Way0  N       121    58  2.#           [W-<Cj>] [JF>W <Pr>] [QWLM <Ob>]
+ IOB 02,12 3plM Way0  << Way0  N       121    59  3..               [W-<Cj>] [JBKW <Pr>]
+ IOB 02,12 3plM Way0  << Way0  N       121    60  3..               [W-<Cj>] [JQR<W <Pr>] [>JC / M<LW <sp><Aj>]
+ IOB 02,12 3plM Way0  << Way0  N       121    61  3..               [W-<Cj>] [JZRQW <Pr>] [<PR <Ob>] [<L R>CJHM <Co>] [H-CMJMH <Lo>]
+ IOB 02,13 3plM Way0  << Way0  N       121    62  3..               [W-<Cj>] [JCBW <Pr>] [>TW <Co>] [L-->RY <Lo>] [CB<T JMJM W-CB<T LJLWT <Ti>]
+ IOB 02,13 -sgM Ptcp  << Way0  N       121    63  4..                   [W-<Cj>] [>JN <NC>] [DBR <PC>] [>LJW <Co>] [DBR <Ob>]
+ IOB 02,13 3pl- xQt0  << Ptcp  N       121    64  5..                       [KJ <Cj>] [R>W <Pr>]
+ IOB 02,13 3sgM xQtX [object ] N       121    65  6..                           [KJ <Cj>] [GDL <Pr>] [H-K>B <Su>] [M>D <Mo>]

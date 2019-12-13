@@ -1,0 +1,135 @@
+ DEUT27,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JYW <Pr>] [MCH W-ZQNJ JFR>L <Su>] [>T H-<M <Ob>]
+ DEUT27,01 ---- InfC [adjunct] N       1       2  1..    |  [L->MR <Pr>]
+                               =======                   |    +===================================================================================\
+ DEUT27,01 ---- InfA  <<  [Q]  NQ      11      3  2.q    |    | [CMR <Pr>] [>T KL H-MYWH <Ob>]
+ DEUT27,01 -sgM Ptcp [attrib.] NQ      11      4  4..    |    |      |  [>CR <Re>] [>NKJ <Su>] [MYWH <PC>] [>TKM <Ob>] [H-JWM <Ti>]
+ DEUT27,02 3sgM WQt0  << InfA  NQ      11      5  3..    |    |     [W-<Cj>] [HJH <Pr>] [B--JWM <Ti>]
+ DEUT27,02 2plM xYq0 [attrib.] NQ      11      6  6..    |    |          |   |  [>CR <Re>] [T<BRW <Pr>] [>T H-JRDN <Ob>] [>L H->RY <Co>]
+ DEUT27,02 -sgM Ptcp [attrib.] NQ      11      7  7..    |    |          |   |      [>CR <Re>] [JHWH / >LHJK <ap><Su>] [NTN <PC>] [LK <Co>]
+ DEUT27,02 2sgM WQt0  << WQt0  NQ      11      8  5..    |    |          |  [W-<Cj>] [HQMT <Pr>] [LK <Co>] [>BNJM GDLWT <Ob>]
+ DEUT27,02 2sgM WQt0  << WQt0  NQ      11      9  5..    |    |          |  [W-<Cj>] [FDT <Pr>] [>TM <Ob>] [B--FJD <Co>]
+ DEUT27,03 2sgM WQt0  << WQt0  NQ      11     10  5..    |    |          |  [W-<Cj>] [KTBT <Pr>] [<LJHN <Co>] [>T KL DBRJ H-TWRH H-Z>T <Ob>]
+ DEUT27,03 ---- InfC [adjunct] NQ      11     11  7..    |    |          |       |  [B-<BRK <Ps>]
+ DEUT27,03 2sgM xYq0 [adjunct] NQ      11     12  6..    |    |          |      [LM<N >CR <Cj>] [TB> <Pr>] [>L H->RY <Co>]
+ DEUT27,03 -sgM Ptcp [attrib.] NQ      11     13  9.e    |    |          |           |   |  [>CR <Re>] [JHWH / >LHJK <ap><Su>] [NTN <PC>] [LK <Co>]
+ DEUT27,03 ---- Defc  << xYq0  NQ      11     14  8d.    |    |          |           |  [>RY ZBT XLB W-DBC <sp>]
+ DEUT27,03 3sgM xQtX [adjunct] NQ      11     15  7..    |    |          |          [K->CR <Cj>] [DBR <Pr>] [JHWH / >LHJ >BTJK <ap><Su>] [LK <Co>]
+ DEUT27,04 3sgM MSyn  << WQt0  NQ      11     16  4m.    |    |         [W-<Cj>] [HJH <Pr>]
+ DEUT27,04 ---- InfC [adjunct] NQ      11     17  6.\    |    |              |  [B-<BRKM <Ps>] [>T H-JRDN <Ob>]
+ DEUT27,04 2plM ZYq0  << MSyn  NQ      11     18  5..    |    |             [TQJMW <Pr>] [>T H->BNJM H->LH <Ob>]
+ DEUT27,04 -sgM Ptcp [attrib.] NQ      11     19  8.e    |    |                  |   |  [>CR <Re>] [>NKJ <Su>] [MYWH <PC>] [>TKM <Ob>] [H-JWM <Ti>]
+ DEUT27,04 ---- Defc  << ZYq0  NQ      11     20  7d.    |    |                  |  [B-HR <JBL <Co>]
+ DEUT27,04 2sgM WQt0  << ZYq0  NQ      11     21  6..    |    |                 [W-<Cj>] [FDT <Pr>] [>WTM <Ob>] [B--FJD <Co>]
+ DEUT27,05 2sgM WQt0  << WQt0  NQ      11     22  6..    |    |                 [W-<Cj>] [BNJT <Pr>] [CM <Lo>] [MZBX <Ob>] [L-JHWH / >LHJK <ap><Co>]
+ DEUT27,05 ---- Ellp  << WQt0  NQ      11     23  7l.    |    |                     [MZBX >BNJM <Ob>]
+ DEUT27,05 2sgM xYq0  << Ellp  NQ      11     24  9..    |    |                          |  [L> <Ng>] [TNJP <Pr>] [<LJHM <Co>] [BRZL <Ob>]
+ DEUT27,06 2sgM xYq0  << Ellp  NQ      11     25  8..    |    |                         [>BNJM CLMWT <Ob>] [TBNH <Pr>] [>T MZBX JHWH / >LHJK <ap><Ob>]
+ DEUT27,06 2sgM WQt0  << xYq0  NQ      11     26 10..    |    |                              |  [W-<Cj>] [H<LJT <Pr>] [<LJW <Co>] [<WLT <Ob>] [L-JHWH / >LHJK <ap><Co>]
+ DEUT27,07 2sgM WQt0  << WQt0  NQ      11     27 10..    |    |                              |  [W-<Cj>] [ZBXT <Pr>] [CLMJM <Ob>]
+ DEUT27,07 2sgM WQt0  << WQt0  NQ      11     28 10..    |    |                              |  [W-<Cj>] [>KLT <Pr>] [CM <Lo>]
+ DEUT27,07 2sgM WQt0  << WQt0  NQ      11     29 10..    |    |                              |  [W-<Cj>] [FMXT <Pr>] [L-PNJ JHWH / >LHJK <ap><Aj>]
+ DEUT27,08 2sgM WQt0  << xYq0  NQ      11     30  9..    |    |                             [W-<Cj>] [KTBT <Pr>] [<L H->BNJM <Co>] [>T KL DBRJ H-TWRH H-Z>T <Ob>]
+ DEUT27,08 ---- InfA  << WQt0  NQ      11     31 10..    |    |                                 [B>R <Pr>] [HJVB <Mo>]
+                               =======                        +===================================================================================/
+ DEUT27,09 3sgM WayX  << WayX  N       2      32  0.#   [W-<Cj>] [JDBR <Pr>] [MCH W-H-KHNJM H-LWJM <Su>] [>L KL JFR>L <Co>]
+ DEUT27,09 ---- InfC [adjunct] N       2      33  1..    |  [L->MR <Pr>]
+                               =======                   |    +===================================================================================\
+ DEUT27,09 2sgM ZIm0  <<  [Q]  NQ      21     34  2.q    |    | [HSKT <Pr>]
+ DEUT27,09 2sgM WIm0  << ZIm0  NQ      21     35  5..    |    |      |   |  [W-<Cj>] [CM< <Pr>]
+ DEUT27,09 ---- Voct  << ZIm0  NQ      21     36  4v.    |    |      |  [JFR>L <Vo>]
+                               =======                   |    |   +============================================================================\
+ DEUT27,09 2sgM xQt0  <<  [Q]  NQQ     211    37  3.q    |    |   | [H-JWM H-ZH <Ti>] [NHJJT <Pr>] [L-<M <PC>] [L-JHWH / >LHJK <ap><Co>]
+ DEUT27,10 2sgM WQt0  << xQt0  NQQ     211    38  4..    |    |   |     [W-<Cj>] [CM<T <Pr>] [B-QWL JHWH / >LHJK <ap><Co>]
+ DEUT27,10 2sgM WQt0  << WQt0  NQQ     211    39  4..    |    |   |     [W-<Cj>] [<FJT <Pr>] [>T MYWTW W->T XQJW <Ob>]
+ DEUT27,10 -sgM Ptcp [attrib.] NQQ     211    40  5..    |    |   |         [>CR <Re>] [>NKJ <Su>] [MYWK <po>] [H-JWM <Ti>]
+                               =======                        +===================================================================================/
+ DEUT27,11 3sgM WayX  << WayX  N       3      41  0.#   [W-<Cj>] [JYW <Pr>] [MCH <Su>] [>T H-<M <Ob>] [B--JWM H-HW> <Ti>]
+ DEUT27,11 ---- InfC [adjunct] N       3      42  1..       [L->MR <Pr>]
+                               =======                        +===================================================================================\
+ DEUT27,12 3plM XYqt  <<  [Q]  NQ      31     43  2.q         | [>LH <Su>] [J<MDW <Pr>]
+ DEUT27,12 ---- InfC [adjunct] NQ      31     44  8.e         |      |   |   |   |   |  [L-BRK <Pr>] [>T H-<M <Ob>]
+ DEUT27,12 ---- Defc  << XYqt  NQ      31     45  7d.         |      |   |   |   |  [<L HR GRZJM <Co>]
+ DEUT27,12 ---- InfC [adjunct] NQ      31     46  6..         |      |   |   |  [B-<BRKM <Ps>] [>T H-JRDN <Ob>]
+ DEUT27,12 ---- NmCl  << XYqt  NQ      31     47  5..         |      |   |  [CM<WN W-LWJ W-JHWDH W-JFFKR W-JWSP W-BNJMN <PC>]
+ DEUT27,13 3plM WXYq  << XYqt  NQ      31     48  4..         |      |  [W-<Cj>] [>LH <Su>] [J<MDW <Pr>] [<L H-QLLH <Aj>] [B-HR <JBL <Co>]
+ DEUT27,13 ---- NmCl  << WXYq  NQ      31     49  5..         |      |      [R>WBN GD W->CR W-ZBWLN DN W-NPTLJ <PC>]
+ DEUT27,14 3pl- WQtX  << XYqt  NQ      31     50  3..         |     [W-<Cj>] [<NW <Pr>] [H-LWJM <Su>]
+ DEUT27,14 3pl- WQt0  << WQtX  NQ      31     51  4..         |         [W-<Cj>] [>MRW <Pr>] [>L KL >JC JFR>L <Co>] [QWL RM <Aj>]
+                               =======                        |              |+================================================================\
+ DEUT27,15 -sgM AjCl  <<  [Q]  NQQ     311    52  6.q         |               | [>RWR <PC>] [H->JC <Su>]
+ DEUT27,15 3sgM xYq0 [attrib.] NQQ     311    53  7..         |               |     [>CR <Re>] [J<FH <Pr>] [PSL W-MSKH / TW<BT JHWH / M<FH JDJ XRC <sp><sp><Ob>]
+ DEUT27,15 3sgM WQt0 [coordin] NQQ     311    54  8..         |               |         [W-<Cj>] [FM <Pr>] [B--STR <Aj>]
+                               =======                        |               +================================================================/
+ DEUT27,15 3pl- WQtX  << WQt0  NQ      31     55  5..         |             [W-<Cj>] [<NW <Pr>] [KL H-<M <Su>]
+ DEUT27,15 3pl- WQt0  << WQtX  NQ      31     56  7..         |                  |  [W-<Cj>] [>MRW <Pr>]
+                               =======                        |                  |    +========================================================\
+ DEUT27,15 ---- NmCl  <<  [Q]  NQQ     312    57  8.q         |                  |    | [>MN <Ij>]
+ DEUT27,16 -sgM Ptcp  << NmCl  NQQ     3121   58  9.N         |                  |    |     [>RWR <PC>]
+ DEUT27,16 -sgM Ptcp [subject] NQQ     3121   59 10..         |                  |    |         [MQLH <PC>] [>BJW W->MW <Ob>]
+                               =======                        |                  |    +========================================================/
+ DEUT27,16 3sgM WQtX  << WQtX  NQ      31     60  6..         |                 [W-<Cj>] [>MR <Pr>] [KL H-<M <Su>]
+                               =======                        |                  |+============================================================\
+ DEUT27,16 ---- NmCl  <<  [Q]  NQQ     313    61  7.q         |                   | [>MN <Ij>]
+ DEUT27,17 -sgM Ptcp  << NmCl  NQQ     3131   62  8.N         |                   |     [>RWR <PC>]
+ DEUT27,17 -sgM Ptcp [subject] NQQ     3131   63  9..         |                   |         [MSJG <PC>] [GBWL R<HW <Ob>]
+                               =======                        |                  |+============================================================/
+ DEUT27,17 3sgM WQtX  << WQtX  NQ      31     64  6..         |                 [W-<Cj>] [>MR <Pr>] [KL H-<M <Su>]
+                               =======                        |                  |+============================================================\
+ DEUT27,17 ---- NmCl  <<  [Q]  NQQ     314    65  7.q         |                   | [>MN <Ij>]
+ DEUT27,18 -sgM Ptcp  << NmCl  NQQ     3141   66  8.N         |                   |     [>RWR <PC>]
+ DEUT27,18 -sgM Ptcp [subject] NQQ     3141   67  9..         |                   |         [MCGH <PC>] [<WR <Ob>] [B--DRK <Lo>]
+                               =======                        |                  |+============================================================/
+ DEUT27,18 3sgM WQtX  << WQtX  NQ      31     68  6..         |                 [W-<Cj>] [>MR <Pr>] [KL H-<M <Su>]
+                               =======                        |                  |+============================================================\
+ DEUT27,18 ---- NmCl  <<  [Q]  NQQ     315    69  7.q         |                   | [>MN <Ij>]
+ DEUT27,19 -sgM Ptcp  << NmCl  NQQ     3151   70  8.N         |                   |     [>RWR <PC>]
+ DEUT27,19 -sgM Ptcp [subject] NQQ     3151   71  9..         |                   |         [MVH <PC>] [MCPV GR JTWM W->LMNH <Ob>]
+                               =======                        |                  |+============================================================/
+ DEUT27,19 3sgM WQtX  << WQtX  NQ      31     72  6..         |                 [W-<Cj>] [>MR <Pr>] [KL H-<M <Su>]
+                               =======                        |                  |+============================================================\
+ DEUT27,19 ---- NmCl  <<  [Q]  NQQ     316    73  7.q         |                   | [>MN <Ij>]
+ DEUT27,20 -sgM Ptcp  << NmCl  NQQ     3161   74  8.N         |                   |     [>RWR <PC>]
+ DEUT27,20 -sgM Ptcp [subject] NQQ     3161   75 10..         |                   |          |  [CKB <PC>] [<M >CT >BJW <Co>]
+ DEUT27,20 3sgM xQt0  << Ptcp  NQQ     3161   76  9..         |                   |         [KJ <Cj>] [GLH <Pr>] [KNP >BJW <Ob>]
+                               =======                        |                  |+============================================================/
+ DEUT27,20 3sgM WQtX  << WQtX  NQ      31     77  6..         |                 [W-<Cj>] [>MR <Pr>] [KL H-<M <Su>]
+                               =======                        |                  |+============================================================\
+ DEUT27,20 ---- NmCl  <<  [Q]  NQQ     317    78  7.q         |                   | [>MN <Ij>]
+ DEUT27,21 -sgM Ptcp  << NmCl  NQQ     3171   79  8.N         |                   |     [>RWR <PC>]
+ DEUT27,21 -sgM Ptcp [subject] NQQ     3171   80  9..         |                   |         [CKB <PC>] [<M KL BHMH <Co>]
+                               =======                        |                  |+============================================================/
+ DEUT27,21 3sgM WQtX  << WQtX  NQ      31     81  6..         |                 [W-<Cj>] [>MR <Pr>] [KL H-<M <Su>]
+                               =======                        |                  |+============================================================\
+ DEUT27,21 ---- NmCl  <<  [Q]  NQQ     318    82  7.q         |                   | [>MN <Ij>]
+ DEUT27,22 -sgM Ptcp  << NmCl  NQQ     3181   83  8.N         |                   |     [>RWR <PC>]
+ DEUT27,22 -sgM Ptcp [subject] NQQ     3181   84  9..         |                   |         [CKB <PC>] [<M >XTW / BT >BJW >W BT >MW <ap><Co>]
+                               =======                        |                  |+============================================================/
+ DEUT27,22 3sgM WQtX  << WQtX  NQ      31     85  6..         |                 [W-<Cj>] [>MR <Pr>] [KL H-<M <Su>]
+                               =======                        |                  |+============================================================\
+ DEUT27,22 ---- NmCl  <<  [Q]  NQQ     319    86  7.q         |                   | [>MN <Ij>]
+ DEUT27,23 -sgM Ptcp  << NmCl  NQQ     3191   87  8.N         |                   |     [>RWR <PC>]
+ DEUT27,23 -sgM Ptcp [subject] NQQ     3191   88  9..         |                   |         [CKB <PC>] [<M XTNTW <Co>]
+                               =======                        |                  |+============================================================/
+ DEUT27,23 3sgM WQtX  << WQtX  NQ      31     89  6..         |                 [W-<Cj>] [>MR <Pr>] [KL H-<M <Su>]
+                               =======                        |                  |+============================================================\
+ DEUT27,23 ---- NmCl  <<  [Q]  NQQ     3110   90  7.q         |                   | [>MN <Ij>]
+ DEUT27,24 -sgM Ptcp  << NmCl  NQQ     31101  91  8.N         |                   |     [>RWR <PC>]
+ DEUT27,24 -sgM Ptcp [subject] NQQ     31101  92  9..         |                   |         [MKH <PC>] [R<HW <Ob>] [B--STR <Aj>]
+                               =======                        |                  |+============================================================/
+ DEUT27,24 3sgM WQtX  << WQtX  NQ      31     93  6..         |                 [W-<Cj>] [>MR <Pr>] [KL H-<M <Su>]
+                               =======                        |                  |+============================================================\
+ DEUT27,24 ---- NmCl  <<  [Q]  NQQ     3111   94  7.q         |                   | [>MN <Ij>]
+ DEUT27,25 -sgM Ptcp  << NmCl  NQQ     31111  95  8.N         |                   |     [>RWR <PC>]
+ DEUT27,25 -sgM Ptcp [subject] NQQ     31111  96  9..         |                   |         [LQX <PC>] [CXD <Ob>]
+ DEUT27,25 ---- InfC [adjunct] NQQ     31111  97 10..         |                   |             [L-HKWT <Pr>] [NPC DM NQJ <Ob>]
+                               =======                        |                  |+============================================================/
+ DEUT27,25 3sgM WQtX  << WQtX  NQ      31     98  6..         |                 [W-<Cj>] [>MR <Pr>] [KL H-<M <Su>]
+                               =======                        |                  |+============================================================\
+ DEUT27,25 ---- NmCl  <<  [Q]  NQQ     3112   99  7.q         |                   | [>MN <Ij>]
+ DEUT27,26 -sgM Ptcp  << NmCl  NQQ     31121 100  8.N         |                   |     [>RWR <PC>]
+ DEUT27,26 3sgM xYq0 [subject] NQQ     31121 101  9..         |                   |         [>CR <Re>] [L> <Ng>] [JQJM <Pr>] [>T DBRJ H-TWRH H-Z>T <Ob>]
+ DEUT27,26 ---- InfC [adjunct] NQQ     31121 102 10..         |                   |             [L-<FWT <Pr>] [>WTM <Ob>]
+                               =======                        |                   +============================================================/
+ DEUT27,26 3sgM WQtX  << WQtX  NQ      31    103  6..         |                 [W-<Cj>] [>MR <Pr>] [KL H-<M <Su>]
+                               =======                        |                   +============================================================\
+ DEUT27,26 ---- NmCl  <<  [Q]  NQQ     3113  104  7.q         |                   | [>MN <Ij>]

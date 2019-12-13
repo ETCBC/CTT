@@ -1,0 +1,327 @@
+ IKON20,01 3sgM WXQt  <<  [R]  ?       1       1  0.N   [W-<Cj>] [BN_HDD / MLK >RM <ap><Su>] [QBY <Pr>] [>T KL XJLW / W-/ CLCJM W-CNJM MLK / >TW / W-/ SWS W-RKB <pa><cj><sp><pa><cj><Ob>]
+                               =======                 ==============================================================================================/
+ IKON20,01 3sgM Way0  << WXQt  N       1       2  2..        |  [W-<Cj>] [J<L <Pr>]
+ IKON20,01 3sgM Way0  << Way0  N       1       3  2..        |  [W-<Cj>] [JYR <Pr>] [<L CMRWN <Co>]
+ IKON20,01 3sgM Way0  << Way0  N       1       4  2..        |  [W-<Cj>] [JLXM <Pr>] [BH <Co>]
+ IKON20,02 3sgM Way0  << Way0  N       1       5  2..        |  [W-<Cj>] [JCLX <Pr>] [ML>KJM <Ob>] [>L >X>B / MLK JFR>L <ap><Co>] [H-<JRH <Co>]
+ IKON20,03 3sgM Way0  << Way0  N       1       6  4..        |       |  [W-<Cj>] [J>MR <Pr>] [LW <Co>]
+                               =======                       |       |       |+===================================================================\
+ IKON20,03 3sgM xQtX  <<  [Q]  NQ      11      7  6.q        |       |       || [KH <Mo>] [>MR <Pr>] [BN_HDD <Su>]
+                               =======                       |       |       ||   +============================================================\
+ IKON20,03 ---- CPen  <<  [Q]  NQQ     111     8  7cq        |       |       ||   | [KSPK W-ZHBK <Fr>]
+ IKON20,03 ---- NmCl [resumpt] NQQ     111     9  9..        |       |       ||   |      |  [LJ <PC>] [HW> <Su>]
+ IKON20,03 ---- CPen [coordin] NQQ     111    10  8c.        |       |       ||   |     [W-<Cj>] [NCJK W-BNJK H-VWBJM <Fr>]
+ IKON20,03 ---- NmCl [resumpt] NQQ     111    11  9..        |       |       ||   |         [LJ <PC>] [HM <Su>]
+                               =======                       |       |        +===================================================================/
+ IKON20,04 3sgM WayX  << Way0  N       12     12  5.#        |       |      [W-<Cj>] [J<N <Pr>] [MLK JFR>L <Su>]
+ IKON20,04 3sgM Way0  << WayX  N       12     13  6..        |       |          [W-<Cj>] [J>MR <Pr>]
+                               =======                       |       |            +===============================================================\
+ IKON20,04 ---- NmCl  <<  [Q]  NQ      121    14  7.q        |       |           || [K-DBRK <PC>]
+ IKON20,04 ---- Voct  << NmCl  NQ      121    15  9v.        |       |           ||      |  [>DNJ / H-MLK <ap><Vo>]
+ IKON20,04 ---- NmCl  << NmCl  NQ      121    16  8..        |       |           ||     [LK <PC>] [>NJ W-KL <Su>]
+ IKON20,04 ---- NmCl [reg/rec] NQ      121    17  9..        |       |           ||         [>CR <Re>] [LJ <PC>]
+                               =======                       |       |            +===============================================================/
+ IKON20,05 3plM WayX  << Way0  N       13     18  3.#        |      [W-<Cj>] [JCBW <Pr>] [H-ML>KJM <Su>]
+ IKON20,05 3plM Way0  << WayX  N       13     19  5..        |       |   |  [W-<Cj>] [J>MRW <Pr>]
+                               =======                       |       |   |    +===================================================================\
+ IKON20,05 3sgM xQtX  <<  [Q]  NQ      131    20  6.q        |       |   |   || [KH <Mo>] [>MR <Pr>] [BN_HDD <Su>]
+ IKON20,05 ---- InfC [adjunct] NQ      131    21  7..        |       |   |   ||     [L->MR <Pr>]
+                               =======                       |       |   |    |       +========================================================\
+ IKON20,05 1sg- xQt0  <<  [Q]  NQQ     1311   22  8.q        |       |   |   ||       | [KJ <Cj>] [CLXTJ <Pr>] [>LJK <Co>]
+ IKON20,05 ---- InfC [adjunct] NQQ     1311   23 10..        |       |   |   ||       |      |  [L->MR <Pr>]
+                               =======                       |       |   |    |       |      |    +=========================================\
+ IKON20,05 2sgM xYq0  <<  [Q]  NQQQ    13111  24 11.q        |       |   |   ||       |      |   || [KSPK W-ZHBK W-NCJK W-BNJK <Ob>] [LJ <Co>] [TTN <Pr>]
+                               =======                       |       |   |    |       |           +=========================================/
+ IKON20,06 1sg- xYq0  << xQt0  NQQ     1311   25  9..        |       |   |   ||       |     [KJ >M <Cj>] [K--<T MXR <Ti>] [>CLX <Pr>] [>T <BDJ <Ob>] [>LJK <Co>]
+ IKON20,06 3pl- WQt0  << xYq0  NQQ     1311   26 10..        |       |   |   ||       |         [W-<Cj>] [XPFW <Pr>] [>T BJTK W->T BTJ <BDJK <Ob>]
+ IKON20,06 3sgM MSyn  << WQt0  NQQ     1311   27 11m.        |       |   |   ||       |             [W-<Cj>] [HJH <Pr>]
+ IKON20,06 3plM xYq0  << MSyn  NQQ     1311   28 12..        |       |   |   ||       |                 [KL MXMD <JNJK <Ob>] [JFJMW <Pr>] [B-JDM <Co>]
+ IKON20,06 3pl- WQt0  << xYq0  NQQ     1311   29 13..        |       |   |   ||       |                     [W-<Cj>] [LQXW <Pr>]
+                               =======                       |       |        +===================================================================/
+ IKON20,07 3sgM WayX  << WayX  N       132    30  4.#        |       |  [W-<Cj>] [JQR> <Pr>] [MLK JFR>L <Su>] [L-KL ZQNJ H->RY <Co>]
+ IKON20,07 3sgM Way0  << WayX  N       132    31  7..        |       |       |   |  [W-<Cj>] [J>MR <Pr>]
+                               =======                       |       |       |   |    +===========================================================\
+ IKON20,07 2plM ZIm0  <<  [Q]  NQ      1321   32  8.q        |       |       |   |   || [D<W <Pr>] [N> <Ij>]
+ IKON20,07 2plM WIm0  << ZIm0  NQ      1321   33 11..        |       |       |   |   ||      |   |  [W-<Cj>] [R>W <Pr>]
+ IKON20,07 -sgM Ptcp [object ] NQ      1321   34 10..        |       |       |   |   ||      |  [KJ <Cj>] [R<H <Ob>] [ZH <Su>] [MBQC <PC>]
+ IKON20,07 3sgM xQt0  << ZIm0  NQ      1321   35  9..        |       |       |   |   ||     [KJ <Cj>] [CLX <Pr>] [>LJ <Co>] [L-NCJ W-L-BNJ W-L-KSPJ W-L-ZHBJ <Co>]
+ IKON20,07 1sg- WxQ0 [coordin] NQ      1321   36 10..        |       |       |   |   ||         [W-<Cj>] [L> <Ng>] [MN<TJ <Pr>] [MMNW <Co>]
+                               =======                       |       |       |        +===========================================================/
+ IKON20,08 3plM WayX  << WayX  N       1322   37  6.#        |       |       |  [W-<Cj>] [J>MRW <Pr>] [>LJW <Co>] [KL H-ZQNJM W-KL H-<M <Su>]
+                               =======                       |       |       |    +===============================================================\
+ IKON20,08 2sgM xYq0  <<  [Q]  NQ      13221  38  7.q        |       |       |   || [>L <Ng>] [TCM< <Pr>]
+ IKON20,08 2sgM WxY0  << xYq0  NQ      13221  39  8..        |       |       |   ||     [W-<Cj>] [LW> <Ng>] [T>BH <Pr>]
+                               =======                       |       |            +===============================================================/
+ IKON20,09 3sgM Way0  << WayX  N       132    40  5..        |       |      [W-<Cj>] [J>MR <Pr>] [L-ML>KJ BN_HDD <Co>]
+                               =======                       |       |        +===================================================================\
+ IKON20,09 2plM ZIm0  <<  [Q]  NQ      1323   41  6.q        |       |       || [>MRW <Pr>] [L->DNJ / H-MLK <ap><Co>]
+                               =======                       |       |        |   +============================================================\
+ IKON20,09 ---- Defc  <<  [Q]  NQQ     13231  42  7dq        |       |       ||   | [KL <Ob>]
+ IKON20,09 2sgM xQt0 [reg/rec] NQQ     13231  43 10.e        |       |       ||   |      |   |  [>CR <Re>] [CLXT <Pr>] [>L <BDK <Co>] [B--R>CNH <Aj>]
+ IKON20,09 1sg- ZYq0  << Defc  NQQ     13231  44  9..        |       |       ||   |      |  [><FH <Pr>]
+ IKON20,09 1sg- WxY0  << Defc  NQQ     13231  45  8..        |       |       ||   |     [W-<Cj>] [H-DBR H-ZH <Ob>] [L> <Ng>] [>WKL <Pr>]
+ IKON20,09 ---- InfC [adjunct] NQQ     13231  46  9..        |       |       ||   |         [L-<FWT <Pr>]
+                               =======                       |                +===================================================================/
+ IKON20,09 3plM WayX  << WayX  N       14     47  3.#        |      [W-<Cj>] [JLKW <Pr>] [H-ML>KJM <Su>]
+ IKON20,09 3plM Way0  << WayX  N       14     48  4..        |          [W-<Cj>] [JCBHW <PO>] [DBR <Ob>]
+                               =======                 ==============================================================================================/
+ IKON20,10 3sgM WayX  << WXQt  ?N      15     49  1.#       [W-<Cj>] [JCLX <Pr>] [>LJW <Co>] [BN_HDD <Su>]
+ IKON20,10 3sgM Way0  << WayX  ?N      15     50  2..        |  [W-<Cj>] [J>MR <Pr>]
+                               =======                       |     ============================================================================\
+ IKON20,10 3plM xYqX  <<  [Q]  ?NQ     151    51  3.q        |      [KH <Mo>] [J<FWN <Pr>] [LJ <Co>] [>LHJM <Su>]
+ IKON20,10 3plM WxY0  << xYqX  ?NQ     151    52  5..        |           |  [W-<Cj>] [KH <Mo>] [JWSPW <Pr>]
+ IKON20,10 3sgM xYqX  << xYqX  ?NQ     151    53  4..        |          [>M <Cj>] [JFPQ <Pr>] [<PR CMRWN <Su>] [L-C<LJM / L-KL H-<M <sp><Co>]
+ IKON20,10 ---- NmCl [attrib.] ?NQ     151    54  5..        |              [>CR <Re>] [B-RGLJ <PC>]
+                               =======                       |     ============================================================================/
+ IKON20,11 3sgM WayX  << WayX  ?N      16     55  1.#       [W-<Cj>] [J<N <Pr>] [MLK JFR>L <Su>]
+ IKON20,11 3sgM Way0  << WayX  ?N      16     56  3..        |   |  [W-<Cj>] [J>MR <Pr>]
+                               =======                       |   |     ========================================================================\
+ IKON20,11 2plM ZIm0  <<  [Q]  ?NQ     161    57  4.q        |   |      [DBRW <Pr>]
+                               =======                       |   |         =================================================================\
+ IKON20,11 3sgM xYq0  <<  [Q]  ?NQQ    1611   58  5.q        |   |          [>L <Ng>] [JTHLL <Pr>]
+ IKON20,11 -sgM Ptcp [subject] ?NQQ    1611   59  7..        |   |               |  [XGR <PC>]
+ IKON20,11 -sgM Ptcp [adjunct] ?NQQ    1611   60  6..        |   |              [K-MPTX <PC>]
+                               =======                       |         ========================================================================/
+ IKON20,12 3sgM Way0  << WayX  ?N      16     61  2..        |  [W-<Cj>] [JHJ <Pr>]
+ IKON20,12 ---- InfC [adjunct] ?N      16     62  4..        |       |  [K-CM< <Pr>] [>T H-DBR H-ZH <Ob>]
+ IKON20,12 -sgM Ptcp  << InfC  ?N      16     63  5..        |       |      [W-<Cj>] [HW> <Su>] [CTH / HW> W-H-MLKJM <sp><PC>] [B--SKWT <Lo>]
+ IKON20,12 3sgM Way0  << Way0  ?N      16     64  3..        |      [W-<Cj>] [J>MR <Pr>] [>L <BDJW <Co>]
+                               =======                       |           |   | ================================================================\
+ IKON20,12 2plM ZIm0  <<  [Q]  ?NQ     162    65  6.q        |           |   |  [FJMW <Pr>]
+                               =======                       |           |     ================================================================/
+ IKON20,12 3plM Way0  << Way0  ?N      16     66  5..        |           |  [W-<Cj>] [JFJMW <Pr>] [<L H-<JR <Co>]
+ IKON20,13 ---- MSyn  << Way0  ?N      16     67  6m.        |           |      [W-<Cj>] [HNH <Ij>]
+ IKON20,13 3sgM XQtl  << MSyn  ?N      16     68  7..        |           |          [NBJ> >XD <Su>] [NGC <Pr>] [>L >X>B / MLK JFR>L <ap><Co>]
+ IKON20,13 3sgM Way0  << XQtl  ?N      16     69  9..        |           |               |  [W-<Cj>] [J>MR <Pr>]
+                               =======                       |           |               |   |   | ============================================\
+ IKON20,13 3sgM xQtX  <<  [Q]  ?NQ     163    70 11.q        |           |               |   |   |  [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
+                               =======                       |           |               |   |   |     =====================================\
+ IKON20,13 2sgM xQt0  <<  [Q]  ?NQQ    1631   71 12.q        |           |               |   |   |      [H-<Qu>] [R>JT <Pr>] [>T KL H-HMWN H-GDWL H-ZH <Ob>]
+ IKON20,13 -sgM Ptcp  << xQt0  ?NQQ    1631   72 13..        |           |               |   |   |          [HNNJ <Is>] [NTNW <po>] [B-JDK <Co>] [H-JWM <Ti>]
+ IKON20,13 2sgM WQt0  << Ptcp  ?NQQ    1631   73 14..        |           |               |   |   |              [W-<Cj>] [JD<T <Pr>]
+ IKON20,13 ---- NmCl [object ] ?NQQ    1631   74 15..        |           |               |   |   |                  [KJ <Cj>] [>NJ <Su>] [JHWH <PC>]
+                               =======                       |           |               |   |     ============================================/
+ IKON20,14 3sgM WayX  << Way0  ?N      164    75 10.#        |           |               |   |  [W-<Cj>] [J>MR <Pr>] [>X>B <Su>]
+                               =======                       |           |               |   |     ============================================\
+ IKON20,14 ---- NmCl  <<  [Q]  ?NQ     1641   76 11.q        |           |               |   |      [B-MJ <Co>]
+                               =======                       |           |               |   |     ============================================/
+ IKON20,14 3sgM Way0  << Way0  ?N      16     77  9..        |           |               |  [W-<Cj>] [J>MR <Pr>]
+                               =======                       |           |               |   |   | ============================================\
+ IKON20,14 3sgM xQtX  <<  [Q]  ?NQ     165    78 11.q        |           |               |   |   |  [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
+                               =======                       |           |               |   |   |     =====================================\
+ IKON20,14 ---- NmCl  <<  [Q]  ?NQQ    1651   79 12.q        |           |               |   |   |      [B-N<RJ FRJ H-MDJNWT <Co>]
+                               =======                       |           |               |   |     ============================================/
+ IKON20,14 3sgM Way0  << Way0  ?N      16     80 10..        |           |               |   |  [W-<Cj>] [J>MR <Pr>]
+                               =======                       |           |               |   |     ============================================\
+ IKON20,14 3sgM XYqt  <<  [Q]  ?NQ     166    81 11.q        |           |               |   |      [MJ <Su>] [J>SR <Pr>] [H-MLXMH <Ob>]
+                               =======                       |           |               |         ============================================/
+ IKON20,14 3sgM Way0  << Way0  ?N      16     82  9..        |           |               |  [W-<Cj>] [J>MR <Pr>]
+                               =======                       |           |               |       | ============================================\
+ IKON20,14 ---- NmCl  <<  [Q]  ?NQ     167    83 11.q        |           |               |       |  [>TH <Su>]
+                               =======                       |           |               |         ============================================/
+ IKON20,15 3sgM Way0  << Way0  ?N      16     84 10..        |           |               |      [W-<Cj>] [JPQD <Pr>] [>T N<RJ FRJ H-MDJNWT <Ob>]
+ IKON20,15 3plM Way0  << Way0  ?N      16     85 13..        |           |               |           |   |  [W-<Cj>] [JHJW <Pr>] [M>TJM CNJM W-CLCJM <PC>]
+ IKON20,15 3sgM WxQ0  << Way0  ?N      16     86 12..        |           |               |           |  [W-<Cj>] [>XRJHM <Aj>] [PQD <Pr>] [>T KL H-<M / KL BNJ JFR>L <ap><Ob>] [CB<T >LPJM <Aj>]
+ IKON20,16 3plM Way0  << Way0  ?N      16     87 11..        |           |               |          [W-<Cj>] [JY>W <Pr>] [B--YHRJM <Ti>]
+ IKON20,16 -sgM Ptcp  << Way0  ?N      16     88 12..        |           |               |           |  [W-<Cj>] [BN_HDD <Su>] [CTH <PC>] [CKWR <Pj>] [B--SKWT <Lo>]
+ IKON20,16 ---- Ellp  << Ptcp  ?N      16     89 13l.        |           |               |           |      [HW> W-H-MLKJM / CLCJM W-CNJM MLK <sp><Su>]
+ IKON20,16 -sgM Ptcp [attrib.] ?N      16     90 14..        |           |               |           |          [<ZR <PC>] [>TW <Ob>]
+ IKON20,17 3plM WayX  << Way0  ?N      168    91 11.#        |           |               |          [W-<Cj>] [JY>W <Pr>] [N<RJ FRJ H-MDJNWT <Su>] [B--R>CNH <Aj>]
+ IKON20,17 3sgM WayX  << WayX  ?N      1681   92 13.#        |           |               |           |   |  [W-<Cj>] [JCLX <Pr>] [BN_HDD <Su>]
+ IKON20,17 3plM Way0  << WayX  ?N      1681   93 15..        |           |               |           |   |       |  [W-<Cj>] [JGJDW <Pr>] [LW <Co>]
+ IKON20,17 ---- InfC [adjunct] ?N      1681   94 16..        |           |               |           |   |       |      [L->MR <Pr>]
+                               =======                       |           |               |           |   |       |         ====================\
+ IKON20,17 3pl- XQtl  <<  [Q]  ?NQ     16811  95 17.q        |           |               |           |   |       |          [>NCJM <Su>] [JY>W <Pr>] [M-CMRWN <Co>]
+                               =======                       |           |               |           |   |                 ====================/
+ IKON20,18 3sgM Way0  << WayX  ?N      1681   96 14..        |           |               |           |   |      [W-<Cj>] [J>MR <Pr>]
+                               =======                       |           |               |           |   |         ============================\
+ IKON20,18 3pl- xQt0  <<  [Q]  ?NQ     16812  97 15.q        |           |               |           |   |          [>M <Cj>] [L-CLWM <Aj>] [JY>W <Pr>]
+ IKON20,18 2plM ZIm0  << xQt0  ?NQ     16812  98 17..        |           |               |           |   |               |  [TPFWM <PO>] [XJJM <Pj>]
+ IKON20,18 3pl- WxQ0  << xQt0  ?NQ     16812  99 16..        |           |               |           |   |              [W-<Cj>] [>M <Cj>] [L-MLXMH <Aj>] [JY>W <Pr>]
+ IKON20,18 2plM xIm0  << WxQ0  ?NQ     16812 100 17..        |           |               |           |   |                  [XJJM <Pj>] [TPFWM <PO>]
+                               =======                       |           |               |           |             ============================/
+ IKON20,19 3pl- WXQt  << WayX  ?N      1682  101 12.#        |           |               |           |  [W-<Cj>] [>LH <Su>] [JY>W <Pr>] [MN H-<JR / N<RJ FRJ H-MDJNWT W-H-XJL <sp><Co>]
+ IKON20,19 ---- NmCl [attrib.] ?N      1682  102 14..        |           |               |           |       |  [>CR <Re>] [>XRJHM <PC>]
+ IKON20,20 3plM Way0  << WXQt  ?N      1682  103 13..        |           |               |           |      [W-<Cj>] [JKW <Pr>] [>JC <Aj>] [>JCW <Ob>]
+ IKON20,20 3plM WayX  << Way0  ?N      16821 104 13.#        |           |               |           |      [W-<Cj>] [JNSW <Pr>] [>RM <Su>]
+ IKON20,20 3sgM WayX  << WayX  ?N      168211105 15.#        |           |               |           |           |  [W-<Cj>] [JRDPM <PO>] [JFR>L <Su>]
+ IKON20,20 3sgM WayX  << WayX  ?N      168212106 14.#        |           |               |           |          [W-<Cj>] [JMLV <Pr>] [BN_HDD / MLK >RM <ap><Su>] [<L SWS W-PRCJM <Aj>]
+ IKON20,21 3sgM WayX  << WayX  ?N      169   107 11.#        |           |               |          [W-<Cj>] [JY> <Pr>] [MLK JFR>L <Su>]
+ IKON20,21 3sgM Way0  << WayX  ?N      169   108 12..        |           |               |              [W-<Cj>] [JK <Pr>] [>T H-SWS W->T H-RKB <Ob>]
+ IKON20,21 3sgM WQt0  << Way0  ?N      169   109 13..        |           |               |                  [W-<Cj>] [HKH <Pr>] [B->RM <Co>] [MKH GDWLH <Ob>]
+ IKON20,22 3sgM WayX  << XQtl  ?N      1610  110  8.#        |           |              [W-<Cj>] [JGC <Pr>] [H-NBJ> <Su>] [>L MLK JFR>L <Co>]
+ IKON20,22 3sgM Way0  << WayX  ?N      1610  111  9..        |           |                  [W-<Cj>] [J>MR <Pr>] [LW <Co>]
+                               =======                       |           |                     ================================================\
+ IKON20,22 2sgM ZIm0  <<  [Q]  ?NQ     16101 112 10.q        |           |                      [LK <Pr>]
+ IKON20,22 2sgM ZIm0  << ZIm0  ?NQ     16101 113 10..        |           |                      [HTXZQ <Pr>]
+ IKON20,22 2sgM WIm0  << ZIm0  ?NQ     16101 114 12..        |           |                           |  [W-<Cj>] [D< <Pr>]
+ IKON20,22 2sgM WIm0  << WIm0  ?NQ     16101 115 12..        |           |                           |  [W-<Cj>] [R>H <Pr>]
+ IKON20,22 2sgM xYq0 [object ] ?NQ     16101 116 13..        |           |                           |      [>T >CR <Re>] [T<FH <Pr>]
+ IKON20,22 -sgM Ptcp  << ZIm0  ?NQ     16101 117 11..        |           |                          [KJ <Cj>] [L-TCWBT H-CNH <Ti>] [MLK >RM <Su>] [<LH <PC>] [<LJK <Co>]
+                               =======                       |                                 ================================================/
+ IKON20,23 3pl- WXQt  << Way0  ?N      1611  118  4.#        |          [W-<Cj>] [<BDJ MLK >RM <Su>] [>MRW <Pr>] [>LJW <Co>]
+                               =======                       |               | ================================================================\
+ IKON20,23 ---- NmCl  <<  [Q]  ?NQ     16111 119  6.q        |               |  [>LHJ HRJM <PC>] [>LHJHM <Su>]
+ IKON20,23 3pl- xQt0  << NmCl  ?NQ     16111 120  8..        |               |       |  [<L KN <Aj>] [XZQW <Pr>] [MMNW <Co>]
+ IKON20,23 1pl- WxY0  << NmCl  ?NQ     16111 121  7..        |               |      [W-<Cj>] [>WLM <Mo>] [NLXM <Pr>] [>TM <Co>] [B--MJCWR <Lo>]
+ IKON20,23 1pl- xYq0  << WxY0  ?NQ     16111 122 10..        |               |           |   |  [>M <Cj>] [L> <Ng>] [NXZQ <Pr>] [MHM <Co>]
+ IKON20,24 2sgM WxI0  << WxY0  ?NQ     16111 123  9..        |               |           |  [W-<Cj>] [>T H-DBR H-ZH <Ob>] [<FH <Pr>]
+ IKON20,24 2sgM ZIm0  << WxI0  ?NQ     16111 124 10..        |               |           |      [HSR <Pr>] [H-MLKJM <Ob>]
+ IKON20,24 ---- Ellp [adjunct] ?NQ     16111 125 13l.        |               |           |           |   |  [>JC <Ob>] [M-MQMW <Co>]
+ IKON20,24 2sgM WIm0  << ZIm0  ?NQ     16111 126 12..        |               |           |           |  [W-<Cj>] [FJM <Pr>] [PXWT <Ob>] [TXTJHM <Co>]
+ IKON20,25 2sgM WXYq  << ZIm0  ?NQ     16111 127 11..        |               |           |          [W-<Cj>] [>TH <Su>] [TMNH <Pr>] [LK <Co>] [XJL / K--XJL <sp><Ob>]
+ IKON20,25 -sgM Ptcp [attrib.] ?NQ     16111 128 13..        |               |           |               |  [H-<Re>] [NPL <PC>] [M->WTK <Co>]
+ IKON20,25 ---- Ellp  << WXYq  ?NQ     16111 129 12l.        |               |           |              [W-<Cj>] [SWS / K--SWS / W-/ RKB / K--RKB <sp><pa><cj><sp><Ob>]
+ IKON20,25 1pl- WYq0  << WxY0  ?NQ     16111 130  8..        |               |          [W-<Cj>] [NLXMH <Pr>] [>WTM <Ob>] [B--MJCWR <Lo>]
+ IKON20,25 1pl- xYq0  << WYq0  ?NQ     16111 131  9..        |               |              [>M <Cj>] [L> <Ng>] [NXZQ <Pr>] [MHM <Co>]
+                               =======                       |               | ================================================================/
+ IKON20,25 3sgM Way0  << WXQt  ?N      1611  132  5..        |              [W-<Cj>] [JCM< <Pr>] [L-QLM <Co>]
+ IKON20,25 3sgM Way0  << Way0  ?N      1611  133  5..        |              [W-<Cj>] [J<F <Pr>] [KN <Mo>]
+ IKON20,26 3sgM Way0  << WayX  ?N      17    134  1.#       [W-<Cj>] [JHJ <Pr>] [L-TCWBT H-CNH <Ti>]
+ IKON20,26 3sgM WayX  << Way0  ?N      171   135  2.#           [W-<Cj>] [JPQD <Pr>] [BN_HDD <Su>] [>T >RM <Ob>]
+ IKON20,26 3sgM Way0  << WayX  ?N      171   136  4..            |   |  [W-<Cj>] [J<L <Pr>] [>PQH <Co>] [L--MLXMH / <M JFR>L <sp><Aj>]
+ IKON20,27 3pl- WXQt  << WayX  ?N      1711  137  3.#            |  [W-<Cj>] [BNJ JFR>L <Su>] [HTPQDW <Pr>]
+ IKON20,27 3pl- WQt0  << WXQt  ?N      1711  138  5..            |       |  [W-<Cj>] [KLKLW <Pr>]
+ IKON20,27 3plM Way0  << WXQt  ?N      1711  139  4..            |      [W-<Cj>] [JLKW <Pr>]
+ IKON20,27 ---- InfC [adjunct] ?N      1711  140  5..            |          [L-QR>TM <PO>]
+ IKON20,27 3plM WayX  << WayX  ?N      172   141  2.#           [W-<Cj>] [JXNW <Pr>] [BNJ JFR>L <Su>] [NGDM <Co>] [K-CNJ XFPJ <ZJM <Aj>]
+ IKON20,27 3pl- WXQt  << WayX  ?N      1721  142  4.#            |   |  [W-<Cj>] [>RM <Su>] [ML>W <Pr>] [>T H->RY <Ob>]
+ IKON20,28 3sgM WayX  << WayX  ?N      1722  143  3.#            |  [W-<Cj>] [JGC <Pr>] [>JC H->LHJM <Su>]
+ IKON20,28 3sgM Way0  << WayX  ?N      1722  144  4..            |      [W-<Cj>] [J>MR <Pr>] [>L MLK JFR>L <Co>]
+ IKON20,28 3sgM Way0  << Way0  ?N      1722  145  4..            |      [W-<Cj>] [J>MR <Pr>]
+                               =======                           |         ====================================================================\
+ IKON20,28 3sgM xQtX  <<  [Q]  ?NQ     17221 146  5.q            |          [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
+                               =======                           |             =============================================================\
+ IKON20,28 3pl- xQtX  <<  [Q]  ?NQQ    172211147  6.q            |              [J<N >CR <Cj>] [>MRW <Pr>] [>RM <Su>]
+                               =======                           |                   | ==================================================\
+ IKON20,28 ---- NmCl  <<  [Q]  ?NQQQ   172211148  8.q            |                   |  [>LHJ HRJM <PC>] [JHWH <Su>]
+ IKON20,28 ---- NmCl  << NmCl  ?NQQQ   172211149  9..            |                   |      [W-<Cj>] [L> <Ng>] [>LHJ <MQJM <PC>] [HW> <Su>]
+                               =======                           |                     ==================================================/
+ IKON20,28 1sg- WQt0  << xQtX  ?NQQ    172211150  7..            |                  [W-<Cj>] [NTTJ <Pr>] [>T KL H-HMWN H-GDWL H-ZH <Ob>] [B-JDK <Co>]
+ IKON20,28 2plM WQt0  << WQt0  ?NQQ    172211151  8..            |                      [W-<Cj>] [JD<TM <Pr>]
+ IKON20,28 ---- NmCl [object ] ?NQQ    172211152  9..            |                          [KJ <Cj>] [>NJ <Su>] [JHWH <PC>]
+                               =======                                     ====================================================================/
+ IKON20,29 3plM WayX  << WayX  ?N      173   153  2.#           [W-<Cj>] [JXNW <Pr>] [>LH <Su>] [NKX >LH <Co>] [CB<T JMJM <Ti>]
+ IKON20,29 3sgM Way0  << WayX  ?N      173   154  3..               [W-<Cj>] [JHJ <Pr>] [B--JWM H-CBJ<J <Ti>]
+ IKON20,29 3sgF WayX  << Way0  ?N      1731  155  4.#                   [W-<Cj>] [TQRB <Pr>] [H-MLXMH <Su>]
+ IKON20,29 3plM WayX  << WayX  ?N      17311 156  5.#                       [W-<Cj>] [JKW <Pr>] [BNJ JFR>L <Su>] [>T >RM <Ob>] [M>H >LP RGLJ <Aj>] [B-JWM >XD <Ti>]
+ IKON20,30 3plM WayX  << WayX  ?N      17311 157  6..                           [W-<Cj>] [JNSW <Pr>] [H-NWTRJM <Su>] [>PQH / >L H-<JR <sp><Co>]
+ IKON20,30 3sgF WayX  << WayX  ?N      173111158  8.#                                |  [W-<Cj>] [TPL <Pr>] [H-XWMH <Su>] [<L <FRJM W-CB<H >LP >JC <Co>]
+ IKON20,30 -plM Ptcp [attrib.] ?N      173111159  9..                                |      [H-<Re>] [NWTRJM <PC>]
+ IKON20,30 3sgM WXQt  << WayX  ?N      173112160  7.#                               [W-<Cj>] [BN_HDD <Su>] [NS <Pr>]
+ IKON20,30 3sgM Way0  << WXQt  ?N      173112161 11..                                    |   |   |  [W-<Cj>] [JB> <Pr>] [>L H-<JR <Co>] [XDR / B-XDR <sp><Lo>]
+ IKON20,31 3plM WayX  << WXQt  ?N      173112162 10.#                                    |   |  [W-<Cj>] [J>MRW <Pr>] [>LJW <Co>] [<BDJW <Su>]
+                               =======                                                   |   |       | ========================================\
+ IKON20,31 1pl- xQt0  <<  [Q]  ?NQ     173112163 12.q                                    |   |       |  [HNH <Ij>] [N> <Ij>] [CM<NW <Pr>]
+ IKON20,31 ---- CPen [object ] ?NQ     173112164 14c.                                    |   |       |       |  [KJ <Cj>] [MLKJ BJT JFR>L <Fr>]
+ IKON20,31 ---- NmCl [resumpt] ?NQ     173112165 15..                                    |   |       |       |      [KJ <Cj>] [MLKJ XSD <PC>] [HM <Su>]
+ IKON20,31 1pl- ZYq0  << xQt0  ?NQ     173112166 13..                                    |   |       |      [NFJMH <Pr>] [N> <Ij>] [FQJM <Ob>] [B-MTNJNW <Co>]
+ IKON20,31 ---- Ellp  << ZYq0  ?NQ     173112167 16l.                                    |   |       |           |   |  [W-<Cj>] [XBLJM <Ob>] [B-R>CNW <Co>]
+ IKON20,31 1pl- WYq0  << ZYq0  ?NQ     173112168 15..                                    |   |       |           |  [W-<Cj>] [NY> <Pr>] [>L MLK JFR>L <Co>]
+ IKON20,31 3sgM xYq0  << ZYq0  ?NQ     173112169 14..                                    |   |       |          [>WLJ <Mo>] [JXJH <Pr>] [>T NPCK <Ob>]
+                               =======                                                   |   |       | ========================================/
+ IKON20,32 3plM Way0  << WayX  ?N      173112170 11..                                    |   |      [W-<Cj>] [JXGRW <Pr>] [FQJM <Ob>] [B-MTNJHM <Co>]
+ IKON20,32 ---- Ellp  << Way0  ?N      173112171 12l.                                    |   |       |  [W-<Cj>] [XBLJM <Ob>] [B-R>CJHM <Co>]
+ IKON20,32 3plM Way0  << Way0  ?N      173112172 11..                                    |   |      [W-<Cj>] [JB>W <Pr>] [>L MLK JFR>L <Co>]
+ IKON20,32 3plM Way0  << Way0  ?N      173112173 11..                                    |   |      [W-<Cj>] [J>MRW <Pr>]
+                               =======                                                   |   |           |   | ================================\
+ IKON20,32 3sgM XQtl  <<  [Q]  ?NQ     173112174 14.q                                    |   |           |   |  [<BDK / BN_HDD <ap><Su>] [>MR <Pr>]
+                               =======                                                   |   |           |   |     =========================\
+ IKON20,32 3sgF ZYqX  <<  [Q]  ?NQQ    173112175 15.q                                    |   |           |   |      [TXJ <Pr>] [N> <Ij>] [NPCJ <Su>]
+                               =======                                                   |   |           |     ================================/
+ IKON20,32 3sgM Way0  << Way0  ?N      173112176 13..                                    |   |           |  [W-<Cj>] [J>MR <Pr>]
+                               =======                                                   |   |           |     ================================\
+ IKON20,32 -sgM AjCl  <<  [Q]  ?NQ     173112177 14.q                                    |   |           |      [H-<Qu>] [<WDNW <Ms>] [XJ <PC>]
+ IKON20,32 ---- NmCl  << AjCl  ?NQ     173112178 15..                                    |   |           |          [>XJ <PC>] [HW> <Su>]
+                               =======                                                   |   |                 ================================/
+ IKON20,33 3plM WXYq  << Way0  ?ND     173112179 12..                                    |   |          [W-<Cj>] [H->NCJM <Su>] [JNXCW <Pr>]
+                               -------                                                   |   |             ---------------------------------\
+ IKON20,33 3plM Way0  << WXYq  ?NDN    173112180 13..                                    |   |              [W-<Cj>] [JMHRW <Pr>]
+ IKON20,33 3plM Way0  << Way0  ?NDN    173112181 13..                                    |   |              [W-<Cj>] [JXLVW <Pr>]
+ IKON20,33 ---- NmCl [object ] ?NDN    173112182 14..                                    |   |               |  [H-<Qu>] [MMNW <PC>]
+ IKON20,33 3plM Way0  << Way0  ?NDN    173112183 13..                                    |   |              [W-<Cj>] [J>MRW <Pr>]
+                               =======                                                   |   |                   | ======================\
+ IKON20,33 ---- NmCl  <<  [Q]  ?NDNQ   173112184 15.q                                    |   |                   |  [>XJK / BN_HDD <ap><Su>]
+                               =======                                                   |   |                     ======================/
+ IKON20,33 3sgM Way0  << Way0  ?NDN    173112185 14..                                    |   |                  [W-<Cj>] [J>MR <Pr>]
+                               =======                                                   |   |                     ======================\
+ IKON20,33 2plM ZIm0  <<  [Q]  ?NDNQ   173112186 15.q                                    |   |                      [B>W <Pr>]
+ IKON20,33 2plM ZIm0  << ZIm0  ?NDNQ   173112187 16..                                    |   |                          [QXHW <PO>]
+                               -------                                                   |                     --------------------------------/
+ IKON20,33 3sgM WayX  << WXQt  ?N      173112188  9.#                                    |  [W-<Cj>] [JY> <Pr>] [>LJW <Co>] [BN_HDD <Su>]
+ IKON20,33 3sgM Way0  << WayX  ?N      173112189 11..                                    |       |  [W-<Cj>] [J<LHW <PO>] [<L H-MRKBH <Co>]
+ IKON20,34 3sgM Way0  << WayX  ?N      173112190 10..                                    |      [W-<Cj>] [J>MR <Pr>] [>LJW <Co>]
+                               =======                                                   |       | ============================================\
+ IKON20,34 ---- Defc  <<  [Q]  ?NQ     173112191 11dq                                    |       |  [H-<RJM <Ob>]
+ IKON20,34 3sgM xQtX [attrib.] ?NQ     173112192 15.e                                    |       |       |   |   |  [>CR <Re>] [LQX <Pr>] [>BJ <Su>] [M->T >BJK <Co>]
+ IKON20,34 1sg- ZYq0  << Defc  ?NQ     173112193 14..                                    |       |       |   |  [>CJB <Pr>]
+ IKON20,34 2sgM WxY0  << Defc  ?NQ     173112194 13..                                    |       |       |  [W-<Cj>] [XWYWT <Ob>] [TFJM <Pr>] [LK <sc>] [B-DMFQ <Co>]
+ IKON20,34 3sgM xQtX [adjunct] ?NQ     173112195 14..                                    |       |       |      [K->CR <Cj>] [FM <Pr>] [>BJ <Su>] [B-CMRWN <Co>]
+ IKON20,34 1sg- WXYq  << Defc  ?NQ     173112196 12..                                    |       |      [W-<Cj>] [>NJ <Su>] [B--BRJT <Aj>] [>CLXK <PO>]
+                               =======                                                   |         ============================================/
+ IKON20,34 3sgM Way0  << Way0  ?N      173112197 10..                                    |      [W-<Cj>] [JKRT <Pr>] [LW <Co>] [BRJT <Ob>]
+ IKON20,34 3sgM Way0  << Way0  ?N      173112198 11..                                    |          [W-<Cj>] [JCLXHW <PO>]
+ IKON20,35 3sgM WXQt  << WXQt  ?N      173112199  8..                                   [W-<Cj>] [>JC >XD / M-BNJ H-NBJ>JM <sp><Su>] [>MR <Pr>] [>L R<HW <Co>] [B-DBR JHWH <Aj>]
+                               =======                                                       |   |   | ========================================\
+ IKON20,35 2sgM ZIm0  <<  [Q]  ?NQ     173112200 12.q                                        |   |   |  [HKJNJ <PO>] [N> <Ij>]
+                               =======                                                       |   |     ========================================/
+ IKON20,35 3sgM WayX  << WXQt  ?N      173112201 11.#                                        |   |  [W-<Cj>] [JM>N <Pr>] [H->JC <Su>]
+ IKON20,35 ---- InfC [adjunct] ?N      173112202 12..                                        |   |      [L-HKTW <PO>]
+ IKON20,36 3sgM Way0  << WXQt  ?N      173112203 10..                                        |  [W-<Cj>] [J>MR <Pr>] [LW <Co>]
+                               =======                                                       |   |   | ========================================\
+ IKON20,36 2sgM xQt0 [adjunct] ?NQ     173112204 13.\                                        |   |   |   |  [J<N >CR <Cj>] [L> <Ng>] [CM<T <Pr>] [B-QWL JHWH <Co>]
+ IKON20,36 -sgM Ptcp  <<  [Q]  ?NQ     173112205 12.q                                        |   |   |  [HNK <Is>] [HWLK <PC>] [M->TJ <Co>]
+ IKON20,36 3sgM WQtX  << Ptcp  ?NQ     173112206 13..                                        |   |   |      [W-<Cj>] [HKK <PO>] [H->RJH <Su>]
+                               =======                                                       |   |     ========================================/
+ IKON20,36 3sgM Way0  << Way0  ?N      173112207 11..                                        |   |  [W-<Cj>] [JLK <Pr>] [M->YLW <Co>]
+ IKON20,36 3sgM WayX  << Way0  ?N      173112208 12.#                                        |   |      [W-<Cj>] [JMY>HW <PO>] [H->RJH <Su>]
+ IKON20,36 3sgM Way0  << WayX  ?N      173112209 13..                                        |   |          [W-<Cj>] [JKHW <PO>]
+ IKON20,37 3sgM Way0  << Way0  ?N      173112210 10..                                        |  [W-<Cj>] [JMY> <Pr>] [>JC >XR <Ob>]
+ IKON20,37 3sgM Way0  << Way0  ?N      173112211 10..                                        |  [W-<Cj>] [J>MR <Pr>]
+                               =======                                                       |       | ========================================\
+ IKON20,37 2sgM ZIm0  <<  [Q]  ?NQ     173112212 12.q                                        |       |  [HKJNJ <PO>] [N> <Ij>]
+                               =======                                                       |         ========================================/
+ IKON20,37 3sgM WayX  << Way0  ?N      173112213 11.#                                        |      [W-<Cj>] [JKHW <PO>] [H->JC <Su>] [HKH W-PY< <Mo>]
+ IKON20,38 3sgM WayX  << WXQt  ?N      173112214  9.#                                       [W-<Cj>] [JLK <Pr>] [H-NBJ> <Su>]
+ IKON20,38 3sgM Way0  << WayX  ?N      173112215 11..                                            |  [W-<Cj>] [J<MD <Pr>] [L--MLK <Aj>] [<L H-DRK <Co>]
+ IKON20,38 3sgM Way0  << Way0  ?N      173112216 11..                                            |  [W-<Cj>] [JTXPF <Pr>] [B-->PR / <L <JNJW <sp><Co>]
+ IKON20,39 3sgM MSyn  << WayX  ?N      173112217 10m.                                           [W-<Cj>] [JHJ <Pr>]
+ IKON20,39 -sgM Ptcp  << MSyn  ?N      173112218 12..                                                |  [H-MLK <Su>] [<BR <PC>]
+ IKON20,39 3sgM WXQt  << MSyn  ?N      173112219 11.#                                               [W-<Cj>] [HW> <Su>] [Y<Q <Pr>] [>L H-MLK <Co>]
+ IKON20,39 3sgM Way0  << WXQt  ?N      173112220 12..                                                   [W-<Cj>] [J>MR <Pr>]
+                               =======                                                                   | ====================================\
+ IKON20,39 3sgM XQtl  <<  [Q]  ?NQ     173112221 13.q                                                    |  [<BDK <Su>] [JY> <Pr>] [B-QRB H-MLXMH <Co>]
+ IKON20,39 3sgM WXQt  << XQtl  ?NQ     173112222 14..                                                    |      [W-<Cj>] [HNH <Ij>] [>JC <Su>] [SR <Pr>]
+                               -------                                                                   |         -------------------------\
+ IKON20,39 3sgM Way0  << WXQt  ?NQN    173112223 15..                                                    |          [W-<Cj>] [JB> <Pr>] [>LJ <Co>] [>JC <Ob>]
+ IKON20,39 3sgM Way0  << Way0  ?NQN    173112224 15..                                                    |          [W-<Cj>] [J>MR <Pr>]
+                               =======                                                                   |               | ==============\
+ IKON20,39 2sgM ZIm0  <<  [Q]  ?NQNQ   173112225 17.q                                                    |               |  [CMR <Pr>] [>T H->JC H-ZH <Ob>]
+ IKON20,39 3sgM xYq0  << ZIm0  ?NQNQ   173112226 18..                                                    |               |      [>M <Cj>] [HPQD <Mo>] [JPQD <Pr>]
+ IKON20,39 3sgF WQtX  << xYq0  ?NQNQ   173112227 19..                                                    |               |          [W-<Cj>] [HJTH <Pr>] [NPCK <Su>] [TXT NPCW <PC>]
+ IKON20,39 2sgM xYq0  << WQtX  ?NQNQ   173112228 20..                                                    |               |              [>W <Cj>] [KKR KSP <Ob>] [TCQWL <Pr>]
+                               =======                                                                   |                 ==============/
+ IKON20,40 3sgM MSyn  << Way0  ?NQN    173112229 16m.                                                    |              [W-<Cj>] [JHJ <Pr>]
+ IKON20,40 -sgM Ptcp  << MSyn  ?NQN    173112230 18..                                                    |                   |  [<BDK <Su>] [<FH <PC>] [HNH W-HNH <Co>]
+ IKON20,40 ---- CPen  << MSyn  ?NQN    173112231 17c.                                                    |                  [W-<Cj>] [HW> <Fr>]
+ IKON20,40 ---- NmCl [resumpt] ?NQN    173112232 18..                                                    |                      [>JNNW <Ns>]
+                               =======                                                                   | ====================================/
+ IKON20,40 3sgM WayX  << Way0  ?N      173112233 12.#                                                   [W-<Cj>] [J>MR <Pr>] [>LJW <Co>] [MLK JFR>L <Su>]
+                               =======                                                                   |   | ================================\
+ IKON20,40 ---- NmCl  <<  [Q]  ?NQ     173112234 14.q                                                    |   |  [KN <PC>] [MCPVK <Su>]
+ IKON20,40 2sgM XQtl  << NmCl  ?NQ     173112235 15..                                                    |   |      [>TH <Su>] [XRYT <Pr>]
+                               =======                                                                   |   | ================================/
+ IKON20,41 3sgM Way0  << WayX  ?N      173112236 13..                                                    |  [W-<Cj>] [JMHR <Pr>]
+ IKON20,41 3sgM Way0  << Way0  ?N      173112237 13..                                                    |  [W-<Cj>] [JSR <Pr>] [>T H->PR <Ob>] [M-<L <JNJW <Co>]
+ IKON20,41 3sgM WayX  << WayX  ?N      173112238 12.#                                                   [W-<Cj>] [JKR <Pr>] [>TW <Ob>] [MLK JFR>L <Su>]
+ IKON20,41 ---- NmCl [object ] ?N      173112239 14..                                                    |   |  [KJ <Cj>] [M-H-NB>JM <PC>] [HW> <Su>]
+ IKON20,42 3sgM Way0  << WayX  ?N      173112240 13..                                                    |  [W-<Cj>] [J>MR <Pr>] [>LJW <Co>]
+                               =======                                                                   |     ================================\
+ IKON20,42 3sgM xQtX  <<  [Q]  ?NQ     173112241 14.q                                                    |      [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
+                               =======                                                                   |         =========================\
+ IKON20,42 2sgM xQt0  <<  [Q]  ?NQQ    173112242 15.q                                                    |          [J<N <Cj>] [CLXT <Pr>] [>T >JC XRMJ <Ob>] [M-JD <Co>]
+ IKON20,42 3sgF WQtX  << xQt0  ?NQQ    173112243 16..                                                    |              [W-<Cj>] [HJTH <Pr>] [NPCK <Su>] [TXT NPCW <PC>]
+ IKON20,42 ---- Ellp  << WQtX  ?NQQ    173112244 17l.                                                    |                  [W-<Cj>] [<MK <Su>] [TXT <MW <PC>]
+                               =======                                                                         ================================/
+ IKON20,43 3sgM WayX  << WayX  ?N      173112245 12.#                                                   [W-<Cj>] [JLK <Pr>] [MLK JFR>L <Su>] [<L BJTW <Co>] [SR W-Z<P <Pj>]
+ IKON20,43 3sgM Way0  << WayX  ?N      173112246 13..                                                       [W-<Cj>] [JB> <Pr>] [CMRWNH <Co>]

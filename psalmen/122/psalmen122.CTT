@@ -1,0 +1,27 @@
+ PS122,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [CJR H-M<LWT <PC>]
+ PS122,001 ---- NmCl  << NmCl  ?       1       2  1..    |  [L-DWD <PC>]
+                               =======                 ==============================================================================================/
+ PS122,001 1sg- ZQt0  << NmCl  Q       2       3  0.N   [FMXTJ <Pr>]
+ PS122,001 -plM Ptcp [complm.] Q       2       4  2..        |  [B->MRJM <PC>] [LJ <Co>]
+                               =======                       |    +===============================================================================\
+ PS122,001 1pl- xYq0  <<  [Q]  QQ      21      5  3.q        |   || [BJT JHWH <Co>] [NLK <Pr>]
+                               =======                            +===============================================================================/
+ PS122,002 3pl- xQtX  << ZQt0  Q       2       6  1..       [<MDWT <PC>] [HJW <Pr>] [RGLJNW <Su>] [B-C<RJK <Lo>]
+ PS122,002 ---- Voct  << xQtX  Q       2       7  5v.            |   |   |  [JRWCLM <Vo>]
+ PS122,003 ---- Voct [coordin] Q       2       8  5v.            |   |   |  [JRWCLM <Vo>]
+ PS122,003 -sgF Ptcp [attrib.] Q       2       9  7..            |   |   |       |  [H-<Re>] [BNWJH <PC>] [K-<JR <Aj>]
+ PS122,003 3sgF xQt0 [attrib.] Q       2      10  8..            |   |   |       |      [C-<Re>] [XBRH <Pr>] [LH <Co>] [JXDW <Mo>]
+ PS122,004 3pl- xQtX [attrib.] Q       2      11  6..            |   |   |      [C-<Re>] [CM <Mo>] [<LW <Pr>] [CBVJM / CBVJ JH <sp><Su>]
+ PS122,004 ---- NmCl  << xQtX  Q       2      12  4..            |   |  [<DWT <PC>] [L-JFR>L <Co>]
+ PS122,004 ---- InfC [subject] Q       2      13  5..            |   |      [L-HDWT <Pr>] [L-CM JHWH <Co>]
+ PS122,005 3pl- xQtX  << xQtX  Q       2      14  3..            |  [KJ <Cj>] [CMH <Mo>] [JCBW <Pr>] [KS>WT / L-MCPV <sp><Su>]
+ PS122,005 ---- Ellp  << xQtX  Q       2      15  4l.            |      [KS>WT / L-BJT DWJD <sp><Su>]
+ PS122,006 2plM ZIm0  << xQtX  Q       2      16  2..           [C>LW <Pr>] [CLWM JRWCLM <Ob>]
+ PS122,006 3plM ZYqX  << ZIm0  Q       2      17  3..               [JCLJW <Pr>] [>HBJK <Su>]
+ PS122,007 3sgM ZYqX  << ZYqX  Q       2      18  4..                   [JHJ <Pr>] [CLWM <Su>] [B-XJLK <PC>]
+ PS122,007 ---- Ellp  << ZYqX  Q       2      19  6l.                        |  [CLWH <Su>] [B->RMNWTJK <PC>]
+ PS122,008 1sg- xYq0  << ZYqX  Q       2      20  5..                       [LM<N >XJ W-R<J <Aj>] [>DBRH <Pr>] [N> <Ij>]
+                               =======                                           |+===============================================================\
+ PS122,008 ---- NmCl  <<  [Q]  QQ      22     21  7.q                             | [CLWM <Su>] [BK <PC>]
+                               =======                                            +===============================================================/
+ PS122,009 1sg- xYq0  << xYq0  Q       2      22  6..                           [LM<N BJT JHWH / >LHJNW <ap><Aj>] [>BQCH <Pr>] [VWB <Ob>] [LK <Co>]

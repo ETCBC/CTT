@@ -1,0 +1,27 @@
+ HOS 03,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>LJ <Co>]
+                               =======                       |   |+===============================================================================\
+ HOS 03,01 2sgM xIm0  <<  [Q]  NQ      11      2  3.q        |   || [<WD <Mo>] [LK <Pr>]
+ HOS 03,01 2sgM ZIm0  << xIm0  NQ      11      3  4..        |   ||     [>HB <Pr>] [>CH <Ob>]
+ HOS 03,01 ---- NmCl [attrib.] NQ      11      4  6..        |   ||          |  [>HBT R< <PC>]
+ HOS 03,01 -sgF Ptcp [coordin] NQ      11      5  7..        |   ||          |      [W-<Cj>] [MN>PT <PC>]
+ HOS 03,01 ---- InfC [adjunct] NQ      11      6  5..        |   ||         [K->HBT <Pr>] [JHWH <Su>] [>T BNJ JFR>L <Ob>]
+ HOS 03,01 -plM Ptcp  << InfC  NQ      11      7  6..        |   ||             [W-<Cj>] [HM <Su>] [PNJM <PC>] [>L >LHJM >XRJM <Co>]
+ HOS 03,01 ---- NmCl [coordin] NQ      11      8  7..        |   ||                 [W-<Cj>] [>HBJ >CJCJ <NBJM <PC>]
+                               =======                       |    +===============================================================================/
+ HOS 03,02 1sg- Way0  << WayX  N       1       9  2..        |  [W-<Cj>] [>KRH <PO>] [LJ <sc>] [B-XMCH <FR KSP W-XMR F<RJM W-LTK F<RJM <Aj>]
+ HOS 03,03 1sg- Way0  << Way0  N       1      10  3..        |      [W-<Cj>] [>MR <Pr>] [>LJH <Co>]
+                               =======                       |        +===========================================================================\
+ HOS 03,03 2sgF xYq0  <<  [Q]  NQ      12     11  4.q        |       || [JMJM RBJM <Ti>] [TCBJ <Pr>] [LJ <Aj>]
+ HOS 03,03 2sgF xYq0  << xYq0  NQ      12     12  6..        |       ||      |  [L> <Ng>] [TZNJ <Pr>]
+ HOS 03,03 2sgF WxY0  << xYq0  NQ      12     13  7..        |       ||      |      [W-<Cj>] [L> <Ng>] [THJJ <Pr>] [L->JC <Co>]
+ HOS 03,03 ---- NmCl  << xYq0  NQ      12     14  5..        |       ||     [W-<Cj>] [GM >NJ <Su>] [>LJK <PC>]
+                               =======                                +===========================================================================/
+ HOS 03,04 3plM xYqX  << WayX  ND      13     15  1.#       [KJ <Cj>] [JMJM RBJM <Ti>] [JCBW <Pr>] [BNJ JFR>L <Su>]
+ HOS 03,04 ---- NmCl  << xYqX  ND      13     16  3..            |  [>JN <NC>] [MLK <Su>]
+ HOS 03,04 ---- NmCl  << NmCl  ND      13     17  4..            |    | [W-<Cj>] [>JN <NC>] [FR <Su>]
+ HOS 03,04 ---- NmCl  << NmCl  ND      13     18  4..            |    | [W-<Cj>] [>JN <NC>] [ZBX <Su>]
+ HOS 03,04 ---- NmCl  << NmCl  ND      13     19  4..            |    | [W-<Cj>] [>JN <NC>] [MYBH <Su>]
+ HOS 03,04 ---- NmCl  << NmCl  ND      13     20  4..            |    | [W-<Cj>] [>JN <NC>] [>PWD W-TRPJM <Su>]
+ HOS 03,05 3plM xYqX  << xYqX  ND      13     21  2..           [>XR <Ti>] [JCBW <Pr>] [BNJ JFR>L <Su>]
+ HOS 03,05 3pl- WQt0  << xYqX  ND      13     22  3..               [W-<Cj>] [BQCW <Pr>] [>T JHWH / >LHJHM / W-/ >T DWD / MLKM <ap><pa><cj><ap><Ob>]
+ HOS 03,05 3pl- WQt0  << WQt0  ND      13     23  3..               [W-<Cj>] [PXDW <Pr>] [>L JHWH / W-/ >L VWBW <pa><cj><Co>] [B->XRJT H-JMJM <Ti>]

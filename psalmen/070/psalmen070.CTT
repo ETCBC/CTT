@@ -1,0 +1,32 @@
+ PS070,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [L--MNYX <PC>]
+ PS070,001 ---- NmCl  << NmCl  ?       1       2  1..    |  [L-DWD <PC>]
+ PS070,001 ---- InfC [adjunct] ?       1       3  2..    |      [L-HZKJR <Pr>]
+                               =======                 ==============================================================================================/
+ PS070,002 ---- Voct  << NmCl  Q       2       4  0vN   [>LHJM <Vo>]
+ PS070,002 ---- InfC [adjunct] Q       2       5  2.\        |  [L-HYJLNJ <PO>]
+ PS070,002 ---- Voct  << InfC  Q       2       6  3v.        |      [JHWH <Vo>]
+ PS070,002 2sgM xIm0  << Voct  Q       2       7  1..       [L-<ZRTJ <Co>] [XWCH <Pr>]
+ PS070,003 3plM ZYq0  << xIm0  Q       2       8  3..            |  [JBCW <Pr>]
+ PS070,003 3plM WYq0 [coordin] Q       2       9  5..            |   |   |  [W-<Cj>] [JXPRW <Pr>]
+ PS070,003 -plM Ptcp [subject] Q       2      10  4..            |   |  [MBQCJ <PC>] [NPCJ <Ob>]
+ PS070,003 3plM ZYq0  << ZYq0  Q       2      11  3..            |  [JSGW <Pr>] [>XWR <Mo>]
+ PS070,003 3plM WYqX [coordin] Q       2      12  4..            |   |  [W-<Cj>] [JKLMW <Pr>] [XPYJ R<TJ <Su>]
+ PS070,004 3plM ZYq0  << ZYq0  Q       2      13  3..            |  [JCWBW <Pr>] [<L <QB BCTM <Co>]
+ PS070,004 -plM Ptcp [subject] Q       2      14  4..            |   |  [H-<Re>] [>MRJM <PC>]
+                               =======                           |   |    +=======================================================================\
+ PS070,004 ---- NmCl  <<  [Q]  QQ      21     15  5.q            |   |    | [H>X H>X <Ij>]
+                               =======                           |        +=======================================================================/
+ PS070,005 3plM ZYq0  << ZYq0  Q       2      16  3..            |  [JFJFW <Pr>]
+ PS070,005 3plM WYqX [coordin] Q       2      17  5..            |       |  [W-<Cj>] [JFMXW <Pr>] [BK <Co>] [KL <Su>]
+ PS070,005 -plM Ptcp [reg/rec] Q       2      18  6..            |       |      [MBQCJK <po>]
+ PS070,005 3plM WYq0  << ZYq0  Q       2      19  4..            |      [W-<Cj>] [J>MRW <Pr>] [TMJD <Mo>]
+                               =======                           |           |+===================================================================\
+ PS070,005 3sgM ZYqX  <<  [Q]  QQ      22     20  6.q            |            | [JGDL <Pr>] [>LHJM <Su>]
+                               =======                           |            +===================================================================/
+ PS070,005 -plM Ptcp [subject] Q       2      21  5..            |          [>HBJ <PC>] [JCW<TK <Ob>]
+ PS070,006 -sgM AjCl  << xIm0  Q       2      22  2..           [W-<Cj>] [>NJ <Su>] [<NJ W->BJWN <PC>]
+ PS070,006 ---- Voct  << AjCl  Q       2      23  5v.                |   |  [>LHJM <Vo>]
+ PS070,006 2sgM ZIm0  << AjCl  Q       2      24  4..                |  [XWCH <Pr>] [LJ <Co>]
+ PS070,006 ---- NmCl  << AjCl  Q       2      25  3..               [<ZRJ W-MPLVJ <PC>] [>TH <Su>]
+ PS070,006 ---- Voct  << NmCl  Q       2      26  5v.                    |  [JHWH <Vo>]
+ PS070,006 2sgM xYq0  << NmCl  Q       2      27  4..                   [>L <Ng>] [T>XR <Pr>]

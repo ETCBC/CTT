@@ -1,0 +1,27 @@
+ PS087,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [L-BNJ QRX <PC>]
+ PS087,001 ---- NmCl  << NmCl  ?       1       2  1..    |  [MZMWR <PC>]
+ PS087,001 ---- NmCl  << NmCl  ?       1       3  1..    |  [CJR <PC>]
+                               =======                 ==============================================================================================/
+ PS087,001 ---- NmCl  << NmCl  Q       2       4  0.N   [JSWDTW <Su>] [B-HRRJ QDC <PC>]
+ PS087,002 -sgM Ptcp  << NmCl  Q       2       5  1..       [>HB <PC>] [JHWH <Su>] [C<RJ YJWN <Ob>] [M-KL MCKNWT J<QB <Aj>]
+ PS087,003 -sgM Ptcp  << Ptcp  Q       2       6  4..            |   |  [NKBDWT <Su>] [MDBR <PC>] [BK <Co>]
+ PS087,003 ---- Voct  << Ptcp  Q       2       7  6v.            |   |       |  [<JR H->LHJM <Vo>]
+ PS087,003 ---- MSyn  << Ptcp  Q       2       8  5m.            |   |      [SLH <Ij>]
+ PS087,004 1sg- ZYq0  << Ptcp  Q       21      9  3.#            |  [>ZKJR <Pr>] [RHB W-BBL <Ob>] [L-JD<J <Co>]
+ PS087,004 ---- CPen  << ZYq0  Q       21     10  5c.            |       |  [HNH <Ij>] [PLCT W-YWR / <M KWC <sp><Fr>]
+ PS087,004 3sgM XQtl [resumpt] Q       21     11  6..            |       |      [ZH <Su>] [JLD <Pr>] [CM <Lo>]
+ PS087,005 3sgM WxY0  << ZYq0  Q       21     12  4..            |      [W-<Cj>] [L-YJWN <Co>] [J>MR <Pr>]
+                               =======                           |           |+===================================================================\
+ PS087,005 3sgM XQtl  <<  [Q]  QQ      211    13  6.q            |            | [>JC W->JC <Su>] [JLD <Pr>] [BH <Aj>]
+                               =======                           |            +===================================================================/
+ PS087,005 3sgM WXYq  << WxY0  Q       21     14  5..            |          [W-<Cj>] [HW> <Su>] [JKWNNH <PO>]
+ PS087,005 ---- Ellp  << WXYq  Q       21     15  6l.            |              [<LJWN <Su>]
+ PS087,006 3sgM XYqt  << Ptcp  Q       2      16  2..           [JHWH <Su>] [JSPR <Pr>]
+ PS087,006 ---- InfC [adjunct] Q       2      17  5..                |   |  [B-KTWB <Pr>] [<MJM <Ob>]
+                               =======                               |+===========================================================================\
+ PS087,006 3sgM XQtl  <<  [Q]  QQ      22     18  4.q                 | [ZH <Su>] [JLD <Pr>] [CM <Lo>]
+ PS087,006 ---- MSyn  << XQtl  QQ      22     19  5m.                 |     [SLH <Ij>]
+                               =======                                +===========================================================================/
+ PS087,007 -plM Ptcp  << XYqt  Q       2      20  3..               [W-<Cj>] [CRJM <PC>] [K-XLLJM <Aj>]
+                               =======                                +===========================================================================\
+ PS087,007 ---- NmCl  <<  [Q]  QQ      23     21  4.q                 | [KL M<JNJ <Su>] [BK <PC>]

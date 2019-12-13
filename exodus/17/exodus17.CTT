@@ -1,0 +1,96 @@
+ EXO 17,01 3plM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JS<W <Pr>] [KL <DT BNJ JFR>L <Su>] [M-MDBR SJN <Co>] [L-MS<JHM <Co>] [<L PJ JHWH <Aj>]
+ EXO 17,01 3plM Way0  << WayX  N       1       2  1..    |  [W-<Cj>] [JXNW <Pr>] [B-RPJDJM <Co>]
+ EXO 17,01 ---- NmCl  << Way0  N       1       3  3..    |       |  [W-<Cj>] [>JN <NC>] [MJM <Su>]
+ EXO 17,01 ---- InfC [adjunct] N       1       4  4..    |       |      [L-CTT <Pr>] [H-<M <Su>]
+ EXO 17,02 3sgM WayX  << Way0  N       11      5  2.#    |      [W-<Cj>] [JRB <Pr>] [H-<M <Su>] [<M MCH <Co>]
+ EXO 17,02 3plM Way0  << WayX  N       11      6  3..    |       |  [W-<Cj>] [J>MRW <Pr>]
+                               =======                   |       |    +===========================================================================\
+ EXO 17,02 2plM ZIm0  <<  [Q]  NQ      111     7  4.q    |       |    | [TNW <Pr>] [LNW <Co>] [MJM <Ob>]
+ EXO 17,02 1pl- WYq0  << ZIm0  NQ      111     8  5..    |       |    |     [W-<Cj>] [NCTH <Pr>]
+                               =======                   |       |    +===========================================================================/
+ EXO 17,02 3sgM WayX  << WayX  N       12      9  2.#    |      [W-<Cj>] [J>MR <Pr>] [LHM <Co>] [MCH <Su>]
+                               =======                   |       |+===============================================================================\
+ EXO 17,02 2plM xYq0  <<  [Q]  NQ      121    10  3.q    |        | [MH <Qu>] [TRJBWN <Pr>] [<MDJ <Co>]
+ EXO 17,02 2plM xYq0  << xYq0  NQ      121    11  3..    |        | [MH <Qu>] [TNSWN <Pr>] [>T JHWH <Ob>]
+                               =======                   |       |+===============================================================================/
+ EXO 17,03 3sgM WayX  << WayX  N       13     12  2.#    |      [W-<Cj>] [JYM> <Pr>] [CM <Lo>] [H-<M <Su>] [L--MJM <Co>]
+ EXO 17,03 3sgM WayX  << WayX  N       14     13  2.#    |      [W-<Cj>] [JLN <Pr>] [H-<M <Su>] [<L MCH <Co>]
+ EXO 17,03 3sgM Way0  << WayX  N       14     14  4..    |           |  [W-<Cj>] [J>MR <Pr>]
+                               =======                   |           |    +=======================================================================\
+ EXO 17,03 2sgM xQt0  <<  [Q]  NQ      141    15  5.q    |           |    | [LMH ZH <Qu>] [H<LJTNW <PO>] [M-MYRJM <Co>]
+ EXO 17,03 ---- InfC [adjunct] NQ      141    16  6..    |           |    |     [L-HMJT <Pr>] [>TJ W->T BNJ W->T MQNJ <Ob>] [B--YM> <Aj>]
+                               =======                   |           |    +=======================================================================/
+ EXO 17,04 3sgM WayX  << WayX  N       142    17  3.#    |          [W-<Cj>] [JY<Q <Pr>] [MCH <Su>] [>L JHWH <Co>]
+ EXO 17,04 ---- InfC [adjunct] N       142    18  4..    |           |  [L->MR <Pr>]
+                               =======                   |           |    +=======================================================================\
+ EXO 17,04 1sg- xYq0  <<  [Q]  NQ      1421   19  5.q    |           |    | [MH <Ob>] [><FH <Pr>] [L--<M H-ZH <Co>]
+ EXO 17,04 ---- NmCl  << xYq0  NQ      1421   20  6..    |           |    |     [<WD <Mo>] [M<V <PC>]
+ EXO 17,04 3pl- WQt0  << NmCl  NQ      1421   21  7..    |           |    |         [W-<Cj>] [SQLNJ <PO>]
+                               =======                   |           |    +=======================================================================/
+ EXO 17,05 3sgM WayX  << WayX  N       143    22  3.#    |          [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L MCH <Co>]
+                               =======                   |           |+===========================================================================\
+ EXO 17,05 2sgM ZIm0  <<  [Q]  NQ      1431   23  4.q    |            | [<BR <Pr>] [L-PNJ H-<M <Co>]
+ EXO 17,05 2sgM WIm0  << ZIm0  NQ      1431   24  7..    |            |      |   |  [W-<Cj>] [QX <Pr>] [>TK <Co>] [M-ZQNJ JFR>L <Ob>]
+ EXO 17,05 ---- Defc  << WIm0  NQ      1431   25  8d.    |            |      |   |      [W-<Cj>] [MVK <Ob>]
+ EXO 17,05 2sgM xQt0 [attrib.] NQ      1431   26 10.e    |            |      |   |           |  [>CR <Re>] [HKJT <Pr>] [BW <Co>] [>T H-J>R <Ob>]
+ EXO 17,05 2sgM ZIm0  << Defc  NQ      1431   27  9..    |            |      |   |          [QX <Pr>] [B-JDK <Co>]
+ EXO 17,05 2sgM WQt0  << ZIm0  NQ      1431   28  6..    |            |      |  [W-<Cj>] [HLKT <Pr>]
+ EXO 17,06 -sgM Ptcp  << ZIm0  NQ      1431   29  5..    |            |     [HNNJ <Is>] [<MD <PC>] [L-PNJK <Aj>] [CM <Lo>] [<L H-YWR / B-XRB <sp><Co>]
+ EXO 17,06 2sgM WQt0  << Ptcp  NQ      1431   30  6..    |            |         [W-<Cj>] [HKJT <Pr>] [B--YWR <Co>]
+ EXO 17,06 3pl- WQtX  << WQt0  NQ      1431   31  7..    |            |             [W-<Cj>] [JY>W <Pr>] [MMNW <Co>] [MJM <Su>]
+ EXO 17,06 3sgM WQtX  << WQtX  NQ      1431   32  8..    |            |                 [W-<Cj>] [CTH <Pr>] [H-<M <Su>]
+                               =======                   |            +===========================================================================/
+ EXO 17,06 3sgM WayX  << WayX  N       144    33  3.#    |          [W-<Cj>] [J<F <Pr>] [KN <Mo>] [MCH <Su>] [L-<JNJ ZQNJ JFR>L <Aj>]
+ EXO 17,07 3sgM Way0  << WayX  N       144    34  4..    |              [W-<Cj>] [JQR> <Pr>] [CM H-MQWM <Ob>] [MSH W-MRJBH <Ob>]
+ EXO 17,07 ---- NmCl  << Way0  N       144    35  5..    |                  [<L RJB BNJ JFR>L <PC>]
+ EXO 17,07 ---- InfC [coordin] N       144    36  6..    |                      [W-<Cj>] [<L NSTM <Ps>] [>T JHWH <Ob>]
+ EXO 17,07 ---- InfC [adjunct] N       144    37  7..    |                          [L->MR <Pr>]
+                               =======                   |                            +===========================================================\
+ EXO 17,07 ---- NmCl  <<  [Q]  NQ      1441   38  8.q    |                            | [H-<Qu>] [JC <eX>] [JHWH <Su>] [B-QRBNW <PC>]
+ EXO 17,07 ---- Ellp  << NmCl  NQ      1441   39  9l.    |                            |     [>M <Cj>] [>JN <Ng>]
+                               =======                                                +===========================================================/
+ EXO 17,08 3sgM WayX  << WayX  N       2      40  0.#   [W-<Cj>] [JB> <Pr>] [<MLQ <Su>]
+ EXO 17,08 3sgM Way0  << WayX  N       2      41  2..    |   |  [W-<Cj>] [JLXM <Pr>] [<M JFR>L <Co>] [B-RPJDM <Lo>]
+ EXO 17,09 3sgM WayX  << WayX  N       21     42  1.#    |  [W-<Cj>] [J>MR <Pr>] [MCH <Su>] [>L JHWC< <Co>]
+                               =======                   |       |+===============================================================================\
+ EXO 17,09 2sgM ZIm0  <<  [Q]  NQ      211    43  3.q    |        | [BXR <Pr>] [LNW <Co>] [>NCJM <Ob>]
+ EXO 17,09 2sgM WIm0  << ZIm0  NQ      211    44  5..    |        |      |  [W-<Cj>] [Y> <Pr>]
+ EXO 17,09 2sgM ZIm0  << WIm0  NQ      211    45  6..    |        |      |      [HLXM <Pr>] [B-<MLQ <Co>]
+ EXO 17,09 -sgM Ptcp  << ZIm0  NQ      211    46  4..    |        |     [MXR <Ti>] [>NKJ <Su>] [NYB <PC>] [<L R>C H-GB<H <Co>]
+ EXO 17,09 ---- NmCl  << Ptcp  NQ      211    47  5..    |        |         [W-<Cj>] [MVH H->LHJM <Su>] [B-JDJ <PC>]
+                               =======                   |       |+===============================================================================/
+ EXO 17,10 3sgM WayX  << WayX  N       212    48  2.#    |      [W-<Cj>] [J<F <Pr>] [JHWC< <Su>]
+ EXO 17,10 3sgM xQtX [adjunct] N       212    49  4..    |       |   |  [K->CR <Cj>] [>MR <Pr>] [LW <Co>] [MCH <Su>]
+ EXO 17,10 ---- InfC [adjunct] N       212    50  5..    |       |   |      [L-HLXM <Pr>] [B-<MLQ <Co>]
+ EXO 17,10 3pl- WXQt  << WayX  N       2121   51  3.#    |       |  [W-<Cj>] [MCH >HRN W-XWR <Su>] [<LW <Pr>] [R>C H-GB<H <Co>]
+ EXO 17,11 3sgM WQt0  << WXQt  N       2121   52  5..    |       |       |  [W-<Cj>] [HJH <Pr>]
+ EXO 17,11 3sgM xYqX [adjunct] N       2121   53  8..    |       |       |       |   |  [K->CR <Cj>] [JRJM <Pr>] [MCH <Su>] [JDW <Ob>]
+ EXO 17,11 3sgM WQtX  << WQt0  N       2121   54  7..    |       |       |       |  [W-<Cj>] [GBR <Pr>] [JFR>L <Su>]
+ EXO 17,11 ---- Ellp  << WQt0  N       2121   55  6l.    |       |       |      [W-<Cj>]
+ EXO 17,11 3sgM xYq0 [adjunct] N       2121   56  8..    |       |       |           |  [K->CR <Cj>] [JNJX <Pr>] [JDW <Ob>]
+ EXO 17,11 3sgM WQtX  << Ellp  N       2121   57  7..    |       |       |          [W-<Cj>] [GBR <Pr>] [<MLQ <Su>]
+ EXO 17,12 -plM AjCl  << WXQt  N       2121   58  4..    |       |      [W-<Cj>] [JDJ MCH <Su>] [KBDJM <PC>]
+ EXO 17,12 3plM Way0  << AjCl  N       2121   59  6..    |       |           |  [W-<Cj>] [JQXW <Pr>] [>BN <Ob>]
+ EXO 17,12 3plM Way0  << Way0  N       2121   60  6..    |       |           |  [W-<Cj>] [JFJMW <Pr>] [TXTJW <Co>]
+ EXO 17,12 3sgM Way0  << Way0  N       2121   61  7..    |       |           |      [W-<Cj>] [JCB <Pr>] [<LJH <Co>]
+ EXO 17,12 3pl- WXQt  << AjCl  N       21211  62  5.#    |       |          [W-<Cj>] [>HRN W-XWR <Su>] [TMKW <Pr>] [B-JDJW <Co>]
+ EXO 17,12 ---- NmCl  << WXQt  N       21211  63  7..    |       |               |  [M-ZH <PC>] [>XD <Su>]
+ EXO 17,12 ---- NmCl  << NmCl  N       21211  64  8..    |       |               |      [W-<Cj>] [M-ZH <PC>] [>XD <Su>]
+ EXO 17,12 3sgM WayX  << WXQt  N       212111 65  6.#    |       |              [W-<Cj>] [JHJ <Pr>] [JDJW <Su>] [>MWNH <PC>]
+ EXO 17,12 ---- InfC [adjunct] N       212111 66  7..    |       |                  [<D B> <Pr>] [H-CMC <Su>]
+ EXO 17,13 3sgM WayX  << WayX  N       213    67  2.#    |      [W-<Cj>] [JXLC <Pr>] [JHWC< <Su>] [>T <MLQ W->T <MW <Ob>] [L-PJ XRB <Aj>]
+ EXO 17,14 3sgM WayX  << WayX  N       3      68  0.#   [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L MCH <Co>]
+                               =======                       |+===================================================================================\
+ EXO 17,14 2sgM ZIm0  <<  [Q]  NQ      31     69  2.q        || [KTB <Pr>] [Z>T <Ob>] [ZKRWN <Pj>] [B--SPR <Co>]
+ EXO 17,14 2sgM WIm0  << ZIm0  NQ      31     70  3..        ||     [W-<Cj>] [FJM <Pr>] [B->ZNJ JHWC< <Co>]
+ EXO 17,14 1sg- xYq0  << WIm0  NQ      31     71  4..        ||         [KJ <Cj>] [MXH <Mo>] [>MXH <Pr>] [>T ZKR <MLQ <Ob>] [M-TXT H-CMJM <Lo>]
+                               =======                        +===================================================================================/
+ EXO 17,15 3sgM WayX  << WayX  N       32     72  1.#       [W-<Cj>] [JBN <Pr>] [MCH <Su>] [MZBX <Ob>]
+ EXO 17,15 3sgM Way0  << WayX  N       32     73  2..           [W-<Cj>] [JQR> <Pr>] [CMW <Ob>]
+                               =======                           |+===============================================================================\
+ EXO 17,15 ---- NmCl [object ] NQ      321    74  3.q             | [JHWH <Su>] [NSJ <PC>]
+                               =======                            +===============================================================================/
+ EXO 17,16 3sgM Way0  << Way0  N       32     75  2..           [W-<Cj>] [J>MR <Pr>]
+                               =======                            +===============================================================================\
+ EXO 17,16 ---- NmCl  <<  [Q]  NQ      322    76  3.q             | [KJ <Cj>] [JD <Su>] [<L KS JH <PC>]
+ EXO 17,16 ---- NmCl  << NmCl  NQ      322    77  4..             |     [MLXMH <Su>] [L-JHWH <PC>] [B-<MLQ <Co>] [M-DR DR <Ti>]

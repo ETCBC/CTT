@@ -1,0 +1,389 @@
+ GEN 24,01 3sgM WXQt  <<  [R]  ?       1       1  0.N   [W-<Cj>] [>BRHM <Su>] [ZQN <Pr>]
+ GEN 24,01 3sgM ZQt0  << WXQt  ?       1       2  3..        |   |  [B> <Pr>] [B--JMJM <Co>]
+                               =======                       |+===================================================================================\
+ GEN 24,01 3sgM WXQt  << WXQt  ??      11      3  2.#        || [W-<Cj>] [JHWH <Su>] [BRK <Pr>] [>T >BRHM <Ob>] [B--KL <Co>]
+                               =======                       |+===================================================================================/
+ GEN 24,02 3sgM WayX  << WXQt  ?N      12      4  1.#       [W-<Cj>] [J>MR <Pr>] [>BRHM <Su>] [>L <BDW / ZQN BJTW <ap><Co>]
+ GEN 24,02 -sgM Ptcp [attrib.] ?N      12      5  3..        ||  |  [H-<Re>] [MCL <PC>] [B-KL <Co>]
+ GEN 24,02 ---- NmCl [reg/rec] ?N      12      6  4..        ||  |      [>CR <Re>] [LW <PC>]
+                               =======                       |+================================================================================\
+ GEN 24,02 2sgM ZIm0  <<  [Q]  ?NQ     121     7  2.q        || [FJM <Pr>] [N> <Ij>] [JDK <Ob>] [TXT JRKJ <Co>]
+ GEN 24,03 1sg- WYq0  << ZIm0  ?NQ     121     8  3..        ||     [W-<Cj>] [>CBJ<K <PO>] [B-JHWH / >LHJ H-CMJM W->LHJ H->RY <ap><Co>]
+ GEN 24,03 2sgM xYq0 [object ] ?NQ     121     9  4..        ||         [>CR <Cj>] [L> <Ng>] [TQX <Pr>] [>CH <Ob>] [L-BNJ <Co>] [M-BNWT H-KN<NJ <Co>]
+ GEN 24,03 -sgM Ptcp [attrib.] ?NQ     121    10  6..        ||              |  [>CR <Re>] [>NKJ <Su>] [JWCB <PC>] [B-QRBW <Co>]
+ GEN 24,04 2sgM xYq0  << xYq0  ?NQ     121    11  5..        ||             [KJ <Cj>] [>L >RYJ W->L MWLDTJ <Co>] [TLK <Pr>]
+ GEN 24,04 2sgM WQt0  << xYq0  ?NQ     121    12  6..        ||                 [W-<Cj>] [LQXT <Pr>] [>CH <Ob>] [L-BNJ / L-JYXQ <ap><Co>]
+                               =======                       |+================================================================================/
+ GEN 24,05 3sgM WayX  << WayX  ?N      13     13  1.#       [W-<Cj>] [J>MR <Pr>] [>LJW <Co>] [H-<BD <Su>]
+                               =======                       |+================================================================================\
+ GEN 24,05 3sgF xYqX  <<  [Q]  ?NQ     131    14  2.q        || [>WLJ <Mo>] [L> <Ng>] [T>BH <Pr>] [H->CH <Su>]
+ GEN 24,05 ---- InfC [adjunct] ?NQ     131    15  4..        ||      |  [L-LKT <Pr>] [>XRJ <Co>] [>L H->RY H-Z>T <Co>]
+ GEN 24,05 1sg- xYq0  << xYqX  ?NQ     131    16  3..        ||     [H-<Qu>] [HCB <Mo>] [>CJB <Pr>] [>T BNK <Ob>] [>L H->RY <Co>]
+ GEN 24,05 2sgM xQt0 [attrib.] ?NQ     131    17  4..        ||         [>CR <Re>] [JY>T <Pr>] [M-CM <Co>]
+                               =======                       |+================================================================================/
+ GEN 24,06 3sgM WayX  << WayX  ?N      14     18  1.#       [W-<Cj>] [J>MR <Pr>] [>LJW <Co>] [>BRHM <Su>]
+                               =======                       |+================================================================================\
+ GEN 24,06 2sgM ZIm0  <<  [Q]  ?NQ     141    19  2.q        || [HCMR <Pr>] [LK <Co>]
+ GEN 24,06 2sgM xYq0 [adjunct] ?NQ     141    20  5..        ||      |   |  [PN <Cj>] [TCJB <Pr>] [>T BNJ <Ob>] [CMH <Co>]
+ GEN 24,07 ---- CPen  << ZIm0  ?NQ     141    21  4c.        ||      |  [JHWH / >LHJ H-CMJM <ap><Fr>]
+ GEN 24,07 3sgM xQt0 [attrib.] ?NQ     141    22  6..        ||      |       |  [>CR <Re>] [LQXNJ <PO>] [M-BJT >BJ W-M->RY MWLDTJ <Co>]
+ GEN 24,07 3sgM WxQ0 [coordin] ?NQ     141    23  7..        ||      |       |      [W-<Cj>] [>CR <Re>] [DBR <Pr>] [LJ <Co>]
+ GEN 24,07 3sgM WxQ0 [coordin] ?NQ     141    24  7..        ||      |       |      [W-<Cj>] [>CR <Re>] [NCB< <Pr>] [LJ <Co>]
+ GEN 24,07 ---- InfC [adjunct] ?NQ     141    25  8..        ||      |       |          [L->MR <Pr>]
+                               =======                       ||      |       |             =================================================\
+ GEN 24,07 1sg- xYq0  <<  [Q]  ?NQQ    1411   26  9.q        ||      |       |              [L-ZR<K <Co>] [>TN <Pr>] [>T H->RY H-Z>T <Ob>]
+                               =======                       ||      |                     =================================================/
+ GEN 24,07 3sgM XYqt [resumpt] ?NQ     141    27  5..        ||      |      [HW> <Su>] [JCLX <Pr>] [ML>KW <Ob>] [L-PNJK <Co>]
+ GEN 24,07 2sgM WQt0  << XYqt  ?NQ     141    28  7..        ||      |           |  [W-<Cj>] [LQXT <Pr>] [>CH <Ob>] [L-BNJ <Co>] [M-CM <Co>]
+ GEN 24,08 3sgF WxYX  << XYqt  ?NQ     141    29  6..        ||      |          [W-<Cj>] [>M <Cj>] [L> <Ng>] [T>BH <Pr>] [H->CH <Su>]
+ GEN 24,08 ---- InfC [adjunct] ?NQ     141    30  8..        ||      |               |  [L-LKT <Pr>] [>XRJK <Co>]
+ GEN 24,08 2sgM WQt0  << WxYX  ?NQ     141    31  7..        ||      |              [W-<Cj>] [NQJT <Pr>] [M-CB<TJ Z>T <Co>]
+ GEN 24,08 2sgM xYq0  << ZIm0  ?NQ     141    32  3..        ||     [RQ >T BNJ <Ob>] [L> <Ng>] [TCB <Pr>] [CMH <Co>]
+                               =======                       |+================================================================================/
+ GEN 24,09 3sgM WayX  << WayX  ?N      15     33  1.#       [W-<Cj>] [JFM <Pr>] [H-<BD <Su>] [>T JDW <Ob>] [TXT JRK >BRHM / >DNJW <ap><Co>]
+ GEN 24,09 3sgM Way0  << WayX  ?N      15     34  2..        || [W-<Cj>] [JCB< <Pr>] [LW <Co>] [<L H-DBR H-ZH <Co>]
+ GEN 24,10 3sgM WayX  << WayX  ?N      16     35  1.#       [W-<Cj>] [JQX <Pr>] [H-<BD <Su>] [<FRH GMLJM / M-GMLJ >DNJW <sp><Ob>]
+ GEN 24,10 3sgM Way0  << WayX  ?N      16     36  2..        || [W-<Cj>] [JLK <Pr>]
+ GEN 24,10 ---- NmCl  << Way0  ?N      16     37  3..        ||  |  [W-<Cj>] [KL VWB >DNJW <Su>] [B-JDW <PC>]
+ GEN 24,10 3sgM Way0  << Way0  ?N      16     38  2..        || [W-<Cj>] [JQM <Pr>]
+ GEN 24,10 3sgM Way0  << Way0  ?N      16     39  2..        || [W-<Cj>] [JLK <Pr>] [>L >RM_NHRJM / >L <JR NXWR <sp><Co>]
+ GEN 24,11 3sgM Way0  << Way0  ?N      16     40  2..        || [W-<Cj>] [JBRK <Pr>] [H-GMLJM <Ob>] [M-XWY / L--<JR / >L B>R H-MJM <sp><sp><Lo>] [L-<T <RB / L-<T <sp><Ti>]
+ GEN 24,11 ---- InfC [reg/rec] ?N      16     41  3..        ||  |  [Y>T <Pr>] [H-C>BT <Su>]
+ GEN 24,12 3sgM Way0  << Way0  ?N      16     42  2..        || [W-<Cj>] [J>MR <Pr>]
+                               =======                       ||  |+============================================================================\
+ GEN 24,12 ---- Voct  <<  [Q]  ?NQ     161    43  3vq        ||  || [JHWH / >LHJ >DNJ / >BRHM <ap><ap><Vo>]
+ GEN 24,12 2sgM ZIm0 [ref.Voc] ?NQ     161    44  4..        ||  ||     [HQRH <Pr>] [N> <Ij>] [L-PNJ <Co>] [H-JWM <Ti>]
+ GEN 24,12 2sgM WIm0  << ZIm0  ?NQ     161    45  6..        ||  ||          |  [W-<Cj>] [<FH <Pr>] [XSD <Ob>] [<M >DNJ / >BRHM <ap><Co>]
+ GEN 24,13 -sgM Ptcp  << ZIm0  ?NQ     161    46  5..        ||  ||         [HNH <Ij>] [>NKJ <Su>] [NYB <PC>] [<L <JN H-MJM <Co>]
+ GEN 24,13 -plF Ptcp  << Ptcp  ?NQ     161    47  7..        ||  ||              |  [W-<Cj>] [BNWT >NCJ H-<JR <Su>] [JY>T <PC>]
+ GEN 24,13 ---- InfC [adjunct] ?NQ     161    48  8..        ||  ||              |      [L-C>B <Pr>] [MJM <Ob>]
+ GEN 24,14 3sgM MSyn  << Ptcp  ?NQ     161    49  6m.        ||  ||             [W-<Cj>] [HJH <Pr>]
+ GEN 24,14 ---- CPen  << MSyn  ?NQ     161    50  7c.        ||  ||                 [H-N<R <Fr>]
+ GEN 24,14 1sg- xYq0 [attrib.] ?NQ     161    51  9..        ||  ||                      |  [>CR <Re>] [>MR <Pr>] [>LJH <Co>]
+                               =======                       ||  ||                      |       |+=========================================\
+ GEN 24,14 2sgF ZIm0  <<  [Q]  ?NQQ    1611   52 11.q        ||  ||                      |        | [HVJ <Pr>] [N> <Ij>] [KDK <Ob>]
+ GEN 24,14 1sg- WYq0  << ZIm0  ?NQQ    1611   53 12..        ||  ||                      |        |     [W-<Cj>] [>CTH <Pr>]
+                               =======                       ||  ||                      |        +=========================================/
+ GEN 24,14 3sgF WQt0 [coordin] ?NQ     161    54 10..        ||  ||                      |      [W-<Cj>] [>MRH <Pr>]
+                               =======                       ||  ||                      |        +=========================================\
+ GEN 24,14 2sgM ZIm0  <<  [Q]  ?NQQ    1612   55 11.q        ||  ||                      |        | [CTH <Pr>]
+ GEN 24,14 1sg- WxY0  << ZIm0  ?NQQ    1612   56 12..        ||  ||                      |        |     [W-<Cj>] [GM GMLJK <Ob>] [>CQH <Pr>]
+                               =======                       ||  ||                               +=========================================/
+ GEN 24,14 2sgM xQt0 [resumpt] ?NQ     161    57  8..        ||  ||                     [>TH <Ob>] [HKXT <Pr>] [L-<BDK / L-JYXQ <ap><Co>]
+ GEN 24,14 1sg- WxY0  << xQt0  ?NQ     161    58  9..        ||  ||                         [W-<Cj>] [BH <Co>] [>D< <Pr>]
+ GEN 24,14 2sgM xQt0 [object ] ?NQ     161    59 10..        ||  ||                             [KJ <Cj>] [<FJT <Pr>] [XSD <Ob>] [<M >DNJ <Co>]
+                               =======                       ||   +============================================================================/
+ GEN 24,15 3sgM MSyn  << Way0  ?N      162    60  2m#        || [W-<Cj>] [JHJ <Pr>]
+ GEN 24,15 3sgM XQtl  << MSyn  ?N      162    61  3..        ||     [HW> <Su>] [VRM <Mo>] [KLH <Pr>]
+ GEN 24,15 ---- InfC [adjunct] ?N      162    62  5..        ||      |   |  [L-DBR <Pr>]
+ GEN 24,15 -sgF Ptcp  << XQtl  ?N      162    63  4..        ||      |  [W-<Cj>] [HNH <Ij>] [RBQH <Su>] [JY>T <PC>]
+ GEN 24,15 3sgF xQt0 [attrib.] ?N      162    64 11..        ||      |       |   |   |   |   |   |  [>CR <Re>] [JLDH <Pr>] [L-BTW>L / BN MLKH / >CT NXWR / >XJ >BRHM <ap><ap><ap><Co>]
+ GEN 24,15 ---- NmCl  << Ptcp  ?N      162    65 10..        ||      |       |   |   |   |   |  [W-<Cj>] [KDH <Su>] [<L CKMH <PC>]
+ GEN 24,16 -sgM AjCl  << Ptcp  ?N      162    66  9..        ||      |       |   |   |   |  [W-<Cj>] [H-N<R <Su>] [VBT MR>H M>D <PC>]
+ GEN 24,16 ---- NmCl [coordin] ?N      162    67 10..        ||      |       |   |   |   |      [BTWLH <PC>]
+ GEN 24,16 3sgM WXQt  << NmCl  ?N      162    68 11..        ||      |       |   |   |   |          [W-<Cj>] [>JC <Su>] [L> <Ng>] [JD<H <PO>]
+ GEN 24,16 3sgF Way0  << Ptcp  ?N      162    69  8..        ||      |       |   |   |  [W-<Cj>] [TRD <Pr>] [H-<JNH <Co>]
+ GEN 24,16 3sgF Way0  << Way0  ?N      162    70  8..        ||      |       |   |   |  [W-<Cj>] [TML> <Pr>] [KDH <Ob>]
+ GEN 24,16 3sgF Way0  << Way0  ?N      162    71  8..        ||      |       |   |   |  [W-<Cj>] [T<L <Pr>]
+ GEN 24,17 3sgM WayX  << Ptcp  ?N      1621   72  7.#        ||      |       |   |  [W-<Cj>] [JRY <Pr>] [H-<BD <Su>]
+ GEN 24,17 ---- InfC [adjunct] ?N      1621   73  9..        ||      |       |   |       |  [L-QR>TH <PO>]
+ GEN 24,17 3sgM Way0  << WayX  ?N      1621   74  8..        ||      |       |   |      [W-<Cj>] [J>MR <Pr>]
+                               =======                       ||      |       |   |       |+====================================================\
+ GEN 24,17 2sgF ZIm0  <<  [Q]  ?NQ     16211  75  9.q        ||      |       |   |        | [HGMJ>JNJ <PO>] [N> <Ij>] [M<V MJM <Ob>] [M-KDK <Co>]
+                               =======                       ||      |       |   |       |+====================================================/
+ GEN 24,18 3sgF Way0  << Way0  ?N      16212  76  8.#        ||      |       |   |      [W-<Cj>] [T>MR <Pr>]
+                               =======                       ||      |       |   |       |+====================================================\
+ GEN 24,18 2sgM ZIm0  <<  [Q]  ?NQ     162121 77  9.q        ||      |       |   |        | [CTH <Pr>]
+ GEN 24,18 ---- Voct  << ZIm0  ?NQ     162121 78 10v.        ||      |       |   |        |     [>DNJ <Vo>]
+                               =======                       ||      |       |   |       |+====================================================/
+ GEN 24,18 3sgF Way0  << Way0  ?N      16212  79  8..        ||      |       |   |      [W-<Cj>] [TMHR <Pr>]
+ GEN 24,18 3sgF Way0  << Way0  ?N      16212  80  8..        ||      |       |   |      [W-<Cj>] [TRD <Pr>] [KDH <Ob>] [<L JDH <Co>]
+ GEN 24,18 3sgF Way0  << Way0  ?N      16212  81  9..        ||      |       |   |          [W-<Cj>] [TCQHW <PO>]
+ GEN 24,19 3sgF Way0  << Way0  ?N      16212  82 10..        ||      |       |   |              [W-<Cj>] [TKL <Pr>]
+ GEN 24,19 ---- InfC [adjunct] ?N      16212  83 11..        ||      |       |   |               |  [L-HCQTW <PO>]
+ GEN 24,19 3sgF Way0  << Way0  ?N      16212  84 10..        ||      |       |   |              [W-<Cj>] [T>MR <Pr>]
+                               =======                       ||      |       |   |               |+============================================\
+ GEN 24,19 1sg- xYq0  <<  [Q]  ?NQ     162122 85 11.q        ||      |       |   |                | [GM L-GMLJK <Co>] [>C>B <Pr>]
+ GEN 24,19 3pl- xQt0  << xYq0  ?NQ     162122 86 12..        ||      |       |   |                |     [<D >M <Cj>] [KLW <Pr>]
+ GEN 24,19 ---- InfC [adjunct] ?NQ     162122 87 13..        ||      |       |   |                |         [L-CTT <Pr>]
+                               =======                       ||      |       |   |               |+============================================/
+ GEN 24,20 3sgF Way0  << Way0  ?N      16212  88 10..        ||      |       |   |              [W-<Cj>] [TMHR <Pr>]
+ GEN 24,20 3sgF Way0  << Way0  ?N      16212  89 10..        ||      |       |   |              [W-<Cj>] [T<R <Pr>] [KDH <Ob>] [>L H-CQT <Co>]
+ GEN 24,20 3sgF Way0  << Way0  ?N      16212  90 10..        ||      |       |   |              [W-<Cj>] [TRY <Pr>] [<WD <Mo>] [>L H-B>R <Co>]
+ GEN 24,20 ---- InfC [adjunct] ?N      16212  91 11..        ||      |       |   |               |  [L-C>B <Pr>]
+ GEN 24,20 3sgF Way0  << Way0  ?N      16212  92 10..        ||      |       |   |              [W-<Cj>] [TC>B <Pr>] [L-KL GMLJW <Co>]
+ GEN 24,21 -sgM Ptcp  << Way0  ?N      16212  93 11..        ||      |       |   |                  [W-<Cj>] [H->JC <Su>] [MCT>H <PC>] [LH <Co>] [MXRJC <Pj>]
+ GEN 24,21 ---- InfC [adjunct] ?N      16212  94 12..        ||      |       |   |                      [L-D<T <Pr>]
+ GEN 24,21 3sgM xQtX [object ] ?N      16212  95 13..        ||      |       |   |                          [H-<Qu>] [HYLJX <Pr>] [JHWH <Su>] [DRKW <Ob>]
+ GEN 24,21 ---- Ellp  << xQtX  ?N      16212  96 14l.        ||      |       |   |                              [>M <Cj>] [L> <Ng>]
+ GEN 24,22 3sgM Way0  << Ptcp  ?N      1622   97  6.#        ||      |       |  [W-<Cj>] [JHJ <Pr>]
+ GEN 24,22 3pl- xQtX [adjunct] ?N      1622   98  8..        ||      |       |       |  [K->CR <Cj>] [KLW <Pr>] [H-GMLJM <Su>]
+ GEN 24,22 ---- InfC [adjunct] ?N      1622   99  9..        ||      |       |       |      [L-CTWT <Pr>]
+ GEN 24,22 3sgM WayX  << Way0  ?N      16221 100  7.#        ||      |       |      [W-<Cj>] [JQX <Pr>] [H->JC <Su>] [NZM ZHB <Ob>]
+ GEN 24,22 ---- NmCl [attrib.] ?N      16221 101 10..        ||      |       |       |   |   |  [BQ< <PC>] [MCQLW <Su>]
+ GEN 24,22 ---- Ellp  << WayX  ?N      16221 102  9l.        ||      |       |       |   |  [W-<Cj>] [CNJ YMJDJM <Ob>] [<L JDJH <Co>]
+ GEN 24,22 ---- NmCl [attrib.] ?N      16221 103 10..        ||      |       |       |   |      [<FRH ZHB <PC>] [MCQLM <Su>]
+ GEN 24,23 3sgM Way0  << WayX  ?N      16221 104  8..        ||      |       |       |  [W-<Cj>] [J>MR <Pr>]
+                               =======                       ||      |       |       |       |+================================================\
+ GEN 24,23 ---- NmCl  <<  [Q]  ?NQ     162211105 10.q        ||      |       |       |        | [BT MJ <PC>] [>T <Su>]
+ GEN 24,23 2sgF ZIm0  << NmCl  ?NQ     162211106 11..        ||      |       |       |        |     [HGJDJ <Pr>] [N> <Ij>] [LJ <Co>]
+ GEN 24,23 ---- NmCl [object ] ?NQ     162211107 12..        ||      |       |       |        |         [H-<Qu>] [JC <eX>] [BJT >BJK <Lo>] [MQWM <Su>] [LNW <PC>]
+ GEN 24,23 ---- InfC [adjunct] ?NQ     162211108 13..        ||      |       |       |        |             [L-LJN <Pr>]
+                               =======                       ||      |       |       |       |+================================================/
+ GEN 24,24 3sgF Way0  << Way0  ?N      16221 109  9..        ||      |       |       |      [W-<Cj>] [T>MR <Pr>] [>LJW <Co>]
+                               =======                       ||      |       |       |       |+================================================\
+ GEN 24,24 ---- NmCl  <<  [Q]  ?NQ     162212110 10.q        ||      |       |       |        | [BT BTW>L <PC>] [>NKJ / BN MLKH <ap><Su>]
+ GEN 24,24 3sgF xQt0 [attrib.] ?NQ     162212111 11..        ||      |       |       |        |     [>CR <Re>] [JLDH <Pr>] [L-NXWR <Co>]
+                               =======                       ||      |       |       |        +================================================/
+ GEN 24,25 3sgF Way0  << Way0  ?N      16221 112  9..        ||      |       |       |      [W-<Cj>] [T>MR <Pr>] [>LJW <Co>]
+                               =======                       ||      |       |       |        +================================================\
+ GEN 24,25 -sgM AjCl  <<  [Q]  ?NQ     162213113 10.q        ||      |       |       |        | [GM TBN GM MSPW> <Su>] [RB <PC>] [<MNW <Aj>]
+ GEN 24,25 ---- Ellp  << AjCl  ?NQ     162213114 11l.        ||      |       |       |        |     [GM MQWM <Su>]
+ GEN 24,25 ---- InfC [adjunct] ?NQ     162213115 12..        ||      |       |       |        |         [L-LWN <Pr>]
+                               =======                       ||      |       |       |        +================================================/
+ GEN 24,26 3sgM WayX  << WayX  ?N      16222 116  7.#        ||      |       |      [W-<Cj>] [JQD <Pr>] [H->JC <Su>]
+ GEN 24,26 3sgM Way0  << WayX  ?N      16222 117  8..        ||      |       |       |  [W-<Cj>] [JCTXW <Pr>] [L-JHWH <Co>]
+ GEN 24,27 3sgM Way0  << Way0  ?N      16222 118  8..        ||      |       |       |  [W-<Cj>] [J>MR <Pr>]
+                               =======                       ||      |       |       |    +====================================================\
+ GEN 24,27 -sgM Ptcp  <<  [Q]  ?NQ     162221119  9.q        ||      |       |       |    | [BRWK <PC>] [JHWH / >LHJ >DNJ / >BRHM <ap><ap><Su>]
+ GEN 24,27 3sgM xQt0 [attrib.] ?NQ     162221120 11..        ||      |       |       |    |      |  [>CR <Re>] [L> <Ng>] [<ZB <Pr>] [XSDW W->MTW <Ob>] [M-<M >DNJ <Co>]
+ GEN 24,27 ---- CPen  << Ptcp  ?NQ     162221121 10c.        ||      |       |       |    |     [>NKJ <Fr>]
+ GEN 24,27 3sgM xQtX [resumpt] ?NQ     162221122 11..        ||      |       |       |    |         [B--DRK <Co>] [NXNJ <PO>] [JHWH <Su>] [BJT >XJ >DNJ <Co>]
+                               =======                       ||      |       |            +====================================================/
+ GEN 24,28 3sgF WayX  << WayX  ?N      16223 123  7.#        ||      |       |      [W-<Cj>] [TRY <Pr>] [H-N<R <Su>]
+ GEN 24,28 3sgF Way0  << WayX  ?N      16223 124  8..        ||      |       |          [W-<Cj>] [TGD <Pr>] [L-BJT >MH <Co>] [K--DBRJM H->LH <Aj>]
+ GEN 24,29 ---- NmCl  << Ptcp  ?N      162   125  5..        ||      |      [W-<Cj>] [L-RBQH <PC>] [>X <Su>]
+ GEN 24,29 ---- NmCl  << NmCl  ?N      162   126  7..        ||      |           |  [W-<Cj>] [CMW <Su>] [LBN <PC>]
+ GEN 24,29 3sgM WayX  << NmCl  ?N      1623  127  6.#        ||      |          [W-<Cj>] [JRY <Pr>] [LBN <Su>] [>L H->JC <Co>] [H-XWYH <Co>] [>L H-<JN <Co>]
+ GEN 24,30 3sgM Way0  << WayX  ?N      16231 128  7.#        ||      |              [W-<Cj>] [JHJ <Pr>]
+ GEN 24,30 ---- InfC [adjunct] ?N      16231 129  9..        ||      |                   |  [K-R>T <Pr>] [>T H-NZM W->T H-YMDJM / <L JDJ >XTW <sp><Ob>]
+ GEN 24,30 ---- InfC [coordin] ?N      16231 130 10..        ||      |                   |      [W-<Cj>] [K-CM<W <Ps>] [>T DBRJ RBQH / >XTW <ap><Ob>]
+ GEN 24,30 ---- InfC [adjunct] ?N      16231 131 11..        ||      |                   |          [L->MR <Pr>]
+                               =======                       ||      |                   |            +========================================\
+ GEN 24,30 3sgM xQtX  <<  [Q]  ?NQ     162311132 12.q        ||      |                   |            | [KH <Mo>] [DBR <Pr>] [>LJ <Co>] [H->JC <Su>]
+                               =======                       ||      |                   |            +========================================/
+ GEN 24,30 3sgM Way0  << Way0  ?N      16231 133  8..        ||      |                  [W-<Cj>] [JB> <Pr>] [>L H->JC <Co>]
+ GEN 24,30 -sgM Ptcp  << Way0  ?N      16231 134  9..        ||      |                   |  [W-<Cj>] [HNH <Ij>] [<MD <PC>] [<L H-GMLJM <Co>] [<L H-<JN <Lo>]
+ GEN 24,31 3sgM Way0  << Way0  ?N      16231 135  8..        ||      |                  [W-<Cj>] [J>MR <Pr>]
+                               =======                       ||      |                    +====================================================\
+ GEN 24,31 2sgM ZIm0  <<  [Q]  ?NQ     162312136  9.q        ||      |                    | [BW> <Pr>]
+ GEN 24,31 ---- Voct  << ZIm0  ?NQ     162312137 11v.        ||      |                    |      |  [BRWK JHWH <Vo>]
+ GEN 24,31 2sgM xYq0  << ZIm0  ?NQ     162312138 10..        ||      |                    |     [LMH <Qu>] [T<MD <Pr>] [B--XWY <Co>]
+ GEN 24,31 1sg- WXQt  << xYq0  ?NQ     162312139 11.#        ||      |                    |         [W-<Cj>] [>NKJ <Su>] [PNJTJ <Pr>] [H-BJT W-MQWM / L--GMLJM <sp><Ob>]
+                               =======                       ||                           +====================================================/
+ GEN 24,32 3sgM WayX  << XQtl  ?N      1624  140  3.#        ||     [W-<Cj>] [JB> <Pr>] [H->JC <Su>] [H-BJTH <Co>]
+ GEN 24,32 3sgM Way0  << WayX  ?N      1624  141  4..        ||         [W-<Cj>] [JPTX <Pr>] [H-GMLJM <Ob>]
+ GEN 24,32 3sgM Way0  << Way0  ?N      1624  142  4..        ||         [W-<Cj>] [JTN <Pr>] [TBN W-MSPW> <Ob>] [L--GMLJM <Co>]
+ GEN 24,32 ---- Ellp  << Way0  ?N      1624  143  5l.        ||          |  [W-<Cj>] [MJM <Ob>]
+ GEN 24,32 ---- InfC [adjunct] ?N      1624  144  6..        ||          |      [L-RXY <Pr>] [RGLJW W-RGLJ H->NCJM <Ob>]
+ GEN 24,32 ---- NmCl [attrib.] ?N      1624  145  7..        ||          |          [>CR <Re>] [>TW <PC>]
+ GEN 24,33 3sgM Way0  << Way0  ?N      1624  146  4..        ||         [W-<Cj>] [JJFM <Pr>] [L-PNJW <Co>]
+ GEN 24,33 ---- InfC [adjunct] ?N      1624  147  5..        ||          |  [L->KL <Pr>]
+ GEN 24,33 3sgM Way0  << Way0  ?N      16241 148  4.#        ||         [W-<Cj>] [J>MR <Pr>]
+                               =======                       ||          |+====================================================================\
+ GEN 24,33 1sg- xYq0  <<  [Q]  ?NQ     162411149  5.q        ||           | [L> <Ng>] [>KL <Pr>]
+ GEN 24,33 1sg- xQt0  << xYq0  ?NQ     162411150  6..        ||           |     [<D >M <Cj>] [DBRTJ <Pr>] [DBRJ <Ob>]
+                               =======                       ||          |+====================================================================/
+ GEN 24,33 3sgM Way0  << Way0  ?N      16242 151  4.#        ||         [W-<Cj>] [J>MR <Pr>]
+                               =======                       ||          |+====================================================================\
+ GEN 24,33 2sgM ZIm0  <<  [Q]  ?NQ     162421152  5.q        ||           | [DBR <Pr>]
+                               =======                       ||          |+====================================================================/
+ GEN 24,34 3sgM Way0  << Way0  ?N      16243 153  4.#        ||         [W-<Cj>] [J>MR <Pr>]
+                               =======                       ||          |+====================================================================\
+ GEN 24,34 ---- NmCl  <<  [Q]  ?NQ     162431154  5.q        ||           | [<BD >BRHM <PC>] [>NKJ <Su>]
+ GEN 24,35 3sgM WXQt  << NmCl  ?NQ     162431155  7.#        ||           |      |  [W-<Cj>] [JHWH <Su>] [BRK <Pr>] [>T >DNJ <Ob>] [M>D <Mo>]
+                               -------                       ||          ||      |       |+-------------------------------------------------\
+ GEN 24,35 3sgM Way0  << WXQt  ?NQN    162431156  9..        ||           |      |        | [W-<Cj>] [JGDL <Pr>]
+ GEN 24,35 3sgM Way0  << WXQt  ?NQN    162431157  8..        ||           |      |      [W-<Cj>] [JTN <Pr>] [LW <Co>] [Y>N W-BQR W-KSP W-ZHB W-<BDM W-CPXT W-GMLJM W-XMRJM <Ob>]
+ GEN 24,36 3sgF WayX  << Way0  ?NQN    162431158  9.#        ||           |      |        | [W-<Cj>] [TLD <Pr>] [FRH / >CT >DNJ <ap><Su>] [BN <Ob>] [L->DNJ <Co>] [>XRJ ZQNTH <Aj>]
+ GEN 24,36 3sgM Way0  << WayX  ?NQN    162431159 10..        ||           |      |        |  |  [W-<Cj>] [JTN <Pr>] [LW <Co>] [>T KL <Ob>]
+ GEN 24,36 ---- NmCl [reg/rec] ?NQN    162431160 11..        ||           |      |        |  |      [>CR <Re>] [LW <PC>]
+ GEN 24,37 3sgM WayX  << WayX  ?NQN    162431161  9.#        ||           |      |        | [W-<Cj>] [JCB<NJ <PO>] [>DNJ <Su>]
+ GEN 24,37 ---- InfC [adjunct] ?NQN    162431162 11..        ||           |      |        |      |  [L->MR <Pr>]
+                               =======                       ||          ||      |        |      |    +==================================\
+ GEN 24,37 2sgM xYq0  <<  [Q]  ?NQNQ   162431163 12.q        ||           |      |        |      |   || [L> <Ng>] [TQX <Pr>] [>CH <Ob>] [L-BNJ <Co>] [M-BNWT H-KN<NJ <Co>]
+ GEN 24,37 -sgM Ptcp [attrib.] ?NQNQ   162431164 14..        ||           |      |        |      |   ||      |  [>CR <Re>] [>NKJ <Su>] [JCB <PC>] [B->RYW <Co>]
+ GEN 24,38 2sgM xYq0  << xYq0  ?NQNQ   162431165 13..        ||           |      |        |      |   ||     [>M <Cj>] [L> <Ng>] [>L BJT >BJ <Co>] [TLK / W-/ >L MCPXTJ <pa><cj><Pr>]
+ GEN 24,38 2sgM WQt0  << xYq0  ?NQNQ   162431166 14..        ||           |      |        |      |   ||         [W-<Cj>] [LQXT <Pr>] [>CH <Ob>] [L-BNJ <Co>]
+                               =======                       ||          ||      |        |      |    +==================================/
+ GEN 24,39 1sg- Way0  << WayX  ?NQN    162431167 10..        ||           |      |        |     [W-<Cj>] [>MR <Pr>] [>L >DNJ <Co>]
+                               =======                       ||          ||      |        |      |+======================================\
+ GEN 24,39 3sgF xYqX  <<  [Q]  ?NQNQ   162431168 11.q        ||           |      |        |      || [>LJ <Mo>] [L> <Ng>] [TLK <Pr>] [H->CH <Su>] [>XRJ <Co>]
+                               =======                       ||          ||      |        |      |+======================================/
+ GEN 24,40 3sgM Way0  << Way0  ?NQN    162431169 10.#        ||           |      |        |     [W-<Cj>] [J>MR <Pr>] [>LJ <Co>]
+                               =======                       ||          ||      |        |      |+======================================\
+ GEN 24,40 ---- Defc  <<  [Q]  ?NQNQ   162431170 11dq        ||           |      |        |      || [JHWH <Su>]
+ GEN 24,40 1sg- xQt0 [attrib.] ?NQNQ   162431171 15.e        ||           |      |        |      ||      |   |   |  [>CR <Re>] [HTHLKTJ <Pr>] [L-PNJW <Co>]
+ GEN 24,40 3sgM ZYq0  << Defc  ?NQNQ   162431172 14..        ||           |      |        |      ||      |   |  [JCLX <Pr>] [ML>KW <Ob>] [>TK <Co>]
+ GEN 24,40 3sgM WQt0  << Defc  ?NQNQ   162431173 13..        ||           |      |        |      ||      |  [W-<Cj>] [HYLJX <Pr>] [DRKK <Ob>]
+ GEN 24,40 2sgM WQt0  << WQt0  ?NQNQ   162431174 14..        ||           |      |        |      ||      |      [W-<Cj>] [LQXT <Pr>] [>CH <Ob>] [L-BNJ <Co>] [M-MCPXTJ W-M-BJT >BJ <Co>]
+ GEN 24,41 2sgM xYq0  << Defc  ?NQNQ   162431175 12..        ||           |      |        |      ||     [>Z <Ti>] [TNQH <Pr>] [M->LTJ <Co>]
+ GEN 24,41 2sgM xYq0  << xYq0  ?NQNQ   162431176 13..        ||           |      |        |      ||         [KJ <Cj>] [TBW> <Pr>] [>L MCPXTJ <Co>]
+ GEN 24,41 3plM WxY0  << xYq0  ?NQNQ   162431177 15..        ||           |      |        |      ||              |  [W-<Cj>] [>M <Cj>] [L> <Ng>] [JTNW <Pr>] [LK <Co>]
+ GEN 24,41 2sgM WQt0  << xYq0  ?NQNQ   162431178 14..        ||           |      |        |      ||             [W-<Cj>] [HJJT <Pr>] [NQJ <PC>] [M->LTJ <Co>]
+                               =======                       ||          ||      |        |      |+======================================/
+ GEN 24,42 1sg- Way0  << Way0  ?NQN    162431179 10.#        ||           |      |        |     [W-<Cj>] [>B> <Pr>] [H-JWM <Ti>] [>L H-<JN <Co>]
+ GEN 24,42 1sg- Way0  << Way0  ?NQN    162431180 10..        ||           |      |        |     [W-<Cj>] [>MR <Pr>]
+                               =======                       ||          ||      |        |          |+==================================\
+ GEN 24,42 ---- Voct  <<  [Q]  ?NQNQ   162431181 12vq        ||           |      |        |          || [JHWH / >LHJ >DNJ / >BRHM <ap><ap><Vo>]
+ GEN 24,42 -sgM Ptcp [ref.Voc] ?NQNQ   162431182 14..        ||           |      |        |          ||      |  [>M <Cj>] [JCK <Xs>] [N> <Ij>] [MYLJX <PC>] [DRKJ <Ob>]
+ GEN 24,42 -sgM Ptcp [attrib.] ?NQNQ   162431183 15..        ||           |      |        |          ||      |      [>CR <Re>] [>NKJ <Su>] [HLK <PC>] [<LJH <Co>]
+ GEN 24,43 -sgM Ptcp  << Voct  ?NQNQ   162431184 13..        ||           |      |        |          ||     [HNH <Ij>] [>NKJ <Su>] [NYB <PC>] [<L <JN H-MJM <Co>]
+ GEN 24,43 3sgM MSyn  << Ptcp  ?NQNQ   162431185 14m.        ||           |      |        |          ||         [W-<Cj>] [HJH <Pr>]
+ GEN 24,43 ---- CPen  << MSyn  ?NQNQ   162431186 15c.        ||           |      |        |          ||             [H-<LMH <Fr>]
+ GEN 24,43 -sgF Ptcp [attrib.] ?NQNQ   162431187 17..        ||           |      |        |          ||                  |  [H-<Re>] [JY>T <PC>]
+ GEN 24,43 ---- InfC [adjunct] ?NQNQ   162431188 19..        ||           |      |        |          ||                  |       |  [L-C>B <Pr>]
+ GEN 24,43 1sg- WQt0  << Ptcp  ?NQNQ   162431189 18..        ||           |      |        |          ||                  |      [W-<Cj>] [>MRTJ <Pr>] [>LJH <Co>]
+                               =======                       ||          ||      |        |          ||                  |           |+\
+ GEN 24,43 2sgF ZIm0  <<  [Q]  ?NQNQQ  162431190 20.q        ||           |      |        |          ||                  |            | [HCQJNJ <PO>] [N> <Ij>] [M<V MJM <Ob>] [M-KDK <Co>]
+                               =======                       ||          ||      |        |          ||                  |            +/
+ GEN 24,44 3sgF WQt0  << WQt0  ?NQNQ   162431191 19..        ||           |      |        |          ||                  |          [W-<Cj>] [>MRH <Pr>] [>LJ <Co>]
+                               =======                       ||          ||      |        |          ||                  |            +\
+ GEN 24,44 2sgM XImp  <<  [Q]  ?NQNQQ  162431192 20.q        ||           |      |        |          ||                  |            | [GM >TH <Su>] [CTH <Pr>]
+ GEN 24,44 1sg- WxY0  << XImp  ?NQNQQ  162431193 21..        ||           |      |        |          ||                  |            |     [W-<Cj>] [GM L-GMLJK <Co>] [>C>B <Pr>]
+                               =======                       ||          ||      |        |          ||                               +/
+ GEN 24,44 ---- NmCl [resumpt] ?NQNQ   162431194 16..        ||           |      |        |          ||                 [HW> <Su>] [H->CH <PC>]
+ GEN 24,44 3sgM xQtX [attrib.] ?NQNQ   162431195 17..        ||           |      |        |          ||                     [>CR <Re>] [HKJX <Pr>] [JHWH <Su>] [L-BN >DNJ <Co>]
+                               =======                       ||          ||      |        |           +==================================/
+ GEN 24,45 1sg- XYqt  << Way0  ?NQND   162431196 11..        ||           |      |        |         [>NJ <Su>] [VRM <Mo>] [>KLH <Pr>]
+ GEN 24,45 ---- InfC [adjunct] ?NQND   162431197 13..        ||           |      |        |          ||  |  [L-DBR <Pr>] [>L LBJ <Co>]
+ GEN 24,45 -sgF Ptcp  << XYqt  ?NQND   162431198 12..        ||           |      |        |          || [W-<Cj>] [HNH <Ij>] [RBQH <Su>] [JY>T <PC>]
+ GEN 24,45 ---- NmCl  << Ptcp  ?NQND   162431199 14..        ||           |      |        |          ||      |  [W-<Cj>] [KDH <Su>] [<L CKMH <PC>]
+                               -------                       ||          ||      |        |           |   +---------------------------\
+ GEN 24,45 3sgF Way0  << Ptcp  ?NQNDN  162431200 13..        ||           |      |        |          ||   | [W-<Cj>] [TRD <Pr>] [H-<JNH <Co>]
+ GEN 24,45 3sgF Way0  << Way0  ?NQNDN  162431201 13..        ||           |      |        |          ||   | [W-<Cj>] [TC>B <Pr>]
+ GEN 24,45 1sg- Way0  << Way0  ?NQNDN  162431202 13.#        ||           |      |        |          ||   | [W-<Cj>] [>MR <Pr>] [>LJH <Co>]
+                               =======                       ||          ||      |        |           |   |  |+====================\
+ GEN 24,45 2sgF ZIm0  <<  [Q]  ?NQNDNQ 162431203 14.q        ||           |      |        |          ||   |  || [HCQJNJ <PO>] [N> <Ij>]
+                               =======                       ||          ||      |        |           |   |  |+====================/
+ GEN 24,46 3sgF Way0  << Way0  ?NQNDN  162431204 13.#        ||           |      |        |          ||   | [W-<Cj>] [TMHR <Pr>]
+ GEN 24,46 3sgF Way0  << Way0  ?NQNDN  162431205 13..        ||           |      |        |          ||   | [W-<Cj>] [TWRD <Pr>] [KDH <Ob>] [M-<LJH <Co>]
+ GEN 24,46 3sgF Way0  << Way0  ?NQNDN  162431206 13..        ||           |      |        |          ||   | [W-<Cj>] [T>MR <Pr>]
+                               =======                       ||          ||      |        |           |   |  |+====================\
+ GEN 24,46 2sgM ZIm0  <<  [Q]  ?NQNDNQ 162431207 14.q        ||           |      |        |          ||   |  || [CTH <Pr>]
+ GEN 24,46 1sg- WxY0  << ZIm0  ?NQNDNQ 162431208 15..        ||           |      |        |          ||   |  ||     [W-<Cj>] [GM GMLJK <Ob>] [>CQH <Pr>]
+                               =======                       ||          ||      |        |           |   |  |+====================/
+ GEN 24,46 1sg- Way0  << Way0  ?NQNDN  162431209 13.#        ||           |      |        |          ||   | [W-<Cj>] [>CT <Pr>]
+ GEN 24,46 3sgF WxQ0  << Way0  ?NQNDN  162431210 14.#        ||           |      |        |          ||   |  |  [W-<Cj>] [GM H-GMLJM <Ob>] [HCQTH <Pr>]
+ GEN 24,47 1sg- Way0  << Way0  ?NQNDN  162431211 13..        ||           |      |        |          ||   | [W-<Cj>] [>C>L <Pr>] [>TH <Ob>]
+ GEN 24,47 1sg- Way0  << Way0  ?NQNDN  162431212 13..        ||           |      |        |          ||   | [W-<Cj>] [>MR <Pr>]
+                               =======                       ||          ||      |        |           |   |  |+====================\
+ GEN 24,47 ---- NmCl  <<  [Q]  ?NQNDNQ 162431213 14.q        ||           |      |        |          ||   |  || [BT MJ <PC>] [>T <Su>]
+                               =======                       ||          ||      |        |           |   |  |+====================/
+ GEN 24,47 3sgF Way0  << Way0  ?NQNDN  162431214 13.#        ||           |      |        |          ||   | [W-<Cj>] [T>MR <Pr>]
+                               =======                       ||          ||      |        |           |   |  |+====================\
+ GEN 24,47 ---- NmCl  <<  [Q]  ?NQNDNQ 162431215 14.q        ||           |      |        |          ||   |  || [BT BTW>L / BN NXWR <ap><PC>]
+ GEN 24,47 3sgF xQtX [attrib.] ?NQNDNQ 162431216 15..        ||           |      |        |          ||   |  ||     [>CR <Re>] [JLDH <Pr>] [LW <Co>] [MLKH <Su>]
+                               =======                       ||          ||      |        |           |   |  |+====================/
+ GEN 24,47 1sg- Way0  << Way0  ?NQNDN  162431217 13.#        ||           |      |        |          ||   | [W-<Cj>] [>FM <Pr>] [H-NZM <Ob>] [<L >PH <Co>]
+ GEN 24,47 ---- Ellp  << Way0  ?NQNDN  162431218 14l.        ||           |      |        |          ||   |  |  [W-<Cj>] [H-YMJDJM <Ob>] [<L JDJH <Co>]
+ GEN 24,48 1sg- Way0  << Way0  ?NQNDN  162431219 13..        ||           |      |        |          ||   | [W-<Cj>] [>QD <Pr>]
+ GEN 24,48 1sg- Way0  << Way0  ?NQNDN  162431220 13..        ||           |      |        |          ||   | [W-<Cj>] [>CTXWH <Pr>] [L-JHWH <Co>]
+ GEN 24,48 1sg- Way0  << Way0  ?NQNDN  162431221 13..        ||           |      |        |          ||   | [W-<Cj>] [>BRK <Pr>] [>T JHWH / >LHJ >DNJ / >BRHM <ap><ap><Ob>]
+ GEN 24,48 3sgM xQt0 [attrib.] ?NQNDN  162431222 14..        ||           |      |        |          ||   |     [>CR <Re>] [HNXNJ <PO>] [B-DRK >MT <Co>]
+ GEN 24,48 ---- InfC [adjunct] ?NQNDN  162431223 15..        ||           |      |        |          ||   |         [L-QXT <Pr>] [>T BT >XJ >DNJ <Ob>] [L-BNW <Co>]
+                               -------                       ||          ||               +-------------------------------------------------/
+ GEN 24,49 ---- MSyn  << NmCl  ?NQ     162431224  6m.        ||           |     [W-<Cj>] [<TH <Ti>]
+ GEN 24,49 -plM Ptcp  << MSyn  ?NQ     162431225  7..        ||           |         [>M <Cj>] [JCKM <Xs>] [<FJM <PC>] [XSD W->MT <Ob>] [>T >DNJ <Co>]
+ GEN 24,49 2plM ZIm0  << Ptcp  ?NQ     162431226  9..        ||           |              |  [HGJDW <Pr>] [LJ <Co>]
+ GEN 24,49 ---- Ellp  << Ptcp  ?NQ     162431227  8l.        ||           |             [W-<Cj>] [>M <Cj>] [L> <Ng>]
+ GEN 24,49 2plM ZIm0  << Ellp  ?NQ     162431228  9..        ||           |                 [HGJDW <Pr>] [LJ <Co>]
+ GEN 24,49 1sg- WYq0  << ZIm0  ?NQ     162431229 10..        ||           |                     [W-<Cj>] [>PNH <Pr>] [<L JMJN >W <L FM>L <Co>]
+                               =======                       ||          |+====================================================================/
+ GEN 24,50 3sgM WayX  << Way0  ?N      16244 230  4.#        ||         [W-<Cj>] [J<N <Pr>] [LBN W-BTW>L <Su>]
+ GEN 24,50 3plM Way0  << WayX  ?N      16244 231  5..        ||          |  [W-<Cj>] [J>MRW <Pr>]
+                               =======                       ||          |    +================================================================\
+ GEN 24,50 3sgM xQtX  <<  [Q]  ?NQ     162441232  6.q        ||          |    | [M-JHWH <Co>] [JY> <Pr>] [H-DBR <Su>]
+ GEN 24,50 1pl- xYq0  << xQtX  ?NQ     162441233  8..        ||          |    |      |  [L> <Ng>] [NWKL <Pr>]
+ GEN 24,50 ---- InfC [object ] ?NQ     162441234  9..        ||          |    |      |      [DBR <Pr>] [>LJK <Co>] [R< >W VWB <Ob>]
+ GEN 24,51 ---- NmCl  << xQtX  ?NQ     162441235  7..        ||          |    |     [HNH <Ij>] [RBQH <Su>] [L-PNJK <PC>]
+ GEN 24,51 2sgM ZIm0  << NmCl  ?NQ     162441236  8..        ||          |    |         [QX <Pr>]
+ GEN 24,51 2sgM WIm0  << ZIm0  ?NQ     162441237 10..        ||          |    |              |  [W-<Cj>] [LK <Pr>]
+ GEN 24,51 3sgF WYq0  << ZIm0  ?NQ     162441238  9..        ||          |    |             [W-<Cj>] [THJ <Pr>] [>CH <PC>] [L-BN >DNJK <Co>]
+ GEN 24,51 3sgM xQtX [adjunct] ?NQ     162441239 10..        ||          |    |                 [K->CR <Cj>] [DBR <Pr>] [JHWH <Su>]
+                               =======                       ||               +================================================================/
+ GEN 24,52 3sgM Way0  << WayX  ?N      16245 240  4.#        ||         [W-<Cj>] [JHJ <Pr>]
+ GEN 24,52 3sgM xQtX [adjunct] ?N      16245 241  7..        ||              |   |  [K->CR <Cj>] [CM< <Pr>] [<BD >BRHM <Su>] [>T DBRJHM <Ob>]
+ GEN 24,52 3sgM Way0  << Way0  ?N      16245 242  6..        ||              |  [W-<Cj>] [JCTXW <Pr>] [>RYH <Co>] [L-JHWH <Co>]
+ GEN 24,53 3sgM WayX  << Way0  ?N      162451243  5.#        ||             [W-<Cj>] [JWY> <Pr>] [H-<BD <Su>] [KLJ KSP W-KLJ ZHB W-BGDJM <Ob>]
+ GEN 24,53 3sgM Way0  << WayX  ?N      162451244  7..        ||                  |  [W-<Cj>] [JTN <Pr>] [L-RBQH <Co>]
+ GEN 24,53 3sgM WxQ0  << Way0  ?N      162451245  8..        ||                  |      [W-<Cj>] [MGDNT <Ob>] [NTN <Pr>] [L->XJH W-L->MH <Co>]
+ GEN 24,54 3plM Way0  << WayX  ?N      162451246  6..        ||                 [W-<Cj>] [J>KLW <Pr>]
+ GEN 24,54 3plM WayX [coordin] ?N      162451247  8..        ||                      |  [W-<Cj>] [JCTW <Pr>] [HW> W-H->NCJM <Su>]
+ GEN 24,54 ---- NmCl [attrib.] ?N      162451248  9..        ||                      |      [>CR <Re>] [<MW <PC>]
+ GEN 24,54 3plM Way0  << Way0  ?N      162451249  7..        ||                     [W-<Cj>] [JLJNW <Pr>]
+ GEN 24,54 3plM Way0  << Way0  ?N      162451250  7..        ||                     [W-<Cj>] [JQWMW <Pr>] [B--BQR <Ti>]
+ GEN 24,54 3sgM Way0  << Way0  ?N      162451251  8.#        ||                         [W-<Cj>] [J>MR <Pr>]
+                               =======                       ||                          |   |+================================================\
+ GEN 24,54 2plM ZIm0  <<  [Q]  ?NQ     162451252 10.q        ||                          |    | [CLXNJ <PO>] [L->DNJ <Co>]
+                               =======                       ||                          |    +================================================/
+ GEN 24,55 3sgM WayX  << Way0  ?N      162451253  9.#        ||                          |  [W-<Cj>] [J>MR <Pr>] [>XJH W->MH <Su>]
+                               =======                       ||                          |    +================================================\
+ GEN 24,55 3sgF ZYqX  <<  [Q]  ?NQ     162451254 10.q        ||                          |    | [TCB <Pr>] [H-N<R <Su>] [>TNW <Co>] [JMJM >W <FWR <Ti>]
+ GEN 24,55 2sgM xYq0  << ZYqX  ?NQ     162451255 11..        ||                          |    |     [>XR <Ti>] [TLK <Pr>]
+                               =======                       ||                          |    +================================================/
+ GEN 24,56 3sgM Way0  << Way0  ?N      162451256  8.#        ||                         [W-<Cj>] [J>MR <Pr>] [>LHM <Co>]
+                               =======                       ||                          |+====================================================\
+ GEN 24,56 2plM xYq0  <<  [Q]  ?NQ     162451257  9.q        ||                           | [>L <Ng>] [T>XRW <Pr>] [>TJ <Ob>]
+ GEN 24,56 3sgM WXQt  << xYq0  ?NQ     162451258 11.#        ||                           |      |  [W-<Cj>] [JHWH <Su>] [HYLJX <Pr>] [DRKJ <Ob>]
+ GEN 24,56 2plM ZIm0  << xYq0  ?NQ     162451259 10..        ||                           |     [CLXWNJ <PO>]
+ GEN 24,56 1sg- WYq0  << ZIm0  ?NQ     162451260 11..        ||                           |         [W-<Cj>] [>LKH <Pr>] [L->DNJ <Co>]
+                               =======                       ||                          |+====================================================/
+ GEN 24,57 3plM Way0  << Way0  ?N      162451261  8.#        ||                         [W-<Cj>] [J>MRW <Pr>]
+                               =======                       ||                          |+====================================================\
+ GEN 24,57 1pl- ZYq0  <<  [Q]  ?NQ     162451262  9.q        ||                           | [NQR> <Pr>] [L--N<R <Co>]
+ GEN 24,57 1pl- WYq0  << ZYq0  ?NQ     162451263 10..        ||                           |     [W-<Cj>] [NC>LH <Pr>] [>T PJH <Ob>]
+                               =======                       ||                          |+====================================================/
+ GEN 24,58 3plM Way0  << Way0  ?N      162451264  8..        ||                         [W-<Cj>] [JQR>W <Pr>] [L-RBQH <Co>]
+ GEN 24,58 3plM Way0  << Way0  ?N      162451265  8..        ||                         [W-<Cj>] [J>MRW <Pr>] [>LJH <Co>]
+                               =======                       ||                          |   |+================================================\
+ GEN 24,58 2sgF xYq0  <<  [Q]  ?NQ     162451266 10.q        ||                          |    | [H-<Qu>] [TLKJ <Pr>] [<M H->JC H-ZH <Co>]
+                               =======                       ||                          |    +================================================/
+ GEN 24,58 3sgF Way0  << Way0  ?N      162451267  9.#        ||                          |  [W-<Cj>] [T>MR <Pr>]
+                               =======                       ||                          |    +================================================\
+ GEN 24,58 1sg- ZYq0  <<  [Q]  ?NQ     162451268 10.q        ||                          |    | [>LK <Pr>]
+                               =======                       ||                          |    +================================================/
+ GEN 24,59 3plM Way0  << Way0  ?N      162451269  8..        ||                         [W-<Cj>] [JCLXW <Pr>] [>T RBQH / >XTM / W-/ >T MNQTH W->T <BD >BRHM W->T >NCJW <pa><cj><ap><Ob>]
+ GEN 24,60 3plM Way0  << Way0  ?N      162451270  8..        ||                         [W-<Cj>] [JBRKW <Pr>] [>T RBQH <Ob>]
+ GEN 24,60 3plM Way0  << Way0  ?N      162451271  8..        ||                         [W-<Cj>] [J>MRW <Pr>] [LH <Co>]
+                               =======                       ||                              |+================================================\
+ GEN 24,60 ---- CPen  <<  [Q]  ?NQ     162451272 10cq        ||                               | [>XTNW <Fr>]
+ GEN 24,60 2sgF XImp [resumpt] ?NQ     162451273 11..        ||                               |     [>T <Su>] [HJJ <Pr>] [L->LPJ RBBH <PC>]
+ GEN 24,60 3sgM WYqX  << XImp  ?NQ     162451274 12..        ||                               |         [W-<Cj>] [JJRC <Pr>] [ZR<K <Su>] [>T C<R FN>JW <Ob>]
+                               =======                       ||                               +================================================/
+ GEN 24,61 3sgF WayX  << Way0  ?N      162451275  9.#        ||                             [W-<Cj>] [TQM <Pr>] [RBQH W-N<RTJH <Su>]
+ GEN 24,61 3plF Way0  << WayX  ?N      162451276 10..        ||                                 [W-<Cj>] [TRKBNH <Pr>] [<L H-GMLJM <Co>]
+ GEN 24,61 3plF Way0  << Way0  ?N      162451277 10..        ||                                 [W-<Cj>] [TLKNH <Pr>] [>XRJ H->JC <Co>]
+ GEN 24,61 3sgM WayX  << WayX  ?N      17    278  1.#       [W-<Cj>] [JQX <Pr>] [H-<BD <Su>] [>T RBQH <Ob>]
+ GEN 24,61 3sgM Way0  << WayX  ?N      17    279  4..        ||  |   |  [W-<Cj>] [JLK <Pr>]
+ GEN 24,62 3sgM WXQt  << WayX  ?N      171   280  3.#        ||  |  [W-<Cj>] [JYXQ <Su>] [B> <Pr>]
+ GEN 24,62 ---- InfC [adjunct] ?N      171   281  5..        ||  |       |  [M-BW> <Pr>] [B>R LXJ_R>J <Co>]
+ GEN 24,62 -sgM Ptcp  << WXQt  ?N      171   282  4..        ||  |      [W-<Cj>] [HW> <Su>] [JWCB <PC>] [B->RY H-NGB <Co>]
+ GEN 24,63 3sgM WayX  << WayX  ?N      172   283  2.#        || [W-<Cj>] [JY> <Pr>] [JYXQ <Su>]
+ GEN 24,63 ---- InfC [adjunct] ?N      172   284  5..        ||  |   |   |  [L-FWX <Pr>] [B--FDH <Co>]
+ GEN 24,63 ---- InfC [adjunct] ?N      172   285  4..        ||  |   |  [L-PNWT <Pr>] [<RB <Su>]
+ GEN 24,63 3sgM Way0  << WayX  ?N      172   286  3..        ||  |  [W-<Cj>] [JF> <Pr>] [<JNJW <Ob>]
+ GEN 24,63 3sgM Way0  << Way0  ?N      172   287  3..        ||  |  [W-<Cj>] [JR> <Pr>]
+ GEN 24,63 -plM Ptcp  << Way0  ?N      172   288  4..        ||  |      [W-<Cj>] [HNH <Ij>] [GMLJM <Su>] [B>JM <PC>]
+ GEN 24,64 3sgF WayX  << WayX  ?N      173   289  2.#        || [W-<Cj>] [TF> <Pr>] [RBQH <Su>] [>T <JNJH <Ob>]
+ GEN 24,64 3sgF Way0  << WayX  ?N      173   290  3..        ||     [W-<Cj>] [TR> <Pr>] [>T JYXQ <Ob>]
+ GEN 24,64 3sgF Way0  << Way0  ?N      173   291  3..        ||     [W-<Cj>] [TPL <Pr>] [M-<L H-GML <Co>]
+ GEN 24,65 3sgF Way0  << Way0  ?N      173   292  3..        ||     [W-<Cj>] [T>MR <Pr>] [>L H-<BD <Co>]
+                               =======                       ||      |   |+====================================================================\
+ GEN 24,65 ---- NmCl  <<  [Q]  ?NQ     1731  293  5.q        ||      |    | [MJ <PC>] [H->JC H-LZH <Su>]
+ GEN 24,65 -sgM Ptcp [attrib.] ?NQ     1731  294  6..        ||      |    |     [H-<Re>] [HLK <PC>] [B--FDH <Co>]
+ GEN 24,65 ---- InfC [adjunct] ?NQ     1731  295  7..        ||      |    |         [L-QR>TNW <PO>]
+                               =======                       ||      |    +====================================================================/
+ GEN 24,65 3sgM WayX  << Way0  ?N      1732  296  4.#        ||      |  [W-<Cj>] [J>MR <Pr>] [H-<BD <Su>]
+                               =======                       ||      |    +====================================================================\
+ GEN 24,65 ---- NmCl  <<  [Q]  ?NQ     17321 297  5.q        ||      |    | [HW> <Su>] [>DNJ <PC>]
+                               =======                       ||      |    +====================================================================/
+ GEN 24,65 3sgF Way0  << Way0  ?N      173   298  3..        ||     [W-<Cj>] [TQX <Pr>] [H-Y<JP <Ob>]
+ GEN 24,65 3sgF Way0  << Way0  ?N      173   299  3..        ||     [W-<Cj>] [TTKS <Pr>]
+ GEN 24,66 3sgM WayX  << WayX  ?N      18    300  1.#       [W-<Cj>] [JSPR <Pr>] [H-<BD <Su>] [L-JYXQ <Co>] [>T KL H-DBRJM <Ob>]
+ GEN 24,66 3sgM xQt0 [attrib.] ?N      18    301  2..        || [>CR <Re>] [<FH <Pr>]
+ GEN 24,67 3sgM WayX  << WayX  ?N      19    302  1.#       [W-<Cj>] [JB>H <PO>] [JYXQ <Su>] [H->HLH / FRH / >MW <ap><sp><Co>]
+ GEN 24,67 3sgM Way0  << WayX  ?N      19    303  2..        || [W-<Cj>] [JQX <Pr>] [>T RBQH <Ob>]
+ GEN 24,67 3sgF Way0  << Way0  ?N      191   304  4.#        ||      |  [W-<Cj>] [THJ <Pr>] [LW <Co>] [L->CH <PC>]
+ GEN 24,67 3sgM Way0  << Way0  ?N      19    305  3..        ||     [W-<Cj>] [J>HBH <PO>]
+ GEN 24,67 3sgM WayX  << WayX  ?N      110   306  1.#       [W-<Cj>] [JNXM <Pr>] [JYXQ <Su>] [>XRJ >MW <Co>]

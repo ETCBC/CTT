@@ -1,0 +1,13 @@
+ PS131,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [CJR H-M<LWT <PC>]
+ PS131,001 ---- NmCl  << NmCl  ?       1       2  1..    |  [L-DWD <PC>]
+                               =======                 ==============================================================================================/
+ PS131,001 ---- Voct  << NmCl  Q       2       3  0vN   [JHWH <Vo>]
+ PS131,001 3sgM xQtX  << Voct  Q       2       4  2..        |  [L> <Ng>] [GBH <Pr>] [LBJ <Su>]
+ PS131,001 3pl- WxQX  << xQtX  Q       2       5  4..        |       |  [W-<Cj>] [L> <Ng>] [RMW <Pr>] [<JNJ <Su>]
+ PS131,001 1sg- WxQ0  << WxQX  Q       2       6  5..        |       |      [W-<Cj>] [L> <Ng>] [HLKTJ <Pr>] [B-GDLWT W-B-NPL>WT / MMNJ <sp><Co>]
+ PS131,002 1sg- xQt0  << xQtX  Q       2       7  3..        |      [>M <Cj>] [L> <Ng>] [CWJTJ <Pr>]
+ PS131,002 1sg- WQt0 [coordin] Q       2       8  4..        |          [W-<Cj>] [DWMMTJ <Pr>] [NPCJ <Ob>] [K-GML / <LJ >MW <sp><Aj>]
+ PS131,002 ---- NmCl [coordin] Q       2       9  5..        |              [K--GML / <LJ <sp><PC>] [NPCJ <Su>]
+ PS131,003 2sgM ZIm0  << Voct  Q       21     10  1.#       [JXL <Pr>]
+ PS131,003 ---- Voct  << ZIm0  Q       21     11  3ve            |  [JFR>L <Vo>]
+ PS131,003 ---- Defc  << ZIm0  Q       21     12  2d.           [>L JHWH <Co>] [M-<TH W-<D <WLM <Ti>]

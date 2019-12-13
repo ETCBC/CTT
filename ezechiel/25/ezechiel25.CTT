@@ -1,0 +1,100 @@
+ EZE 25,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <PC>]
+ EZE 25,01 ---- InfC [adjunct] N       1       2  1..       [L->MR <Pr>]
+                               =======                        +===================================================================================\
+ EZE 25,02 ---- Voct  <<  [Q]  NQ      11      3  2vq         | [BN >DM <Vo>]
+ EZE 25,02 2sgM ZIm0 [ref.Voc] NQ      11      4  3..         |     [FJM <Pr>] [PNJK <Ob>] [>L BNJ <MWN <Co>]
+ EZE 25,02 2sgM WIm0  << ZIm0  NQ      11      5  5..         |          |  [W-<Cj>] [HNB> <Pr>] [<LJHM <Aj>]
+ EZE 25,03 2sgM WQt0  << ZIm0  NQ      11      6  4..         |         [W-<Cj>] [>MRT <Pr>] [L-BNJ <MWN <Co>]
+                               =======                        |           +====================================================================\
+ EZE 25,03 2plM ZIm0  <<  [Q]  NQQ     111     7  5.q         |           | [CM<W <Pr>] [DBR >DNJ JHWH <Ob>]
+ EZE 25,03 3sgM xQtX  << ZIm0  NQQ     111     8  6..         |           |     [KH <Mo>] [>MR <Pr>] [>DNJ JHWH <Su>]
+                               =======                        |           |      |   |+=====================================================\
+ EZE 25,03 ---- CPen  <<  [Q]  NQQQ    1111    9  8cq         |           |      |    | [J<N >MRK <Ps>]
+                               =======                        |           |      |   ||      |   |   |   |+==============================\
+ EZE 25,03 ---- NmCl  <<  [Q]  NQQQQ   11111  10 13.q         |           |      |    |      |   |   |    | [H>X <Ij>]
+                               =======                        |           |      |   ||      |   |   |    +==============================/
+ EZE 25,03 ---- Defc  << CPen  NQQQ    1111   11 12d.         |           |      |    |      |   |   |  [>L MQDCJ <Co>]
+ EZE 25,03 3sgM xQt0 [adjunct] NQQQ    1111   12 11..         |           |      |    |      |   |  [KJ <Cj>] [NXL <Pr>]
+ EZE 25,03 ---- Ellp  << CPen  NQQQ    1111   13 10l.         |           |      |    |      |  [W-<Cj>] [>L >DMT JFR>L <Co>]
+ EZE 25,03 3sgF xQt0 [adjunct] NQQQ    1111   14 11..         |           |      |    |      |   |  [KJ <Cj>] [NCMH <Pr>]
+ EZE 25,03 ---- Ellp  << Ellp  NQQQ    1111   15 10l.         |           |      |    |      |  [W-<Cj>] [>L BJT JHWDH <Co>]
+ EZE 25,03 3pl- xQt0 [adjunct] NQQQ    1111   16 11..         |           |      |    |      |      [KJ <Cj>] [HLKW <Pr>] [B--GWLH <Co>]
+ EZE 25,04 ---- NmCl [resumpt] NQQQ    1111   17  9..         |           |      |    |     [LKN <Mo>]
+ EZE 25,04 -sgM Ptcp  << NmCl  NQQQ    1111   18 10..         |           |      |    |         [HNNJ <Is>] [NTNK <po>] [L-BNJ QDM <Co>] [L-MWRCH <Aj>]
+ EZE 25,04 3pl- WQt0  << Ptcp  NQQQ    1111   19 14..         |           |      |    |              |   |   |  [W-<Cj>] [JCBW <Pr>] [VJRWTJHM <Ob>] [BK <Co>]
+ EZE 25,04 3pl- WQt0  << WQt0  NQQQ    1111   20 14..         |           |      |    |              |   |   |  [W-<Cj>] [NTNW <Pr>] [BK <Co>] [MCKNJHM <Ob>]
+ EZE 25,04 3plM XYqt  << Ptcp  NQQQ    1111   21 13..         |           |      |    |              |   |  [HMH <Su>] [J>KLW <Pr>] [PRJK <Ob>]
+ EZE 25,04 3plM WXYq  << XYqt  NQQQ    1111   22 14..         |           |      |    |              |   |      [W-<Cj>] [HMH <Su>] [JCTW <Pr>] [XLBK <Ob>]
+ EZE 25,05 1sg- WQt0  << Ptcp  NQQQ    1111   23 12..         |           |      |    |              |  [W-<Cj>] [NTTJ <Pr>] [>T RBH <Ob>] [L-NWH GMLJM <Co>]
+ EZE 25,05 ---- Ellp  << WQt0  NQQQ    1111   24 13l.         |           |      |    |              |      [W-<Cj>] [>T BNJ <MWN <Ob>] [L-MRBY Y>N <Co>]
+ EZE 25,05 2plM WQt0  << Ptcp  NQQQ    1111   25 11..         |           |      |    |             [W-<Cj>] [JD<TM <Pr>]
+ EZE 25,05 ---- NmCl [object ] NQQQ    1111   26 12..         |           |      |    |                 [KJ <Cj>] [>NJ <Su>] [JHWH <PC>]
+                               =======                        |           |      |    +=====================================================/
+ EZE 25,06 3sgM xQtX  << xQtX  NQQ     111    27  7..         |           |      |  [KJ <Cj>] [KH <Mo>] [>MR <Pr>] [>DNJ JHWH <Su>]
+                               =======                        |           |      |    +=====================================================\
+ EZE 25,06 ---- CPen  <<  [Q]  NQQQ    1112   28  8cq         |           |      |    | [J<N MX>K <Ps>] [JD <Ob>]
+ EZE 25,06 ---- InfC [coordin] NQQQ    1112   29 11..         |           |      |    |      |   |  [W-<Cj>] [RQ<K <Ps>] [B-RGL <Co>]
+                               -------                        |           |      |    |      |+------------------------------------------\
+ EZE 25,06 2sgM Way0 [coordin] NQQQN   1112   30 10..         |           |      |    |       | [W-<Cj>] [TFMX <Pr>] [B-KL C>VK <Aj>] [B-NPC <Aj>] [>L >DMT JFR>L <Aj>]
+                               -------                        |           |      |    |       +------------------------------------------/
+ EZE 25,07 ---- NmCl [resumpt] NQQQ    1112   31  9..         |           |      |    |     [LKN <Mo>]
+ EZE 25,07 1sg- XQtl  << NmCl  NQQQ    1112   32 10..         |           |      |    |         [HNNJ <Is>] [NVJTJ <Pr>] [>T JDJ <Ob>] [<LJK <Co>]
+ EZE 25,07 1sg- WQt0  << XQtl  NQQQ    1112   33 13..         |           |      |    |              |   |  [W-<Cj>] [NTTJK <PO>] [L-BG <Aj>] [L--GWJM <Co>]
+ EZE 25,07 1sg- WQt0  << WQt0  NQQQ    1112   34 13..         |           |      |    |              |   |  [W-<Cj>] [HKRTJK <PO>] [MN H-<MJM <Co>]
+ EZE 25,07 1sg- WQt0  << WQt0  NQQQ    1112   35 13..         |           |      |    |              |   |  [W-<Cj>] [H>BDTJK <PO>] [MN H->RYWT <Aj>]
+ EZE 25,07 1sg- ZYq0  << XQtl  NQQQ    1112   36 12..         |           |      |    |              |  [>CMJDK <PO>]
+ EZE 25,07 2sgM WQt0  << XQtl  NQQQ    1112   37 11..         |           |      |    |             [W-<Cj>] [JD<T <Pr>]
+ EZE 25,07 ---- NmCl [object ] NQQQ    1112   38 12..         |           |      |    |                 [KJ <Cj>] [>NJ <Su>] [JHWH <PC>]
+                               =======                        |           |      |    +=====================================================/
+ EZE 25,08 3sgM xQtX  << xQtX  NQQ     111    39  6..         |           |     [KH <Mo>] [>MR <Pr>] [>DNJ JHWH <Su>]
+                               =======                        |           |      |+=========================================================\
+ EZE 25,08 ---- CPen  <<  [Q]  NQQQ    1113   40  7cq         |           |       | [J<N >MR <Pr>] [MW>B W-F<JR <Su>]
+                               =======                        |           |      ||      |+==============================================\
+ EZE 25,08 ---- NmCl  <<  [Q]  NQQQQ   11131  41  9.q         |           |       |       | [HNH <Ij>] [K-KL H-GWJM <PC>] [BJT JHWDH <Su>]
+                               =======                        |           |      ||       +==============================================/
+ EZE 25,09 ---- NmCl [resumpt] NQQQ    1113   42  8..         |           |       |     [LKN <Mo>]
+ EZE 25,09 -sgM Ptcp  << NmCl  NQQQ    1113   43  9..         |           |       |         [HNNJ <Is>] [PTX <PC>] [>T KTP MW>B <Ob>] [M-H-<RJM / M-<RJW / M-QYHW <sp><pa><Aj>]
+ EZE 25,09 ---- NmCl  << Ptcp  NQQQ    1113   44 12..         |           |       |              |   |  [YBJ >RY / BJT_HJCJMT B<L_M<WN W-QRJTMH <sp><PC>]
+ EZE 25,10 ---- NmCl  << NmCl  NQQQ    1113   45 13..         |           |       |              |   |      [L-BNJ QDM <Aj>] [<L BNJ <MWN <Aj>]
+ EZE 25,10 1sg- WQt0  << Ptcp  NQQQ    1113   46 11..         |           |       |              |  [W-<Cj>] [NTTJH <PO>] [L-MWRCH <Aj>]
+ EZE 25,10 3sgF xYqX  << WQt0  NQQQ    1113   47 12..         |           |       |              |      [LM<N <Cj>] [L> <Ng>] [TZKR <Pr>] [BNJ <MWN <Su>] [B--GWJM <Aj>]
+ EZE 25,11 1sg- WxY0  << xYqX  NQQQ    1113   48 13..         |           |       |              |          [W-<Cj>] [B-MW>B <Aj>] [><FH <Pr>] [CPVJM <Ob>]
+ EZE 25,11 3pl- WQt0  << Ptcp  NQQQ    1113   49 10..         |           |       |             [W-<Cj>] [JD<W <Pr>]
+ EZE 25,11 ---- NmCl [object ] NQQQ    1113   50 11..         |           |       |                 [KJ <Cj>] [>NJ <Su>] [JHWH <PC>]
+                               =======                        |           |      |+=========================================================/
+ EZE 25,12 3sgM xQtX  << xQtX  NQQ     111    51  6..         |           |     [KH <Mo>] [>MR <Pr>] [>DNJ JHWH <Su>]
+                               =======                        |           |      |+=========================================================\
+ EZE 25,12 ---- CPen  <<  [Q]  NQQQ    1114   52  7cq         |           |       | [J<N <FWT <Pr>] [>DWM <Su>]
+ EZE 25,12 ---- InfC [adjunct] NQQQ    1114   53 10..         |           |       |      |   |  [B-NQM <Pr>] [NQM <Ob>] [L-BJT JHWDH <Aj>]
+                               -------                        |           |      ||      |+----------------------------------------------\
+ EZE 25,12 3plM Way0 [coordin] NQQQN   1114   54  9..         |           |       |       | [W-<Cj>] [J>CMW <Pr>] [>CWM <Mo>]
+ EZE 25,12 3pl- WQt0 [coordin] NQQQN   1114   55 10..         |           |       |       |     [W-<Cj>] [NQMW <Pr>] [BHM <Co>]
+                               -------                        |           |      ||       +----------------------------------------------/
+ EZE 25,13 ---- NmCl [resumpt] NQQQ    1114   56  8..         |           |       |     [LKN <Mo>]
+ EZE 25,13 3sgM xQtX  << NmCl  NQQQ    1114   57  9..         |           |       |         [KH <Mo>] [>MR <Pr>] [>DNJ JHWH <Su>]
+                               =======                        |           |      ||           +==========================================\
+ EZE 25,13 1sg- WQt0  <<  [Q]  NQQQQ   11141  58 10.q         |           |       |           | [W-<Cj>] [NVTJ <Pr>] [JDJ <Ob>] [<L >DWM <Co>]
+ EZE 25,13 1sg- WQt0  << WQt0  NQQQQ   11141  59 10..         |           |       |           | [W-<Cj>] [HKRTJ <Pr>] [MMNH <Co>] [>DM W-BHMH <Ob>]
+ EZE 25,13 1sg- WQt0  << WQt0  NQQQQ   11141  60 11..         |           |       |           |     [W-<Cj>] [NTTJH <PO>] [XRBH <Ob>] [M-TJMN / W-/ DDNH <pa><cj><Aj>]
+ EZE 25,13 3plM xYq0  << WQt0  NQQQQ   11141  61 13..         |           |       |           |          |  [B--XRB <Aj>] [JPLW <Pr>]
+ EZE 25,14 1sg- WQt0  << WQt0  NQQQQ   11141  62 12..         |           |       |           |         [W-<Cj>] [NTTJ <Pr>] [>T NQMTJ <Ob>] [B->DWM <Co>] [B-JD <MJ / JFR>L <ap><Aj>]
+ EZE 25,14 3pl- WQt0  << WQt0  NQQQQ   11141  63 13..         |           |       |           |             [W-<Cj>] [<FW <Pr>] [B->DWM <Lo>] [K->PJ W-K-XMTJ <Co>]
+ EZE 25,14 3pl- WQt0  << WQt0  NQQQQ   11141  64 13..         |           |       |           |             [W-<Cj>] [JD<W <Pr>] [>T NQMTJ <Ob>]
+ EZE 25,14 ---- MSyn  << WQt0  NQQQQ   11141  65 14m.         |           |       |           |                 [N>M >DNJ JHWH <PC>]
+                               =======                        |           |       +=========================================================/
+ EZE 25,15 3sgM xQtX  << xQtX  NQQ     111    66  6..         |           |     [KH <Mo>] [>MR <Pr>] [>DNJ JHWH <Su>]
+                               =======                        |           |       +=========================================================\
+ EZE 25,15 ---- CPen  <<  [Q]  NQQQ    1115   67  7cq         |           |       | [J<N <FWT <Pr>] [PLCTJM <Su>] [B-NQMH <Co>]
+                               -------                        |           |       |      |+----------------------------------------------\
+ EZE 25,15 3plM Way0 [coordin] NQQQN   1115   68  9..         |           |       |       | [W-<Cj>] [JNQMW <Pr>] [NQM <Ob>] [B-C>V / B-NPC <sp><Aj>] [L-MCXJT >JBT <WLM <Aj>]
+                               -------                        |           |       |       +----------------------------------------------/
+ EZE 25,16 ---- NmCl [resumpt] NQQQ    1115   69  8..         |           |       |     [LKN <Mo>]
+ EZE 25,16 3sgM xQtX  << NmCl  NQQQ    1115   70  9..         |           |       |         [KH <Mo>] [>MR <Pr>] [>DNJ JHWH <Su>]
+                               =======                        |           |       |           +==========================================\
+ EZE 25,16 -sgM Ptcp  <<  [Q]  NQQQQ   11151  71 10.q         |           |       |           | [HNNJ <Is>] [NWVH <PC>] [JDJ <Ob>] [<L PLCTJM <Co>]
+ EZE 25,16 1sg- WQt0  << Ptcp  NQQQQ   11151  72 12..         |           |       |           |      |  [W-<Cj>] [HKRTJ <Pr>] [>T KRTJM <Ob>]
+ EZE 25,16 1sg- WQt0  << WQt0  NQQQQ   11151  73 12..         |           |       |           |      |  [W-<Cj>] [H>BDTJ <Pr>] [>T C>RJT XWP H-JM <Ob>]
+ EZE 25,17 1sg- WQt0  << WQt0  NQQQQ   11151  74 12..         |           |       |           |      |  [W-<Cj>] [<FJTJ <Pr>] [BM <Co>] [NQMWT GDLWT <Ob>] [B-TWKXWT XMH <Aj>]
+ EZE 25,17 3pl- WQt0  << Ptcp  NQQQQ   11151  75 11..         |           |       |           |     [W-<Cj>] [JD<W <Pr>]
+ EZE 25,17 ---- NmCl [object ] NQQQQ   11151  76 13..         |           |       |           |          |  [KJ <Cj>] [>NJ <Su>] [JHWH <PC>]
+ EZE 25,17 ---- InfC [adjunct] NQQQQ   11151  77 12..         |           |       |           |         [B-TTJ <Ps>] [>T NQMTJ <Ob>] [BM <Co>]

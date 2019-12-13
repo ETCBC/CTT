@@ -1,0 +1,241 @@
+RICHT16,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JLK <Pr>] [CMCWN <Su>] [<ZTH <Co>]
+RICHT16,01 3sgM Way0  << WayX  N       1       2  3..        |   |  [W-<Cj>] [JR> <Pr>] [CM <Lo>] [>CH ZWNH <Ob>]
+RICHT16,01 3sgM Way0  << Way0  N       1       3  3..        |   |  [W-<Cj>] [JB> <Pr>] [>LJH <Co>]
+RICHT16,02 ---- NmCl  << WayX  N       11      4  2.#        |  [L--<ZTJM <Co>]
+RICHT16,02 ---- InfC [adjunct] N       11      5  4..        |       |  [L->MR <Pr>]
+                               =======                       |       |    +=======================================================================\
+RICHT16,02 3sgM ZQtX  <<  [Q]  NQ      111     6  5.q        |       |   || [B> <Pr>] [CMCWN <Su>] [HNH <Co>]
+                               =======                       |       |    +=======================================================================/
+RICHT16,02 3plM Way0  << NmCl  N       11      7  3..        |      [W-<Cj>] [JSBW <Pr>]
+RICHT16,02 3plM Way0  << Way0  N       11      8  3..        |      [W-<Cj>] [J>RBW <Pr>] [LW <Co>] [KL H-LJLH <Ti>] [B-C<R H-<JR <Lo>]
+RICHT16,02 3plM Way0  << Way0  N       11      9  3..        |      [W-<Cj>] [JTXRCW <Pr>] [KL H-LJLH <Ti>]
+RICHT16,02 ---- InfC [adjunct] N       11     10  5..        |           |  [L->MR <Pr>]
+                               =======                       |           |    +===================================================================\
+RICHT16,02 ---- InfC  <<  [Q]  NQ      112    11  6.q        |           |   || [<D >WR <Pr>] [H-BQR <Su>]
+RICHT16,02 1pl- WQt0  << InfC  NQ      112    12  7..        |           |   ||     [W-<Cj>] [HRGNHW <PO>]
+                               =======                       |                +===================================================================/
+RICHT16,03 3sgM WayX  << Way0  N       113    13  4.#        |          [W-<Cj>] [JCKB <Pr>] [CMCWN <Su>] [<D XYJ H-LJLH <Ti>]
+RICHT16,03 3sgM Way0  << WayX  N       113    14  5..        |              [W-<Cj>] [JQM <Pr>] [B-XYJ H-LJLH <Ti>]
+RICHT16,03 3sgM Way0  << Way0  N       113    15  5..        |              [W-<Cj>] [J>XZ <Pr>] [B-DLTWT C<R H-<JR W-B-CTJ H-MZWZWT <Co>]
+RICHT16,03 3sgM Way0  << Way0  N       113    16  6..        |                  [W-<Cj>] [JS<M <PO>] [<M H-BRJX <Aj>]
+RICHT16,03 3sgM Way0  << Way0  N       113    17  7..        |                      [W-<Cj>] [JFM <Pr>] [<L KTPJW <Co>]
+RICHT16,03 3sgM Way0  << Way0  N       113    18  8..        |                          [W-<Cj>] [J<LM <PO>] [>L R>C H-HR <Co>]
+RICHT16,03 ---- NmCl [attrib.] N       113    19  9..        |                              [>CR <Re>] [<L PNJ XBRWN <PC>]
+RICHT16,04 3sgM Way0  << WayX  N       12     20  1.#       [W-<Cj>] [JHJ <Pr>] [>XRJ KN <Ti>]
+RICHT16,04 3sgM Way0  << Way0  N       12     21  2..           [W-<Cj>] [J>HB <Pr>] [>CH <Ob>] [B-NXL FRQ <Lo>]
+RICHT16,04 ---- NmCl  << Way0  N       12     22  4..                |  [W-<Cj>] [CMH <Su>] [DLJLH <PC>]
+RICHT16,05 3plM WayX  << Way0  N       121    23  3.#               [W-<Cj>] [J<LW <Pr>] [>LJH <Co>] [SRNJ PLCTJM <Su>]
+RICHT16,05 3plM Way0  << WayX  N       121    24  6..                |   |   |  [W-<Cj>] [J>MRW <Pr>] [LH <Co>]
+                               =======                               |   |   |    +===============================================================\
+RICHT16,05 2sgF ZIm0  <<  [Q]  NQ      1211   25  7.q                |   |   |    | [PTJ <Pr>] [>WTW <Ob>]
+RICHT16,05 2sgF WIm0  << ZIm0  NQ      1211   26  9..                |   |   |    |      |  [W-<Cj>] [R>J <Pr>]
+RICHT16,05 -sgM AjCl [object ] NQ      1211   27 10..                |   |   |    |      |      [B-MH <Aj>] [KXW <Su>] [GDWL <PC>]
+RICHT16,05 1pl- WxY0 [coordin] NQ      1211   28 11..                |   |   |    |      |          [W-<Cj>] [B-MH <Aj>] [NWKL <Pr>] [LW <Co>]
+RICHT16,05 1pl- WQt0 [coordin] NQ      1211   29 12..                |   |   |    |      |              [W-<Cj>] [>SRNHW <PO>]
+RICHT16,05 ---- InfC [adjunct] NQ      1211   30 13..                |   |   |    |      |                  [L-<NTW <PO>]
+RICHT16,05 1pl- WXYq  << ZIm0  NQ      1211   31  8..                |   |   |    |     [W-<Cj>] [>NXNW <Su>] [NTN <Pr>] [LK / >JC <sp><Co>] [>LP W-M>H KSP <Ob>]
+                               =======                               |   |   |    +===============================================================/
+RICHT16,06 3sgF WayX  << WayX  N       1212   32  5.#                |   |  [W-<Cj>] [T>MR <Pr>] [DLJLH <Su>] [>L CMCWN <Co>]
+                               =======                               |   |   |   |+===============================================================\
+RICHT16,06 2sgM ZIm0  <<  [Q]  NQ      12121  33  7.q                |   |   |    | [HGJDH <Pr>] [N> <Ij>] [LJ <Co>]
+RICHT16,06 -sgM AjCl [object ] NQ      12121  34  8..                |   |   |    |     [B-MH <Aj>] [KXK <Su>] [GDWL <PC>]
+RICHT16,06 2sgM WxY0 [coordin] NQ      12121  35  9..                |   |   |    |         [W-<Cj>] [B-MH <Co>] [T>SR <Pr>]
+RICHT16,06 ---- InfC [adjunct] NQ      12121  36 10..                |   |   |    |             [L-<NWTK <PO>]
+                               =======                               |   |   |   |+===============================================================/
+RICHT16,07 3sgM WayX  << WayX  N       12122  37  6.#                |   |   |  [W-<Cj>] [J>MR <Pr>] [>LJH <Co>] [CMCWN <Su>]
+                               =======                               |   |   |   |+===============================================================\
+RICHT16,07 3plM xYq0  <<  [Q]  NQ      121221 38  7.q                |   |   |    | [>M <Cj>] [J>SRNJ <PO>] [B-CB<H JTRJM LXJM <Co>]
+RICHT16,07 3pl- xQt0 [attrib.] NQ      121221 39  9..                |   |   |    |      |  [>CR <Re>] [L> <Ng>] [XRBW <Pr>]
+RICHT16,07 1sg- WQt0  << xYq0  NQ      121221 40  8..                |   |   |    |     [W-<Cj>] [XLJTJ <Pr>]
+RICHT16,07 1sg- WQt0  << WQt0  NQ      121221 41  8..                |   |   |    |     [W-<Cj>] [HJJTJ <Pr>] [K->XD H->DM <PC>]
+                               =======                               |   |   |    +===============================================================/
+RICHT16,08 3plM WayX  << WayX  N       12123  42  6.#                |   |   |  [W-<Cj>] [J<LW <Pr>] [LH <Co>] [SRNJ PLCTJM <Su>] [CB<H JTRJM LXJM <Ob>]
+RICHT16,08 3pl- xQt0 [attrib.] N       12123  43  8..                |   |   |       |  [>CR <Re>] [L> <Ng>] [XRBW <Pr>]
+RICHT16,08 3sgF Way0  << WayX  N       12123  44  7..                |   |   |      [W-<Cj>] [T>SRHW <PO>] [BHM <Co>]
+RICHT16,09 -sgM Ptcp  << Way0  N       12123  45  9..                |   |   |           |  [W-<Cj>] [H->RB <Su>] [JCB <PC>] [LH <sc>] [B--XDR <Co>]
+RICHT16,09 3sgF Way0  << Way0  N       12123  46  8..                |   |   |          [W-<Cj>] [T>MR <Pr>] [>LJW <Co>]
+                               =======                               |   |   |               |+===================================================\
+RICHT16,09 ---- NmCl  <<  [Q]  NQ      121231 47 10.q                |   |   |                | [PLCTJM <Su>] [<LJK <PC>]
+RICHT16,09 ---- Voct  << NmCl  NQ      121231 48 11v.                |   |   |                |     [CMCWN <Vo>]
+                               =======                               |   |   |                +===================================================/
+RICHT16,09 3sgM Way0  << Way0  N       12123  49  9..                |   |   |              [W-<Cj>] [JNTQ <Pr>] [>T H-JTRJM <Ob>]
+RICHT16,09 3sgM xYqX [adjunct] N       12123  50 11..                |   |   |                   |  [K->CR <Cj>] [JNTQ <Pr>] [PTJL H-N<RT <Su>]
+RICHT16,09 ---- InfC [adjunct] N       12123  51 12..                |   |   |                   |      [B-HRJXW <Ps>] [>C <Ob>]
+RICHT16,09 3sgM WxQX  << Way0  N       12123  52 10..                |   |   |                  [W-<Cj>] [L> <Ng>] [NWD< <Pr>] [KXW <Su>]
+RICHT16,10 3sgF WayX  << WayX  N       1213   53  5.#                |   |  [W-<Cj>] [T>MR <Pr>] [DLJLH <Su>] [>L CMCWN <Co>]
+                               =======                               |   |   |   |   |+===========================================================\
+RICHT16,10 2sgM xQt0  <<  [Q]  NQ      12131  54  8.q                |   |   |   |    | [HNH <Ij>] [HTLT <Pr>] [BJ <Co>]
+                               -------                               |   |   |   |   ||      |+------------------------------------------------\
+RICHT16,10 2sgM Way0  << xQt0  NQN     12131  55 10..                |   |   |   |    |       | [W-<Cj>] [TDBR <Pr>] [>LJ <Co>] [KZBJM <Ob>]
+                               -------                               |   |   |   |   ||       +------------------------------------------------/
+RICHT16,10 2sgM xIm0  << xQt0  NQ      12131  56  9..                |   |   |   |    |     [<TH <Mo>] [HGJDH <Pr>] [N> <Ij>] [LJ <Co>]
+RICHT16,10 2sgM xYq0 [object ] NQ      12131  57 10..                |   |   |   |    |         [B-MH <Co>] [T>SR <Pr>]
+                               =======                               |   |   |   |    +===========================================================/
+RICHT16,11 3sgM Way0  << WayX  N       1213   58  7..                |   |   |   |  [W-<Cj>] [J>MR <Pr>] [>LJH <Co>]
+                               =======                               |   |   |   |    +===========================================================\
+RICHT16,11 3plM xYq0  <<  [Q]  NQ      12132  59  8.q                |   |   |   |    | [>M <Cj>] [>SWR <Mo>] [J>SRWNJ <PO>] [B-<BTJM XDCJM <Co>]
+RICHT16,11 3sgM xQtX [attrib.] NQ      12132  60 10..                |   |   |   |    |      |  [>CR <Re>] [L> <Ng>] [N<FH <Pr>] [BHM <Co>] [ML>KH <Su>]
+RICHT16,11 1sg- WQt0  << xYq0  NQ      12132  61  9..                |   |   |   |    |     [W-<Cj>] [XLJTJ <Pr>]
+RICHT16,11 1sg- WQt0  << WQt0  NQ      12132  62  9..                |   |   |   |    |     [W-<Cj>] [HJJTJ <Pr>] [K->XD H->DM <PC>]
+                               =======                               |   |   |        +===========================================================/
+RICHT16,12 3sgF WayX  << WayX  N       12133  63  6.#                |   |   |  [W-<Cj>] [TQX <Pr>] [DLJLH <Su>] [<BTJM XDCJM <Ob>]
+RICHT16,12 3sgF Way0  << WayX  N       12133  64  7..                |   |   |      [W-<Cj>] [T>SRHW <PO>] [BHM <Co>]
+RICHT16,12 3sgF Way0  << Way0  N       12133  65  8..                |   |   |          [W-<Cj>] [T>MR <Pr>] [>LJW <Co>]
+                               =======                               |   |   |               |   |+===============================================\
+RICHT16,12 ---- NmCl  <<  [Q]  NQ      121331 66 11.q                |   |   |               |    | [PLCTJM <Su>] [<LJK <PC>]
+RICHT16,12 ---- Voct  << NmCl  NQ      121331 67 12v.                |   |   |               |    |     [CMCWN <Vo>]
+                               =======                               |   |   |               |    +===============================================/
+RICHT16,12 -sgM Ptcp  << Way0  N       12133  68 10..                |   |   |               |  [W-<Cj>] [H->RB <Su>] [JCB <PC>] [B--XDR <Co>]
+RICHT16,12 3sgM Way0  << Way0  N       12133  69  9..                |   |   |              [W-<Cj>] [JNTQM <PO>] [M-<L ZR<TJW <Co>] [K--XWV <Aj>]
+RICHT16,13 3sgF WayX  << WayX  N       1214   70  5.#                |   |  [W-<Cj>] [T>MR <Pr>] [DLJLH <Su>] [>L CMCWN <Co>]
+                               =======                               |   |   |   |+===============================================================\
+RICHT16,13 2sgM xQt0  <<  [Q]  NQ      12141  71  7.q                |   |   |    | [<D HNH <Aj>] [HTLT <Pr>] [BJ <Co>]
+                               -------                               |   |   |   ||      |+----------------------------------------------------\
+RICHT16,13 2sgM Way0  << xQt0  NQN     12141  72  9..                |   |   |    |       | [W-<Cj>] [TDBR <Pr>] [>LJ <Co>] [KZBJM <Ob>]
+                               -------                               |   |   |   ||       +----------------------------------------------------/
+RICHT16,13 2sgM ZIm0  << xQt0  NQ      12141  73  8..                |   |   |    |     [HGJDH <Pr>] [LJ <Co>]
+RICHT16,13 2sgM xYq0 [object ] NQ      12141  74  9..                |   |   |    |         [B-MH <Co>] [T>SR <Pr>]
+                               =======                               |   |   |    +===============================================================/
+RICHT16,13 3sgM Way0  << WayX  N       1214   75  6..                |   |   |  [W-<Cj>] [J>MR <Pr>] [>LJH <Co>]
+                               =======                               |   |   |       |+===========================================================\
+RICHT16,13 2sgF xYq0  <<  [Q]  NQ      12142  76  8.q                |   |   |        | [>M <Cj>] [T>RGJ <Pr>] [>T CB< MXLPWT R>CJ <Ob>] [<M H-MSKT <Co>]
+                               =======                               |   |   |       |+===========================================================/
+RICHT16,14 3sgF Way0  << Way0  N       1214   77  7..                |   |   |      [W-<Cj>] [TTQ< <Pr>] [B--JTD <Co>]
+RICHT16,14 3sgF Way0  << Way0  N       1214   78  7..                |   |   |      [W-<Cj>] [T>MR <Pr>] [>LJW <Co>]
+                               =======                               |   |   |       |   |+=======================================================\
+RICHT16,14 ---- NmCl  <<  [Q]  NQ      12143  79  9.q                |   |   |       |    | [PLCTJM <Su>] [<LJK <PC>]
+RICHT16,14 ---- Voct  << NmCl  NQ      12143  80 10v.                |   |   |       |    |     [CMCWN <Vo>]
+                               =======                               |   |   |       |   |+=======================================================/
+RICHT16,14 3sgM Way0  << Way0  N       1214   81  8..                |   |   |       |  [W-<Cj>] [JJQY <Pr>] [M-CNTW <Co>]
+RICHT16,14 3sgM Way0  << Way0  N       1214   82  8..                |   |   |       |  [W-<Cj>] [JS< <Pr>] [>T H-JTD H->RG W->T H-MSKT <Ob>]
+RICHT16,15 3sgF Way0  << Way0  N       1214   83  7..                |   |   |      [W-<Cj>] [T>MR <Pr>] [>LJW <Co>]
+                               =======                               |   |   |           |+=======================================================\
+RICHT16,15 2sgM xYq0  <<  [Q]  NQ      12144  84  9.q                |   |   |            | [>JK <Qu>] [T>MR <Pr>]
+                               =======                               |   |   |           ||      |   |+========================================\
+RICHT16,15 1sg- ZQt0  <<  [Q]  NQQ     121441 85 12.q                |   |   |            |      |    | [>HBTJK <PO>]
+                               =======                               |   |   |           ||      |    +========================================/
+RICHT16,15 ---- NmCl  << xYq0  NQ      12144  86 11..                |   |   |            |      |  [W-<Cj>] [LBK <Su>] [>JN <NC>] [>TJ <PC>]
+RICHT16,15 2sgM xQt0  << xYq0  NQ      12144  87 10..                |   |   |            |     [ZH <Mo>] [CLC P<MJM <Mo>] [HTLT <Pr>] [BJ <Co>]
+RICHT16,15 2sgM WxQ0  << xQt0  NQ      12144  88 11..                |   |   |            |         [W-<Cj>] [L> <Ng>] [HGDT <Pr>] [LJ <Co>]
+RICHT16,15 -sgM AjCl [object ] NQ      12144  89 12..                |   |   |            |             [B-MH <Aj>] [KXK <Su>] [GDWL <PC>]
+                               =======                               |   |   |            +=======================================================/
+RICHT16,16 3sgM MSyn  << Way0  N       1214   90  8m.                |   |   |          [W-<Cj>] [JHJ <Pr>]
+RICHT16,16 3sgF xQt0  << MSyn  N       1214   91  9..                |   |   |              [KJ <Cj>] [HYJQH <Pr>] [LW <Co>] [B-DBRJH <Aj>] [KL H-JMJM <Ti>]
+RICHT16,16 3sgF Way0  << xQt0  N       1214   92 11..                |   |   |                   |  [W-<Cj>] [T>LYHW <PO>]
+RICHT16,16 3sgF WayX  << xQt0  N       12145  93 10.#                |   |   |                  [W-<Cj>] [TQYR <Pr>] [NPCW <Su>]
+RICHT16,16 ---- InfC [adjunct] N       12145  94 12..                |   |   |                       |  [L-MWT <Pr>]
+RICHT16,17 3sgM Way0  << WayX  N       12145  95 11..                |   |   |                      [W-<Cj>] [JGD <Pr>] [LH <Co>] [>T KL LBW <Ob>]
+RICHT16,17 3sgM Way0  << Way0  N       12145  96 11..                |   |   |                      [W-<Cj>] [J>MR <Pr>] [LH <Co>]
+                               =======                               |   |   |                        +===========================================\
+RICHT16,17 3sgM XQtl  <<  [Q]  NQ      121451 97 12.q                |   |   |                        | [MWRH <Su>] [L> <Ng>] [<LH <Pr>] [<L R>CJ <Co>]
+RICHT16,17 ---- NmCl  << XQtl  NQ      121451 98 14..                |   |   |                        |      |  [KJ <Cj>] [NZJR >LHJM <PC>] [>NJ <Su>] [M-BVN >MJ <Aj>]
+RICHT16,17 1sg- xQt0  << XQtl  NQ      121451 99 13..                |   |   |                        |     [>M <Cj>] [GLXTJ <Pr>]
+RICHT16,17 3sgM WQtX  << xQt0  NQ      121451100 14..                |   |   |                        |         [W-<Cj>] [SR <Pr>] [MMNJ <Co>] [KXJ <Su>]
+RICHT16,17 1sg- WQt0  << WQtX  NQ      121451101 15..                |   |   |                        |             [W-<Cj>] [XLJTJ <Pr>]
+RICHT16,17 1sg- WQt0  << WQt0  NQ      121451102 15..                |   |   |                        |             [W-<Cj>] [HJJTJ <Pr>] [K-KL H->DM <PC>]
+                               =======                               |   |                            +===========================================/
+RICHT16,18 3sgF WayX  << WayX  N       1215  103  5.#                |   |  [W-<Cj>] [TR> <Pr>] [DLJLH <Su>]
+RICHT16,18 3sgM xQt0 [object ] N       1215  104  7..                |   |       |  [KJ <Cj>] [HGJD <Pr>] [LH <Co>] [>T KL LBW <Ob>]
+RICHT16,18 3sgF Way0  << WayX  N       1215  105  6..                |   |      [W-<Cj>] [TCLX <Pr>]
+RICHT16,18 3sgF Way0  << Way0  N       1215  106  6..                |   |      [W-<Cj>] [TQR> <Pr>] [L-SRNJ PLCTJM <Co>]
+RICHT16,18 ---- InfC [adjunct] N       1215  107  9..                |   |           |   |  [L->MR <Pr>]
+                               =======                               |   |           |   |    +===================================================\
+RICHT16,18 2plM ZIm0  <<  [Q]  NQ      12151 108 10.q                |   |           |   |    | [<LW <Pr>] [H-P<M <Mo>]
+RICHT16,18 3sgM xQt0  << ZIm0  NQ      12151 109 11..                |   |           |   |    |     [KJ <Cj>] [HGJD <Pr>] [LH <Co>] [>T KL LBW <Ob>]
+                               =======                               |   |           |        +===================================================/
+RICHT16,18 3pl- WQtX  << Way0  N       1215  110  8..                |   |           |  [W-<Cj>] [<LW <Pr>] [>LJH <Co>] [SRNJ PLCTJM <Su>]
+RICHT16,18 3plM Way0  << WQtX  N       1215  111  9..                |   |           |      [W-<Cj>] [J<LW <Pr>] [H-KSP <Ob>] [B-JDM <Co>]
+RICHT16,19 3sgF Way0  << Way0  N       1215  112  7..                |   |          [W-<Cj>] [TJCNHW <PO>] [<L BRKJH <Co>]
+RICHT16,19 3sgF Way0  << Way0  N       1215  113  8..                |   |              [W-<Cj>] [TQR> <Pr>] [L-->JC <Co>]
+RICHT16,19 3sgF Way0  << Way0  N       1215  114  8..                |   |              [W-<Cj>] [TGLX <Pr>] [>T CB< MXLPWT R>CW <Ob>]
+RICHT16,19 3sgF Way0  << Way0  N       1215  115  8..                |   |              [W-<Cj>] [TXL <Pr>]
+RICHT16,19 ---- InfC [adjunct] N       1215  116 10..                |   |               |   |  [L-<NWTW <PO>]
+RICHT16,19 3sgM WayX  << Way0  N       12152 117  9.#                |   |               |  [W-<Cj>] [JSR <Pr>] [KXW <Su>] [M-<LJW <Co>]
+RICHT16,20 3sgF Way0  << Way0  N       1215  118  8..                |   |              [W-<Cj>] [T>MR <Pr>]
+                               =======                               |   |                   |+===================================================\
+RICHT16,20 ---- NmCl  <<  [Q]  NQ      12153 119 10.q                |   |                    | [PLCTJM <Su>] [<LJK <PC>]
+RICHT16,20 ---- Voct  << NmCl  NQ      12153 120 11v.                |   |                    |     [CMCWN <Vo>]
+                               =======                               |   |                   |+===================================================/
+RICHT16,20 3sgM Way0  << Way0  N       1215  121  9..                |   |                  [W-<Cj>] [JQY <Pr>] [M-CNTW <Co>]
+RICHT16,20 3sgM Way0  << Way0  N       1215  122  9..                |   |                  [W-<Cj>] [J>MR <Pr>]
+                               =======                               |   |                       |   |+===========================================\
+RICHT16,20 1sg- ZYq0  <<  [Q]  NQ      12154 123 12.q                |   |                       |    | [>Y> <Pr>] [K-P<M / B-P<M <sp><Aj>]
+RICHT16,20 1sg- WYq0  << ZYq0  NQ      12154 124 13..                |   |                       |    |     [W-<Cj>] [>N<R <Pr>]
+                               =======                               |   |                       |    +===========================================/
+RICHT16,20 3sgM WXQt  << Way0  N       1215  125 11..                |   |                       |  [W-<Cj>] [HW> <Su>] [L> <Ng>] [JD< <Pr>]
+RICHT16,20 3sgM XQtl [object ] N       1215  126 12..                |   |                       |      [KJ <Cj>] [JHWH <Su>] [SR <Pr>] [M-<LJW <Co>]
+RICHT16,21 3plM WayX  << Way0  N       12155 127 10.#                |   |                      [W-<Cj>] [J>XZWHW <PO>] [PLCTJM <Su>]
+RICHT16,21 3plM Way0  << WayX  N       12155 128 11..                |   |                          [W-<Cj>] [JNQRW <Pr>] [>T <JNJW <Ob>]
+RICHT16,21 3plM Way0  << Way0  N       12155 129 11..                |   |                          [W-<Cj>] [JWRJDW <Pr>] [>WTW <Ob>] [<ZTH <Co>]
+RICHT16,21 3plM Way0  << Way0  N       12155 130 12..                |   |                              [W-<Cj>] [J>SRWHW <PO>] [B--NXCTJM <Co>]
+RICHT16,21 3sgM Way0  << Way0  N       12155 131 13..                |   |                                  [W-<Cj>] [JHJ <Pr>] [VWXN <PC>] [B-BJT H->SJRJM <Lo>]
+RICHT16,22 3sgM WayX  << Way0  N       121551132 14.#                |   |                                      [W-<Cj>] [JXL <Pr>] [F<R R>CW <Su>]
+RICHT16,22 ---- InfC [adjunct] N       121551133 16..                |   |                                           |  [L-YMX <Pr>]
+RICHT16,22 3sgM xQt0 [adjunct] N       121551134 15..                |   |                                          [K->CR <Cj>] [GLX <Pr>]
+RICHT16,23 3pl- WXQt  << WayX  N       1216  135  4.#                |  [W-<Cj>] [SRNJ PLCTJM <Su>] [N>SPW <Pr>]
+RICHT16,23 ---- InfC [adjunct] N       1216  136  6..                |       |  [L-ZBX <Pr>] [ZBX GDWL <Ob>] [L-DGWN / >LHJHM <ap><Co>]
+RICHT16,23 ---- NmCl [coordin] N       1216  137  7..                |       |      [W-<Cj>] [L-FMXH <PC>]
+RICHT16,23 3plM Way0  << WXQt  N       1216  138  5..                |      [W-<Cj>] [J>MRW <Pr>]
+                               =======                               |           |+===============================================================\
+RICHT16,23 3sgM ZQtX  <<  [Q]  NQ      12161 139  7.q                |            | [NTN <Pr>] [>LHJNW <Su>] [B-JDNW <Co>] [>T CMCWN / >WJBJNW <ap><Ob>]
+                               =======                               |           |+===============================================================/
+RICHT16,24 3plM WayX  << Way0  N       12162 140  6.#                |          [W-<Cj>] [JR>W <Pr>] [>TW <Ob>] [H-<M <Su>]
+RICHT16,24 3plM Way0  << WayX  N       12162 141  7..                |           |  [W-<Cj>] [JHLLW <Pr>] [>T >LHJHM <Ob>]
+RICHT16,24 3pl- xQt0  << Way0  N       12162 142  8..                |           |      [KJ <Cj>] [>MRW <Pr>]
+                               =======                               |           |        +=======================================================\
+RICHT16,24 3sgM ZQtX  <<  [Q]  NQ      121621143  9.q                |           |        | [NTN <Pr>] [>LHJNW <Su>] [B-JDNW <Co>] [>T >WJBNW W->T MXRJB >RYNW <Ob>]
+RICHT16,24 3sgM WxQ0 [coordin] NQ      121621144 10..                |           |        |     [W-<Cj>] [>CR <Re>] [HRBH <Pr>] [>T XLLJNW <Ob>]
+                               =======                               |                    +=======================================================/
+RICHT16,25 3sgM Way0  << WayX  N       12163 145  6.#                |          [W-<Cj>] [JHJ <Pr>]
+RICHT16,25 ---- InfC [adjunct] N       12163 146  8..                |               |  [KJ VWB <Pr>] [LBM <Su>]
+RICHT16,25 3plM Way0  << Way0  N       12163 147  7..                |              [W-<Cj>] [J>MRW <Pr>]
+                               =======                               |               |+===========================================================\
+RICHT16,25 2plM ZIm0  <<  [Q]  NQ      121631148  8.q                |                | [QR>W <Pr>] [L-CMCWN <Co>]
+RICHT16,25 3sgM WYq0  << ZIm0  NQ      121631149  9..                |                |     [W-<Cj>] [JFXQ <Pr>] [LNW <Co>]
+                               =======                               |               |+===========================================================/
+RICHT16,25 3plM Way0  << Way0  N       12163 150  7..                |              [W-<Cj>] [JQR>W <Pr>] [L-CMCWN <Co>] [M-BJT H->SJRJM <Co>]
+RICHT16,25 3sgM Way0  << Way0  N       12163 151  8..                |               |  [W-<Cj>] [JYXQ <Pr>] [L-PNJHM <Co>]
+RICHT16,25 3plM Way0  << Way0  N       12163 152  7..                |              [W-<Cj>] [J<MJDW <Pr>] [>WTW <Ob>] [BJN H-<MWDJM <Co>]
+RICHT16,26 3sgM WayX  << Way0  N       121632153  8.#                |                  [W-<Cj>] [J>MR <Pr>] [CMCWN <Su>] [>L H-N<R <Co>]
+RICHT16,26 -sgM Ptcp [attrib.] N       121632154 11..                |                   |   |   |  [H-<Re>] [MXZJQ <PC>] [B-JDW <Co>]
+                               =======                               |                   |   |+===================================================\
+RICHT16,26 2sgM ZIm0  <<  [Q]  NQ      121632155 10.q                |                   |    | [HNJXH <Pr>] [>WTJ <Ob>]
+RICHT16,26 2sgM WIm0  << ZIm0  NQ      121632156 11..                |                   |    |     [W-<Cj>] [HJMCNJ <PO>] [>T H-<MDJM <Ob>]
+RICHT16,26 -sgM Ptcp [attrib.] NQ      121632157 13..                |                   |    |          |  [>CR <Re>] [H-BJT <Su>] [NKWN <PC>] [<LJHM <Co>]
+RICHT16,26 1sg- WYq0  << WIm0  NQ      121632158 12..                |                   |    |         [W-<Cj>] [>C<N <Pr>] [<LJHM <Co>]
+                               =======                               |                   |    +===================================================/
+RICHT16,27 3sgM WXQt  << WayX  N       121632159  9.#                |                   |  [W-<Cj>] [H-BJT <Su>] [ML> <Pr>] [H->NCJM W-H-NCJM <Ob>]
+RICHT16,27 ---- NmCl  << WXQt  N       121632160 10..                |                   |      [W-<Cj>] [CMH <PC>] [KL SRNJ PLCTJM <Su>]
+RICHT16,27 ---- NmCl  << NmCl  N       121632161 11..                |                   |          [W-<Cj>] [<L H-GG <PC>] [K-CLCT >LPJM >JC W->CH <Su>]
+RICHT16,27 -plM Ptcp [attrib.] N       121632162 12..                |                   |              [H-<Re>] [R>JM <PC>]
+RICHT16,27 ---- InfC [adjunct] N       121632163 13..                |                   |                  [B-FXWQ <Pr>] [CMCWN <Su>]
+RICHT16,28 3sgM WayX  << WayX  N       121633164  8.#                |                  [W-<Cj>] [JQR> <Pr>] [CMCWN <Su>] [>L JHWH <Co>]
+RICHT16,28 3sgM Way0  << WayX  N       121633165  9..                |                   |  [W-<Cj>] [J>MR <Pr>]
+                               =======                               |                   |    +===================================================\
+RICHT16,28 ---- Voct  <<  [Q]  NQ      121633166 10vq                |                   |    | [>DNJ JHWH <Vo>]
+RICHT16,28 2sgM ZIm0  << Voct  NQ      121633167 11..                |                   |    |     [ZKRNJ <PO>] [N> <Ij>]
+RICHT16,28 2sgM WIm0  << ZIm0  NQ      121633168 12..                |                   |    |         [W-<Cj>] [XZQNJ <PO>] [N> <Ij>] [>K H-P<M H-ZH <Mo>]
+RICHT16,28 ---- Voct  << WIm0  NQ      121633169 14v.                |                   |    |              |  [H->LHJM <Vo>]
+RICHT16,28 1sg- WYq0  << WIm0  NQ      121633170 13..                |                   |    |             [W-<Cj>] [>NQMH <Pr>] [NQM >XT <Ob>] [M-CTJ <JNJ <Co>] [M-PLCTJM <Co>]
+                               =======                               |                   |    +===================================================/
+RICHT16,29 3sgM WayX  << WayX  N       121634171  8.#                |                  [W-<Cj>] [JLPT <Pr>] [CMCWN <Su>] [>T CNJ <MWDJ H-TWK <Ob>]
+RICHT16,29 -sgM Ptcp [attrib.] N       121634172 10..                |                   |   |  [>CR <Re>] [H-BJT <Su>] [NKWN <PC>] [<LJHM <Co>]
+RICHT16,29 3sgM Way0  << WayX  N       121634173  9..                |                   |  [W-<Cj>] [JSMK <Pr>] [<LJHM <Co>]
+RICHT16,29 ---- NmCl  << Way0  N       121634174 10..                |                   |      [>XD <Su>] [B-JMJNW <PC>]
+RICHT16,29 ---- NmCl  << NmCl  N       121634175 11..                |                   |          [W-<Cj>] [>XD <Su>] [B-FM>LW <PC>]
+RICHT16,30 3sgM WayX  << WayX  N       121635176  8.#                |                  [W-<Cj>] [J>MR <Pr>] [CMCWN <Su>]
+                               =======                               |                       |+===================================================\
+RICHT16,30 3sgF ZYqX  <<  [Q]  NQ      121635177 10.q                |                        | [TMWT <Pr>] [NPCJ <Su>] [<M PLCTJM <Aj>]
+                               =======                               |                        +===================================================/
+RICHT16,30 3sgM Way0  << WayX  N       121635178  9..                |                      [W-<Cj>] [JV <Pr>] [B-KX <Aj>]
+RICHT16,30 3sgM WayX  << Way0  N       121635179 10.#                |                          [W-<Cj>] [JPL <Pr>] [H-BJT <Su>] [<L H-SRNJM W-<L KL H-<M <Co>]
+RICHT16,30 ---- NmCl [attrib.] N       121635180 11..                |                           |  [>CR <Re>] [BW <PC>]
+RICHT16,30 3plM WayX  << WayX  N       121635181 10.#                |                          [W-<Cj>] [JHJW <Pr>] [H-MTJM <Su>]
+RICHT16,30 3sgM xQt0 [attrib.] N       121635182 12.e                |                               |  [>CR <Re>] [HMJT <Pr>] [B-MWTW <Aj>]
+RICHT16,30 -plM Defc  << WayX  N       121635183 11d.                |                              [RBJM <PC>]
+RICHT16,30 3sgM xQt0 [adjunct] N       121635184 12..                |                                  [M->CR <Re>] [HMJT <Pr>] [B-XJJW <Ti>]
+RICHT16,31 3plM WayX  << WayX  N       122   185  3.#               [W-<Cj>] [JRDW <Pr>] [>XJW W-KL BJT >BJHW <Su>]
+RICHT16,31 3plM Way0  << WayX  N       122   186  5..                    |  [W-<Cj>] [JF>W <Pr>] [>TW <Ob>]
+RICHT16,31 3plM Way0  << Way0  N       122   187  5..                    |  [W-<Cj>] [J<LW <Pr>]
+RICHT16,31 3plM Way0  << Way0  N       122   188  5..                    |  [W-<Cj>] [JQBRW <Pr>] [>WTW <Ob>] [BJN YR<H W-BJN >CT>L <Lo>] [B-QBR MNWX / >BJW <ap><Co>]
+RICHT16,31 3sgM WXQt  << WayX  N       1221  189  4.#                   [W-<Cj>] [HW> <Su>] [CPV <Pr>] [>T JFR>L <Ob>] [<FRJM CNH <Ti>]

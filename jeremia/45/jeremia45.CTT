@@ -1,0 +1,32 @@
+ JER 45,01 ---- NmCl  <<  [R]  ?       1       1  0.N   [H-DBR <Su>]
+ JER 45,01 3sgM xQtX [attrib.] ?       1       2  2..        |  [>CR <Re>] [DBR <Pr>] [JRMJHW / H-NBJ> <ap><Su>] [>L BRWK / BN NRJH <ap><Co>]
+ JER 45,01 ---- InfC [adjunct] ?       1       3  3..        |      [B-KTBW <Ps>] [>T H-DBRJM H->LH <Ob>] [<L SPR <Co>] [M-PJ JRMJHW <Aj>] [B--CNH H-RB<JT / L-JHWJQJM / BN J>CJHW / MLK JHWDH <ap><ap><sp><Ti>]
+ JER 45,01 ---- InfC [adjunct] ?       1       4  1..       [L->MR <Pr>]
+                               =======                           |+===============================================================================\
+ JER 45,02 3sgM xQtX  <<  [Q]  ?Q      11      5  3.q             | [KH <Mo>] [>MR <Pr>] [JHWH / >LHJ JFR>L <ap><Su>] [<LJK <Co>]
+ JER 45,02 ---- Voct  << xQtX  ?Q      11      6  5v.             |      |  [BRWK <Vo>]
+                               =======                           ||   +========================================================================\
+ JER 45,03 2sgM ZQt0  <<  [Q]  ?QQ     111     7  4.q             |  || [>MRT <Pr>]
+                               =======                           ||   |   +=================================================================\
+ JER 45,03 ---- NmCl  <<  [Q]  ?QQQ    1111    8  5.q             |  ||   | [>WJ <Ij>] [N> <Ij>] [LJ <PC>]
+ JER 45,03 3sgM xQtX  << NmCl  ?QQQ    1111    9  7..             |  ||   |      |  [KJ <Cj>] [JSP <Pr>] [JHWH <Su>] [JGWN <Ob>] [<L MK>BJ <Co>]
+ JER 45,03 1sg- ZQt0  << NmCl  ?QQQ    1111   10  6..             |  ||   |     [JG<TJ <Pr>] [B->NXTJ <Co>]
+ JER 45,03 1sg- WxQ0  << ZQt0  ?QQQ    1111   11  7..             |  ||   |         [W-<Cj>] [MNWXH <Ob>] [L> <Ng>] [MY>TJ <Pr>]
+                               =======                            |   +========================================================================/
+ JER 45,04 2sgM xYq0  <<  [Q]  ?Q      12     12  2.q           [KH <Mo>] [T>MR <Pr>] [>LJW <Co>]
+                               =======                            +============================================================================\
+ JER 45,04 3sgM xQtX  <<  [Q]  ?QQ     121    13  3.q             | [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
+                               =======                            |    =====================================================================\
+ JER 45,04 ---- NmCl  <<  [Q]  ?QQQ    1211   14  4.q             |     [HNH <Ij>]
+ JER 45,04 1sg- xQt0 [object ] ?QQQ    1211   15  7.\             |          |   |  [>CR <Re>] [BNJTJ <Pr>]
+ JER 45,04 -sgM Ptcp  << NmCl  ?QQQ    1211   16  6..             |          |  [>NJ <Su>] [HRS <PC>]
+ JER 45,04 ---- Defc  << Ptcp  ?QQQ    1211   17  7d.             |          |      [W-<Cj>]
+ JER 45,04 1sg- xQt0 [object ] ?QQQ    1211   18  9.\             |          |           |  [>T >CR <Re>] [NV<TJ <Pr>]
+ JER 45,04 -sgM Ptcp  << Defc  ?QQQ    1211   19  8..             |          |          [>NJ <Su>] [NTC <PC>]
+ JER 45,04 ---- NmCl  << Ptcp  ?QQQ    1211   20  9..             |          |              [W-<Cj>] [>T KL H->RY <PC>] [HJ> <Su>]
+ JER 45,05 2sgM WXYq  << NmCl  ?QQQ    1211   21  5..             |         [W-<Cj>] [>TH <Su>] [TBQC <Pr>] [LK <Co>] [GDLWT <Ob>]
+ JER 45,05 2sgM xYq0  << WXYq  ?QQQ    1211   22  6..             |             [>L <Ng>] [TBQC <Pr>]
+ JER 45,05 -sgM Ptcp  << xYq0  ?QQQ    1211   23  7..             |                 [KJ <Cj>] [HNNJ <Is>] [MBJ> <PC>] [R<H <Ob>] [<L KL BFR <Co>]
+ JER 45,05 ---- MSyn  << Ptcp  ?QQQ    1211   24  9m.             |                      |  [N>M JHWH <PC>]
+ JER 45,05 1sg- WQt0  << Ptcp  ?QQQ    1211   25  8..             |                     [W-<Cj>] [NTTJ <Pr>] [LK <Co>] [>T NPCK <Ob>] [L-CLL <Co>] [<L KL H-MQMWT <Lo>]
+ JER 45,05 2sgM xYq0 [attrib.] ?QQQ    1211   26  9..             |                         [>CR <Re>] [TLK <Pr>] [CM <Co>]

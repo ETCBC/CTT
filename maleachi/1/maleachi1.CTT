@@ -1,0 +1,129 @@
+ MAL 01,01 ---- NmCl  <<  [R]  ?       1       1  0.N   [MF> <PC>]
+ MAL 01,01 ---- NmCl  << NmCl  ?       1       2  1..       [DBR JHWH / >L JFR>L / B-JD ML>KJ <sp><sp><PC>]
+                               =======                        +===================================================================================\
+ MAL 01,02 1sg- ZQt0  <<  [Q]  ?Q      11      3  2.q         | [>HBTJ <Pr>] [>TKM <Ob>]
+                               =======                        +===================================================================================/
+ MAL 01,02 3sgM ZQtX  << ZQt0  ?       111     4  5.#            |   |   |  [>MR <Pr>] [JHWH <Su>]
+                               =======                           |   |+===========================================================================\
+ MAL 01,02 2plM WQt0  << ZQt0  ?Q      11      5  4..            |    | [W-<Cj>] [>MRTM <Pr>]
+                               =======                           |   ||   +====================================================================\
+ MAL 01,02 2sgM xQt0  <<  [Q]  ?QQ     112     6  5.q            |    |  || [B-MH <Co>] [>HBTNW <PO>]
+                               =======                           |    |   +====================================================================/
+ MAL 01,02 ---- NmCl  << ZQt0  ?Q      11      7  3..            |  [H-<Qu>] [LW> <Ng>] [>X <PC>] [<FW <Su>] [L-J<QB <Aj>]
+ MAL 01,02 ---- MSyn  << NmCl  ?Q      11      8  7m.            |    |  |   |   |  [N>M JHWH <PC>]
+                               -------                           |    |  |   |+----------------------------------------------------------------\
+ MAL 01,02 1sg- Way0  << NmCl  ?QN     11      9  6..            |    |  |   || [W-<Cj>] [>HB <Pr>] [>T J<QB <Ob>]
+ MAL 01,03 1sg- WxQ0  << Way0  ?QN     11     10  7..            |    |  |   ||     [W-<Cj>] [>T <FW <Ob>] [FN>TJ <Pr>]
+ MAL 01,03 1sg- Way0  << WxQ0  ?QN     11     11  8..            |    |  |   ||         [W-<Cj>] [>FJM <Pr>] [>T HRJW <Ob>] [CMMH <Ob>]
+ MAL 01,03 ---- Ellp  << Way0  ?QN     11     12  9l.            |    |  |   ||             [W-<Cj>] [>T NXLTW <Ob>] [L-TNWT MDBR <Co>]
+                               -------                           |    |  |    +----------------------------------------------------------------/
+ MAL 01,04 3sgF xYqX  << NmCl  ?Q      11     13  5..            |    |  |  [KJ <Cj>] [T>MR <Pr>] [>DWM <Su>]
+                               =======                           |    |  |       |+============================================================\
+ MAL 01,04 1pl- ZQt0  <<  [Q]  ?QQ     113    14  7.q            |    |  |       || [RCCNW <Pr>]
+ MAL 01,04 1pl- WYq0  << ZQt0  ?QQ     113    15  8..            |    |  |       ||     [W-<Cj>] [NCWB <Pr>]
+ MAL 01,04 1pl- WYq0  << WYq0  ?QQ     113    16  9..            |    |  |       ||         [W-<Cj>] [NBNH <Pr>] [XRBWT <Ob>]
+                               =======                           |    |  |        +============================================================/
+ MAL 01,04 3sgM xQtX  << xYqX  ?Q      11     17  6..            |    |  |      [KH <Mo>] [>MR <Pr>] [JHWH YB>WT <Su>]
+                               =======                           |    |  |        +============================================================\
+ MAL 01,04 3plM XYqt  <<  [Q]  ?QQ     114    18  7.q            |    |  |       || [HMH <Su>] [JBNW <Pr>]
+ MAL 01,04 1sg- WXYq  << XYqt  ?QQ     114    19  9..            |    |  |       ||      |  [W-<Cj>] [>NJ <Su>] [>HRWS <Pr>]
+ MAL 01,04 3pl- WQt0  << XYqt  ?QQ     114    20  8..            |    |  |       ||     [W-<Cj>] [QR>W <Pr>] [LHM <Co>] [GBWL RC<H <Ob>]
+ MAL 01,04 ---- Ellp  << WQt0  ?QQ     114    21  9l.            |    |  |       ||         [W-<Cj>] [H-<M <Ob>]
+ MAL 01,04 3sgM xQtX [attrib.] ?QQ     114    22 10..            |    |  |       ||             [>CR <Re>] [Z<M <Pr>] [JHWH <Su>] [<D <WLM <Ti>]
+                               =======                           |    |           +============================================================/
+ MAL 01,05 3plF WXYq  << NmCl  ?Q      11     23  4..            |    | [W-<Cj>] [<JNJKM <Su>] [TR>JNH <Pr>]
+ MAL 01,05 2plM WXYq  << WXYq  ?Q      11     24  5..            |    |     [W-<Cj>] [>TM <Su>] [T>MRW <Pr>]
+                               =======                           |    |       +================================================================\
+ MAL 01,05 3sgM ZYqX  <<  [Q]  ?QQ     115    25  6.q            |    |      || [JGDL <Pr>] [JHWH <Su>] [M-<L L-GBWL JFR>L <Aj>]
+                               =======                                |       +================================================================/
+ MAL 01,06 3sgM XYqt  << ZQt0  ?Q      12     26  2.#           [BN <Su>] [JKBD <Pr>] [>B <Ob>]
+ MAL 01,06 ---- Ellp  << XYqt  ?Q      12     27  6l.                 |  |   |  [W-<Cj>] [<BD <Su>] [>DNJW <Ob>]
+ MAL 01,06 ---- Defc  << XYqt  ?Q      12     28  5d.                 |  |  [W-<Cj>]
+ MAL 01,06 ---- NmCl  << Defc  ?Q      12     29  8.e                 |  |       |   |  [>M <Cj>] [>B <PC>] [>NJ <Su>]
+ MAL 01,06 ---- NmCl  << Defc  ?Q      12     30  7..                 |  |       |  [>JH <PC>] [KBWDJ <Su>]
+ MAL 01,06 ---- Defc  << Defc  ?Q      12     31  6d.                 |  |      [W-<Cj>]
+ MAL 01,06 ---- NmCl  << Defc  ?Q      12     32  9.e                 |  |           |   |  [>M <Cj>] [>DWNJM <PC>] [>NJ <Su>]
+ MAL 01,06 ---- NmCl  << Defc  ?Q      12     33  8..                 |  |           |  [>JH <PC>] [MWR>J <Su>]
+ MAL 01,06 3sgM ZQtX  << Defc  ?Q      12     34  7..                 |  |          [>MR <Pr>] [JHWH YB>WT <Su>] [LKM <Co>]
+ MAL 01,06 ---- Voct  << ZQtX  ?Q      12     35  8v.                 |  |              [H-KHNJM <Vo>]
+ MAL 01,06 -plM Ptcp [attrib.] ?Q      12     36  9..                 |  |                  [BWZJ <PC>] [CMJ <Ob>]
+ MAL 01,06 2plM WQt0  << XYqt  ?Q      12     37  4..                 | [W-<Cj>] [>MRTM <Pr>]
+                               =======                               ||      |+================================================================\
+ MAL 01,06 1pl- xQt0  <<  [Q]  ?QQ     121    38  6.q                 |       | [B-MH <Co>] [BZJNW <Pr>] [>T CMK <Ob>]
+                               =======                               ||       +================================================================/
+ MAL 01,07 -plM Ptcp  << WQt0  ?Q      12     39  5..                 |     [MGJCJM <PC>] [<L MZBXJ <Co>] [LXM MG>L <Ob>]
+ MAL 01,07 2plM WQt0  << Ptcp  ?Q      12     40  7..                 |          |  [W-<Cj>] [>MRTM <Pr>]
+                               =======                               ||          |       |+====================================================\
+ MAL 01,07 1pl- xQt0  <<  [Q]  ?QQ     122    41  9.q                 |          |        | [B-MH <Co>] [G>LNWK <PO>]
+                               =======                               ||          |        +====================================================/
+ MAL 01,07 ---- InfC  << WQt0  ?Q      12     42  8..                 |          |      [B->MRKM <Ps>]
+                               =======                               ||          |        +====================================================\
+ MAL 01,07 ---- CPen  <<  [Q]  ?QQ     123    43  9cq                 |          |        | [CLXN JHWH <Fr>]
+ MAL 01,07 -sgM Ptcp [resumpt] ?QQ     123    44 10..                 |          |        |     [NBZH <PC>] [HW> <Su>]
+                               =======                               ||                   +====================================================/
+ MAL 01,08 ---- Defc  << Ptcp  ?Q      12     45  6d.                 |         [W-<Cj>]
+ MAL 01,08 2plM xYq0  << Defc  ?Q      12     46 10..                 |              |   |   |  [KJ <Cj>] [TGCWN <Pr>] [<WR <Ob>]
+ MAL 01,08 ---- InfC [adjunct] ?Q      12     47 11.e                 |              |   |   |      [L-ZBX <Pr>]
+ MAL 01,08 ---- NmCl  << Defc  ?Q      12     48  9..                 |              |   |  [>JN <NC>] [R< <Su>]
+ MAL 01,08 ---- Defc  << Defc  ?Q      12     49  8d.                 |              |  [W-<Cj>]
+ MAL 01,08 2plM xYq0  << Defc  ?Q      12     50 10.e                 |              |       |  [KJ <Cj>] [TGJCW <Pr>] [PSX W-XLH <Ob>]
+ MAL 01,08 ---- NmCl  << Defc  ?Q      12     51  9..                 |              |      [>JN <NC>] [R< <Su>]
+ MAL 01,08 2sgM ZIm0  << Defc  ?Q      12     52  7..                 |             [HQRJBHW <PO>] [N> <Ij>] [L-PXTK <Co>]
+ MAL 01,08 3sgM xYq0  << ZIm0  ?Q      12     53  9..                 |                  |  [H-<Qu>] [JRYK <PO>]
+ MAL 01,08 3sgM xYq0  << xYq0  ?Q      12     54 10..                 |                  |      [>W <Cj>] [H-<Qu>] [JF> <Pr>] [PNJK <Ob>]
+                               =======                               |+===========================================================================/
+ MAL 01,08 3sgM ZQtX  << xYq0  ?       124    55 11.#                |                   |          [>MR <Pr>] [JHWH YB>WT <Su>]
+                               =======                               |                +===========================================================\
+ MAL 01,09 ---- MSyn  << ZIm0  ?Q      12     56  8m.                |                | [W-<Cj>] [<TH <Ti>]
+ MAL 01,09 2plM ZIm0  << MSyn  ?Q      12     57  9..                |                |     [XLW <Pr>] [N> <Ij>] [PNJ >L <Ob>]
+ MAL 01,09 3sgM WYq0  << ZIm0  ?Q      12     58 11..                |                |          |  [W-<Cj>] [JXNNW <PO>]
+ MAL 01,09 3sgF xQtX  << ZIm0  ?Q      12     59 10..                |                |         [M-JDKM <Aj>] [HJTH <Pr>] [Z>T <Su>]
+ MAL 01,09 3sgM xYq0  << xQtX  ?Q      12     60 11..                |                |             [H-<Qu>] [JF> <Pr>] [MKM <Aj>] [PNJM <Ob>]
+                               =======                               |                +===========================================================/
+ MAL 01,09 3sgM ZQtX  << xYq0  ?       125    61 12.#                |                                  [>MR <Pr>] [JHWH YB>WT <Su>]
+                               =======                            +===============================================================================\
+ MAL 01,10 ---- NmCl  << XYqt  ?Q      126    62  3.#             | [MJ <Su>] [GM <Mo>] [BKM <PC>]
+ MAL 01,10 3sgM WYq0  << NmCl  ?Q      126    63  5..             |      |  [W-<Cj>] [JSGR <Pr>] [DLTJM <Ob>]
+ MAL 01,10 2plM WxY0  << NmCl  ?Q      126    64  4..             |     [W-<Cj>] [L> <Ng>] [T>JRW <Pr>] [MZBXJ <Ob>] [XNM <Mo>]
+ MAL 01,10 ---- NmCl  << WxY0  ?Q      126    65  5..             |         [>JN <NC>] [LJ <Aj>] [XPY <Su>] [BKM <Aj>]
+                               =======                            +===============================================================================/
+ MAL 01,10 3sgM ZQtX  << NmCl  ?       1261   66  8.#                            |   |  [>MR <Pr>] [JHWH YB>WT <Su>]
+                               =======                                           |+===============================================================\
+ MAL 01,10 1sg- WxY0  << NmCl  ?Q      126    67  7..                             | [W-<Cj>] [MNXH <Ob>] [L> <Ng>] [>RYH <Pr>] [M-JDKM <Aj>]
+ MAL 01,11 -sgM AjCl  << NmCl  ?Q      126    68  6..                           [KJ <Cj>] [M-MZRX CMC W-<D MBW>W <Lo>] [GDWL <PC>] [CMJ <Su>] [B--GWJM <Aj>]
+ MAL 01,11 -sgM Ptcp  << AjCl  ?Q      126    69  8..                             |  |  [W-<Cj>] [B-KL MQWM <Lo>] [MQVR <Su>] [MGC <PC>] [L-CMJ / W-/ MNXH VHWRH <pa><cj><Aj>]
+ MAL 01,11 -sgM AjCl  << Ptcp  ?Q      126    70  9..                             |  |      [KJ <Cj>] [GDWL <PC>] [CMJ <Su>] [B--GWJM <Aj>]
+                               =======                                            +===============================================================/
+ MAL 01,11 3sgM ZQtX  << AjCl  ?       1262   71 10.#                                |          [>MR <Pr>] [JHWH YB>WT <Su>]
+                               =======                                            +===============================================================\
+ MAL 01,12 -plM Ptcp  << AjCl  ?Q      126    72  7..                             | [W-<Cj>] [>TM <Su>] [MXLLJM <PC>] [>WTW <Ob>]
+ MAL 01,12 ---- InfC [adjunct] ?Q      126    73 10..                             |      |   |  [B->MRKM <Ps>]
+                               =======                                            |      |   |    +============================================\
+ MAL 01,12 ---- CPen  <<  [Q]  ?QQ     1263   74 11cq                             |      |   |    | [CLXN >DNJ <Fr>]
+ MAL 01,12 -sgM AjCl [resumpt] ?QQ     1263   75 13..                             |      |   |    |      |  [MG>L <PC>] [HW> <Su>]
+ MAL 01,12 ---- CPen  << CPen  ?QQ     1263   76 12c.                             |      |   |    |     [W-<Cj>] [NJBW <Fr>]
+ MAL 01,12 -sgM Ptcp [resumpt] ?QQ     1263   77 13..                             |      |   |    |         [NBZH <PC>] [>KLW <Su>]
+                               =======                                            |      |        +============================================/
+ MAL 01,13 2plM WQt0  << Ptcp  ?Q      126    78  9..                             |      |  [W-<Cj>] [>MRTM <Pr>]
+                               =======                                            |      |       |+============================================\
+ MAL 01,13 ---- NmCl  <<  [Q]  ?QQ     1264   79 11.q                             |      |        | [HNH <Ij>] [M-<PC>] [TL>H <Su>]
+                               =======                                            |      |        +============================================/
+ MAL 01,13 2plM WQt0  << WQt0  ?Q      126    80 10..                             |      |      [W-<Cj>] [HPXTM <Pr>] [>WTW <Ob>]
+                               =======                                            +===============================================================/
+ MAL 01,13 3sgM ZQtX  << WQt0  ?       1265   81 12.#                                    |           |  [>MR <Pr>] [JHWH YB>WT <Su>]
+                               =======                                                   |        +===============================================\
+ MAL 01,13 2plM WQt0  << WQt0  ?Q      126    82 11..                                    |        | [W-<Cj>] [HB>TM <Pr>] [GZWL W->T H-PSX W->T H-XWLH <Ob>]
+ MAL 01,13 2plM WQt0  << Ptcp  ?Q      126    83  8..                                   [W-<Cj>] [HB>TM <Pr>] [>T H-MNXH <Ob>]
+ MAL 01,13 1sg- xYq0  << WQt0  ?Q      126    84 10..                                        |  [H-<Qu>] [>RYH <Pr>] [>WTH <Ob>] [M-JDKM <Aj>]
+                               =======                                                       |    +===============================================/
+ MAL 01,13 3sgM ZQtX  << xYq0  ?       1266   85 11.#                                        |      [>MR <Pr>] [JHWH <Su>]
+                               =======                                                    +=======================================================\
+ MAL 01,14 -sgM Ptcp  << WQt0  ?Q      126    86  9..                                     | [W-<Cj>] [>RWR <PC>] [NWKL <Su>]
+ MAL 01,14 ---- NmCl  << Ptcp  ?Q      126    87 11..                                     |      |  [W-<Cj>] [JC <eX>] [B-<DRW <PC>] [ZKR <Su>]
+ MAL 01,14 -sgM Ptcp  << NmCl  ?Q      126    88 12..                                     |      |      [W-<Cj>] [NDR <PC>]
+ MAL 01,14 -sgM Ptcp  << Ptcp  ?Q      126    89 13..                                     |      |          [W-<Cj>] [ZBX <PC>] [MCXT <Ob>] [L->DNJ <Co>]
+ MAL 01,14 ---- NmCl  << Ptcp  ?Q      126    90 10..                                     |     [KJ <Cj>] [MLK GDWL <PC>] [>NJ <Su>]
+                               =======                                                    +=======================================================/
+ MAL 01,14 3sgM ZQtX  << NmCl  ?       1267   91 12.#                                                |  [>MR <Pr>] [JHWH YB>WT <Su>]
+                               =======                                                            +===============================================\
+ MAL 01,14 -sgM AjCl  << NmCl  ?Q      126    92 11..                                             | [W-<Cj>] [CMJ <Su>] [NWR> <PC>] [B--GWJM <Aj>]

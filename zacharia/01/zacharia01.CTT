@@ -1,0 +1,120 @@
+ ZACH01,01 3sgM xQtX  <<  [R]  ?       1       1  0.N   [B--XDC H-CMJNJ / B-CNT CTJM / L-DRJWC <sp><sp><Ti>] [HJH <Pr>] [DBR JHWH <Su>] [>L ZKRJH / BN BRKJH / BN <DW / H-NBJ> <ap><ap><ap><Co>]
+ ZACH01,01 ---- InfC [adjunct] ?       1       2  1..    |  [L->MR <Pr>]
+                               =======                   |    +===================================================================================\
+ ZACH01,02 3sgM ZQtX  <<  [Q]  ?Q      11      3  2.q    |    | [QYP <Pr>] [JHWH <Su>] [<L >BWTJKM <Co>] [QYP <Ob>]
+ ZACH01,03 2sgM WQt0  << ZQtX  ?Q      11      4  3..    |    |     [W-<Cj>] [>MRT <Pr>] [>LHM <Co>]
+                               =======                   |    |       +========================================================================\
+ ZACH01,03 3sgM xQtX  <<  [Q]  ?QQ     111     5  4.q    |    |       | [KH <Mo>] [>MR <Pr>] [JHWH YB>WT <Su>]
+                               =======                   |    |       |   +=================================================================\
+ ZACH01,03 2plM ZIm0  <<  [Q]  ?QQQ    1111    6  5.q    |    |       |   | [CWBW <Pr>] [>LJ <Co>]
+ ZACH01,03 ---- MSyn  << ZIm0  ?QQQ    1111    7  8m.    |    |       |   |      |   |  [N>M JHWH YB>WT <PC>]
+ ZACH01,03 1sg- WYq0  << ZIm0  ?QQQ    1111    8  7..    |    |       |   |      |  [W-<Cj>] [>CWB <Pr>] [>LJKM <Co>]
+                               =======                   |    |       |   +=================================================================/
+ ZACH01,03 3sgM ZQtX  << WYq0  ?QQ     11111   9  8.#    |    |       |          |      [>MR <Pr>] [JHWH YB>WT <Su>]
+                               =======                   |    |       |       +=============================================================\
+ ZACH01,04 2plM xYq0  << ZIm0  ?QQQ    1111   10  6..    |    |       |       | [>L <Ng>] [THJW <Pr>] [K->BTJKM <Co>]
+ ZACH01,04 3pl- xQtX [attrib.] ?QQQ    1111   11  8..    |    |       |       |      |  [>CR <Re>] [QR>W <Pr>] [>LJHM <Co>] [H-NBJ>JM H-R>CNJM <Su>]
+ ZACH01,04 ---- InfC [adjunct] ?QQQ    1111   12 10..    |    |       |       |      |       |  [L->MR <Pr>]
+                               =======                   |    |       |       |      |       |    +======================================\
+ ZACH01,04 3sgM xQtX  <<  [Q]  ?QQQQ   11112  13 11.q    |    |       |       |      |       |    | [KH <Mo>] [>MR <Pr>] [JHWH YB>WT <Su>]
+                               =======                   |    |       |       |      |       |    |   +===============================\
+ ZACH01,04 2plM ZIm0  <<  [Q]  ?QQQQQ  111121 14 12.q    |    |       |       |      |       |    |   | [CWBW <Pr>] [N> <Ij>] [M-DRKJKM H-R<JM W-M<LJLJKM H-R<JM <Co>]
+                               =======                   |    |       |       |      |            +======================================/
+ ZACH01,04 3pl- WxQ0  << xQtX  ?QQQ    1111   15  9..    |    |       |       |      |      [W-<Cj>] [L> <Ng>] [CM<W <Pr>]
+ ZACH01,04 3pl- WxQ0  << WxQ0  ?QQQ    1111   16 10..    |    |       |       |      |          [W-<Cj>] [L> <Ng>] [HQCJBW <Pr>] [>LJ <Co>]
+ ZACH01,04 ---- MSyn  << WxQ0  ?QQQ    1111   17 11m.    |    |       |       |      |              [N>M JHWH <PC>]
+ ZACH01,05 ---- CPen  << xYq0  ?QQQ    1111   18  7c.    |    |       |       |     [>BWTJKM <Fr>]
+ ZACH01,05 ---- NmCl [resumpt] ?QQQ    1111   19 10..    |    |       |       |          |   |  [>JH <Qu>] [HM <Su>]
+ ZACH01,05 ---- CPen  << CPen  ?QQQ    1111   20  9c.    |    |       |       |          |  [W-<Cj>] [H-NB>JM <Fr>]
+ ZACH01,05 3plM xYq0 [resumpt] ?QQQ    1111   21 10..    |    |       |       |          |      [H-<Qu>] [L-<WLM <Ti>] [JXJW <Pr>]
+ ZACH01,06 ---- CPen  << CPen  ?QQQ    1111   22  8c.    |    |       |       |         [>K DBRJ W-XQJ <Fr>]
+ ZACH01,06 1sg- xQt0 [attrib.] ?QQQ    1111   23 10..    |    |       |       |              |  [>CR <Re>] [YWJTJ <Pr>] [>T <BDJ / H-NBJ>JM <ap><Ob>]
+ ZACH01,06 3pl- xQt0 [resumpt] ?QQQ    1111   24  9..    |    |       |       |             [H-<Qu>] [LW> <Ng>] [HFJGW <Pr>] [>BTJKM <Ob>]
+                               -------                   |    |       |       |               +------------------------------------------\
+ ZACH01,06 3plM Way0  << xQt0  ?QQQN   1111   25 10..    |    |       |       |               | [W-<Cj>] [JCWBW <Pr>]
+ ZACH01,06 3plM Way0  << Way0  ?QQQN   1111   26 10..    |    |       |       |               | [W-<Cj>] [J>MRW <Pr>]
+                               =======                   |    |       |       |               |   +===================================\
+ ZACH01,06 3sgM CPen  <<  [Q]  ?QQQNQ  11113  27 11cq    |    |       |       |               |   | [K->CR <Cj>] [ZMM <Pr>] [JHWH YB>WT <Su>]
+ ZACH01,06 ---- InfC [adjunct] ?QQQNQ  11113  28 13..    |    |       |       |               |   |      |  [L-<FWT <Pr>] [LNW <Co>] [K-DRKJNW W-K-M<LLJNW <Aj>]
+ ZACH01,06 3sgM xQt0 [resumpt] ?QQQNQ  11113  29 12..    |    |       |       |               |   |     [KN <Mo>] [<FH <Pr>] [>TNW <Co>]
+                               =======                        +===================================================================================/
+ ZACH01,07 ---- Defc  << xQtX  ?       2      30  0d#   [B-JWM <FRJM W->RB<H / L-<CTJ <FR XDC <sp><Ti>]
+ ZACH01,07 ---- NmCl  << Defc  ?       2      31  2.e        |  [HW> <Su>] [XDC CBV <PC>]
+ ZACH01,07 3sgM ZQtX  << Defc  ?       2      32  1..       [B-CNT CTJM / L-DRJWC <sp><sp>] [HJH <Pr>] [DBR JHWH <Su>] [>L ZKRJH / BN BRKJHW / BN <DW> / H-NBJ> <ap><ap><ap><Co>]
+ ZACH01,07 ---- InfC [adjunct] ?       2      33  2..           [L->MR <Pr>]
+                               =======                            +===============================================================================\
+ ZACH01,08 1sg- ZQt0  <<  [Q]  ?Q      21     34  3.q             | [R>JTJ <Pr>] [H-LJLH <Ti>]
+ ZACH01,08 ---- NmCl  << ZQt0  ?Q      21     35  5..             |      |  [W-<Cj>] [HNH <Ij>]
+ ZACH01,08 ---- NmCl  << NmCl  ?Q      21     36  6..             |      |      [>JC <PC>]
+ ZACH01,08 -sgM Ptcp [attrib.] ?Q      21     37  7..             |      |          [RKB <PC>] [<L SWS >DM <Co>]
+ ZACH01,08 -sgM Ptcp  << Ptcp  ?Q      21     38  8..             |      |              [W-<Cj>] [HW> <Su>] [<MD <PC>] [BJN H-HDSJM <Co>]
+ ZACH01,08 ---- NmCl [attrib.] ?Q      21     39 10..             |      |                   |  [>CR <Re>] [B--MYLH <PC>]
+ ZACH01,08 ---- NmCl  << Ptcp  ?Q      21     40  9..             |      |                  [W-<Cj>] [>XRJW <PC>] [SWSJM >DMJM FRQJM W-LBNJM <Su>]
+                               -------                            |   +------------------------------------------------------------------------\
+ ZACH01,09 1sg- Way0  << ZQt0  ?QN     21     41  4..             |   | [W-<Cj>] [>MR <Pr>]
+                               =======                            |   |      |+=============================================================\
+ ZACH01,09 ---- NmCl  <<  [Q]  ?QNQ    211    42  6.q             |   |       | [MH <PC>] [>LH <Su>]
+ ZACH01,09 ---- Voct  << NmCl  ?QNQ    211    43  7v.             |   |       |     [>DNJ <Vo>]
+                               =======                            |   |      |+=============================================================/
+ ZACH01,09 3sgM WayX  << Way0  ?QN     212    44  5.#             |   |     [W-<Cj>] [J>MR <Pr>] [>LJ <Co>] [H-ML>K <Su>]
+ ZACH01,09 -sgM Ptcp [attrib.] ?QN     212    45  8..             |   |      |   |   |  [H-<Re>] [DBR <PC>] [BJ <Co>]
+                               =======                            |   |      |   |+=========================================================\
+ ZACH01,09 1sg- XYqt  <<  [Q]  ?QNQ    2121   46  7.q             |   |      |    | [>NJ <Su>] [>R>K <PO>]
+ ZACH01,09 ---- NmCl [object ] ?QNQ    2121   47  8..             |   |      |    |     [MH <PC>] [HMH <Ep>] [>LH <Su>]
+                               =======                            |   |      |    +=========================================================/
+ ZACH01,10 3sgM WayX  << WayX  ?QN     2122   48  6.#             |   |      |  [W-<Cj>] [J<N <Pr>] [H->JC <Su>]
+ ZACH01,10 -sgM Ptcp [attrib.] ?QN     2122   49  9..             |   |      |       |   |  [H-<Re>] [<MD <PC>] [BJN H-HDSJM <Co>]
+ ZACH01,10 3sgM Way0  << WayX  ?QN     2122   50  8..             |   |      |       |  [W-<Cj>] [J>MR <Pr>]
+                               =======                            |   |      |       |    +=================================================\
+ ZACH01,10 ---- NmCl  <<  [Q]  ?QNQ    21221  51  9.q             |   |      |       |    | [>LH <Su>]
+ ZACH01,10 3sgM xQtX [predic.] ?QNQ    21221  52 10..             |   |      |       |    |     [>CR <Re>] [CLX <Pr>] [JHWH <Su>]
+ ZACH01,10 ---- InfC [adjunct] ?QNQ    21221  53 11..             |   |      |       |    |         [L-HTHLK <Pr>] [B-->RY <Co>]
+                               =======                            |   |      |            +=================================================/
+ ZACH01,11 3plM Way0  << WayX  ?QN     2122   54  7..             |   |      |      [W-<Cj>] [J<NW <Pr>] [>T ML>K JHWH <Ob>]
+ ZACH01,11 -sgM Ptcp [attrib.] ?QN     2122   55 10..             |   |      |           |   |  [H-<Re>] [<MD <PC>] [BJN H-HDSJM <Co>]
+ ZACH01,11 3plM Way0  << Way0  ?QN     2122   56  9..             |   |      |           |  [W-<Cj>] [J>MRW <Pr>]
+                               =======                            |   |      |           |    +=============================================\
+ ZACH01,11 1pl- ZQt0  <<  [Q]  ?QNQ    21222  57 10.q             |   |      |           |    | [HTHLKNW <Pr>] [B-->RY <Co>]
+ ZACH01,11 ---- MSyn  << ZQt0  ?QNQ    21222  58 11m.             |   |      |           |    |     [W-<Cj>] [HNH <Ij>]
+ ZACH01,11 -sgF Ptcp  << MSyn  ?QNQ    21222  59 12..             |   |      |           |    |         [KL H->RY <Su>] [JCBT <PC>]
+ ZACH01,11 -sgF Ptcp  << Ptcp  ?QNQ    21222  60 13..             |   |      |           |    |             [W-<Cj>] [CQVT <PC>]
+                               =======                            |   |      |                +=============================================/
+ ZACH01,12 3sgM WayX  << Way0  ?QN     21223  61  8.#             |   |      |          [W-<Cj>] [J<N <Pr>] [ML>K JHWH <Su>]
+ ZACH01,12 3sgM Way0  << WayX  ?QN     21223  62 10..             |   |      |               |  [W-<Cj>] [J>MR <Pr>]
+                               =======                            |   |      |               |    +=========================================\
+ ZACH01,12 ---- Voct  <<  [Q]  ?QNQ    212231 63 11vq             |   |      |               |    | [JHWH YB>WT <Vo>]
+ ZACH01,12 2sgM XYqt [ref.Voc] ?QNQ    212231 64 12..             |   |      |               |    |     [<D MTJ <Ti>] [>TH <Su>] [L> <Ng>] [TRXM <Pr>] [>T JRWCLM W->T <RJ JHWDH <Ob>]
+ ZACH01,12 2sgM xQt0 [attrib.] ?QNQ    212231 65 13..             |   |      |               |    |         [>CR <Re>] [Z<MTH <Pr>] [ZH <Mo>] [CB<JM CNH <Ti>]
+                               =======                            |   |      |                    +=========================================/
+ ZACH01,13 3sgM WayX  << WayX  ?QN     212232 66  9.#             |   |      |              [W-<Cj>] [J<N <Pr>] [JHWH <Su>] [>T H-ML>K <Ob>]
+ ZACH01,13 -sgM Ptcp [attrib.] ?QN     212232 67 11.e             |   |      |                   |  [H-<Re>] [DBR <PC>] [BJ <Co>]
+ ZACH01,13 ---- Defc  << WayX  ?QN     212232 68 10d.             |   |      |                  [DBRJM VWBJM DBRJM NXMJM <Ob>]
+ ZACH01,14 3sgM WayX  << WayX  ?QN     213    69  5.#             |   |     [W-<Cj>] [J>MR <Pr>] [>LJ <Co>] [H-ML>K <Su>]
+ ZACH01,14 -sgM Ptcp [attrib.] ?QN     213    70  7..             |   |          |  [H-<Re>] [DBR <PC>] [BJ <Co>]
+                               =======                            |   |       +=============================================================\
+ ZACH01,14 2sgM ZIm0  << WayX  ?QNQ    213    71  6..             |   |       | [QR> <Pr>]
+ ZACH01,14 ---- InfC [adjunct] ?QNQ    213    72  8..             |   |       |      |  [L->MR <Pr>]
+                               =======                            |   |       |      |    +==============================================\
+ ZACH01,14 3sgM xQtX  <<  [Q]  ?QNQQ   2131   73  9.q             |   |       |      |    | [KH <Mo>] [>MR <Pr>] [JHWH YB>WT <Su>]
+                               =======                            |   |       |      |    |      |+===================================\
+ ZACH01,14 1sg- ZQt0  <<  [Q]  ?QNQQQ  21311  74 11.q             |   |       |      |    |       | [QN>TJ <Pr>] [L-JRWCLM W-L-YJWN <Co>] [QN>H GDWLH <Ob>]
+ ZACH01,15 -sgM Ptcp  << ZQt0  ?QNQQQ  21311  75 12..             |   |       |      |    |       |     [W-<Cj>] [QYP GDWL <Ob>] [>NJ <Su>] [QYP <PC>] [<L H-GWJM H-C>NNJM <Co>]
+ ZACH01,15 1sg- XQtl [attrib.] ?QNQQQ  21311  76 14..             |   |       |      |    |       |          |  [>CR <Re>] [>NJ <Su>] [QYPTJ <Pr>] [M<V <Ob>]
+ ZACH01,15 3pl- WXQt  << Ptcp  ?QNQQQ  213111 77 13.#             |   |       |      |    |       |         [W-<Cj>] [HMH <Su>] [<ZRW <Pr>] [L-R<H <Aj>]
+                               =======                            |   |       |      |    |       +===================================/
+ ZACH01,16 ---- MSyn  << xQtX  ?QNQQ   2131   78 10m.             |   |       |      |    |     [LKN <Mo>]
+ ZACH01,16 3sgM xQtX  << MSyn  ?QNQQ   2131   79 11..             |   |       |      |    |         [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
+                               =======                            |   |       |      |    |           +===============================\
+ ZACH01,16 1sg- ZQt0  <<  [Q]  ?QNQQQ  21312  80 12.q             |   |       |      |    |           | [CBTJ <Pr>] [L-JRWCLM <Co>] [B-RXMJM <Aj>]
+ ZACH01,16 3sgM XYqt  << ZQt0  ?QNQQQ  21312  81 13..             |   |       |      |    |           |     [BJTJ <Su>] [JBNH <Pr>] [BH <Lo>]
+ ZACH01,16 ---- MSyn  << XYqt  ?QNQQQ  21312  82 15m.             |   |       |      |    |           |          |  [N>M JHWH YB>WT <PC>]
+ ZACH01,16 3sgM WXYq  << XYqt  ?QNQQQ  21312  83 14..             |   |       |      |    |           |         [W-<Cj>] [QWH <Su>] [JNVH <Pr>] [<L JRWCLM <Co>]
+                               =======                            |   |       |           +==============================================/
+ ZACH01,17 2sgM xIm0  << ZIm0  ?QNQ    2132   84  7.#             |   |       |     [<WD <Mo>] [QR> <Pr>]
+ ZACH01,17 ---- InfC [adjunct] ?QNQ    2132   85  8..             |   |       |         [L->MR <Pr>]
+                               =======                            |   |       |           +==============================================\
+ ZACH01,17 3sgM xQtX  <<  [Q]  ?QNQQ   21321  86  9.q             |   |       |           | [KH <Mo>] [>MR <Pr>] [JHWH YB>WT <Su>]
+                               =======                            |   |       |           |   +=======================================\
+ ZACH01,17 3plF xYqX  <<  [Q]  ?QNQQQ  213211 87 10.q             |   |       |           |   | [<WD <Mo>] [TPWYJNH <Pr>] [<RJ <Su>] [M-VWB <Aj>]
+ ZACH01,17 3sgM WQtX  << xYqX  ?QNQQQ  213211 88 11..             |   |       |           |   |     [W-<Cj>] [NXM <Pr>] [JHWH <Su>] [<WD <Mo>] [>T YJWN <Ob>]
+ ZACH01,17 3sgM WQt0  << WQtX  ?QNQQQ  213211 89 12..             |   |       |           |   |         [W-<Cj>] [BXR <Pr>] [<WD <Mo>] [B-JRWCLM <Co>]

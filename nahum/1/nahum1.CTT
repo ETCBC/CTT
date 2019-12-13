@@ -1,0 +1,71 @@
+ NAH 01,01 ---- NmCl  <<  [R]  ?       1       1  0.N   [MF> NJNWH <PC>]
+ NAH 01,01 ---- NmCl  << NmCl  ?       1       2  1..    |  [SPR XZWN NXWM / H->LQCJ <ap><PC>]
+ NAH 01,02 ---- NmCl  << NmCl  ?       2       3  0.#   [>L QNW> W-NQM <PC>] [JHWH <Su>]
+ NAH 01,02 -sgM AjCl  << NmCl  ?       2       4  2..    |   |  [NQM <PC>] [JHWH <Su>]
+ NAH 01,02 ---- NmCl [coordin] ?       2       5  4..    |   |       |  [W-<Cj>] [B<L XMH <PC>]
+ NAH 01,02 -sgM Ptcp  << AjCl  ?       2       6  3..    |   |      [NQM <PC>] [JHWH <Su>] [L-YRJW <Co>]
+ NAH 01,02 -sgM Ptcp  << Ptcp  ?       2       7  4..    |   |          [W-<Cj>] [NWVR <PC>] [HW> <Su>] [L->JBJW <Co>]
+ NAH 01,03 -sgM AjCl  << NmCl  ?       2       8  1..    |  [JHWH <Su>] [>RK >PJM W-GDWL KX <PC>]
+ NAH 01,03 3sgM WxY0  << AjCl  ?       2       9  4..    |       |   |  [W-<Cj>] [NQH <Mo>] [L> <Ng>] [JNQH <Pr>]
+ NAH 01,03 ---- CPen  << AjCl  ?       2      10  3c.    |       |  [JHWH <Fr>]
+ NAH 01,03 ---- NmCl [resumpt] ?       2      11  6..    |       |       |   |  [B-SWPH W-B-F<RH <PC>] [DRKW <Su>]
+ NAH 01,03 ---- NmCl [coordin] ?       2      12  7..    |       |       |   |      [W-<Cj>] [<NN <PC>] [>BQ RGLJW <Su>]
+ NAH 01,04 -sgM Ptcp  << CPen  ?       2      13  5..    |       |       |  [GW<R <PC>] [B--JM <Co>]
+                               =======                 ==============================================================================================/
+ NAH 01,04 3sgM Way0  << Ptcp  N       2      14  7..    |       |       |       |  [W-<Cj>] [JBCHW <PO>]
+ NAH 01,04 3sgM WxQ0  << Way0  N       2      15  8..    |       |       |       |      [W-<Cj>] [KL H-NHRWT <Ob>] [HXRJB <Pr>]
+                               =======                 ==============================================================================================/
+ NAH 01,04 3sgM ZQtX  << Ptcp  ?       2      16  6..    |       |       |      [>MLL <Pr>] [BCN W-KRML <Su>]
+                               =======                   |       |       |           |+===========================================================\
+ NAH 01,04 3sgM WXQt  << ZQtX  ??      21     17  8.#    |       |       |            | [W-<Cj>] [PRX LBNWN <Su>] [>MLL <Pr>]
+                               =======                   |       |       |            +===========================================================/
+ NAH 01,05 3pl- XQtl  << ZQtX  ?       2      18  7..    |       |       |          [HRJM <Su>] [R<CW <Pr>] [MMNW <Co>]
+                               =======                   |       |       |               |+=======================================================\
+ NAH 01,05 3pl- WXQt  << XQtl  ??      22     19  9.#    |       |       |                | [W-<Cj>] [H-GB<WT <Su>] [HTMGGW <Pr>]
+                               =======                   |       |       |                +=======================================================/
+ NAH 01,05 3sgF WayX  << XQtl  ?N      23     20  8.#    |       |       |              [W-<Cj>] [TF> <Pr>] [H->RY <Su>] [M-PNJW <Co>]
+ NAH 01,05 ---- Ellp  << WayX  ?N      23     21  9l.    |       |       |                | [W-<Cj>] [TBL W-KL <Su>]
+ NAH 01,05 -plM Ptcp [reg/rec] ?N      23     22 10..    |       |       |                |     [JCBJ <PC>] [BH <Co>]
+                               -------                   |       |                        +-------------------------------------------------------/
+ NAH 01,06 ---- CPen  << CPen  ?       2      23  4c.    |       |      [L-PNJ Z<MW <Fr>]
+ NAH 01,06 3sgM XYqt [resumpt] ?       2      24  6..    |       |           |  [MJ <Su>] [J<MWD <Pr>]
+ NAH 01,06 3sgM WXYq [coordin] ?       2      25  7..    |       |           |      [W-<Cj>] [MJ <Su>] [JQWM <Pr>] [B-XRWN >PW <Co>]
+ NAH 01,06 3sgF XQtl  << CPen  ?       2      26  5..    |       |          [XMTW <Su>] [NTKH <Pr>] [K-->C <Aj>]
+                               =======                   |       |            +===================================================================\
+ NAH 01,06 3pl- WXQt  << XQtl  ??      24     27  6.#    |       |            | [W-<Cj>] [H-YRJM <Su>] [NTYW <Pr>] [MMNW <Co>]
+                               =======                   |                    +===================================================================/
+ NAH 01,07 -sgM AjCl  << AjCl  ?       2      28  2..    |      [VWB <PC>] [JHWH <Su>]
+ NAH 01,07 ---- NmCl  << AjCl  ?       2      29  4..    |           |  [L-M<WZ <PC>] [B-JWM YRH <Ti>]
+ NAH 01,07 -sgM Ptcp  << AjCl  ?       2      30  3..    |          [W-<Cj>] [JD< <PC>]
+ NAH 01,07 -plM Ptcp [object ] ?       2      31  5..    |               |  [XSJ <PC>] [BW <Co>]
+ NAH 01,08 3sgM WxY0  << Ptcp  ?       2      32  4..    |              [W-<Cj>] [B-CVP <BR <Aj>] [KLH <Ob>] [J<FH <Pr>] [MQWMH <Ob>]
+ NAH 01,08 3sgM WxY0  << WxY0  ?       2      33  5..    |                  [W-<Cj>] [>JBJW <Ob>] [JRDP <Pr>] [XCK <Co>]
+                               =======                 ==============================================================================================/
+ NAH 01,09 2plM xYq0  << NmCl  Q       3      34  0.#   [MH <Ob>] [TXCBWN <Pr>] [>L JHWH <Co>]
+ NAH 01,09 -sgM Ptcp  << xYq0  Q       3      35  3..        |   |  [KLH <Ob>] [HW> <Su>] [<FH <PC>]
+ NAH 01,09 3sgF xYqX  << Ptcp  Q       3      36  4..        |   |      [L> <Ng>] [TQWM <Pr>] [P<MJM <Mo>] [YRH <Su>]
+ NAH 01,10 ---- Defc  << xYqX  Q       3      37  5d.        |   |          [KJ <Cj>]
+ NAH 01,10 -plM AjCl [adjunct] Q       3      38  7.\        |   |               |  [<D SJRJM <Aj>] [SBKJM <PC>]
+ NAH 01,10 -plM AjCl [coordin] Q       3      39  8.e        |   |               |      [W-<Cj>] [K-SB>M <Aj>] [SBW>JM <PC>]
+ NAH 01,10 3pl- ZQt0  << Defc  Q       3      40  6..        |   |              [>KLW <Pr>] [K-QC JBC <Aj>] [ML> <Mo>]
+ NAH 01,11 3sgM xQt0  << xYq0  Q       3      41  2..        |  [MMK <Co>] [JY> <Pr>]
+ NAH 01,11 -sgM Ptcp [subject] Q       3      42  3..        |      [XCB <PC>] [<L JHWH <Co>] [R<H <Ob>]
+ NAH 01,11 -sgM Ptcp [coordin] Q       3      43  4..        |          [J<Y <PC>] [BLJ<L <Ob>]
+ NAH 01,12 3sgM xQtX  << xYq0  Q       31     44  1.#       [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
+                               =======                           |+===============================================================================\
+ NAH 01,12 -plM AjCl  <<  [Q]  QQ      311    45  3.q             | [>M <Cj>] [CLMJM <PC>]
+ NAH 01,12 -plM AjCl  << AjCl  QQ      311    46  6..             |      |   |  [W-<Cj>] [KN <Mo>] [RBJM <PC>]
+ NAH 01,12 3pl- WxQ0  << AjCl  QQ      311    47  5..             |      |  [W-<Cj>] [KN <Mo>] [NGZW <Pr>]
+ NAH 01,12 3sgM WQt0  << WxQ0  QQ      311    48  6..             |      |      [W-<Cj>] [<BR <Pr>]
+ NAH 01,12 1sg- WQt0  << AjCl  QQ      311    49  4..             |     [W-<Cj>] [<NTK <PO>]
+ NAH 01,12 1sg- xYq0  << WQt0  QQ      311    50  6..             |          |  [L> <Ng>] [><NK <PO>] [<WD <Mo>]
+ NAH 01,13 ---- MSyn  << WQt0  QQ      311    51  5m.             |         [W-<Cj>] [<TH <Ti>]
+ NAH 01,13 1sg- ZYq0  << MSyn  QQ      311    52  6..             |             [>CBR <Pr>] [MVHW <Ob>] [M-<LJK <Co>]
+ NAH 01,13 1sg- WxY0  << ZYq0  QQ      311    53  7..             |                 [W-<Cj>] [MWSRTJK <Ob>] [>NTQ <Pr>]
+                               =======                            +===============================================================================/
+ NAH 01,14 3sgM WQtX  << xQtX  Q       31     54  2..           [W-<Cj>] [YWH <Pr>] [<LJK <Co>] [JHWH <Su>]
+                               =======                            +===============================================================================\
+ NAH 01,14 3sgM xYq0  <<  [Q]  QQ      312    55  3.q             | [L> <Ng>] [JZR< <Pr>] [M-CMK <Co>] [<WD <Mo>]
+ NAH 01,14 1sg- xYq0  << xYq0  QQ      312    56  5..             |      |  [M-BJT >LHJK <Co>] [>KRJT <Pr>] [PSL W-MSKH <Ob>]
+ NAH 01,14 1sg- ZYq0  << xYq0  QQ      312    57  4..             |     [>FJM <Pr>] [QBRK <Ob>]
+ NAH 01,14 2sgM xQt0  << ZYq0  QQ      312    58  5..             |         [KJ <Cj>] [QLWT <Pr>]

@@ -1,0 +1,108 @@
+ PRO 31,01 ---- NmCl  <<  [R]  ?       1       1  0.N   [DBRJ LMW>L / MLK <sp><PC>]
+ PRO 31,01 ---- NmCl  << NmCl  ?       1       2  3..        |   |  [MF> <PC>]
+ PRO 31,01 3sgF xQtX [attrib.] ?       1       3  4..        |   |      [>CR <Re>] [JSRTW <PO>] [>MW <Su>]
+                               =======                       |+===================================================================================\
+ PRO 31,02 ---- NmCl  <<  [Q]  ?Q      11      4  2.q        || [MH <Ob>]
+ PRO 31,02 ---- Voct  << NmCl  ?Q      11      5  5v.        ||  |   |   |  [BRJ <Vo>]
+ PRO 31,02 ---- NmCl  << NmCl  ?Q      11      6  4..        ||  |   |  [W-<Cj>] [MH <Ob>]
+ PRO 31,02 ---- Voct  << NmCl  ?Q      11      7  5v.        ||  |   |   |  [BR BVNJ <Vo>]
+ PRO 31,02 ---- NmCl  << NmCl  ?Q      11      8  4..        ||  |   |  [W-<Cj>] [MH <Ob>]
+ PRO 31,02 ---- Voct  << NmCl  ?Q      11      9  5v.        ||  |   |      [BR NDRJ <Vo>]
+ PRO 31,03 2sgM xYq0  << NmCl  ?Q      11     10  3..        ||  |  [>L <Ng>] [TTN <Pr>] [L--NCJM <Co>] [XJLK <Ob>]
+ PRO 31,03 ---- Ellp  << xYq0  ?Q      11     11  7l.        ||  |       |   |   |  [W-<Cj>] [DRKJK <Ob>]
+ PRO 31,03 ---- InfC [complm.] ?Q      11     12  8..        ||  |       |   |   |      [L-MXWT <Pr>] [MLKJN <Ob>]
+ PRO 31,04 ---- NmCl  << xYq0  ?Q      11     13  6..        ||  |       |   |  [>L <Ng>] [L--MLKJM <PC>]
+ PRO 31,04 ---- Voct  << NmCl  ?Q      11     14  7v.        ||  |       |   |   |  [LMW>L <Vo>]
+ PRO 31,04 ---- NmCl  << NmCl  ?Q      11     15  6..        ||  |       |   |  [>L <Ng>] [L--MLKJM <PC>]
+ PRO 31,04 ---- InfC [subject] ?Q      11     16  9..        ||  |       |   |       |   |  [CTW <Pr>] [JJN <Ob>]
+ PRO 31,04 ---- NmCl [coordin] ?Q      11     17  8..        ||  |       |   |       |  [W-<Cj>] [L-RWZNJM <PC>]
+ PRO 31,04 ---- NmCl  << NmCl  ?Q      11     18  9..        ||  |       |   |       |      [>W <PC>] [CKR <Su>]
+ PRO 31,05 3sgM xYq0  << NmCl  ?Q      11     19  7..        ||  |       |   |      [PN <Cj>] [JCTH <Pr>]
+ PRO 31,05 3sgM WYq0  << xYq0  ?Q      11     20  8..        ||  |       |   |          [W-<Cj>] [JCKX <Pr>] [MXQQ <Ob>]
+ PRO 31,05 3sgM WYq0  << WYq0  ?Q      11     21  8..        ||  |       |   |          [W-<Cj>] [JCNH <Pr>] [DJN KL BNJ <NJ <Ob>]
+ PRO 31,06 2plM ZIm0  << xYq0  ?Q      11     22  5..        ||  |       |  [TNW <Pr>] [CKR <Ob>] [L->WBD <Co>]
+ PRO 31,06 ---- Ellp  << ZIm0  ?Q      11     23  7l.        ||  |       |       |  [W-<Cj>] [JJN <Ob>] [L-MRJ NPC <Co>]
+ PRO 31,07 3sgM ZYq0  << ZIm0  ?Q      11     24  6..        ||  |       |      [JCTH <Pr>]
+ PRO 31,07 3sgM WYq0  << ZYq0  ?Q      11     25  7..        ||  |       |          [W-<Cj>] [JCKX <Pr>] [RJCW <Ob>]
+ PRO 31,07 3sgM WxY0  << WYq0  ?Q      11     26  8..        ||  |       |              [W-<Cj>] [<MLW <Ob>] [L> <Ng>] [JZKR <Pr>] [<WD <Mo>]
+ PRO 31,08 2sgM ZIm0  << xYq0  ?Q      11     27  4..        ||  |      [PTX <Pr>] [PJK <Ob>] [L->LM <Co>] [>L DJN KL BNJ XLWP <Aj>]
+ PRO 31,09 2sgM ZIm0  << ZIm0  ?Q      11     28  4..        ||  |      [PTX <Pr>] [PJK <Ob>]
+ PRO 31,09 2sgM ZIm0  << ZIm0  ?Q      11     29  5..        ||  |          [CPV <Pr>] [YDQ <Ob>]
+ PRO 31,09 2sgM WIm0  << ZIm0  ?Q      11     30  6..        ||  |              [W-<Cj>] [DJN <Pr>] [<NJ W->BJWN <Ob>]
+                               =======                       |+===================================================================================/
+ PRO 31,10 ---- XPos  >> XYqt  ??      12     31  2x\        || [>CT XJL <Ob>]
+ PRO 31,10 3sgM XYqt  << NmCl  ??      12     32  1.#       [MJ <Su>] [JMY> <Pr>]
+ PRO 31,10 -sgM AjCl  << XYqt  ??      12     33  4..        ||  |   |  [W-<Cj>] [RXQ <PC>] [M-PNJNJM <Aj>] [MKRH <Su>]
+ PRO 31,11 3sgM ZQtX  << XYqt  ??      12     34  3..        ||  |  [BVX <Pr>] [BH <Co>] [LB B<LH <Su>]
+ PRO 31,11 3sgM WXYq  << ZQtX  ??      12     35  5..        ||  |       |  [W-<Cj>] [CLL <Su>] [L> <Ng>] [JXSR <Pr>]
+ PRO 31,12 3sgF ZQt0  << ZQtX  ??      12     36  4..        ||  |      [GMLTHW <PO>] [VWB <Ob>]
+ PRO 31,12 ---- Ellp  << ZQt0  ??      12     37  7le        ||  |           |   |  [W-<Cj>] [L> <Ng>] [R< <Ob>]
+ PRO 31,12 ---- Defc  << ZQt0  ??      12     38  6d.        ||  |           |  [KL JMJ XJJH <Ti>]
+ PRO 31,13 3sgF ZQt0  << ZQt0  ??      12     39  5..        ||  |          [DRCH <Pr>] [YMR W-PCTJM <Ob>]
+                               =======                       |+===================================================================================/
+ PRO 31,13 3sgF Way0  << ZQt0  ?N      12     40  6..        ||  |           |  [W-<Cj>] [T<F <Pr>] [B-XPY KPJH <Aj>]
+                               =======                       |+===================================================================================/
+ PRO 31,14 3sgF ZQt0  << ZQt0  ??      12     41  5..        ||  |          [HJTH <Pr>] [K->NJWT SWXR <PC>]
+ PRO 31,14 3sgF xYq0  << ZQt0  ??      12     42  7..        ||  |           |   |  [M-MRXQ <Co>] [TBJ> <Pr>] [LXMH <Ob>]
+                               =======                       |+===================================================================================/
+ PRO 31,15 3sgF Way0  << ZQt0  ?N      12     43  6..        ||  |           |  [W-<Cj>] [TQM <Pr>] [B-<WD LJLH <Ti>]
+ PRO 31,15 3sgF Way0  << Way0  ?N      12     44  6..        ||  |           |  [W-<Cj>] [TTN <Pr>] [VRP <Ob>] [L-BJTH <Co>]
+ PRO 31,15 ---- Ellp  << Way0  ?N      12     45  7l.        ||  |           |      [W-<Cj>] [XQ <Ob>] [L-N<RTJH <Co>]
+                               =======                       |+===================================================================================/
+ PRO 31,16 3sgF ZQt0  << ZQt0  ??      12     46  5..        ||  |          [ZMMH <Pr>] [FDH <Ob>]
+                               =======                       |+===================================================================================/
+ PRO 31,16 3sgF Way0  << ZQt0  ?N      12     47  7..        ||  |           |   |  [W-<Cj>] [TQXHW <PO>]
+                               =======                       |+===================================================================================/
+ PRO 31,16 3sgF xQt0  << ZQt0  ??      12     48  6..        ||  |           |  [M-PRJ KPJH <Aj>] [NV< <Pr>] [KRM <Ob>]
+ PRO 31,17 3sgF ZQt0  << ZQt0  ??      12     49  5..        ||  |          [XGRH <Pr>] [B-<WZ <Co>] [MTNJH <Ob>]
+                               =======                       |+===================================================================================/
+ PRO 31,17 3sgF Way0  << ZQt0  ?N      12     50  6..        ||  |           |  [W-<Cj>] [T>MY <Pr>] [ZR<WTJH <Ob>]
+                               =======                       |+===================================================================================/
+ PRO 31,18 3sgF ZQt0  << ZQt0  ??      12     51  5..        ||  |          [V<MH <Pr>]
+ PRO 31,18 -sgM AjCl [object ] ??      12     52  8..        ||  |               |   |  [KJ <Cj>] [VWB <PC>] [SXRH <Su>]
+ PRO 31,18 3sgM xYqX  << ZQt0  ??      12     53  7..        ||  |               |  [L> <Ng>] [JKBH <Pr>] [B--LJL <Ti>] [NRH <Su>]
+ PRO 31,19 3sgF xQt0  << ZQt0  ??      12     54  6..        ||  |              [JDJH <Ob>] [CLXH <Pr>] [B--KJCWR <Co>]
+                               =======                       ||  |                   |   |+====================================================\
+ PRO 31,19 3pl- WXQt  << xQt0  ???     121    55  9.#        ||  |                   |   || [W-<Cj>] [KPJH <Su>] [TMKW <Pr>] [PLK <Ob>]
+                               =======                       ||  |                   |    +====================================================/
+ PRO 31,20 3sgF xQt0  << xQt0  ??      12     56  8..        ||  |                   |  [KPH <Ob>] [PRFH <Pr>] [L--<NJ <Co>]
+ PRO 31,20 3sgF WxQ0  << xQt0  ??      12     57  9..        ||  |                   |      [W-<Cj>] [JDJH <Ob>] [CLXH <Pr>] [L-->BJWN <Co>]
+ PRO 31,21 3sgF xYq0  << xQt0  ??      12     58  7..        ||  |                  [L> <Ng>] [TJR> <Pr>] [L-BJTH <Co>] [M-CLG <Co>]
+ PRO 31,21 -sgM AjCl  << xYq0  ??      12     59  9..        ||  |                       |  [KJ <Cj>] [KL BJTH <Su>] [LBC / CNJM <sp><PC>]
+ PRO 31,22 3sgF xQt0  << xYq0  ??      12     60  8..        ||  |                      [MRBDJM <Ob>] [<FTH <Pr>] [LH <sc>]
+ PRO 31,22 ---- NmCl  << xQt0  ??      12     61 10..        ||  |                       |   |  [CC W->RGMN <PC>] [LBWCH <Su>]
+ PRO 31,23 -sgM Ptcp  << xQt0  ??      12     62  9..        ||  |                       |  [NWD< <PC>] [B--C<RJM <Lo>] [B<LH <Su>]
+ PRO 31,23 ---- InfC [adjunct] ??      12     63 10..        ||  |                       |      [B-CBTW <Ps>] [<M ZQNJ >RY <Aj>]
+ PRO 31,24 3sgF xQt0  << xQt0  ??      12     64  8..        ||  |                      [SDJN <Ob>] [<FTH <Pr>]
+                               =======                       |+===================================================================================/
+ PRO 31,24 3sgF Way0  << xQt0  ?N      12     65 12..        ||  |                           |   |   |  [W-<Cj>] [TMKR <Pr>]
+                               =======                       |+===================================================================================/
+ PRO 31,24 3sgF WxQ0  << xQt0  ??      12     66 11..        ||  |                           |   |  [W-<Cj>] [XGWR <Ob>] [NTNH <Pr>] [L--KN<NJ <Co>]
+ PRO 31,25 ---- NmCl  << xQt0  ??      12     67 10..        ||  |                           |  [<Z W-HDR <PC>] [LBWCH <Su>]
+                               =======                       |+===================================================================================/
+ PRO 31,25 3sgF Way0  << NmCl  ?N      12     68 11..        ||  |                           |      [W-<Cj>] [TFXQ <Pr>] [L-JWM >XRWN <Co>]
+                               =======                       |+===================================================================================/
+ PRO 31,26 3sgF xQt0  << xQt0  ??      12     69  9..        ||  |                          [PJH <Ob>] [PTXH <Pr>] [B-XKMH <Aj>]
+ PRO 31,26 ---- NmCl  << xQt0  ??      12     70 11..        ||  |                               |  [W-<Cj>] [TWRT XSD <Su>] [<L LCWNH <PC>]
+ PRO 31,27 -sgF Ptcp  << xQt0  ??      12     71 10..        ||  |                              [YWPJH <PC>] [HLJKWT BJTH <Ob>]
+ PRO 31,27 3sgF WxY0  << Ptcp  ??      12     72 12..        ||  |                                   |  [W-<Cj>] [LXM <YLWT <Ob>] [L> <Ng>] [T>KL <Pr>]
+ PRO 31,28 3pl- ZQtX  << Ptcp  ??      12     73 11..        ||  |                                  [QMW <Pr>] [BNJH <Su>]
+                               =======                       |+===================================================================================/
+ PRO 31,28 3plM Way0  << ZQtX  ?N      12     74 13..        ||  |                                       |  [W-<Cj>] [J>CRWH <PO>]
+                               =======                       |+===================================================================================/
+ PRO 31,28 ---- Ellp  << ZQtX  ??      12     75 12l.        ||  |                                      [B<LH <Su>]
+                               =======                       |+===================================================================================/
+ PRO 31,28 3sgM Way0  << Ellp  ?N      12     76 13..        ||  |                                          [W-<Cj>] [JHLLH <PO>]
+                               =======                       |+===================================================================================/
+ PRO 31,29 3pl- XQtl  << XYqt  ???     122    77  2.#        || [RBWT BNWT <Su>] [<FW <Pr>] [XJL <Ob>]
+                               =======                       ||      | =====================================================================\
+ PRO 31,29 2sgF WXQt  << XQtl  ???Q    1221   78  4.#        ||      |  [W-<Cj>] [>T <Su>] [<LJT <Pr>] [<L KLNH <Co>]
+                               =======                       ||        =====================================================================/
+ PRO 31,30 ---- NmCl  << XQtl  ???     122    79  3..        ||     [CQR <PC>] [H-XN <Su>]
+ PRO 31,30 ---- NmCl  << NmCl  ???     122    80  4..        ||         [W-<Cj>] [HBL <PC>] [H-JPJ <Su>]
+                               =======                 ========================================================================================/
+ PRO 31,30 ---- CPen  << XYqt  ??      13     81  1c#       [>CH JR>T JHWH <Fr>]
+ PRO 31,30 3sgF XYqt [resumpt] ??      13     82  3..         |  |  [HJ> <Su>] [TTHLL <Pr>]
+                               =======                        +===================================================================================/
+ PRO 31,31 2plM ZIm0  << CPen  ?Q      13     83  2..         | [TNW <Pr>] [LH <Co>] [M-PRJ JDJH <Co>]
+ PRO 31,31 3plM WYqX  << ZIm0  ?Q      13     84  3..         |     [W-<Cj>] [JHLLWH <PO>] [B--C<RJM <Lo>] [M<FJH <Su>]

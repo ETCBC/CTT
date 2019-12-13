@@ -1,0 +1,98 @@
+ JES 03,01 -sgM Ptcp  <<  [R]  ?       1       1  0.N   [KJ <Cj>] [HNH <Ij>] [H->DWN / JHWH YB>WT <ap><Su>] [MSJR <PC>] [M-JRWCLM W-M-JHWDH <Co>] [MC<N W-MC<NH / KL MC<N LXM W-KL MC<N MJM <sp><Ob>]
+ JES 03,02 ---- Ellp  << Ptcp  ?       1       2  3l.    |   |   |  [GBWR W->JC MLXMH CWPV W-NBJ> W-QSM W-ZQN <Ob>]
+ JES 03,03 ---- Ellp  << Ellp  ?       1       3  3l.    |   |   |  [FR XMCJM W-NFW> PNJM W-JW<Y W-XKM XRCJM W-NBWN LXC <Ob>]
+                               =======                 ==============================================================================================/
+ JES 03,04 1sg- WQt0  << Ptcp  Q       1       4  2..    |   |  [W-<Cj>] [NTTJ <Pr>] [N<RJM <Ob>] [FRJHM <Ob>]
+ JES 03,04 3plM WXYq  << WQt0  Q       1       5  4..    |   |       |  [W-<Cj>] [T<LWLJM <Su>] [JMCLW <Pr>] [BM <Co>]
+ JES 03,05 3sgM WQtX  << WQt0  Q       1       6  3..    |   |      [W-<Cj>] [NGF <Pr>] [H-<M <Su>]
+ JES 03,05 ---- Ellp [adjunct] Q       1       7  6l.    |   |           |   |  [>JC <Su>] [B->JC <Co>]
+ JES 03,05 ---- Ellp [coordin] Q       1       8  7l.    |   |           |   |      [W-<Cj>] [>JC <Su>] [B-R<HW <Co>]
+ JES 03,05 3plM ZYqX  << WQtX  Q       1       9  5..    |   |           |  [JRHBW <Pr>] [H-N<R <Su>] [B--ZQN <Co>]
+ JES 03,05 ---- Ellp  << ZYqX  Q       1      10  6l.    |   |           |      [W-<Cj>] [H-NQLH <Su>] [B--NKBD <Co>]
+ JES 03,06 3sgM xYqX  << WQtX  Q       1      11  4..    |   |          [KJ <Cj>] [JTPF <Pr>] [>JC <Su>] [B->XJW / BJT >BJW <ap><Co>]
+                               =======                   |   |               |+===================================================================\
+ JES 03,06 ---- NmCl  <<  [Q]  QQ      11     12  6.q    |   |               || [FMLH <Su>] [LKH <PC>]
+ JES 03,06 2sgM xYq0  << NmCl  QQ      11     13  7..    |   |               ||     [QYJN <PC>] [THJH <Pr>] [LNW <Aj>]
+ JES 03,06 ---- NmCl  << xYq0  QQ      11     14  8..    |   |               ||         [W-<Cj>] [H-MKCLH H-Z>T <Su>] [TXT JDK <PC>]
+                               =======                   |   |                +===================================================================/
+ JES 03,07 3sgM ZYq0  << xYqX  Q       1      15  5..    |   |              [JF> <Pr>] [B--JWM H-HW> <Ti>]
+ JES 03,07 ---- InfC [adjunct] Q       1      16  6..    |   |                  [L->MR <Pr>]
+                               =======                   |   |                    +===============================================================\
+ JES 03,07 1sg- xYq0  <<  [Q]  QQ      12     17  7.q    |   |                   || [L> <Ng>] [>HJH <Pr>] [XBC <PC>]
+ JES 03,07 ---- NmCl  << xYq0  QQ      12     18  9..    |   |                   ||      |  [W-<Cj>] [B-BJTJ <Lo>] [>JN <NC>] [LXM <Su>]
+ JES 03,07 ---- Ellp  << NmCl  QQ      12     19 10l.    |   |                   ||      |      [W-<Cj>] [>JN <NC>] [FMLH <Su>]
+ JES 03,07 2plM xYq0  << xYq0  QQ      12     20  8..    |   |                   ||     [L> <Ng>] [TFJMNJ <PO>] [QYJN <M <Ob>]
+                               =======                 ==============================================================================================/
+ JES 03,08 3sgF xQtX  << Ptcp  ?       1      21  1..    |  [KJ <Cj>] [KCLH <Pr>] [JRWCLM <Su>]
+                               =======                   |       |   |+===========================================================================\
+ JES 03,08 3sgM WXQt  << xQtX  ??      13     22  4.#    |       |    | [W-<Cj>] [JHWDH <Su>] [NPL <Pr>]
+                               =======                   |       |    +===========================================================================/
+ JES 03,08 ---- NmCl  << xQtX  ?       1      23  3..    |       |  [KJ <Cj>] [LCWNM W-M<LLJHM <Su>] [>L JHWH <PC>]
+ JES 03,08 ---- InfC [adjunct] ?       1      24  6..    |       |       |   |  [L-MRWT <Pr>] [<NJ KBWDW <Ob>]
+ JES 03,09 3sgF XQtl  << NmCl  ?       1      25  5..    |       |       |  [HKRT PNJHM <Su>] [<NTH <Pr>] [BM <Co>]
+ JES 03,09 3pl- WxQ0  << XQtl  ?       1      26  6..    |       |       |      [W-<Cj>] [XV>TM <Ob>] [K-SDM <Aj>] [HGJDW <Pr>]
+ JES 03,09 3pl- xQt0  << WxQ0  ?       1      27  7..    |       |       |          [L> <Ng>] [KXDW <Pr>]
+ JES 03,09 ---- NmCl  << NmCl  ?       1      28  4..    |       |      [>WJ <Ij>] [L-NPCM <PC>]
+ JES 03,09 3pl- xQt0  << NmCl  ?       1      29  7..    |       |           |   |  [KJ <Cj>] [GMLW <Pr>] [LHM <Aj>] [R<H <Ob>]
+                               =======                 ==============================================================================================/
+ JES 03,10 2plM ZIm0  << NmCl  Q       1      30  6..    |       |           |  [>MRW <Pr>] [YDJQ <Ob>]
+ JES 03,10 3sgM xQt0 [object ] Q       1      31  7..    |       |           |      [KJ <Cj>] [VWB <Pr>]
+ JES 03,10 3plM xYq0 [coordin] Q       1      32  8..    |       |           |          [KJ <Cj>] [PRJ M<LLJHM <Ob>] [J>KLW <Pr>]
+                               =======                 ==============================================================================================/
+ JES 03,11 ---- NmCl  << NmCl  ?       1      33  5..    |       |          [>WJ <Ij>] [L-RC< <PC>]
+ JES 03,11 3sgM ZQt0  << NmCl  ?       1      34  6..    |       |              [R< <Pr>]
+ JES 03,11 3sgM XYqt  << ZQt0  ?       1      35  7..    |       |                  [KJ <Cj>] [GMWL JDJW <Su>] [J<FH <Pr>] [LW <Aj>]
+                               =======                 ==============================================================================================/
+ JES 03,12 ---- CPen  << xQtX  Q       1      36  2c.    |      [<MJ <Fr>]
+ JES 03,12 ---- NmCl [resumpt] Q       1      37  5..    |           |   |  [NGFJW <Su>] [M<WLL <PC>]
+ JES 03,12 3pl- WXQt  << CPen  Q       1      38  4..    |           |  [W-<Cj>] [NCJM <Su>] [MCLW <Pr>] [BW <Co>]
+                               =======                   |        +===============================================================================\
+ JES 03,12 ---- Voct  <<  [Q]  QQ      14     39  3vq    |        | [<MJ <Vo>]
+ JES 03,12 -plM Ptcp [ref.Voc] QQ      14     40  4..    |        |     [M>CRJK <Su>] [MT<JM <PC>]
+ JES 03,12 3pl- WxQ0 [coordin] QQ      14     41  5..    |        |         [W-<Cj>] [DRK >RXTJK <Ob>] [BL<W <Pr>]
+                               =======                 ==============================================================================================/
+ JES 03,13 -sgM Ptcp  << Ptcp  ?       2      42  0.#   [NYB <PC>]
+ JES 03,13 ---- InfC [adjunct] ?       2      43  4.e        |   ||  |  [L-RJB <Pr>]
+ JES 03,13 ---- Defc  << Ptcp  ?       2      44  3d.        |   || [JHWH <Su>]
+ JES 03,13 -sgM Ptcp  << Ptcp  ?       2      45  2..        |  [W-<Cj>] [<MD <PC>]
+ JES 03,13 ---- InfC [adjunct] ?       2      46  3..        |   || [L-DJN <Pr>] [<MJM <Ob>]
+ JES 03,14 3sgM XYqt  << Ptcp  ?       2      47  1..       [JHWH <Su>] [B-MCPV <Co>] [JBW> <Pr>] [<M ZQNJ <MW W-FRJW <Co>]
+                               =======                           |   |+===========================================================================\
+ JES 03,14 2plM WXQt  << XYqt  ?Q      21     48  4.#            |    | [W-<Cj>] [>TM <Su>] [B<RTM <Pr>] [H-KRM <Ob>]
+ JES 03,14 ---- NmCl  << WXQt  ?Q      21     49  6..            |    |      |  [GZLT H-<NJ <Su>] [B-BTJKM <PC>]
+ JES 03,15 ---- NmCl  << WXQt  ?Q      21     50  5..            |    |     [M-<Su>] [LKM <PC>]
+ JES 03,15 2plM ZYq0  << NmCl  ?Q      21     51  6..            |    |         [TDK>W <Pr>] [<MJ <Ob>]
+ JES 03,15 2plM WxY0  << ZYq0  ?Q      21     52  7..            |    |             [W-<Cj>] [PNJ <NJJM <Ob>] [TVXNW <Pr>]
+ JES 03,15 ---- MSyn  << WxY0  ?Q      21     53  8m.            |    |                 [N>M >DNJ / JHWH YB>WT <ap><PC>]
+                               =======                           |    +===========================================================================/
+ JES 03,16 3sgM WayX  << XYqt  ?N      22     54  3.#            |  [W-<Cj>] [J>MR <Pr>] [JHWH <Su>]
+                               =======                           |    +========================================================================\
+ JES 03,16 3pl- xQtX  <<  [Q]  ?NQ     221    55  4.q            |    | [J<N KJ <Cj>] [GBHW <Pr>] [BNWT YJWN <Su>]
+                               -------                           |    |      | -------------------------------------------------------------\
+ JES 03,16 3plF Way0  << xQtX  ?NQN    221    56  6..            |    |      |  [W-<Cj>] [TLKNH <Pr>] [NVWWT GRWN W-MFQRWT <JNJM <Pj>]
+                               -------                           |    |      |     ------------------------------------------------------\
+ JES 03,16 3plF xYq0  << Way0  ?NQND   221    57  7..            |    |      |      [HLWK W-VPP <Mo>] [TLKNH <Pr>]
+ JES 03,16 3plF WxY0  << xYq0  ?NQND   221    58  8..            |    |      |          [W-<Cj>] [B-RGLJHM <Aj>] [T<KSNH <Pr>]
+                               -------                           |    |        -------------------------------------------------------------/
+ JES 03,17 3sgM WQtX  << xQtX  ?NQ     221    59  5..            |    |     [W-<Cj>] [FPX <Pr>] [>DNJ <Su>] [QDQD BNWT YJWN <Ob>]
+ JES 03,17 3sgM WXYq  << WQtX  ?NQ     221    60  6..            |    |         [W-<Cj>] [JHWH <Su>] [PTHN <Ob>] [J<RH <Pr>]
+                               -------                                +---------------------------------------------------------------------------/
+ JES 03,18 3sgM xYqX  << XYqt  ?       2      61  2..           [B--JWM H-HW> <Ti>] [JSJR <Pr>] [>DNJ <Su>] [>T TP>RT H-<KSJM W-H-CBJSJM W-H-FHRNJM <Ob>]
+ JES 03,19 ---- Ellp  << xYqX  ?       2      62  5l.                |   |  [H-NVJPWT W-H-CJRWT W-H-R<LWT <Ob>]
+ JES 03,20 ---- Ellp  << Ellp  ?       2      63  5l.                |   |  [H-P>RJM W-H-Y<DWT W-H-QCRJM W-BTJ H-NPC W-H-LXCJM <Ob>]
+ JES 03,21 ---- Ellp  << Ellp  ?       2      64  5l.                |   |  [H-VB<WT W-NZMJ H->P <Ob>]
+ JES 03,22 ---- Ellp  << Ellp  ?       2      65  5l.                |   |  [H-MXLYWT W-H-M<VPWT W-H-MVPXWT W-H-XRJVJM <Ob>]
+ JES 03,23 ---- Ellp  << Ellp  ?       2      66  6l.                |   |      [W-<Cj>] [H-GLJNJM W-H-SDJNJM W-H-YNJPWT W-H-RDJDJM <Ob>]
+ JES 03,24 3sgM MSyn  << xYqX  ?       2      67  4m.                |  [W-<Cj>] [HJH <Pr>]
+ JES 03,24 3sgM XYqt  << MSyn  ?       2      68  5..                |      [TXT BFM <Aj>] [MQ <Su>] [JHJH <Pr>]
+ JES 03,24 ---- Ellp  << XYqt  ?       2      69  7l.                |           |  [W-<Cj>] [TXT XGWRH <Aj>] [NQPH <Su>]
+ JES 03,24 ---- Ellp  << Ellp  ?       2      70  8l.                |           |      [W-<Cj>] [TXT M<FH MQCH <Aj>] [QRXH <Su>]
+ JES 03,24 ---- Ellp  << Ellp  ?       2      71  9l.                |           |          [W-<Cj>] [TXT PTJGJL <Aj>] [MXGRT FQ <Su>]
+ JES 03,24 ---- Ellp  << XYqt  ?       2      72  6l.                |          [KJ <Su>] [TXT JPJ <Aj>]
+                               =======                 ==============================================================================================/
+ JES 03,25 3plM XYqt  << xYqX  Q       2      73  3..               [MTJK <Su>] [B--XRB <Aj>] [JPLW <Pr>]
+ JES 03,25 ---- Ellp  << XYqt  Q       2      74  5l.                    |  [W-<Cj>] [GBWRTK <Su>] [B--MLXMH <Aj>]
+ JES 03,26 3pl- WQt0  << XYqt  Q       2      75  4..                   [W-<Cj>] [>NW <Pr>]
+ JES 03,26 3pl- WQtX  << WQt0  Q       2      76  6..                        |  [W-<Cj>] [>BLW <Pr>] [PTXJH <Su>]
+ JES 03,26 3sgF WQt0  << WQt0  Q       2      77  5..                       [W-<Cj>] [NQTH <Pr>]
+ JES 03,26 3sgF xYq0  << WQt0  Q       2      78  6..                           [L-->RY <Co>] [TCB <Pr>]

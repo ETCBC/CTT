@@ -1,0 +1,66 @@
+ ZACH13,01 3sgM xYqX  <<  [R]  D       1       1  0.N   [B--JWM H-HW> <Ti>] [JHJH <Pr>] [MQWR <Su>] [NPTX <PC>] [L-BJT DWJD W-L-JCBJ JRWCLM <Co>] [L-XV>T W-L-NDH <Aj>]
+ ZACH13,02 3sgM WQt0  << xYqX  D       1       2  1..    |  [W-<Cj>] [HJH <Pr>] [B--JWM H-HW> <Ti>]
+ ZACH13,02 ---- MSyn  << WQt0  D       1       3  3m.    |   |   |  [N>M JHWH YB>WT <PC>]
+ ZACH13,02 1sg- ZYq0  << WQt0  D       1       4  2..    |   |  [>KRJT <Pr>] [>T CMWT H-<YBJM <Ob>] [MN H->RY <Co>]
+ ZACH13,02 3plM WxY0  << ZYq0  D       1       5  4..    |   |       |  [W-<Cj>] [L> <Ng>] [JZKRW <Pr>] [<WD <Mo>]
+ ZACH13,02 1sg- WxY0  << ZYq0  D       1       6  3..    |   |      [W-<Cj>] [GM >T H-NBJ>JM W->T RWX H-VM>H <Ob>] [><BJR <Pr>] [MN H->RY <Co>]
+ ZACH13,03 3sgM WQt0  << WxY0  D       1       7  4..    |   |          [W-<Cj>] [HJH <Pr>]
+ ZACH13,03 3sgM xYqX  << WQt0  D       1       8  5..    |   |              [KJ <Cj>] [JNB> <Pr>] [>JC <Su>] [<WD <Mo>]
+ ZACH13,03 3pl- WQtX  << xYqX  D       1       9  6..    |   |                  [W-<Cj>] [>MRW <Pr>] [>LJW <Co>] [>BJW W->MW <Su>]
+ ZACH13,03 -plM Ptcp [attrib.] D       1      10  9..    |   |                       |   |  [JLDJW <po>]
+                               =======                   |   |                       |+===========================================================\
+ ZACH13,03 2sgM xYq0  <<  [Q]  DQ      11     11  8.q    |   |                       || [L> <Ng>] [TXJH <Pr>]
+ ZACH13,03 2sgM xQt0  << xYq0  DQ      11     12  9..    |   |                       ||     [KJ <Cj>] [CQR <Ob>] [DBRT <Pr>] [B-CM JHWH <Co>]
+                               =======                   |   |                        +===========================================================/
+ ZACH13,03 3pl- WQtX  << WQtX  D       1      13  7..    |   |                      [W-<Cj>] [DQRHW <PO>] [>BJHW W->MW <Su>]
+ ZACH13,03 -plM Ptcp [attrib.] D       1      14  9..    |   |                           |  [JLDJW <po>]
+ ZACH13,03 ---- InfC [adjunct] D       1      15  8..    |   |                          [B-HNB>W <Ps>]
+ ZACH13,04 3sgM WQt0  << WQt0  D       12     16  1.#    |  [W-<Cj>] [HJH <Pr>]
+ ZACH13,04 3plM xYqX  << WQt0  D       12     17  2..    |      [B--JWM H-HW> <Ti>] [JBCW <Pr>] [H-NBJ>JM <Su>]
+ ZACH13,04 ---- Ellp [adjunct] D       12     18  6l.    |           |   |   |  [>JC <Su>] [M-XZJNW <Co>]
+ ZACH13,04 ---- InfC [adjunct] D       12     19  5..    |           |   |  [B-HNB>TW <Ps>]
+ ZACH13,04 3plM WxY0  << xYqX  D       12     20  4..    |           |  [W-<Cj>] [L> <Ng>] [JLBCW <Pr>] [>DRT F<R <Ob>]
+ ZACH13,04 ---- InfC [adjunct] D       12     21  5..    |           |      [LM<N KXC <Pr>]
+ ZACH13,05 3sgM WQt0  << xYqX  D       12     22  3..    |          [W-<Cj>] [>MR <Pr>]
+                               =======                   |           |+===========================================================================\
+ ZACH13,05 ---- NmCl  <<  [Q]  DQ      121    23  4.q    |            | [L> <Ng>] [NBJ> <PC>] [>NKJ <Su>]
+ ZACH13,05 ---- NmCl  << NmCl  DQ      121    24  5..    |            |     [>JC <PC>]
+ ZACH13,05 -sgM Ptcp [attrib.] DQ      121    25  8.e    |            |          |   |  [<BD <PC>] [>DMH <Ob>]
+ ZACH13,05 ---- Defc  << NmCl  DQ      121    26  7d.    |            |          |  [>NKJ <Su>]
+ ZACH13,05 3sgM XQtl  << NmCl  DQ      121    27  6..    |            |         [KJ <Cj>] [>DM <Su>] [HQNNJ <PO>] [M-N<WRJ <Aj>]
+                               =======                   |           |+===========================================================================/
+ ZACH13,06 3sgM WQt0  << WQt0  D       12     28  3..    |          [W-<Cj>] [>MR <Pr>] [>LJW <Co>]
+                               =======                   |           |+===========================================================================\
+ ZACH13,06 ---- NmCl  <<  [Q]  DQ      122    29  4.q    |            | [MH <PC>] [H-MKWT H->LH / BJN JDJK <sp><Su>]
+                               =======                   |            +===========================================================================/
+ ZACH13,06 3sgM WQt0  << WQt0  D       12     30  3..    |          [W-<Cj>] [>MR <Pr>]
+                               =======                   |            +===========================================================================\
+ ZACH13,06 1sg- xQt0  <<  [Q]  DQ      123    31  4.q    |            | [>CR <Cj>] [HKJTJ <Pr>] [BJT M>HBJ <Lo>]
+                               =======                                +===========================================================================/
+ ZACH13,07 ---- Voct  << xYqX  D       2      32  0v#   [XRB <Vo>]
+ ZACH13,07 2sgF ZIm0 [ref.Voc] D       2      33  1..       [<WRJ <Pr>] [<L R<J W-<L GBR <MJTJ <Co>]
+ ZACH13,07 ---- MSyn  << ZIm0  D       2      34  4m.            |   |  [N>M JHWH YB>WT <PC>]
+                               =======                           |+===============================================================================\
+ ZACH13,07 2sgM ZIm0  << ZIm0  DQ      2      35  3..             | [HK <Pr>] [>T H-R<H <Ob>]
+ ZACH13,07 3plF WYqX  << ZIm0  DQ      2      36  4..             |     [W-<Cj>] [TPWYJN <Pr>] [H-Y>N <Su>]
+                               =======                           |+===============================================================================/
+ ZACH13,07 1sg- WQt0  << ZIm0  D       2      37  2..           [W-<Cj>] [HCBTJ <Pr>] [JDJ <Ob>] [<L H-Y<RJM <Co>]
+ ZACH13,08 3sgM WQt0  << WQt0  D       2      38  3..            |  [W-<Cj>] [HJH <Pr>] [B-KL H->RY <Lo>]
+ ZACH13,08 ---- MSyn  << WQt0  D       2      39  5m.            |       |  [N>M JHWH <PC>]
+ ZACH13,08 3plM XYqt  << WQt0  D       2      40  4..            |      [PJ CNJM <Su>] [BH <Aj>] [JKRTW <Pr>]
+ ZACH13,08 3plM ZYq0  << XYqt  D       2      41  6..            |           |  [JGW<W <Pr>]
+ ZACH13,08 3sgM WXYq  << XYqt  D       2      42  5..            |          [W-<Cj>] [H-CLCJT <Su>] [JWTR <Pr>] [BH <Aj>]
+ ZACH13,09 1sg- WQt0  << WQt0  D       2      43  2..           [W-<Cj>] [HB>TJ <Pr>] [>T H-CLCJT <Ob>] [B-->C <Co>]
+ ZACH13,09 1sg- WQt0  << WQt0  D       2      44  4..                |  [W-<Cj>] [YRPTJM <PO>]
+ ZACH13,09 ---- InfC [adjunct] D       2      45  5..                |   |  [K-YRP <Pr>] [>T H-KSP <Ob>]
+ ZACH13,09 1sg- WQt0  << WQt0  D       2      46  4..                |  [W-<Cj>] [BXNTJM <PO>]
+ ZACH13,09 ---- InfC [adjunct] D       2      47  5..                |      [K-BXN <Pr>] [>T H-ZHB <Ob>]
+ ZACH13,09 3sgM XYqt  << WQt0  D       2      48  3..               [HW> <Su>] [JQR> <Pr>] [B-CMJ <Co>]
+ ZACH13,09 1sg- WXYq  << XYqt  D       2      49  4..                   [W-<Cj>] [>NJ <Su>] [><NH <Pr>] [>TW <Ob>]
+ ZACH13,09 1sg- ZQt0  << WXYq  D       2      50  5..                       [>MRTJ <Pr>]
+                               =======                                           |+===============================================================\
+ ZACH13,09 ---- NmCl  <<  [Q]  DQ      21     51  7.q                             | [<MJ <PC>] [HW> <Su>]
+                               =======                                            +===============================================================/
+ ZACH13,09 3sgM WXYq  << ZQt0  D       2      52  6..                           [W-<Cj>] [HW> <Su>] [J>MR <Pr>]
+                               =======                                            +===============================================================\
+ ZACH13,09 ---- NmCl  <<  [Q]  DQ      22     53  7.q                             | [JHWH <Su>] [>LHJ <PC>]

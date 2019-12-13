@@ -1,0 +1,91 @@
+ EZE 31,01 3sgM Way0  <<  [R]  N       1       1  0.N   [W-<Cj>] [JHJ <Pr>] [B->XT <FRH CNH <Co>] [B--CLJCJ <Ti>] [B->XD / L--XDC <sp><Ti>]
+ EZE 31,01 3sgM ZQtX  << Way0  N       1       2  1..       [HJH <Pr>] [DBR JHWH <Su>] [>LJ <Co>]
+ EZE 31,01 ---- InfC [adjunct] N       1       3  2..           [L->MR <Pr>]
+                               =======                            +===============================================================================\
+ EZE 31,02 ---- Voct  <<  [Q]  NQ      11      4  3vq             | [BN >DM <Vo>]
+ EZE 31,02 2sgM ZIm0 [ref.Voc] NQ      11      5  4..             |     [>MR <Pr>] [>L PR<H / MLK MYRJM / W-/ >L HMWNW <pa><cj><ap><Co>]
+                               =======                            |       +====================================================================\
+ EZE 31,02 2sgM xQt0  <<  [Q]  NQQ     111     6  5.q             |       | [>L MJ <Co>] [DMJT <Pr>] [B-GDLK <Aj>]
+ EZE 31,03 ---- NmCl  << xQt0  NQQ     111     7  7..             |       |  |   |  [HNH <Ij>] [>CWR <Su>] [>RZ / B--LBNWN <sp><PC>]
+ EZE 31,03 -sgM AjCl  << NmCl  NQQ     111     8  8..             |       |  |   |      [JPH <NP <PC>]
+ EZE 31,03 -sgM Ptcp [coordin] NQQ     111     9 14.e             |       |  |   |           |   |   |   |   |  [W-<Cj>] [XRC <Ob>] [MYL <PC>]
+ EZE 31,03 ---- Defc  << AjCl  NQQ     111    10 13d.             |       |  |   |           |   |   |   |  [W-/ GBH QWMH <pa><cj>]
+ EZE 31,03 3sgF WxQX  << AjCl  NQQ     111    11 12..             |       |  |   |           |   |   |  [W-<Cj>] [BJN <BTJM <Co>] [HJTH <Pr>] [YMRTW <Su>]
+ EZE 31,04 3pl- XQtl  << AjCl  NQQ     111    12 11..             |       |  |   |           |   |  [MJM <Su>] [GDLWHW <PO>]
+ EZE 31,04 3sgF XQtl  << XQtl  NQQ     111    13 12..             |       |  |   |           |   |      [THWM <Su>] [RMMTHW <PO>]
+ EZE 31,04 -sgM Ptcp  << XQtl  NQQ     111    14 14..             |       |  |   |           |   |           |  [>T NHRTJH <Aj>] [HLK <PC>] [SBJBWT MV<H <Co>]
+ EZE 31,04 3sgF WxQ0  << XQtl  NQQ     111    15 13..             |       |  |   |           |   |          [W-<Cj>] [>T T<LTJH <Ob>] [CLXH <Pr>] [>L KL <YJ H-FDH <Co>]
+ EZE 31,05 3sgF xQtX  << AjCl  NQQ     111    16 10..             |       |  |   |           |  [<L KN <Aj>] [GBH> <Pr>] [QMTW <Su>] [M-KL <YJ H-FDH <Co>]
+                               -------                            |       |  |   |           |       |   |   |+-----------------------------\
+ EZE 31,05 3plF WayX  << xQtX  NQQN    1111   17 14.#             |       |  |   |           |       |   |    | [W-<Cj>] [TRBJNH <Pr>] [SR<PTJW <Su>]
+ EZE 31,05 3plF WayX  << WayX  NQQN    1112   18 14.#             |       |  |   |           |       |   |    | [W-<Cj>] [T>RKNH <Pr>] [P>RTW <Su>] [M-MJM RBJM <Aj>]
+ EZE 31,05 ---- InfC [adjunct] NQQN    1112   19 15..             |       |  |   |           |       |   |    |     [B-CLXW <Ps>]
+                               -------                            |       |  |   |           |       |   |    +-----------------------------/
+ EZE 31,06 3pl- xQtX  << xQtX  NQQ     111    20 13..             |       |  |   |           |       |   |  [B-S<PTJW <Co>] [QNNW <Pr>] [KL <WP H-CMJM <Su>]
+ EZE 31,06 3pl- WxQX  << xQtX  NQQ     111    21 15..             |       |  |   |           |       |   |       |  [W-<Cj>] [TXT P>RTJW <Lo>] [JLDW <Pr>] [KL XJT H-FDH <Su>]
+ EZE 31,06 3plM WxYX  << xQtX  NQQ     111    22 14..             |       |  |   |           |       |   |      [W-<Cj>] [B-YLW <Co>] [JCBW <Pr>] [KL GWJM RBJM <Su>]
+                               -------                            |       |  |   |           |       |+-------------------------------------\
+ EZE 31,07 3sgM Way0  << xQtX  NQQN    111    23 12..             |       |  |   |           |        | [W-<Cj>] [JJP <Pr>] [B-GDLW <Aj>] [B->RK DLJWTJW <Aj>]
+ EZE 31,07 3sgM xQtX  << Way0  NQQN    111    24 13..             |       |  |   |           |        |     [KJ <Cj>] [HJH <Pr>] [CRCW <Su>] [>L MJM RBJM <Co>]
+                               -------                            |       |  |   |           |        +-------------------------------------/
+ EZE 31,08 3pl- XQtl  << xQtX  NQQ     111    25 11..             |       |  |   |           |      [>RZJM <Su>] [L> <Ng>] [<MMHW <PO>] [B-GN >LHJM <Lo>]
+ EZE 31,08 3pl- XQtl  << XQtl  NQQ     111    26 13..             |       |  |   |           |           |  [BRWCJM <Su>] [L> <Ng>] [DMW <Pr>] [>L S<PTJW <Co>]
+ EZE 31,08 3pl- WXQt  << XQtl  NQQ     111    27 14..             |       |  |   |           |           |      [W-<Cj>] [<RMNJM <Su>] [L> <Ng>] [HJW <Pr>] [K-P>RTJW <Co>]
+ EZE 31,08 3sgM XQtl  << XQtl  NQQ     111    28 12..             |       |  |   |           |          [KL <Y / B-GN >LHJM <sp><Su>] [L> <Ng>] [DMH <Pr>] [>LJW <Co>] [B-JPJW <Aj>]
+ EZE 31,09 1sg- xQt0  << AjCl  NQQ     111    29  9..             |       |  |   |          [JPH <Pj>] [<FJTJW <PO>] [B-RB DLJWTJW <Aj>]
+                               -------                            |       |  |   |            +---------------------------------------------\
+ EZE 31,09 3plM WayX  << xQt0  NQQN    1113   30 10.#             |       |  |   |            | [W-<Cj>] [JQN>HW <PO>] [KL <YJ <DN <Su>]
+ EZE 31,09 ---- NmCl [attrib.] NQQN    1113   31 11..             |       |  |   |            |     [>CR <Re>] [B-GN H->LHJM <PC>]
+                               -------                            |       |  |                +---------------------------------------------/
+ EZE 31,10 ---- MSyn  << xQt0  NQQ     111    32  6m.             |       |  |  [LKN <Mo>]
+ EZE 31,10 3sgM xQtX  << MSyn  NQQ     111    33  7..             |       |  |      [KH <Mo>] [>MR <Pr>] [>DNJ JHWH <Su>]
+                               =======                            |       |  |       |+=====================================================\
+ EZE 31,10 2sgM xQt0  <<  [Q]  NQQQ    1114   34  8.q             |       |  |        | [J<N >CR <Cj>] [GBHT <Pr>] [B-QWMH <Co>]
+                               -------                            |       |  |       ||      |+------------------------------------------\
+ EZE 31,10 3sgM Way0  << xQt0  NQQQN   1114   35 10..             |       |  |        |       | [W-<Cj>] [JTN <Pr>] [YMRTW <Ob>] [>L BJN <BWTJM <Co>]
+ EZE 31,10 3sgM WQtX  << Way0  NQQQN   1114   36 11..             |       |  |        |       |     [W-<Cj>] [RM <Pr>] [LBBW <Su>] [B-GBHW <Aj>]
+                               -------                            |       |  |       ||       +------------------------------------------/
+ EZE 31,11 1sg- WYq0  << xQt0  NQQQ    1114   37  9..             |       |  |        |     [W-<Cj>] [>TNHW <PO>] [B-JD >JL GWJM <Co>]
+ EZE 31,11 3sgM xYq0  << WYq0  NQQQ    1114   38 12..             |       |  |        |          |   |  [<FW <Mo>] [J<FH <Pr>] [LW <Co>] [K-RC<W <Co>]
+ EZE 31,11 1sg- ZQt0  << WYq0  NQQQ    1114   39 11..             |       |  |        |          |  [GRCTHW <PO>]
+                               -------                            |       |  |       ||       +------------------------------------------\
+ EZE 31,12 3plM WayX  << WYq0  NQQQN   11141  40 10.#             |       |  |        |       | [W-<Cj>] [JKRTHW <PO>] [ZRJM / <RJYJ GWJM <sp><Su>]
+ EZE 31,12 3plM Way0  << WayX  NQQQN   11141  41 13..             |       |  |        |       |      |   |  [W-<Cj>] [JVCHW <PO>]
+ EZE 31,12 3pl- xQtX  << WayX  NQQQN   11141  42 12..             |       |  |        |       |      |  [>L H-HRJM / W-/ B-KL G>JWT <pa><cj><Lo>] [NPLW <Pr>] [DLJWTJW <Su>]
+ EZE 31,12 3plF WayX  << xQtX  NQQQN   111411 43 13.#             |       |  |        |       |      |      [W-<Cj>] [TCBRNH <Pr>] [P>RTJW <Su>] [B-KL >PJQJ H->RY <Lo>]
+ EZE 31,12 3plM WayX  << WayX  NQQQN   111412 44 11.#             |       |  |        |       |     [W-<Cj>] [JRDW <Pr>] [M-YLW <Co>] [KL <MJ H->RY <Su>]
+ EZE 31,12 3plM Way0  << WayX  NQQQN   111412 45 13..             |       |  |        |       |          |  [W-<Cj>] [JVCHW <PO>]
+                               -------                            |       |  |       ||       |       +-------------------------------\
+ EZE 31,13 3plM xYqX  << WayX  NQQQND  111412 46 12..             |       |  |        |       |      || [<L MPLTW <Co>] [JCKNW <Pr>] [KL <WP H-CMJM <Su>]
+ EZE 31,13 3pl- WxQX  << xYqX  NQQQND  111412 47 14..             |       |  |        |       |      ||      |  [W-<Cj>] [>L P>RTJW <Co>] [HJW <Pr>] [KL XJT H-FDH <Su>]
+ EZE 31,14 3plM xYqX  << xYqX  NQQQND  111412 48 13..             |       |  |        |       |      ||     [LM<N >CR <Cj>] [L> <Ng>] [JGBHW <Pr>] [B-QWMTM <Lo>] [KL <YJ MJM <Su>]
+ EZE 31,14 3plM WxY0  << xYqX  NQQQND  111412 49 15..             |       |  |        |       |      ||          |  [W-<Cj>] [L> <Ng>] [JTNW <Pr>] [>T YMRTM <Ob>] [>L BJN <BTJM <Co>]
+ EZE 31,14 3plM WxYX  << WxY0  NQQQND  111412 50 16..             |       |  |        |       |      ||          |      [W-<Cj>] [L> <Ng>] [J<MDW <Pr>] [>LJHM <Co>] [B-GBHM <Aj>] [KL CTJ MJM <Su>]
+ EZE 31,14 3pl- XQtl  << xYqX  NQQQND  111412 51 14..             |       |  |        |       |      ||         [KJ <Cj>] [KLM <Su>] [NTNW <Pr>] [L--MWT <Co>] [>L >RY TXTJT <Aj>] [B-TWK BNJ >DM <Aj>] [>L JWRDJ BWR <Aj>]
+                               =======                            |       |  |        +=====================================================/
+ EZE 31,15 3sgM xQtX  << xQtX  NQQ     111    52  7..             |       |  |      [KH <Mo>] [>MR <Pr>] [>DNJ JHWH <Su>]
+                               =======                            |       |  |        +=====================================================\
+ EZE 31,15 ---- Defc  <<  [Q]  NQQQ    1115   53  8dq             |       |  |        | [B-JWM <Ti>]
+ EZE 31,15 ---- InfC [reg/rec] NQQQ    1115   54 12.e             |       |  |        |      |   |   |  [RDTW <Ps>] [C>WLH <Co>]
+ EZE 31,15 1sg- ZQt0  << Defc  NQQQ    1115   55 11..             |       |  |        |      |   |  [H>BLTJ <Pr>]
+ EZE 31,15 1sg- ZQt0  << Defc  NQQQ    1115   56 10..             |       |  |        |      |  [KSTJ <Pr>] [<LJW <Aj>] [>T THWM <Ob>]
+                               -------                            |       |  |        |      |    +--------------------------------------\
+ EZE 31,15 1sg- Way0  << ZQt0  NQQQN   1115   57 11..             |       |  |        |      |    | [W-<Cj>] [>MN< <Pr>] [NHRWTJH <Ob>]
+ EZE 31,15 3plM WayX  << Way0  NQQQN   11151  58 12.#             |       |  |        |      |    |  |  [W-<Cj>] [JKL>W <Pr>] [MJM RBJM <Su>]
+ EZE 31,15 1sg- Way0  << Way0  NQQQN   1115   59 11..             |       |  |        |      |    | [W-<Cj>] [>QDR <Pr>] [<LJW <Aj>] [LBNWN <Ob>]
+ EZE 31,15 ---- NmCl  << Way0  NQQQN   1115   60 12..             |       |  |        |      |    |     [W-<Cj>] [KL <YJ H-FDH <Su>] [<LJW <Aj>] [<LPH <PC>]
+                               -------                            |       |  |        |           +--------------------------------------/
+ EZE 31,16 1sg- xQt0  << Defc  NQQQ    1115   61  9..             |       |  |        |     [M-QWL MPLTW <Aj>] [HR<CTJ <Pr>] [GWJM <Ob>]
+ EZE 31,16 ---- InfC [adjunct] NQQQ    1115   62 12..             |       |  |        |          |   |  [B-HWRDJ <Ps>] [>TW <Ob>] [C>WLH <Co>] [>T JWRDJ BWR <Aj>]
+                               -------                            |       |  |        |          |+--------------------------------------\
+ EZE 31,16 3plM WayX  << xQt0  NQQQN   11152  63 11.#             |       |  |        |           | [W-<Cj>] [JNXMW <Pr>] [B->RY TXTJT <Lo>] [KL <YJ <DN MBXR W-VWB LBNWN / KL CTJ MJM <sp><Su>]
+                               -------                            |       |  |        |           +--------------------------------------/
+ EZE 31,17 3pl- XQtl  << xQt0  NQQQ    1115   64 10..             |       |  |        |         [GM HM / >TW <sp><Su>] [JRDW <Pr>] [C>WLH <Co>] [>L XLLJ XRB <Aj>]
+ EZE 31,17 3pl- WXQt  << XQtl  NQQQ    11153  65 11.#             |       |  |        |             [W-<Cj>] [ZR<W <Su>] [JCBW <Pr>] [B-YLW <Co>] [B-TWK GWJM <Aj>]
+                               =======                            |       |           +=====================================================/
+ EZE 31,18 2sgM xQt0  << xQt0  NQQ     111    66  5..             |       | [>L MJ <Co>] [DMJT <Pr>] [KKH <Mo>] [B-KBWD W-B-GDL <Aj>] [B-<YJ <DN <Aj>]
+ EZE 31,18 2sgM WQt0  << xQt0  NQQ     111    67  6..             |       |     [W-<Cj>] [HWRDT <Pr>] [>T <YJ <DN <Aj>] [>L >RY TXTJT <Co>]
+ EZE 31,18 2sgM xYq0  << WQt0  NQQ     111    68  8..             |       |          |  [B-TWK <RLJM <Co>] [TCKB <Pr>]
+ EZE 31,18 ---- NmCl [coordin] NQQ     111    69  9..             |       |          |      [>T XLLJ XRB <PC>]
+ EZE 31,18 ---- NmCl  << WQt0  NQQ     111    70  7..             |       |         [HW> <Su>] [PR<H W-KL HMWNH <PC>]
+ EZE 31,18 ---- NmCl  << NmCl  NQQ     111    71  8..             |       |             [N>M >DNJ JHWH <Su>]

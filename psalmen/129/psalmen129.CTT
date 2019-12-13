@@ -1,0 +1,23 @@
+ PS129,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [CJR H-M<LWT <PC>]
+                               =======                 ==============================================================================================/
+ PS129,001 3pl- xQt0  << NmCl  Q       2       2  0.N   [RBT <Mo>] [YRRWNJ <PO>] [M-N<WRJ <Aj>]
+                               =======                 ==============================================================================================/
+ PS129,001 3sgM ZYqX  << xQt0  ?       21      3  1.#    |  [J>MR <Pr>] [N> <Ij>] [JFR>L <Su>]
+                               =======                 ==============================================================================================/
+ PS129,002 3pl- xQt0  << xQt0  Q       2       4  0..   [RBT <Mo>] [YRRWNJ <PO>] [M-N<WRJ <Aj>]
+ PS129,002 3pl- xQt0  << xQt0  Q       2       5  3..        |   |  [GM <Mo>] [L> <Ng>] [JKLW <Pr>] [LJ <Co>]
+ PS129,003 3pl- xQtX  << xQt0  Q       2       6  2..        |  [<L GBJ <Co>] [XRCW <Pr>] [XRCJM <Su>]
+ PS129,003 3pl- ZQt0  << xQtX  Q       2       7  3..        |      [H>RJKW <Pr>] [L-M<NWTM <Co>]
+ PS129,004 -sgM AjCl  << xQt0  Q       2       8  1..       [JHWH <Su>] [YDJQ <PC>]
+ PS129,004 3sgM ZQt0  << AjCl  Q       2       9  3..            |  [QYY <Pr>] [<BWT RC<JM <Ob>]
+ PS129,005 3plM ZYq0  << AjCl  Q       2      10  2..           [JBCW <Pr>]
+ PS129,005 3plM WYqX [coordin] Q       2      11  3..            |  [W-<Cj>] [JSGW <Pr>] [>XWR <Mo>] [KL FN>J YJWN <Su>]
+ PS129,006 3plM ZYq0  << ZYq0  Q       2      12  2..           [JHJW <Pr>] [K-XYJR GGWT <PC>]
+ PS129,006 3sgM xQt0 [attrib.] Q       2      13  5..                |   |  [C-<Re>] [QDMT <Aj>] [CLP <Pr>]
+ PS129,006 3sgM ZQt0 [coordin] Q       2      14  6..                |   |      [JBC <Pr>]
+ PS129,007 3sgM xQtX [attrib.] Q       2      15  4..                |  [C-<Re>] [L> <Ng>] [ML> <Pr>] [KPW <Ob>] [QWYR <Su>]
+ PS129,007 ---- Ellp  << xQtX  Q       2      16  5l.                |      [W-<Cj>] [XYNW <Ob>] [M<MR <Su>]
+ PS129,008 3pl- WxQX  << ZYq0  Q       2      17  3..               [W-<Cj>] [L> <Ng>] [>MRW <Pr>] [H-<BRJM <Su>]
+                               =======                                +===========================================================================\
+ PS129,008 ---- NmCl  <<  [Q]  QQ      22     18  4.q                 | [BRKT JHWH <Su>] [>LJKM <PC>]
+ PS129,008 1pl- ZQt0  << NmCl  QQ      22     19  5..                 |     [BRKNW <Pr>] [>TKM <Ob>] [B-CM JHWH <Co>]

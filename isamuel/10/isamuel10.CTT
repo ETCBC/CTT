@@ -1,0 +1,176 @@
+ISAM 10,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JQX <Pr>] [CMW>L <Su>] [>T PK H-CMN <Ob>]
+ISAM 10,01 3sgM Way0  << WayX  N       1       2  1..    |  [W-<Cj>] [JYQ <Pr>] [<L R>CW <Co>]
+ISAM 10,01 3sgM Way0  << Way0  N       1       3  2..    |      [W-<Cj>] [JCQHW <PO>]
+ISAM 10,01 3sgM Way0  << Way0  N       1       4  3..    |          [W-<Cj>] [J>MR <Pr>]
+                               =======                   |               |+=======================================================================\
+ISAM 10,01 ---- NmCl  <<  [Q]  NQ      11      5  5.q    |                | [H-<Qu>] [LW> <Ng>]
+ISAM 10,01 3sgM xQtX  << NmCl  NQ      11      6  7..    |                |      |  [KJ <Cj>] [MCXK <PO>] [JHWH <Su>] [<L NXLTW <Co>] [L-NGJD <Co>]
+ISAM 10,02 ---- InfC [adjunct] NQ      11      7  8..    |                |      |      [B-LKTK <Ps>] [H-JWM <Ti>] [M-<MDJ <Co>]
+ISAM 10,02 2sgM WQt0  << NmCl  NQ      11      8  6..    |                |     [W-<Cj>] [MY>T <Pr>] [CNJ >NCJM <Ob>] [<M QBRT RXL / B-GBWL BNJMN / B-YLYX <sp><sp><Co>]
+ISAM 10,02 3pl- WQt0  << WQt0  NQ      11      9  7..    |                |      |  [W-<Cj>] [>MRW <Pr>] [>LJK <Co>]
+                               =======                   |               ||      |    +========================================================\
+ISAM 10,02 3pl- ZQtX  <<  [Q]  NQQ     111    10  8.q    |                |      |    | [NMY>W <Pr>] [H->TNWT <Su>]
+ISAM 10,02 2sgM xQt0 [attrib.] NQQ     111    11 10..    |                |      |    |      |  [>CR <Re>] [HLKT <Pr>]
+ISAM 10,02 ---- InfC [adjunct] NQQ     111    12 11..    |                |      |    |      |      [L-BQC <Pr>]
+ISAM 10,02 3sgM WxQX  << ZQtX  NQQ     111    13  9..    |                |      |    |     [W-<Cj>] [HNH <Ij>] [NVC <Pr>] [>BJK <Su>] [>T DBRJ H->TNWT <Ob>]
+ISAM 10,02 3sgM WQt0  << WxQX  NQQ     111    14 10..    |                |      |    |         [W-<Cj>] [D>G <Pr>] [LKM <Co>]
+ISAM 10,02 ---- InfC [adjunct] NQQ     111    15 11..    |                |      |    |             [L->MR <Pr>]
+                               =======                   |               ||      |    |               +=====================================\
+ISAM 10,02 1sg- xYq0  <<  [Q]  NQQQ    1111   16 12.q    |                |      |    |               | [MH <Ob>] [><FH <Pr>] [L-BNJ <Co>]
+                               =======                   |               ||      |    +========================================================/
+ISAM 10,03 2sgM WQt0  << WQt0  NQ      11     17  6..    |                |     [W-<Cj>] [XLPT <Pr>] [M-CM / W-/ HL>H <pa><cj><Co>]
+ISAM 10,03 2sgM WQt0  << WQt0  NQ      11     18  6..    |                |     [W-<Cj>] [B>T <Pr>] [<D >LWN TBWR <Co>]
+ISAM 10,03 3pl- WQtX  << WQt0  NQ      11     19  9..    |                |      |   |   |  [W-<Cj>] [MY>WK <PO>] [CM <Co>] [CLCH >NCJM <Su>]
+ISAM 10,03 -plM Ptcp [attrib.] NQ      11     20 12..    |                |      |   |   |       |   |  [<LJM <PC>] [>L H->LHJM <Co>] [BJT_>L <Lo>]
+ISAM 10,03 -sgM Ptcp  << WQtX  NQ      11     21 11..    |                |      |   |   |       |  [>XD <Su>] [NF> <PC>] [CLCH GDJJM <Ob>]
+ISAM 10,03 -sgM Ptcp  << Ptcp  NQ      11     22 12..    |                |      |   |   |       |      [W-<Cj>] [>XD <Su>] [NF> <PC>] [CLCT KKRWT LXM <Ob>]
+ISAM 10,03 -sgM Ptcp  << Ptcp  NQ      11     23 12..    |                |      |   |   |       |      [W-<Cj>] [>XD <Su>] [NF> <PC>] [NBL JJN <Ob>]
+ISAM 10,04 3pl- WQt0  << WQtX  NQ      11     24 10..    |                |      |   |   |      [W-<Cj>] [C>LW <Pr>] [LK <Co>] [L-CLWM <Co>]
+ISAM 10,04 3pl- WQt0  << WQt0  NQ      11     25 10..    |                |      |   |   |      [W-<Cj>] [NTNW <Pr>] [LK <Co>] [CTJ LXM <Ob>]
+ISAM 10,04 2sgM WQt0  << WQt0  NQ      11     26 11..    |                |      |   |   |          [W-<Cj>] [LQXT <Pr>] [M-JDM <Co>]
+ISAM 10,05 2sgM xYq0  << WQt0  NQ      11     27  8..    |                |      |   |  [>XR KN <Ti>] [TBW> <Pr>] [GB<T H->LHJM <Co>]
+ISAM 10,05 ---- NmCl [attrib.] NQ      11     28 10..    |                |      |   |       |  [>CR <Re>] [CM <PC>] [NYBJ PLCTJM <Su>]
+ISAM 10,05 3sgM WYq0  << xYq0  NQ      11     29  9..    |                |      |   |      [W-<Cj>] [JHJ <Pr>]
+ISAM 10,05 ---- InfC [adjunct] NQ      11     30 11..    |                |      |   |           |  [K-B>K <Ps>] [CM / H-<JR <sp><Co>]
+ISAM 10,05 2sgM WQt0  << WYq0  NQ      11     31 10..    |                |      |   |          [W-<Cj>] [PG<T <Pr>] [XBL NBJ>JM <Ob>]
+ISAM 10,05 -plM Ptcp [attrib.] NQ      11     32 13..    |                |      |   |               |   |  [JRDJM <PC>] [M-H-BMH <Co>]
+ISAM 10,05 ---- NmCl  << WQt0  NQ      11     33 12..    |                |      |   |               |  [W-<Cj>] [L-PNJHM <PC>] [NBL W-TP W-XLJL W-KNWR <Su>]
+ISAM 10,05 -plM Ptcp  << NmCl  NQ      11     34 13..    |                |      |   |               |      [W-<Cj>] [HMH <Su>] [MTNB>JM <PC>]
+ISAM 10,06 3sgF WQtX  << WQt0  NQ      11     35 11..    |                |      |   |              [W-<Cj>] [YLXH <Pr>] [<LJK <Co>] [RWX JHWH <Su>]
+ISAM 10,06 2sgM WQt0  << WQtX  NQ      11     36 12..    |                |      |   |                  [W-<Cj>] [HTNBJT <Pr>] [<MM <Co>]
+ISAM 10,06 2sgM WQt0  << WQt0  NQ      11     37 12..    |                |      |   |                  [W-<Cj>] [NHPKT <Pr>] [L->JC >XR <Co>]
+ISAM 10,07 3sgM MSyn  << WQt0  NQ      11     38  7m.    |                |      |  [W-<Cj>] [HJH <Pr>]
+ISAM 10,07 3plF xYqX  << MSyn  NQ      11     39  9..    |                |      |       |  [KJ <Cj>] [TB>JNH <Pr>] [H->TWT H->LH <Su>] [LK <Co>]
+ISAM 10,07 2sgM ZIm0  << MSyn  NQ      11     40  8..    |                |      |      [<FH <Pr>] [LK <Co>]
+ISAM 10,07 3sgF xYqX [object ] NQ      11     41 10..    |                |      |           |  [>CR <Re>] [TMY> <Pr>] [JDK <Su>]
+ISAM 10,07 ---- NmCl  << ZIm0  NQ      11     42  9..    |                |      |          [KJ <Cj>] [H->LHJM <Su>] [<MK <PC>]
+ISAM 10,08 2sgM WQt0  << WQt0  NQ      11     43  6..    |                |     [W-<Cj>] [JRDT <Pr>] [L-PNJ <Co>] [H-GLGL <Co>]
+ISAM 10,08 ---- NmCl  << WQt0  NQ      11     44  8..    |                |          |  [W-<Cj>] [HNH <Ij>]
+ISAM 10,08 -sgM Ptcp  << NmCl  NQ      11     45  9..    |                |          |      [>NKJ <Su>] [JRD <PC>] [>LJK <Co>]
+ISAM 10,08 ---- InfC [adjunct] NQ      11     46 10..    |                |          |          [L-H<LWT <Pr>] [<LWT <Ob>]
+ISAM 10,08 ---- InfC [coordin] NQ      11     47 10..    |                |          |          [L-ZBX <Pr>] [ZBXJ CLMJM <Ob>]
+ISAM 10,08 2sgM xYq0  << WQt0  NQ      11     48  7..    |                |         [CB<T JMJM <Ti>] [TWXL <Pr>]
+ISAM 10,08 ---- InfC [adjunct] NQ      11     49  9..    |                |              |  [<D BW>J <Ps>] [>LJK <Co>]
+ISAM 10,08 1sg- WQt0  << xYq0  NQ      11     50  8..    |                |             [W-<Cj>] [HWD<TJ <Pr>] [LK <Co>]
+ISAM 10,08 2sgM xYq0 [object ] NQ      11     51  9..    |                |                 [>T >CR <Re>] [T<FH <Pr>]
+                               =======                   |                +=======================================================================/
+ISAM 10,09 3sgM WQt0  << Way0  N       1      52  4..    |              [W-<Cj>] [HJH <Pr>]
+ISAM 10,09 ---- InfC [adjunct] N       1      53  6..    |                   |  [K-HPNTW <Ps>] [CKMW <Ob>]
+ISAM 10,09 ---- InfC [adjunct] N       1      54  7..    |                   |      [L-LKT <Pr>] [M-<M CMW>L <Co>]
+ISAM 10,09 3sgM WayX  << WQt0  N       12     55  5.#    |                  [W-<Cj>] [JHPK <Pr>] [LW <Co>] [>LHJM <Su>] [LB >XR <Ob>]
+ISAM 10,09 3plM WayX  << WayX  N       121    56  6.#    |                      [W-<Cj>] [JB>W <Pr>] [KL H->TWT H->LH <Su>] [B--JWM H-HW> <Ti>]
+ISAM 10,10 3plM Way0  << WayX  N       121    57  7..    |                          [W-<Cj>] [JB>W <Pr>] [CM / H-GB<TH <sp><Co>]
+ISAM 10,10 ---- NmCl  << Way0  N       121    58  8..    |                           |  [W-<Cj>] [HNH <Ij>] [XBL NB>JM <Su>]
+ISAM 10,10 ---- InfC [adjunct] N       121    59 10..    |                           |       |  [L-QR>TW <PO>]
+ISAM 10,10 3sgF WayX  << NmCl  N       1211   60  9.#    |                           |      [W-<Cj>] [TYLX <Pr>] [<LJW <Co>] [RWX >LHJM <Su>]
+ISAM 10,10 3sgM Way0  << WayX  N       1211   61 10..    |                           |          [W-<Cj>] [JTNB> <Pr>] [B-TWKM <Lo>]
+ISAM 10,11 3sgM WayX  << Way0  N       12111  62 11.#    |                           |           |  [W-<Cj>] [JHJ <Pr>] [KL JWD<W <Su>] [M->TMWL CLCWM <Ti>]
+ISAM 10,11 3plM Way0  << WayX  N       12111  63 13..    |                           |           |       |  [W-<Cj>] [JR>W <Pr>]
+ISAM 10,11 ---- NmCl  << Way0  N       12111  64 14..    |                           |           |       |   |  [W-<Cj>] [HNH <Ij>]
+ISAM 10,11 -sgM Ptcp  << NmCl  N       12111  65 15..    |                           |           |       |   |      [<M NB>JM <Aj>] [NB> <PC>]
+ISAM 10,11 3sgM WayX  << Way0  N       121111 66 13.#    |                           |           |       |  [W-<Cj>] [J>MR <Pr>] [H-<M <Su>]
+ISAM 10,11 ---- Ellp [adjunct] N       121111 67 15l.    |                           |           |       |   |   |  [>JC <Su>] [>L R<HW <Co>]
+                               =======                   |                           |           |       |   |+===================================\
+ISAM 10,11 3sgM XQtl  <<  [Q]  NQ      121111 68 14.q    |                           |           |       |    | [MH ZH <Su>] [HJH <Pr>] [L-BN QJC <Co>]
+ISAM 10,11 ---- NmCl  << XQtl  NQ      121111 69 15..    |                           |           |       |    |     [H-<Qu>] [GM C>WL <Su>] [B--NBJ>JM <PC>]
+                               =======                   |                           |           |       |    +===================================/
+ISAM 10,12 3sgM WayX  << WayX  N       121112 70 13.#    |                           |           |       |  [W-<Cj>] [J<N <Pr>] [>JC / M-CM <sp><Su>]
+ISAM 10,12 3sgM Way0  << WayX  N       121112 71 14..    |                           |           |       |      [W-<Cj>] [J>MR <Pr>]
+                               =======                   |                           |           |       |        +===============================\
+ISAM 10,12 ---- NmCl  <<  [Q]  NQ      121112 72 15.q    |                           |           |       |        | [W-<Cj>] [MJ <PC>] [>BJHM <Su>]
+                               =======                   |                           |           |                +===============================/
+ISAM 10,12 3sgF xQt0  << WayX  N       12111  73 12..    |                           |           |      [<L KN <Aj>] [HJTH <Pr>] [L-MCL <PC>]
+                               =======                   |                           |           |        +=======================================\
+ISAM 10,12 ---- NmCl  <<  [Q]  NQ      121113 74 13.q    |                           |           |        | [H-<Qu>] [GM C>WL <Su>] [B--NB>JM <PC>]
+                               =======                   |                           |           |        +=======================================/
+ISAM 10,13 3sgM Way0  << Way0  N       1211   75 10..    |                           |          [W-<Cj>] [JKL <Pr>]
+ISAM 10,13 ---- InfC [adjunct] N       1211   76 11..    |                           |           |  [M-HTNBWT <Pr>]
+ISAM 10,13 3sgM Way0  << Way0  N       1211   77 10..    |                           |          [W-<Cj>] [JB> <Pr>] [H-BMH <Co>]
+ISAM 10,14 3sgM WayX  << Way0  N       1212   78  7.#    |                          [W-<Cj>] [J>MR <Pr>] [DWD C>WL <Su>] [>LJW W->L N<RW <Co>]
+                               =======                   |                           |   |+=======================================================\
+ISAM 10,14 2plM xQt0  <<  [Q]  NQ      12121  79  9.q    |                           |    | [>N <Qu>] [HLKTM <Pr>]
+                               =======                   |                           |    +=======================================================/
+ISAM 10,14 3sgM Way0  << WayX  N       1212   80  8..    |                           |  [W-<Cj>] [J>MR <Pr>]
+                               =======                   |                           |    +=======================================================\
+ISAM 10,14 ---- InfC  <<  [Q]  NQ      12122  81  9.q    |                           |    | [L-BQC <Pr>] [>T H->TNWT <Ob>]
+                               -------                   |                           |    |   +------------------------------------------------\
+ISAM 10,14 1pl- Way0  << InfC  NQN     12122  82 10..    |                           |    |   | [W-<Cj>] [NR>H <Pr>]
+ISAM 10,14 ---- NmCl [object ] NQN     12122  83 11..    |                           |    |   |  |  [KJ <Cj>] [>JN <Ng>]
+ISAM 10,14 1pl- Way0  << Way0  NQN     12122  84 10..    |                           |    |   | [W-<Cj>] [NBW> <Pr>] [>L CMW>L <Co>]
+                               =======                   |                           |    +=======================================================/
+ISAM 10,15 3sgM WayX  << WayX  N       1213   85  7.#    |                          [W-<Cj>] [J>MR <Pr>] [DWD C>WL <Su>]
+                               =======                   |                           |+===========================================================\
+ISAM 10,15 2sgM ZIm0  <<  [Q]  NQ      12131  86  8.q    |                            | [HGJDH <Pr>] [N> <Ij>] [LJ <Co>]
+ISAM 10,15 3sgM xQtX [object ] NQ      12131  87  9..    |                            |     [MH <Ob>] [>MR <Pr>] [LKM <Co>] [CMW>L <Su>]
+                               =======                   |                            +===========================================================/
+ISAM 10,16 3sgM WayX  << WayX  N       1214   88  7.#    |                          [W-<Cj>] [J>MR <Pr>] [C>WL <Su>] [>L DWDW <Co>]
+                               =======                   |                               |+=======================================================\
+ISAM 10,16 3sgM xQt0  <<  [Q]  NQ      12141  89  9.q    |                                | [HGD <Mo>] [HGJD <Pr>] [LNW <Co>]
+ISAM 10,16 3pl- xQtX [object ] NQ      12141  90 10..    |                                |     [KJ <Cj>] [NMY>W <Pr>] [H->TNWT <Su>]
+                               =======                   |                                +=======================================================/
+ISAM 10,16 3sgM WxQ0  << WayX  N       1214   91  8..    |                              [W-<Cj>] [>T DBR H-MLWKH <Ob>] [L> <Ng>] [HGJD <Pr>] [LW <Co>]
+ISAM 10,16 3sgM xQtX [attrib.] N       1214   92  9..    |                                  [>CR <Re>] [>MR <Pr>] [CMW>L <Su>]
+ISAM 10,17 3sgM WayX  << WayX  N       2      93  0.#   [W-<Cj>] [JY<Q <Pr>] [CMW>L <Su>] [>T H-<M <Ob>] [>L JHWH / H-MYPH <sp><Co>]
+ISAM 10,18 3sgM Way0  << WayX  N       2      94  1..    |  [W-<Cj>] [J>MR <Pr>] [>L BNJ JFR>L <Co>]
+                               =======                   |    +===================================================================================\
+ISAM 10,18 3sgM xQtX  <<  [Q]  NQ      21     95  2.q    |    | [KH <Mo>] [>MR <Pr>] [JHWH / >LHJ JFR>L <ap><Su>]
+                               =======                   |    |      |+========================================================================\
+ISAM 10,18 1sg- XQtl  <<  [Q]  NQQ     211    96  4.q    |    |       | [>NKJ <Su>] [H<LJTJ <Pr>] [>T JFR>L <Ob>] [M-MYRJM <Co>]
+                               -------                   |    |      ||      |+-------------------------------------------------------------\
+ISAM 10,18 1sg- Way0  << XQtl  NQQN    211    97  6..    |    |       |      || [W-<Cj>] [>YJL <Pr>] [>TKM <Ob>] [M-JD MYRJM W-M-JD KL H-MMLKWT <Co>]
+ISAM 10,18 -plM Ptcp [attrib.] NQQN    211    98  7..    |    |       |      ||     [H-<Re>] [LXYJM <PC>] [>TKM <Ob>]
+                               -------                   |    |      ||       +-------------------------------------------------------------/
+ISAM 10,19 2plM WXQt  << XQtl  NQQ     2111   99  5.#    |    |       |     [W-<Cj>] [>TM <Su>] [H-JWM <Ti>] [M>STM <Pr>] [>T >LHJKM <Ob>]
+ISAM 10,19 -sgM Ptcp [attrib.] NQQ     2111  100  7..    |    |       |          |  [>CR <Re>] [HW> <Su>] [MWCJ< <PC>] [LKM <Co>] [M-KL R<WTJKM W-YRTJKM <Co>]
+                               -------                   |    |      ||       +-------------------------------------------------------------\
+ISAM 10,19 2plM Way0  << WXQt  NQQN    2111  101  6..    |    |       |      || [W-<Cj>] [T>MRW <Pr>] [LW <Co>]
+                               =======                   |    |      ||       |   +======================================================\
+ISAM 10,19 2sgM xYq0  <<  [Q]  NQQNQ   21111 102  7.q    |    |       |      ||   | [KJ <Cj>] [MLK <Ob>] [TFJM <Pr>] [<LJNW <Co>]
+                               =======                   |    |       +========================================================================/
+ISAM 10,19 ---- MSyn  << xQtX  NQ      21    103  3m.    |    |     [W-<Cj>] [<TH <Ti>]
+ISAM 10,19 2plM ZIm0  << MSyn  NQ      21    104  4..    |    |         [HTJYBW <Pr>] [L-PNJ JHWH <Co>] [L-CBVJKM W-L->LPJKM <Aj>]
+                               =======                        +===================================================================================/
+ISAM 10,20 3sgM WayX  << WayX  N       3     105  0.#   [W-<Cj>] [JQRB <Pr>] [CMW>L <Su>] [>T KL CBVJ JFR>L <Ob>]
+ISAM 10,20 3sgM WayX  << WayX  N       31    106  2.#    |   |  [W-<Cj>] [JLKD <Pr>] [CBV BNJMN <Su>]
+ISAM 10,21 3sgM Way0  << WayX  N       3     107  1..    |  [W-<Cj>] [JQRB <Pr>] [>T CBV BNJMN <Ob>] [L-MCPXTW <Co>]
+ISAM 10,21 3sgF WayX  << Way0  N       32    108  2.#    |      [W-<Cj>] [TLKD <Pr>] [MCPXT H-MVRJ <Su>]
+ISAM 10,21 3sgM WayX  << WayX  N       33    109  2.#    |      [W-<Cj>] [JLKD <Pr>] [C>WL / BN QJC <ap><Su>]
+ISAM 10,21 3plM Way0  << WayX  N       33    110  3..    |          [W-<Cj>] [JBQCHW <PO>]
+ISAM 10,21 3sgM WxQ0  << Way0  N       33    111  5..    |               |  [W-<Cj>] [L> <Ng>] [NMY> <Pr>]
+ISAM 10,22 3plM Way0  << Way0  N       33    112  4..    |              [W-<Cj>] [JC>LW <Pr>] [<WD <Mo>] [B-JHWH <Co>]
+                               =======                   |               |   |+===================================================================\
+ISAM 10,22 3sgM xQtX  <<  [Q]  NQ      331   113  6.q    |               |    | [H-<Qu>] [B> <Pr>] [<WD <Mo>] [HLM <Co>] [>JC <Su>]
+                               =======                   |               |    +===================================================================/
+ISAM 10,22 3sgM WayX  << Way0  N       332   114  5.#    |               |  [W-<Cj>] [J>MR <Pr>] [JHWH <Su>]
+                               =======                   |               |    +===================================================================\
+ISAM 10,22 -sgM Ptcp  <<  [Q]  NQ      3321  115  6.q    |               |    | [HNH <Ij>] [HW> <Su>] [NXB> <PC>] [>L H-KLJM <Co>]
+                               =======                   |                    +===================================================================/
+ISAM 10,23 3plM Way0  << Way0  N       33    116  4..    |              [W-<Cj>] [JRYW <Pr>]
+ISAM 10,23 3plM Way0  << Way0  N       33    117  5..    |                  [W-<Cj>] [JQXHW <PO>] [M-CM <Co>]
+ISAM 10,23 3sgM Way0  << Way0  N       33    118  6..    |                      [W-<Cj>] [JTJYB <Pr>] [B-TWK H-<M <Co>]
+ISAM 10,23 3sgM Way0  << Way0  N       33    119  6..    |                      [W-<Cj>] [JGBH <Pr>] [M-KL H-<M <Co>] [M-CKMW / W-/ M<LH <pa><cj><Aj>]
+ISAM 10,24 3sgM WayX  << WayX  N       4     120  0.#   [W-<Cj>] [J>MR <Pr>] [CMW>L <Su>] [>L KL H-<M <Co>]
+                               =======                   |   |+===================================================================================\
+ISAM 10,24 2plM xQt0  <<  [Q]  NQ      41    121  2.q    |   || [H-<Qu>] [R>JTM <Pr>]
+ISAM 10,24 3sgM xQtX [object ] NQ      41    122  4..    |   ||      |  [>CR <Re>] [BXR <Pr>] [BW <Co>] [JHWH <Su>]
+ISAM 10,24 ---- NmCl  << xQt0  NQ      41    123  3..    |   ||     [KJ <Cj>] [>JN <NC>] [KMHW <PC>] [B-KL H-<M <Co>]
+                               =======                   |    +===================================================================================/
+ISAM 10,24 3plM WayX  << WayX  N       42    124  1.#    |  [W-<Cj>] [JR<W <Pr>] [KL H-<M <Su>]
+ISAM 10,24 3plM Way0  << WayX  N       42    125  2..    |      [W-<Cj>] [J>MRW <Pr>]
+                               =======                   |        +===============================================================================\
+ISAM 10,24 3sgM ZYqX  <<  [Q]  NQ      421   126  3.q    |        | [JXJ <Pr>] [H-MLK <Su>]
+                               =======                            +===============================================================================/
+ISAM 10,25 3sgM WayX  << WayX  N       5     127  0.#   [W-<Cj>] [JDBR <Pr>] [CMW>L <Su>] [>L H-<M <Co>] [>T MCPV H-MLKH <Ob>]
+ISAM 10,25 3sgM Way0  << WayX  N       5     128  1..    |  [W-<Cj>] [JKTB <Pr>] [B--SPR <Co>]
+ISAM 10,25 3sgM Way0  << Way0  N       5     129  1..    |  [W-<Cj>] [JNX <Pr>] [L-PNJ JHWH <Co>]
+ISAM 10,25 3sgM WayX  << WayX  N       6     130  0.#   [W-<Cj>] [JCLX <Pr>] [CMW>L <Su>] [>T KL H-<M <Ob>] [>JC <Aj>] [L-BJTW <Co>]
+ISAM 10,26 3sgM WXQt  << WayX  N       61    131  1.#       [W-<Cj>] [GM C>WL <Su>] [HLK <Pr>] [L-BJTW / GB<TH <sp><Co>]
+ISAM 10,26 3plM WayX  << WXQt  N       611   132  2.#           [W-<Cj>] [JLKW <Pr>] [<MW <Co>] [H-XJL <Su>]
+ISAM 10,26 3sgM xQtX [attrib.] N       611   133  4..                |  [>CR <Re>] [NG< <Pr>] [>LHJM <Su>] [B-LBM <Co>]
+ISAM 10,27 3pl- WXQt  << WayX  N       6111  134  3.#               [W-<Cj>] [BNJ BLJ<L <Su>] [>MRW <Pr>]
+                               =======                                   |+=======================================================================\
+ISAM 10,27 3sgM xYqX  <<  [Q]  NQ      61111 135  5.q                     | [MH <Qu>] [JC<NW <PO>] [ZH <Su>]
+                               =======                                    +=======================================================================/
+ISAM 10,27 3plM Way0  << WXQt  N       6111  136  4..                   [W-<Cj>] [JBZHW <PO>]
+ISAM 10,27 3pl- WxQ0  << Way0  N       6111  137  6..                        |  [W-<Cj>] [L> <Ng>] [HBJ>W <Pr>] [LW <Co>] [MNXH <Ob>]
+ISAM 10,27 3sgM Way0  << Way0  N       6111  138  5..                       [W-<Cj>] [JHJ <Pr>] [K-MXRJC <PC>]

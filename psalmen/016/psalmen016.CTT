@@ -1,0 +1,41 @@
+ PS016,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [MKTM / L-DWD <sp><PC>]
+                               =======                 ==============================================================================================/
+ PS016,001 2sgM ZIm0  << NmCl  Q       2       2  0.N   [CMRNJ <PO>]
+ PS016,001 ---- Voct  << ZIm0  Q       2       3  4v.        |   |   |  [>L <Vo>]
+ PS016,001 1sg- xQt0  << ZIm0  Q       2       4  3..        |   |  [KJ <Cj>] [XSJTJ <Pr>] [BK <Co>]
+ PS016,002 2sgF ZQt0  << ZIm0  Q       21      5  2.#        |  [>MRT <Pr>] [L-JHWH <Co>]
+                               =======                       |       |+===========================================================================\
+ PS016,002 ---- NmCl  <<  [Q]  QQ      211     6  4.q        |       || [>DNJ <PC>] [>TH <Su>]
+ PS016,002 ---- NmCl  << NmCl  QQ      211     7  5..        |       ||     [VWBTJ <Su>] [BL <Ng>] [<LJK <PC>]
+                               =======                       |        +===========================================================================/
+ PS016,003 ---- Ellp  << ZQt0  Q       21      8  3l.        |      [L-QDWCJM <Co>]
+ PS016,003 ---- NmCl [attrib.] Q       21      9  6.e        |           |   |  [>CR <Re>] [B-->RY <PC>] [HMH <Su>]
+ PS016,003 ---- Defc  << Ellp  Q       21     10  5d.        |           |  [W-/ >DJRJ <pa><cj>]
+ PS016,003 ---- NmCl [attrib.] Q       21     11  6..        |           |      [KL XPYJ <Su>] [BM <PC>]
+                               =======                       |        +===========================================================================\
+ PS016,004 3plM ZYqX  <<  [Q]  QQ      212    12  4.q        |       || [JRBW <Pr>] [<YBWTM <Su>]
+ PS016,004 3pl- xQt0  << ZYqX  QQ      212    13  6..        |       ||      |  [>XR <Ob>] [MHRW <Pr>]
+ PS016,004 1sg- xYq0  << ZYqX  QQ      212    14  5..        |       ||     [BL <Ng>] [>SJK <Pr>] [NSKJHM / M-DM <sp><Ob>]
+ PS016,004 1sg- WxY0  << xYq0  QQ      212    15  6..        |       ||         [W-<Cj>] [BL <Ng>] [>F> <Pr>] [>T CMWTM <Ob>] [<L FPTJ <Co>]
+                               =======                                +===========================================================================/
+ PS016,005 ---- Voct  << ZIm0  Q       2      16  1v.       [JHWH / MNT XLQJ W-KWSJ <ap><Vo>]
+ PS016,005 -sgM Ptcp [ref.Voc] Q       2      17  2..           [>TH <Su>] [TWMJK <PC>] [GWRLJ <Ob>]
+ PS016,006 3pl- XQtl  << Ptcp  Q       2      18  5..                |   |  [XBLJM <Su>] [NPLW <Pr>] [LJ <Co>] [B--N<MJM <Co>]
+ PS016,006 3sgF XQtl  << XQtl  Q       2      19  6..                |   |      [>P NXLT <Su>] [CPRH <Pr>] [<LJ <Aj>]
+ PS016,007 1sg- ZYq0  << Ptcp  Q       2      20  4..                |  [>BRK <Pr>] [>T JHWH <Ob>]
+ PS016,007 3sgM xQt0 [attrib.] Q       2      21  7..                |       |   |  [>CR <Re>] [J<YNJ <PO>]
+ PS016,007 3pl- xQtX  << ZYq0  Q       2      22  6..                |       |  [>P LJLWT <Ti>] [JSRWNJ <PO>] [KLJWTJ <Su>]
+ PS016,008 1sg- ZQt0  << ZYq0  Q       2      23  5..                |      [CWJTJ <Pr>] [JHWH <Ob>] [L-NGDJ <Co>] [TMJD <Mo>]
+ PS016,008 ---- NmCl  << ZQt0  Q       2      24  7..                |           |  [KJ <Cj>] [M-JMJNJ <PC>]
+ PS016,008 1sg- xYq0  << NmCl  Q       2      25  8..                |           |      [BL <Ng>] [>MWV <Pr>]
+ PS016,009 3sgM xQtX  << ZQt0  Q       2      26  6..                |          [LKN <Mo>] [FMX <Pr>] [LBJ <Su>]
+                               -------                               |               |+-----------------------------------------------------------\
+ PS016,009 3sgM WayX [coordin] QN      2      27  8..                |                | [W-<Cj>] [JGL <Pr>] [KBWDJ <Su>]
+                               -------                               |                +-----------------------------------------------------------/
+ PS016,009 3sgM XYqt [coordin] Q       2      28  7..                |              [>P BFRJ <Su>] [JCKN <Pr>] [L-BVX <Aj>]
+ PS016,010 2sgM xYq0  << Ptcp  Q       2      29  3..               [KJ <Cj>] [L> <Ng>] [T<ZB <Pr>] [NPCJ <Ob>] [L-C>WL <Co>]
+ PS016,010 2sgM xYq0 [coordin] Q       2      30  5..                    |  [L> <Ng>] [TTN <Pr>] [XSJDK <Ob>]
+ PS016,010 ---- InfC [adjunct] Q       2      31  6..                    |      [L-R>WT <Pr>] [CXT <Ob>]
+ PS016,011 2sgM ZYq0 [coordin] Q       2      32  4..                   [TWDJ<NJ <PO>] [>RX XJJM <Ob>]
+ PS016,011 ---- NmCl [coordin] Q       2      33  5..                       [FB< FMXWT <Su>] [>T PNJK <PC>]
+ PS016,011 ---- NmCl [coordin] Q       2      34  6..                           [N<MWT <Su>] [B-JMJNK <PC>] [NYX <Ti>]

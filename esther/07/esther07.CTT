@@ -1,0 +1,71 @@
+ EST 07,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JB> <Pr>] [H-MLK W-HMN <Su>]
+ EST 07,01 ---- InfC [adjunct] N       1       2  2..        |  [L-CTWT <Pr>] [<M >STR / H-MLKH <ap><Aj>]
+ EST 07,02 3sgM WayX  << WayX  N       11      3  1.#       [W-<Cj>] [J>MR <Pr>] [H-MLK <Su>] [L->STR <Co>] [GM B--JWM H-CNJ <Ti>] [B-MCTH H-JJN <Aj>]
+                               =======                       |   |+===============================================================================\
+ EST 07,02 ---- NmCl  <<  [Q]  NQ      111     4  3.q        |   || [MH <PC>] [C>LTK <Su>]
+ EST 07,02 ---- Voct  << NmCl  NQ      111     5  6v.        |   ||      |   |  [>STR / H-MLKH <ap><Vo>]
+ EST 07,02 3sgF WYq0  << NmCl  NQ      111     6  5..        |   ||      |  [W-<Cj>] [TNTN <Pr>] [LK <Co>]
+ EST 07,02 ---- NmCl  << NmCl  NQ      111     7  4..        |   ||     [W-<Cj>] [MH <PC>] [BQCTK <Su>]
+ EST 07,02 ---- NmCl [coordin] NQ      111     8  5..        |   ||         [<D XYJ H-MLKWT <PC>]
+ EST 07,02 3sgF WYq0  << NmCl  NQ      111     9  6..        |   ||             [W-<Cj>] [T<F <Pr>]
+                               =======                       |    +===============================================================================/
+ EST 07,03 3sgF WayX  << WayX  N       112    10  2.#        |  [W-<Cj>] [T<N <Pr>] [>STR / H-MLKH <ap><Su>]
+ EST 07,03 3sgF Way0  << WayX  N       112    11  3..        |      [W-<Cj>] [T>MR <Pr>]
+                               =======                       |        +===========================================================================\
+ EST 07,03 1sg- xQt0  <<  [Q]  NQ      1121   12  4.q        |       || [>M <Cj>] [MY>TJ <Pr>] [XN <Ob>] [B-<JNJK <Co>]
+ EST 07,03 ---- Voct  << xQt0  NQ      1121   13  7v.        |       ||      |   |  [H-MLK <Vo>]
+ EST 07,03 -sgM AjCl  << xQt0  NQ      1121   14  6..        |       ||      |  [W-<Cj>] [>M <Cj>] [<L H-MLK <Co>] [VWB <PC>]
+ EST 07,03 3sgF ZYqX  << xQt0  NQ      1121   15  5..        |       ||     [TNTN <Pr>] [LJ <Co>] [NPCJ <Su>] [B-C>LTJ <Aj>]
+ EST 07,03 ---- Ellp  << ZYqX  NQ      1121   16  8l.        |       ||          |   |  [W-<Cj>] [<MJ <Su>] [B-BQCTJ <Aj>]
+ EST 07,04 1pl- xQtX  << ZYqX  NQ      1121   17  7..        |       ||          |  [KJ <Cj>] [NMKRNW <Pr>] [>NJ W-<MJ <Su>]
+ EST 07,04 ---- InfC [adjunct] NQ      1121   18  8..        |       ||          |      [L-HCMJD <Pr>]
+ EST 07,04 ---- InfC [adjunct] NQ      1121   19  9..        |       ||          |          [L-HRWG <Pr>]
+ EST 07,04 ---- InfC [coordin] NQ      1121   20 10..        |       ||          |              [W-<Cj>] [L->BD <Pr>]
+ EST 07,04 ---- Defc  << ZYqX  NQ      1121   21  6d.        |       ||         [W-<Cj>]
+ EST 07,04 1pl- xQt0 [adjunct] NQ      1121   22  9.e        |       ||              |   |  [>LW <Cj>] [L-<BDJM W-L-CPXWT <Co>] [NMKRNW <Pr>]
+ EST 07,04 1sg- ZQt0  << Defc  NQ      1121   23  8..        |       ||              |  [HXRCTJ <Pr>]
+ EST 07,04 -sgM Ptcp  << Defc  NQ      1121   24  7..        |       ||             [KJ <Cj>] [>JN <NC>] [H-YR <Su>] [CWH <PC>] [B-NZQ H-MLK <Aj>]
+                               =======                       |        +===========================================================================/
+ EST 07,05 3sgM WayX  << WayX  N       12     25  1.#       [W-<Cj>] [J>MR <Pr>] [H-MLK / >XCWRWC <ap><Su>]
+ EST 07,05 3sgM Way0  << WayX  N       12     26  3..        |   |  [W-<Cj>] [J>MR <Pr>] [L->STR / H-MLKH <ap><Co>]
+                               =======                       |   |       |+=======================================================================\
+ EST 07,05 ---- NmCl  <<  [Q]  NQ      121    27  5.q        |   |       || [MJ <PC>] [HW> <Ep>] [ZH <Su>]
+ EST 07,05 ---- NmCl  << NmCl  NQ      121    28  7..        |   |       ||      |  [W-<Cj>] [>J ZH <PC>] [HW> <Su>]
+ EST 07,05 3sgM xQtX [attrib.] NQ      121    29  6..        |   |       ||     [>CR <Re>] [ML>W <PO>] [LBW <Su>]
+ EST 07,05 ---- InfC [adjunct] NQ      121    30  7..        |   |       ||         [L-<FWT <Pr>] [KN <Mo>]
+                               =======                       |   |        +=======================================================================/
+ EST 07,06 3sgF WayX  << Way0  N       122    31  4.#        |   |      [W-<Cj>] [T>MR <Pr>] [>STR <Su>]
+                               =======                       |   |        +=======================================================================\
+ EST 07,06 ---- NmCl  <<  [Q]  NQ      1221   32  5.q        |   |       || [>JC / YR W->WJB <sp><PC>]
+ EST 07,06 ---- NmCl  << NmCl  NQ      1221   33  6..        |   |       ||     [HMN H-R< H-ZH <PC>]
+                               =======                       |            +=======================================================================/
+ EST 07,06 3sgM WXQt  << WayX  N       123    34  2.#        |  [W-<Cj>] [HMN <Su>] [NB<T <Pr>] [M-L-PNJ H-MLK W-H-MLKH <Aj>]
+ EST 07,07 3sgM WXQt  << WXQt  N       1231   35  3.#        |      [W-<Cj>] [H-MLK <Su>] [QM <Pr>] [B-XMTW <Aj>] [M-MCTH H-JJN <Co>] [>L GNT H-BJTN <Co>]
+ EST 07,07 3sgM WXQt  << WXQt  N       12311  36  4.#        |       |  [W-<Cj>] [HMN <Su>] [<MD <Pr>]
+ EST 07,07 ---- InfC [adjunct] N       12311  37  6..        |       |       |  [L-BQC <Pr>] [<L NPCW <Co>] [M->STR / H-MLKH <ap><Aj>]
+ EST 07,07 3sgM xQt0  << WXQt  N       12311  38  5..        |       |      [KJ <Cj>] [R>H <Pr>]
+ EST 07,07 3sgF xQtX [object ] N       12311  39  6..        |       |          [KJ <Cj>] [KLTH <Pr>] [>LJW <Co>] [H-R<H <Su>] [M->T H-MLK <Aj>]
+ EST 07,08 3sgM WXQt  << WXQt  N       1232   40  3.#        |      [W-<Cj>] [H-MLK <Su>] [CB <Pr>] [M-GNT H-BJTN <Co>] [>L BJT MCTH H-JJN <Co>]
+ EST 07,08 -sgM Ptcp  << WXQt  N       1232   41  4..        |          [W-<Cj>] [HMN <Su>] [NPL <PC>] [<L H-MVH <Co>]
+ EST 07,08 ---- NmCl [attrib.] N       1232   42  5..        |              [>CR <Re>] [>STR <Su>] [<LJH <PC>]
+ EST 07,08 3sgM WayX  << WayX  N       13     43  1.#       [W-<Cj>] [J>MR <Pr>] [H-MLK <Su>]
+                               =======                       |   |   |+===========================================================================\
+ EST 07,08 ---- InfC  <<  [Q]  NQ      131    44  4.q        |   |   || [H-<Qu>] [GM <Mo>] [L-KBWC <Pr>] [>T H-MLKH <Ob>] [<MJ <Aj>] [B--BJT <Lo>]
+                               =======                       |   |    +===========================================================================/
+ EST 07,08 3sgM XQtl  << WayX  N       13     45  3..        |   |  [H-DBR <Su>] [JY> <Pr>] [M-PJ H-MLK <Co>]
+ EST 07,08 3pl- WxQ0  << XQtl  N       13     46  4..        |   |      [W-<Cj>] [PNJ HMN <Ob>] [XPW <Pr>]
+ EST 07,09 3sgM WayX  << WayX  N       132    47  2.#        |  [W-<Cj>] [J>MR <Pr>] [XRBWNH / >XD / MN H-SRJSJM / L-PNJ H-MLK <sp><sp><sp><Su>]
+                               =======                       |    +===============================================================================\
+ EST 07,09 ---- Defc  <<  [Q]  NQ      1321   48  3dq        |   || [GM <Mo>] [HNH <Ij>] [H-<Y <Su>]
+ EST 07,09 3sgM xQtX [attrib.] NQ      1321   49  6..        |   ||      |   |  [>CR <Re>] [<FH <Pr>] [HMN <Su>] [L-MRDKJ <Co>]
+ EST 07,09 3sgM xQt0 [attrib.] NQ      1321   50  7.e        |   ||      |   |      [>CR <Re>] [DBR <Pr>] [VWB <Ob>] [<L H-MLK <Co>]
+ EST 07,09 -sgM Ptcp  << Defc  NQ      1321   51  5..        |   ||      |  [<MD <PC>] [B-BJT HMN <Co>]
+ EST 07,09 -sgM AjCl  << Defc  NQ      1321   52  4..        |   ||     [GBH <PC>] [XMCJM >MH <Mo>]
+                               =======                            +===============================================================================/
+ EST 07,09 3sgM WayX  << WayX  N       14     53  1.#       [W-<Cj>] [J>MR <Pr>] [H-MLK <Su>]
+                               =======                           |+===============================================================================\
+ EST 07,09 2plM ZIm0  <<  [Q]  NQ      141    54  3.q             | [TLHW <PO>] [<LJW <Co>]
+                               =======                            +===============================================================================/
+ EST 07,10 3plM Way0  << WayX  N       14     55  2..           [W-<Cj>] [JTLW <Pr>] [>T HMN <Ob>] [<L H-<Y <Co>]
+ EST 07,10 3sgM xQt0 [attrib.] N       14     56  4..                |  [>CR <Re>] [HKJN <Pr>] [L-MRDKJ <Co>]
+ EST 07,10 3sgF WXQt  << Way0  N       142    57  3.#               [W-<Cj>] [XMT H-MLK <Su>] [CKKH <Pr>]

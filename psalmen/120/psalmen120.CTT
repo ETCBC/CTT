@@ -1,0 +1,23 @@
+ PS120,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [CJR H-M<LWT <PC>]
+                               =======                 ==============================================================================================/
+ PS120,001 1sg- xQt0  << NmCl  Q       2       2  0.N   [>L JHWH <Co>] [B--YRTH / LJ <sp><Aj>] [QR>TJ <Pr>]
+                               -------                       |   |+-------------------------------------------------------------------------------\
+ PS120,001 3sgM Way0  << xQt0  QN      2       3  3..        |   || [W-<Cj>] [J<NNJ <PO>]
+                               -------                       |    +-------------------------------------------------------------------------------/
+ PS120,002 ---- Voct  << xQt0  Q       2       4  2v.        |  [JHWH <Vo>]
+ PS120,002 2sgM ZIm0 [ref.Voc] Q       2       5  4..        |       |  [HYJLH <Pr>] [NPCJ <Ob>] [M-FPT CQR <Co>]
+ PS120,002 ---- Ellp  << ZIm0  Q       2       6  5l.        |       |      [M-LCWN RMJH <Co>]
+ PS120,003 3sgM xYq0  << Voct  Q       21      7  3.#        |      [MH <Ob>] [JTN <Pr>] [LK <Co>]
+ PS120,003 3sgM WxY0  << xYq0  Q       21      8  5..        |           |  [W-<Cj>] [MH <Ob>] [JSJP <Pr>] [LK <Co>]
+ PS120,003 ---- Voct  << WxY0  Q       21      9  6v.        |           |      [LCWN RMJH <Vo>]
+ PS120,004 ---- NmCl  << xYq0  Q       21     10  4..        |          [XYJ GBWR <PC>]
+ PS120,004 -plM Ptcp [attrib.] Q       21     11  6.e        |               |  [CNWNJM <PC>]
+ PS120,004 ---- Defc  << NmCl  Q       21     12  5d.        |              [<M GXLJ RTMJM <Aj>]
+ PS120,005 ---- NmCl  << xQt0  Q       2      13  1..       [>WJH <Ij>] [LJ <PC>]
+ PS120,005 1sg- xQt0  << NmCl  Q       2      14  4..            |   |  [KJ <Cj>] [GRTJ <Pr>] [MCK <Co>]
+ PS120,005 1sg- ZQt0 [coordin] Q       2      15  5..            |   |      [CKNTJ <Pr>] [<M >HLJ QDR <Aj>]
+ PS120,006 3sgF xQtX  << NmCl  Q       2      16  3..            |  [RBT <Mo>] [CKNH <Pr>] [LH <Co>] [NPCJ <Su>] [<M FWN> CLWM <Aj>]
+ PS120,007 ---- NmCl  << NmCl  Q       2      17  2..           [>NJ <Su>] [CLWM <PC>]
+ PS120,007 ---- Defc  << NmCl  Q       2      18  3d.               [W-<Cj>]
+ PS120,007 1sg- xYq0  << Defc  Q       2      19  5.e                    |  [KJ <Cj>] [>DBR <Pr>]
+ PS120,007 ---- NmCl  << Defc  Q       2      20  4..                   [HMH <Su>] [L--MLXMH <PC>]
