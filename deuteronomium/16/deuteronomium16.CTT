@@ -48,7 +48,7 @@
  DEUT16,11 3sgM xYqX [attrib.] Q       1      47 11..        |       |       |               |      [>CR <Re>] [JBXR <Pr>] [JHWH / >LHJK <ap><Su>]
  DEUT16,11 ---- InfC [adjunct] Q       1      48 12..        |       |       |               |          [L-CKN <Pr>] [CMW <Ob>] [CM <Co>]
  DEUT16,12 2sgM WQt0  << WQtX  Q       1      49  9..        |       |       |              [W-<Cj>] [ZKRT <Pr>]
- DEUT16,12 2sgM xQt0  << WQt0  Q       1      50 10..        |       |       |               |  [KJ <Cj>] [<BD <PC>] [HJJT <Pr>] [B-MYRJM <Lo>]
+ DEUT16,12 2sgM xQt0 [object ] Q       1      50 10..        |       |       |               |  [KJ <Cj>] [<BD <PC>] [HJJT <Pr>] [B-MYRJM <Lo>]
  DEUT16,12 2sgM WQt0  << WQt0  Q       1      51  9..        |       |       |              [W-<Cj>] [CMRT <Pr>]
  DEUT16,12 2sgM WQt0  << WQt0  Q       1      52  9..        |       |       |              [W-<Cj>] [<FJT <Pr>] [>T H-XQJM H->LH <Ob>]
  DEUT16,13 2sgM xYq0  << xYq0  Q       1      53  5..        |       |      [XG H-SKT <Ob>] [T<FH <Pr>] [LK <Co>] [CB<T JMJM <Ti>]

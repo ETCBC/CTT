@@ -9,7 +9,7 @@ RICHT09,02 ---- InfC  << AjCl  NQQ     111     6  6..    |        |       |     
 RICHT09,02 ---- InfC  << InfC  NQQ     111     7  7..    |        |       |         [>M <Cj>] [MCL <Pr>] [BKM <Co>] [>JC >XD <Su>]
                                =======                   |        |       +====================================================================/
 RICHT09,02 2plM WQt0  << ZIm0  NQ      11      8  4..    |        |     [W-<Cj>] [ZKRTM <Pr>]
-RICHT09,02 ---- NmCl  << WQt0  NQ      11      9  5..    |        |         [KJ <Cj>] [<YMKM W-BFRKM <PC>] [>NJ <Su>]
+RICHT09,02 ---- NmCl [object ] NQ      11      9  5..    |        |         [KJ <Cj>] [<YMKM W-BFRKM <PC>] [>NJ <Su>]
                                =======                            +===============================================================================/
 RICHT09,03 3plM WayX  << WayX  N       2      10  0.#   [W-<Cj>] [JDBRW <Pr>] [>XJ >MW <Su>] [<LJW <Co>] [B->ZNJ KL B<LJ CKM <Aj>] [>T KL H-DBRJM H->LH <Ob>]
 RICHT09,03 3sgM WayX  << WayX  N       21     11  3.#    |   |   |  [W-<Cj>] [JV <Pr>] [LBM <Su>] [>XRJ >BJMLK <Co>]

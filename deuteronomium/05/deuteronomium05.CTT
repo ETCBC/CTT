@@ -44,12 +44,12 @@
  DEUT05,14 ---- NmCl [attrib.] NQQ     111    42 16..         |      |   |        |          |   |               |   |  [>CR <Re>] [B-C<RJK <PC>]
  DEUT05,14 3sgM xYqX  << xYqX  NQQ     111    43 15..         |      |   |        |          |   |               |  [LM<N <Cj>] [JNWX <Pr>] [<BDK W->MTK <Su>] [KMWK <Aj>]
  DEUT05,15 2sgM WQt0  << xYqX  NQQ     111    44 14..         |      |   |        |          |   |              [W-<Cj>] [ZKRT <Pr>]
- DEUT05,15 2sgM xQt0  << WQt0  NQQ     111    45 15..         |      |   |        |          |   |                  [KJ <Cj>] [<BD <PC>] [HJJT <Pr>] [B->RY MYRJM <Lo>]
-                               -------                        |      |   |        |          |   |                    +---------------------\
- DEUT05,15 3sgM WayX  << xQt0  NQQN    1111   46 16.#         |      |   |        |          |   |                   || [W-<Cj>] [JY>K <PO>] [JHWH / >LHJK <ap><Su>] [M-CM <Co>] [B-JD XZQH W-B-ZR< NVWJH <Aj>]
- DEUT05,15 3sgM xQtX  << WayX  NQQN    1111   47 17..         |      |   |        |          |   |                   ||     [<L KN <Aj>] [YWK <PO>] [JHWH / >LHJK <ap><Su>]
- DEUT05,15 ---- InfC [adjunct] NQQN    1111   48 18..         |      |   |        |          |   |                   ||         [L-<FWT <Pr>] [>T JWM H-CBT <Ob>]
-                               -------                        |      |   |        |          |                        +---------------------/
+ DEUT05,15 2sgM xQt0 [object ] NQQ     111    45 16..         |      |   |        |          |   |                   |  [KJ <Cj>] [<BD <PC>] [HJJT <Pr>] [B->RY MYRJM <Lo>]
+                               -------                        |      |   |        |          |   |                   |    +-----------------\
+ DEUT05,15 3sgM WayX [coordin] NQQN    1111   46 17.#         |      |   |        |          |   |                   |   || [W-<Cj>] [JY>K <PO>] [JHWH / >LHJK <ap><Su>] [M-CM <Co>] [B-JD XZQH W-B-ZR< NVWJH <Aj>]
+                               -------                        |      |   |        |          |   |                        +-----------------/
+ DEUT05,15 3sgM xQtX  << WQt0  NQQ     111    47 15..         |      |   |        |          |   |                  [<L KN <Aj>] [YWK <PO>] [JHWH / >LHJK <ap><Su>]
+ DEUT05,15 ---- InfC [adjunct] NQQ     111    48 16..         |      |   |        |          |   |                      [L-<FWT <Pr>] [>T JWM H-CBT <Ob>]
  DEUT05,16 ---- InfA  << InfA  NQQ     111    49 10..         |      |   |        |          |  [KBD <Pr>] [>T >BJK W->T >MK <Ob>]
  DEUT05,16 3sgM xQtX [adjunct] NQQ     111    50 12..         |      |   |        |          |       |  [K->CR <Cj>] [YWK <PO>] [JHWH / >LHJK <ap><Su>]
  DEUT05,16 3plM xYqX  << InfA  NQQ     111    51 11..         |      |   |        |          |      [LM<N <Cj>] [J>RJKN <Pr>] [JMJK <Su>]
