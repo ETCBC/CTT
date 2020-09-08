@@ -64,7 +64,7 @@
  JOZ 13,20 ---- NmCl  << NmCl  ?N      131    60 16..            |                                |  |   |       |      [W-<Cj>] [BJT_P<WR W->CDWT H-PSGH W-BJT_HJCMWT <PC>]
  JOZ 13,21 ---- NmCl  << NmCl  ?N      131    61 14..            |                                |  |   |      [W-<Cj>] [KL <RJ H-MJCR W-KL MMLKWT SJXWN / MLK H->MRJ <ap><PC>]
  JOZ 13,21 3sgM xQt0 [attrib.] ?N      131    62 16..            |                                |  |   |           |  [>CR <Re>] [MLK <Pr>] [B-XCBWN <Co>]
- JOZ 13,21 3sgM xQtX [coordin] ?N      131    63 17..            |                                |  |   |           |      [>CR <Re>] [HKH <Pr>] [MCH <Su>] [>TW W->T NFJ>J MDJN / >T >WJ W->T RQM W->T YWR W->T XWR W->T RB< / NSJKJ SJXWN / JCBJ H->RY <ap><ap><ap><Ob>]
+ JOZ 13,21 3sgM xQtX [coordin] ?N      131    63 17..            |                                |  |   |           |      [>CR <Re>] [HKH <Pr>] [MCH <Su>] [>TW / W-/ >T NFJ>J MDJN / >T >WJ W->T RQM W->T YWR W->T XWR W->T RB< / NSJKJ SJXWN / JCBJ H->RY <ap><ap><ap><pa><cj><Ob>]
  JOZ 13,22 3pl- WxQX  << NmCl  ?N      131    64 15..            |                                |  |   |          [W-<Cj>] [>T BL<M / BN B<WR / H-QWSM <ap><ap><Ob>] [HRGW <Pr>] [BNJ JFR>L <Su>] [B--XRB <Aj>] [>L XLLJHM <Aj>]
  JOZ 13,23 3sgM WayX  << WayX  ?N      132    65 12.#            |                                |  |  [W-<Cj>] [JHJ <Pr>] [GBWL BNJ R>WBN <Su>] [H-JRDN W-GBWL <PC>]
  JOZ 13,23 ---- NmCl  << WayX  ?N      132    66 13..            |                                |  |      [Z>T <Su>] [NXLT BNJ R>WBN / L-MCPXTM <sp><PC>] [H-<RJM W-XYRJHN <Aj>]

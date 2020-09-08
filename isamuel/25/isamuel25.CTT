@@ -88,7 +88,7 @@ ISAM 25,14 ---- InfC [adjunct] NQ      44     78  6..        |   ||      |   |  
 ISAM 25,14 3sgM Way0  << xQtX  NQN     44     79  5..        |   ||       | [W-<Cj>] [J<V <Pr>] [BHM <Co>]
 ISAM 25,15 -plM AjCl  << Way0  NQN     44     80  6..        |   ||       |     [W-<Cj>] [H->NCJM <Su>] [VBJM <PC>] [LNW <Co>] [M>D <Mo>]
 ISAM 25,15 1pl- WxQ0  << AjCl  NQN     44     81  7..        |   ||       |         [W-<Cj>] [L> <Ng>] [HKLMNW <Pr>]
-ISAM 25,15 1pl- WxQ0  << WxQ0  NQN     44     82  7..        |   ||       |         [W-<Cj>] [L> <Ng>] [PQDNW <Pr>] [M>WMH <Ob>] [KL JMJ <Lo>]
+ISAM 25,15 1pl- WxQ0  << WxQ0  NQN     44     82  7..        |   ||       |         [W-<Cj>] [L> <Ng>] [PQDNW <Pr>] [M>WMH <Ob>] [KL JMJ <Ti>]
 ISAM 25,15 1pl- ZQt0 [reg/rec] NQN     44     83  9..        |   ||       |              |  [HTHLKNW <Pr>] [>TM <Co>]
 ISAM 25,15 ---- InfC [adjunct] NQN     44     84 10..        |   ||       |              |      [B-HJWTNW <Ps>] [B--FDH <PC>]
 ISAM 25,16 3pl- xQt0  << WxQ0  NQN     44     85  8..        |   ||       |             [XWMH <PC>] [HJW <Pr>] [<LJNW <Co>] [GM LJLH GM JWMM / KL JMJ <sp><Ti>]

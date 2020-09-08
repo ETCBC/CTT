@@ -11,7 +11,7 @@ JONA 03,03 3sgM Way0  << WayX  N       2       8  1..    |  [W-<Cj>] [JLK <Pr>] 
 JONA 03,03 3sgF WXQt  << Way0  N       21      9  2.#    |      [W-<Cj>] [NJNWH <Su>] [HJTH <Pr>] [<JR GDWLH <PC>] [L->LHJM <Aj>]
 JONA 03,03 ---- NmCl [coordin] N       21     10  3..    |          [MHLK CLCT JMJM <PC>]
 JONA 03,04 3sgM WayX  << WayX  N       3      11  0.#   [W-<Cj>] [JXL <Pr>] [JWNH <Su>]
-JONA 03,04 ---- InfC [adjunct] N       3      12  2..    |   |  [L-BW> <Pr>] [B--<JR <Co>] [MHLK JWM >XD <Ti>]
+JONA 03,04 ---- InfC [adjunct] N       3      12  2..    |   |  [L-BW> <Pr>] [B--<JR <Co>] [MHLK JWM >XD <Mo>]
 JONA 03,04 3sgM Way0  << WayX  N       3      13  1..    |  [W-<Cj>] [JQR> <Pr>]
 JONA 03,04 3sgM Way0  << Way0  N       3      14  1..    |  [W-<Cj>] [J>MR <Pr>]
                                =======                   |    +===================================================================================\
