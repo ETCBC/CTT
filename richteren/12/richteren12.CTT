@@ -62,7 +62,7 @@ RICHT12,06 ---- InfC [adjunct] NDND    1422   41 11..    |       |    |      || 
 RICHT12,06 3plM Way0  << Way0  NDN     1422   42  9..    |       |    |      ||             [W-<Cj>] [J>XZW <Pr>] [>WTW <Ob>]
 RICHT12,06 3plM Way0  << Way0  NDN     1422   43 10..    |       |    |      ||                 [W-<Cj>] [JCXVWHW <PO>] [>L M<BRWT H-JRDN <Lo>]
                                -------                   |            +---------------------------------------------------------------------------/
-RICHT12,06 3sgM WayX  << WayX  N       143    44  2.#    |      [W-<Cj>] [JPL <Pr>] [B--<T H-HJ> <Aj>] [M->PRJM <Aj>] [>RB<JM W-CNJM >LP <Su>]
+RICHT12,06 3sgM WayX  << WayX  N       143    44  2.#    |      [W-<Cj>] [JPL <Pr>] [B--<T H-HJ> <Aj>] [M->PRJM <Co>] [>RB<JM W-CNJM >LP <Su>]
 RICHT12,07 3sgM WayX  << WayX  N       2      45  0.#   [W-<Cj>] [JCPV <Pr>] [JPTX <Su>] [>T JFR>L <Ob>] [CC CNJM <Ti>]
 RICHT12,07 3sgM WayX  << WayX  N       21     46  1.#    |  [W-<Cj>] [JMT <Pr>] [JPTX / H-GL<DJ <ap><Su>]
 RICHT12,07 3sgM Way0  << WayX  N       21     47  2..    |      [W-<Cj>] [JQBR <Pr>] [B-<RJ GL<D <Co>]

@@ -25,7 +25,7 @@ IISA 01,04 2sgM ZIm0  << xQtX  NQ      141    19  6..            |   |    |     
                                =======                           |   |    +=======================================================================/
 IISA 01,04 3sgM Way0  << WayX  N       14     20  4..            |   |  [W-<Cj>] [J>MR <Pr>]
 IISA 01,04 3sgM xQtX [object ] N       14     21  5..            |   |      [>CR <Re>] [NS <Pr>] [H-<M <Su>] [MN H-MLXMH <Co>]
-IISA 01,04 3sgM WxQ0 [coordin] N       14     22  6..            |   |          [W-<Cj>] [GM <Mo>] [HRBH <Mo>] [NPL <Pr>] [MN H-<M <Aj>]
+IISA 01,04 3sgM WXQt [coordin] N       14     22  6..            |   |          [W-<Cj>] [GM <Mo>] [HRBH <Su>] [NPL <Pr>] [MN H-<M <Co>]
 IISA 01,04 3plM Way0 [coordin] N       14     23  7..            |   |           |  [W-<Cj>] [JMTW <Pr>]
 IISA 01,04 3pl- WXQt [coordin] N       142    24  6.#            |   |          [W-<Cj>] [GM C>WL W-JHWNTN / BNW <ap><Su>] [MTW <Pr>]
 IISA 01,05 3sgM WayX  << WayX  N       15     25  3.#            |  [W-<Cj>] [J>MR <Pr>] [DWD <Su>] [>L H-N<R <Co>]

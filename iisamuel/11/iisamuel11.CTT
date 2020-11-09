@@ -96,8 +96,8 @@ IISA 11,16 3sgM xQt0 [attrib.] N       3      77  3..    |       |  [>CR <Re>] [
 IISA 11,16 ---- NmCl [object ] N       3      78  4..    |       |      [KJ <Cj>] [>NCJ XJL <Su>] [CM <PC>]
 IISA 11,17 3plM WayX  << Way0  N       31     79  2.#    |      [W-<Cj>] [JY>W <Pr>] [>NCJ H-<JR <Su>]
 IISA 11,17 3plM Way0  << WayX  N       31     80  4..    |           |  [W-<Cj>] [JLXMW <Pr>] [>T JW>B <Co>]
-IISA 11,17 3sgM Way0  << WayX  N       31     81  3..    |          [W-<Cj>] [JPL <Pr>] [MN H-<M / M-<BDJ DWD <sp><Co>]
-IISA 11,17 3sgM WayX  << Way0  N       311    82  4.#    |              [W-<Cj>] [JMT <Pr>] [GM >WRJH / H-XTJ <ap><Su>]
+IISA 11,17 3sgM WayX  << WayX  N       31     81  3..    |          [W-<Cj>] [JPL <Pr>] [MN H-<M <Co>] [M-<BDJ DWD <Su>]
+IISA 11,17 3sgM WayX  << WayX  N       311    82  4.#    |              [W-<Cj>] [JMT <Pr>] [GM >WRJH / H-XTJ <ap><Su>]
 IISA 11,18 3sgM WayX  << WayX  N       3111   83  5.#    |               |  [W-<Cj>] [JCLX <Pr>] [JW>B <Su>]
 IISA 11,18 3sgM Way0  << WayX  N       3111   84  6..    |               |   |  [W-<Cj>] [JGD <Pr>] [L-DWD <Co>] [>T KL DBRJ H-MLXMH <Ob>]
 IISA 11,19 3sgM Way0  << Way0  N       3111   85  6..    |               |   |  [W-<Cj>] [JYW <Pr>] [>T H-ML>K <Ob>]
@@ -135,8 +135,8 @@ IISA 11,23 3pl- xQtX  <<  [Q]  NQ      311211107  9.q    |               |      
 IISA 11,23 3plM Way0  << xQtX  NQN     311211108 10..    |               |                |   | [W-<Cj>] [JY>W <Pr>] [>LJNW <Co>] [H-FDH <Co>]
 IISA 11,23 1pl- Way0  << Way0  NQN     311211109 11..    |               |                |   |     [W-<Cj>] [NHJH <Pr>] [<LJHM <Co>] [<D PTX H-C<R <PC>]
 IISA 11,24 3plM WayX  << Way0  NQN     311211110 12.#    |               |                |   |         [W-<Cj>] [JR>W <Pr>] [H-MWR>JM <Su>] [>L <BDK <Co>] [M-<L H-XWMH <Co>]
-IISA 11,24 3plM Way0  << WayX  NQN     311211111 13..    |               |                |   |             [W-<Cj>] [JMWTW <Pr>] [M-<BDJ H-MLK <Aj>]
-IISA 11,24 3sgM WXQt  << Way0  NQN     311211112 14.#    |               |                |   |                 [W-<Cj>] [GM <BDK / >WRJH / H-XTJ <ap><ap><Su>] [MT <Pr>]
+IISA 11,24 3plM WayX  << WayX  NQN     311211111 13..    |               |                |   |             [W-<Cj>] [JMWTW <Pr>] [M-<BDJ H-MLK <Su>]
+IISA 11,24 3sgM WXQt  << WayX  NQN     311211112 14.#    |               |                |   |                 [W-<Cj>] [GM <BDK / >WRJH / H-XTJ <ap><ap><Su>] [MT <Pr>]
                                =======                   |               |                +=======================================================/
 IISA 11,25 3sgM WayX  << WayX  N       311212113  8.#    |               |              [W-<Cj>] [J>MR <Pr>] [DWD <Su>] [>L H-ML>K <Co>]
                                =======                   |               |                +=======================================================\

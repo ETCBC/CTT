@@ -121,12 +121,12 @@
  EZE 32,26 -plM AjCl  << NmCl  NQ      12    105 11..             |              |           |   |  [KLM <Su>] [<RLJM <PC>] [MXLLJ XRB <Pj>]
  EZE 32,26 3pl- xQt0  << AjCl  NQ      12    106 12..             |              |           |   |      [KJ <Cj>] [NTNW <Pr>] [XTJTM <Ob>] [B->RY XJJM <Co>]
  EZE 32,27 3plM WxY0  << NmCl  NQ      12    107 10..             |              |           |  [W-<Cj>] [L> <Ng>] [JCKBW <Pr>] [>T GBWRJM <Co>]
- EZE 32,27 -plM Ptcp [attrib.] NQ      12    108 13..             |              |           |       |   |  [NPLJM <PC>] [M-<RLJM <Aj>]
- EZE 32,27 3pl- xQt0 [attrib.] NQ      12    109 14..             |              |           |       |   |      [>CR <Re>] [JRDW <Pr>] [C>WL <Co>] [B-KLJ MLXMTM <Aj>]
-                               -------                            |              |           |       |   |        +----------------------------\
- EZE 32,27 3plM Way0 [coordin] NQN     12    110 15..             |              |           |       |   |        | [W-<Cj>] [JTNW <Pr>] [>T XRBWTM <Ob>] [TXT R>CJHM <Co>]
- EZE 32,27 3sgF WayX  << Way0  NQN     122   111 16.#             |              |           |       |   |        |     [W-<Cj>] [THJ <Pr>] [<WNTM <Su>] [<L <YMWTM <Co>]
-                               -------                            |              |           |       |            +----------------------------/
+ EZE 32,27 -plM Ptcp [attrib.] NQ      12    108 14..             |              |           |       |   |   |  [NPLJM <PC>] [M-<RLJM <Co>]
+ EZE 32,27 3pl- xQt0 [attrib.] NQ      12    109 13..             |              |           |       |   |  [>CR <Re>] [JRDW <Pr>] [C>WL <Co>] [B-KLJ MLXMTM <Aj>]
+                               -------                            |              |           |       |   |    +--------------------------------\
+ EZE 32,27 3plM Way0 [coordin] NQN     12    110 14..             |              |           |       |   |    | [W-<Cj>] [JTNW <Pr>] [>T XRBWTM <Ob>] [TXT R>CJHM <Co>]
+ EZE 32,27 3sgF WayX  << Way0  NQN     122   111 15.#             |              |           |       |   |    |     [W-<Cj>] [THJ <Pr>] [<WNTM <Su>] [<L <YMWTM <Co>]
+                               -------                            |              |           |       |        +--------------------------------/
  EZE 32,27 ---- NmCl  << WxY0  NQ      12    112 12..             |              |           |       |  [KJ <Cj>] [XTJT GBWRJM <Su>] [B->RY XJJM <PC>]
  EZE 32,28 2sgM WXYq  << WxY0  NQ      12    113 11..             |              |           |      [W-<Cj>] [>TH <Su>] [B-TWK <RLJM <Co>] [TCBR <Pr>]
  EZE 32,28 2sgM WYq0  << WXYq  NQ      12    114 12..             |              |           |          [W-<Cj>] [TCKB <Pr>] [>T XLLJ XRB <Co>]
