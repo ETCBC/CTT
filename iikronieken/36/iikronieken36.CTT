@@ -57,7 +57,7 @@ IICHR36,17 3sgM Way0  << InfC  N       1111   56 14..                           
 IICHR36,17 3sgM Way0  << Way0  N       1111   57 19..                                                                |   |   |   |  [W-<Cj>] [JHRG <Pr>] [BXWRJHM <Ob>] [B--XRB <Aj>] [B-BJT MQDCM <Lo>]
 IICHR36,17 3sgM WxQ0  << Way0  N       1111   58 20..                                                                |   |   |   |      [W-<Cj>] [L> <Ng>] [XML <Pr>] [<L BXWR W-BTWLH ZQN W-JCC <Co>]
 IICHR36,17 3sgM xQt0  << Way0  N       1111   59 18..                                                                |   |   |  [H-KL <Ob>] [NTN <Pr>] [B-JDW <Co>]
-IICHR36,18 ---- CPen  << xQt0  N       1111   60 19c.                                                                |   |   |      [W-<Cj>] [KL KLJ BJT H->LHJM / H-GDLJM W-H-QVNJM / W-/ >YRWT BJT JHWH W->YRWT H-MLK W-FRJW <pa><cj><sp><Fr>]
+IICHR36,18 ---- CPen  << xQt0  N       1111   60 19c.                                                                |   |   |      [W-<Cj>] [KL KLJ BJT H->LHJM H-GDLJM W-H-QVNJM / W-/ >YRWT BJT JHWH W->YRWT H-MLK W-FRJW <pa><cj><Fr>]
 IICHR36,18 3sgM xQt0 [resumpt] N       1111   61 20..                                                                |   |   |          [H-KL <Ob>] [HBJ> <Pr>] [BBL <Co>]
 IICHR36,19 3plM Way0  << Way0  N       1111   62 17..                                                                |   |  [W-<Cj>] [JFRPW <Pr>] [>T BJT H->LHJM <Ob>]
 IICHR36,19 3plM Way0  << Way0  N       1111   63 17..                                                                |   |  [W-<Cj>] [JNTYW <Pr>] [>T XWMT JRWCLM <Ob>]
