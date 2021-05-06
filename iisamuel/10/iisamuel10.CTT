@@ -15,10 +15,10 @@ IISA 10,03 -sgM Ptcp  <<  [Q]  NQ      13111  11  5.q        |   |   |   || [H-<
 IISA 10,03 3sgM xQt0  << Ptcp  NQ      13111  12  7..        |   |   |   ||      |  [KJ <Cj>] [CLX <Pr>] [LK <Co>] [MNXMJM <Ob>]
 IISA 10,03 ---- Defc  << Ptcp  NQ      13111  13  6d.        |   |   |   ||     [H-<Qu>] [LW> <Ng>]
 IISA 10,03 ---- InfC [adjunct] NQ      13111  14  8.\        |   |   |   ||          |  [B-<BWR XQWR <Pr>] [>T H-<JR <Ob>]
-IISA 10,03 ---- InfC [coordin] NQ      13111  15  9..        |   |   |   ||          |      [W-<Cj>] [L-RGLH <PO>]
-IISA 10,03 ---- InfC [coordin] NQ      13111  16 10.e        |   |   |   ||          |          [W-<Cj>] [L-HPKH <PO>]
+IISA 10,03 ---- InfC [coordin] NQ      13111  15  9..        |   |   |   ||          |   |  [W-<Cj>] [L-RGLH <PO>]
+IISA 10,03 ---- InfC [coordin] NQ      13111  16 10.e        |   |   |   ||          |   |      [W-<Cj>] [L-HPKH <PO>]
 IISA 10,03 3sgM ZQtX  << Defc  NQ      13111  17  7..        |   |   |   ||         [CLX <Pr>] [DWD <Su>] [>T <BDJW <Ob>] [>LJK <Co>]
-                               =======                       |   |   |    +=======================================================================/
+                               =======                       |   |   |   |+=======================================================================/
 IISA 10,04 3sgM WayX  << WayX  N       1312   18  4.#        |   |   |  [W-<Cj>] [JQX <Pr>] [XNWN <Su>] [>T <BDJ DWD <Ob>]
 IISA 10,04 3sgM Way0  << WayX  N       1312   19  5..        |   |   |      [W-<Cj>] [JGLX <Pr>] [>T XYJ ZQNM <Ob>]
 IISA 10,04 3sgM Way0  << Way0  N       1312   20  5..        |   |   |      [W-<Cj>] [JKRT <Pr>] [>T MDWJHM <Ob>] [B--XYJ / <D CTWTJHM <sp><Aj>]
@@ -26,12 +26,12 @@ IISA 10,04 3sgM Way0  << Way0  N       1312   21  6..        |   |   |          
 IISA 10,05 3plM Way0  << WayX  N       131    22  3..        |   |  [W-<Cj>] [JGDW <Pr>] [L-DWD <Co>]
 IISA 10,05 3sgM Way0  << Way0  N       131    23  4..        |   |      [W-<Cj>] [JCLX <Pr>]
 IISA 10,05 ---- InfC [adjunct] N       131    24  7..        |   |           |   |  [L-QR>TM <PO>]
-IISA 10,05 3pl- xQtX  << Way0  N       131    25  6..        |   |           |  [KJ <Cj>] [HJW <Pr>] [H->NCJM <Su>] [NKLMJM <PC>] [M>D <Mo>]
+IISA 10,05 3plM xQtX  << Way0  N       131    25  6..        |   |           |  [KJ <Cj>] [HJW <Pr>] [H->NCJM <Su>] [NKLMJM <PC>] [M>D <Mo>]
 IISA 10,05 3sgM WayX  << Way0  N       1313   26  5.#        |   |          [W-<Cj>] [J>MR <Pr>] [H-MLK <Su>]
                                =======                       |   |            +===================================================================\
-IISA 10,05 2plM ZIm0  <<  [Q]  NQ      13131  27  6.q        |   |           || [CBW <Pr>] [B-JRXW <Co>]
-IISA 10,05 3sgM xYqX [adjunct] NQ      13131  28  8..        |   |           ||      |  [<D <Cj>] [JYMX <Pr>] [ZQNKM <Su>]
-IISA 10,05 2plM WQt0  << ZIm0  NQ      13131  29  7..        |   |           ||     [W-<Cj>] [CBTM <Pr>]
+IISA 10,05 2plM ZIm0  <<  [Q]  NQ      13131  27  6.q        |   |            | [CBW <Pr>] [B-JRXW <Co>]
+IISA 10,05 3sgM xYqX [adjunct] NQ      13131  28  8..        |   |            |      |  [<D <Cj>] [JYMX <Pr>] [ZQNKM <Su>]
+IISA 10,05 2plM WQt0  << ZIm0  NQ      13131  29  7..        |   |            |     [W-<Cj>] [CBTM <Pr>]
                                =======                       |   |            +===================================================================/
 IISA 10,06 3plM WayX  << WayX  N       132    30  2.#        |  [W-<Cj>] [JR>W <Pr>] [BNJ <MWN <Su>]
 IISA 10,06 3pl- xQt0 [object ] N       132    31  3..        |   |  [KJ <Cj>] [NB>CW <Pr>] [B-DWD <Co>]

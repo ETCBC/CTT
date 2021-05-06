@@ -49,7 +49,7 @@
  NUM 04,15 ---- NmCl  << NmCl  NQ      11     48  4..    |    |         [>LH <Su>] [MF> BNJ QHT <PC>] [B->HL MW<D <Co>]
  NUM 04,16 ---- NmCl  << NmCl  NQ      11     49  5..    |    |             [W-<Cj>] [PQDT >L<ZR / BN >HRN / H-KHN <ap><ap><Su>] [CMN H-M>WR W-QVRT H-SMJM W-MNXT H-TMJD W-CMN H-MCXH / PQDT KL H-MCKN W-KL <sp><PC>]
  NUM 04,16 ---- NmCl [reg/rec] NQ      11     50  6..    |    |                 [>CR <Re>] [BW / B-QDC W-B-KLJW <sp><PC>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  NUM 04,17 3sgM WayX  << WayX  N       2      51  0.#   [W-<Cj>] [JDBR <Pr>] [JHWH <Su>] [>L MCH W->L >HRN <Co>]
  NUM 04,17 ---- InfC [adjunct] N       2      52  1..    |  [L->MR <Pr>]
                                =======                   |    +===================================================================================\
@@ -65,7 +65,7 @@
  NUM 04,20 ---- InfC [adjunct] NQ      21     62  8..    |    |                      |  [L-R>WT <Pr>]
  NUM 04,20 ---- InfC [adjunct] NQ      21     63  9..    |    |                      |      [K-BL< <Pr>] [>T H-QDC <Ob>]
  NUM 04,20 3pl- WQt0  << WxY0  NQ      21     64  7..    |    |                     [W-<Cj>] [MTW <Pr>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  NUM 04,21 3sgM WayX  << WayX  N       3      65  0.#   [W-<Cj>] [JDBR <Pr>] [JHWH <Su>] [>L MCH <Co>]
  NUM 04,21 ---- InfC [adjunct] N       3      66  1..    |  [L->MR <Pr>]
                                =======                   |    +===================================================================================\
@@ -100,7 +100,7 @@
  NUM 04,32 ---- NmCl  << NmCl  NQ      31     95 10..    |    |                  |   |          [W-<Cj>] [>DNJHM W-JTDTM W-MJTRJHM <PC>] [L-KL KLJHM W-L-KL <BDTM <Aj>]
  NUM 04,32 2plM WxY0  << NmCl  NQ      31     96  7..    |    |                  |  [W-<Cj>] [B-CMT <Aj>] [TPQDW <Pr>] [>T KLJ MCMRT MF>M <Ob>]
  NUM 04,33 ---- NmCl  << NmCl  NQ      31     97  6..    |    |                 [Z>T <Su>] [<BDT MCPXT BNJ MRRJ <PC>] [L-KL <BDTM / B->HL MW<D <sp><Aj>] [B-JD >JTMR / BN >HRN / H-KHN <ap><ap><Aj>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  NUM 04,34 3sgM WayX  << WayX  N       4      98  0.#   [W-<Cj>] [JPQD <Pr>] [MCH W->HRN W-NFJ>J H-<DH <Su>] [>T BNJ H-QHTJ <Ob>] [L-MCPXTM W-L-BJT >BTM <Aj>]
  NUM 04,35 ---- Ellp  << WayX  N       4      99  4l.        |   |   |  [M-BN CLCJM CNH / W-/ M<LH / W-/ <D BN XMCJM CNH / KL <sp><pa><cj><pa><cj><Aj>]
  NUM 04,35 -sgM Ptcp [reg/rec] N       4     100  5..        |   |   |      [H-<Re>] [B> <PC>] [L--YB> <Co>] [L-<BDH / B->HL MW<D <sp><Aj>]

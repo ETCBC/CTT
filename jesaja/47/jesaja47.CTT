@@ -27,16 +27,16 @@
  JES 47,06 1sg- ZQt0  << ZIm0  Q       1      27  2..        |  [QYPTJ <Pr>] [<L <MJ <Co>]
  JES 47,06 1sg- ZQt0  << ZQt0  Q       1      28  2..        |  [XLLTJ <Pr>] [NXLTJ <Ob>]
                                -------                       |    +-------------------------------------------------------------------------------\
- JES 47,06 1sg- Way0  << ZQt0  QN      1      29  3..        |   || [W-<Cj>] [>TNM <PO>] [B-JDK <Co>]
- JES 47,06 2sgF xQt0  << Way0  QN      1      30  4..        |   ||     [L> <Ng>] [FMT <Pr>] [LHM <Co>] [RXMJM <Ob>]
- JES 47,06 2sgF xQt0  << xQt0  QN      1      31  6..        |   ||          |  [<L ZQN <Co>] [HKBDT <Pr>] [<LK <Ob>] [M>D <Mo>]
- JES 47,07 2sgF Way0  << xQt0  QN      1      32  5..        |   ||         [W-<Cj>] [T>MRJ <Pr>]
+ JES 47,06 1sg- Way0  << ZQt0  QN      1      29  3..        |    | [W-<Cj>] [>TNM <PO>] [B-JDK <Co>]
+ JES 47,06 2sgF xQt0  << Way0  QN      1      30  4..        |    |     [L> <Ng>] [FMT <Pr>] [LHM <Co>] [RXMJM <Ob>]
+ JES 47,06 2sgF xQt0  << xQt0  QN      1      31  6..        |    |          |  [<L ZQN <Co>] [HKBDT <Pr>] [<LK <Ob>] [M>D <Mo>]
+ JES 47,07 2sgF Way0  << xQt0  QN      1      32  5..        |    |         [W-<Cj>] [T>MRJ <Pr>]
                                =======                       |    |              |+============================================================\
- JES 47,07 1sg- xYq0  <<  [Q]  QNQ     11     33  7.q        |   ||               | [L-<WLM <Ti>] [>HJH <Pr>] [GBRT <PC>]
-                               =======                       |    |               +============================================================/
- JES 47,07 2sgF xQt0  << Way0  QN      1      34  6..        |   ||             [<D <Cj>] [L> <Ng>] [FMT <Pr>] [>LH <Ob>] [<L LBK <Co>]
- JES 47,07 2sgF xQt0  << xQt0  QN      1      35  7..        |   ||                 [L> <Ng>] [ZKRT <Pr>] [>XRJTH <Ob>]
-                               -------                            +-------------------------------------------------------------------------------/
+ JES 47,07 1sg- xYq0  <<  [Q]  QNQ     11     33  7.q        |    |              || [L-<WLM <Ti>] [>HJH <Pr>] [GBRT <PC>]
+                               =======                       |    |              |+============================================================/
+ JES 47,07 2sgF xQt0  << Way0  QN      1      34  6..        |    |             [<D <Cj>] [L> <Ng>] [FMT <Pr>] [>LH <Ob>] [<L LBK <Co>]
+ JES 47,07 2sgF xQt0  << xQt0  QN      1      35  7..        |    |                 [L> <Ng>] [ZKRT <Pr>] [>XRJTH <Ob>]
+                               -------                       |    +-------------------------------------------------------------------------------/
  JES 47,08 ---- MSyn  << ZIm0  Q       1      36  1m.       [W-<Cj>] [<TH <Ti>]
  JES 47,08 2sgF ZIm0  << MSyn  Q       1      37  2..           [CM<J <Pr>] [Z>T <Ob>]
  JES 47,08 ---- Voct  << ZIm0  Q       1      38  4v.            |   |  [<DJNH <Vo>]
@@ -47,22 +47,22 @@
  JES 47,08 ---- Ellp  << NmCl  QQ      12     42  9l.            |   |            |      |  [W-<Cj>] [>PSJ <NC>] [<WD <Mo>]
  JES 47,08 1sg- xYq0  << NmCl  QQ      12     43  8..            |   |            |     [L> <Ng>] [>CB <Pr>] [>LMNH <Aj>]
  JES 47,08 1sg- WxY0  << xYq0  QQ      12     44  9..            |   |            |         [W-<Cj>] [L> <Ng>] [>D< <Pr>] [CKWL <Ob>]
-                               =======                           |                +===============================================================/
+                               =======                           |   |            +===============================================================/
  JES 47,09 3plF WYqX  << ZIm0  Q       1      45  3..            |  [W-<Cj>] [TB>NH <Pr>] [LK <Co>] [CTJ >LH <Su>] [RG< <Mo>] [B-JWM >XD / CKWL W->LMN <sp><Ti>]
  JES 47,09 3pl- xQt0  << WYqX  Q       1      46  5..            |       |  [K-TMM <Aj>] [B>W <Pr>] [<LJK <Co>] [B-RB KCPJK / B-<YMT XBRJK / M>D <sp><sp><Aj>]
                                -------                           |       |    +-------------------------------------------------------------------\
  JES 47,10 2sgF Way0  << xQt0  QN      1      47  6..            |       |    | [W-<Cj>] [TBVXJ <Pr>] [B-R<TK <Co>]
  JES 47,10 2sgF ZQt0  << Way0  QN      1      48  8..            |       |    |      |  [>MRT <Pr>]
                                =======                           |       |    |      |    +====================================================\
- JES 47,10 -sgM Ptcp  <<  [Q]  QNQ     13     49  9.q            |       |    |      |   || [>JN <NC>] [R>NJ <po>]
-                               =======                           |       |    |           +====================================================/
+ JES 47,10 -sgM Ptcp  <<  [Q]  QNQ     13     49  9.q            |       |    |      |    | [>JN <NC>] [R>NJ <po>]
+                               =======                           |       |    |      |    +====================================================/
  JES 47,10 ---- CPen  << Way0  QN      1      50  7c.            |       |    |     [XKMTK W-D<TK <Fr>]
  JES 47,10 3sgF XQtl [resumpt] QN      1      51  9..            |       |    |          |  [HJ> <Su>] [CWBBTK <PO>]
  JES 47,10 2sgF Way0  << CPen  QN      1      52  8..            |       |    |         [W-<Cj>] [T>MRJ <Pr>] [B-LBK <Co>]
                                =======                           |       |    |           +====================================================\
- JES 47,10 ---- NmCl  <<  [Q]  QNQ     14     53  9.q            |       |    |          || [>NJ <Su>]
- JES 47,10 ---- Ellp  << NmCl  QNQ     14     54 10l.            |       |    |          ||     [W-<Cj>] [>PSJ <NC>] [<WD <Mo>]
-                               -------                           |            +-------------------------------------------------------------------/
+ JES 47,10 ---- NmCl  <<  [Q]  QNQ     14     53  9.q            |       |    |           | [>NJ <Su>]
+ JES 47,10 ---- Ellp  << NmCl  QNQ     14     54 10l.            |       |    |           |     [W-<Cj>] [>PSJ <NC>] [<WD <Mo>]
+                               -------                           |       |    +-------------------------------------------------------------------/
  JES 47,11 3sgM WQtX  << WYqX  Q       1      55  4..            |      [W-<Cj>] [B> <Pr>] [<LJK <Co>] [R<H <Su>]
  JES 47,11 2sgF xYq0 [attrib.] Q       1      56  6..            |           |  [L> <Ng>] [TD<J <Pr>]
  JES 47,11 ---- InfC [object ] Q       1      57  7..            |           |      [CXRH <PO>]
@@ -92,7 +92,7 @@
  JES 47,14 ---- InfC [adjunct] Q       1      81  9..                        |              [L-CBT <Pr>] [NGDW <Aj>]
  JES 47,15 3pl- xQt0  << xQt0  Q       1      82  5..                       [KN <Mo>] [HJW <Pr>] [LK <PC>]
  JES 47,15 2sgF xQt0 [subject] Q       1      83  7..                            |  [>CR <Re>] [JG<T <Pr>]
- JES 47,15 -plM Ptcp [coordin] Q       1      84  8..                            |   |  [SXRJK <po>] [M-N<WRJK <Ti>]
+ JES 47,15 -plM Ptcp [coordin] Q       1      84  8..                            |      [SXRJK <po>] [M-N<WRJK <Ti>]
  JES 47,15 ---- Ellp [adjunct] Q       1      85  7l\                            |  [>JC <Su>] [L-<BRW <Co>]
  JES 47,15 3pl- ZQt0  << xQt0  Q       1      86  6..                           [T<W <Pr>]
  JES 47,15 -sgM Ptcp  << ZQt0  Q       1      87  7..                               [>JN <NC>] [MWCJ<K <po>]

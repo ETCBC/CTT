@@ -65,10 +65,10 @@
  LEV 25,19 2plM WQt0  << WQt0  NQQ     111    63 22..         |       |          |                                   |       |                  [W-<Cj>] [JCBTM <Pr>] [L-BVX <Aj>] [<LJH <Co>]
  LEV 25,20 2plM WxY0  << WxY0  NQQ     111    64 17..         |       |          |                                   |      [W-<Cj>] [KJ <Cj>] [T>MRW <Pr>]
                                =======                        |       |          |                                   |           |+=========\
- LEV 25,20 1pl- xYq0  <<  [Q]  NQQQ    1111   65 19.q         |       |          |                                   |            | [MH <Ob>] [N>KL <Pr>] [B--CNH H-CBJ<T <Ti>]
- LEV 25,20 1pl- xYq0  << xYq0  NQQQ    1111   66 20..         |       |          |                                   |            |     [HN <Ij>] [L> <Ng>] [NZR< <Pr>]
- LEV 25,20 1pl- WxY0  << xYq0  NQQQ    1111   67 21..         |       |          |                                   |            |         [W-<Cj>] [L> <Ng>] [N>SP <Pr>] [>T TBW>TNW <Ob>]
-                               =======                        |       |          |                                   |            +=========/
+ LEV 25,20 1pl- xYq0  <<  [Q]  NQQQ    1111   65 19.q         |       |          |                                   |           || [MH <Ob>] [N>KL <Pr>] [B--CNH H-CBJ<T <Ti>]
+ LEV 25,20 1pl- xYq0  << xYq0  NQQQ    1111   66 20..         |       |          |                                   |           ||     [HN <Ij>] [L> <Ng>] [NZR< <Pr>]
+ LEV 25,20 1pl- WxY0  << xYq0  NQQQ    1111   67 21..         |       |          |                                   |           ||         [W-<Cj>] [L> <Ng>] [N>SP <Pr>] [>T TBW>TNW <Ob>]
+                               =======                        |       |          |                                   |           |+=========/
  LEV 25,21 1sg- WQt0  << WxY0  NQQ     111    68 18..         |       |          |                                   |          [W-<Cj>] [YWJTJ <Pr>] [>T BRKTJ <Ob>] [LKM <Co>] [B--CNH H-CCJT <Ti>]
  LEV 25,21 3sgF WQt0  << WQt0  NQQ     111    69 19..         |       |          |                                   |              [W-<Cj>] [<FT <Pr>] [>T H-TBW>H <Ob>] [L-CLC H-CNJM <Aj>]
  LEV 25,22 2plM WQt0  << WQt0  NQQ     111    70 20..         |       |          |                                   |                  [W-<Cj>] [ZR<TM <Pr>] [>T H-CNH H-CMJNT <Ob>]
@@ -172,7 +172,7 @@
  LEV 25,46 2sgM xYq0 [resumpt] NQQ     111   168 12..         |       |                  |              [L> <Ng>] [TRDH <Pr>] [BW <Co>] [B-PRK <Aj>]
  LEV 25,47 3sgF WxYX  << WxYX  NQQ     111   169  8..         |       |                 [W-<Cj>] [KJ <Cj>] [TFJG <Pr>] [JD GR W-TWCB / <MK <sp><Su>]
  LEV 25,47 3sgM WQtX  << WxYX  NQQ     111   170 10..         |       |                      |  [W-<Cj>] [MK <Pr>] [>XJK <Su>] [<MW <Co>]
- LEV 25,47 3sgM WQt0  << WQtX  NQQ     111   171 11..         |       |                      |   |  [W-<Cj>] [NMKR <Pr>] [L-GR / TWCB / <MK / >W / L-<QR MCPXT GR <pa><cj><sp><ap><Co>]
+ LEV 25,47 3sgM WQt0  << WQtX  NQQ     111   171 11..         |       |                      |      [W-<Cj>] [NMKR <Pr>] [L-GR / TWCB / <MK / >W / L-<QR MCPXT GR <pa><cj><sp><ap><Co>]
  LEV 25,48 3sgM xQt0 [adjunct] NQQ     111   172 10.\         |       |                      |  [>XRJ <Cj>] [NMKR <Pr>]
  LEV 25,48 3sgF XYqt  << WxYX  NQQ     111   173  9..         |       |                     [G>LH <Su>] [THJH <Pr>] [LW <PC>]
  LEV 25,48 3sgM XYqt  << XYqt  NQQ     111   174 11..         |       |                          |  [>XD / M->XJW <sp><Su>] [JG>LNW <PO>]

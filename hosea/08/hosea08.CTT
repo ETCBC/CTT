@@ -4,9 +4,9 @@
  HOS 08,01 3pl- WxQ0  << xQt0  Q       1       4  3..        |      [W-<Cj>] [<L TWRTJ <Co>] [PC<W <Pr>]
  HOS 08,02 3plM xYq0  << NmCl  Q       1       5  1..       [LJ <Co>] [JZ<QW <Pr>]
                                =======                           |   |   |+=======================================================================\
- HOS 08,02 ---- Voct  <<  [Q]  QQ      11      6  5vq            |   |    | [>LHJ <Vo>]
- HOS 08,02 1pl- ZQt0 [ref.Voc] QQ      11      7  6..            |   |    |     [JD<NWK <PO>]
- HOS 08,02 ---- Ellp  << ZQt0  QQ      11      8  7l.            |   |    |         [JFR>L <Su>]
+ HOS 08,02 ---- Voct  <<  [Q]  QQ      11      6  5vq            |   |   || [>LHJ <Vo>]
+ HOS 08,02 1pl- ZQt0 [ref.Voc] QQ      11      7  6..            |   |   ||     [JD<NWK <PO>]
+ HOS 08,02 ---- Ellp  << ZQt0  QQ      11      8  7l.            |   |   ||         [JFR>L <Su>]
                                =======                           |   |   |+=======================================================================/
  HOS 08,03 3sgM ZQtX  << xYq0  Q       1       9  4..            |   |  [ZNX <Pr>] [JFR>L <Su>] [VWB <Ob>]
  HOS 08,03 3sgM XYqt  << ZQtX  Q       1      10  6..            |   |   |   |  [>WJB <Su>] [JRDPW <PO>]
@@ -42,7 +42,7 @@
  HOS 08,10 1sg- xYq0  << xYq0  Q       1      40  9..                |   |   |              [<TH <Ti>] [>QBYM <PO>]
                                -------                               |   |   |                +---------------------------------------------------\
  HOS 08,10 3plM Way0  << xYq0  QN      1      41 10..                |   |   |                | [W-<Cj>] [JXLW <Pr>] [M<V <Ob>] [M-MF> MLK FRJM <Co>]
-                               -------                               |   |                    +---------------------------------------------------/
+                               -------                               |   |   |                +---------------------------------------------------/
  HOS 08,11 3sgM xQtX  << ZQtX  Q       1      42  5..                |   |  [KJ <Cj>] [HRBH <Pr>] [>PRJM <Su>] [MZBXT <Ob>]
  HOS 08,11 ---- InfC [adjunct] Q       1      43  9..                |   |       |   |   |  [L-XV> <Pr>]
  HOS 08,11 3pl- ZQtX  << xQtX  Q       1      44  8..                |   |       |   |  [HJW <Pr>] [LW <Aj>] [MZBXWT <Su>]
@@ -53,15 +53,15 @@
  HOS 08,13 3plM ZYq0  << NmCl  Q       1      49  8..                |   |           |  [JZBXW <Pr>] [BFR <Ob>]
                                -------                               |   |           |    +-------------------------------------------------------\
  HOS 08,13 3plM Way0  << ZYq0  QN      1      50  9..                |   |           |    | [W-<Cj>] [J>KLW <Pr>]
-                               -------                               |   |                +-------------------------------------------------------/
+                               -------                               |   |           |    +-------------------------------------------------------/
  HOS 08,13 3sgM XQtl  << NmCl  Q       1      51  7..                |   |          [JHWH <Su>] [L> <Ng>] [RYM <PO>]
  HOS 08,13 3sgM xYq0  << XQtl  Q       1      52  9..                |   |               |  [<TH <Ti>] [JZKR <Pr>] [<WNM <Ob>]
  HOS 08,13 3sgM WYq0  << xYq0  Q       1      53 10..                |   |               |      [W-<Cj>] [JPQD <Pr>] [XV>WTM <Ob>]
  HOS 08,13 3plM XYqt  << XQtl  Q       1      54  8..                |   |              [HMH <Su>] [MYRJM <Co>] [JCWBW <Pr>]
                                -------                               |+---------------------------------------------------------------------------\
- HOS 08,14 3sgM WayX  << ZQtX  QN      12     55  4.#                 | [W-<Cj>] [JCKX <Pr>] [JFR>L <Su>] [>T <FHW <Ob>]
- HOS 08,14 3sgM Way0  << WayX  QN      12     56  5..                 |     [W-<Cj>] [JBN <Pr>] [HJKLWT <Ob>]
-                               -------                                +---------------------------------------------------------------------------/
+ HOS 08,14 3sgM WayX  << ZQtX  QN      12     55  4.#                || [W-<Cj>] [JCKX <Pr>] [JFR>L <Su>] [>T <FHW <Ob>]
+ HOS 08,14 3sgM Way0  << WayX  QN      12     56  5..                ||     [W-<Cj>] [JBN <Pr>] [HJKLWT <Ob>]
+                               -------                               |+---------------------------------------------------------------------------/
  HOS 08,14 3sgM WXQt  << ZQtX  Q       13     57  3.#               [W-<Cj>] [JHWDH <Su>] [HRBH <Pr>] [<RJM BYRWT <Ob>]
  HOS 08,14 1sg- WQt0  << WXQt  Q       13     58  4..                   [W-<Cj>] [CLXTJ <Pr>] [>C <Ob>] [B-<RJW <Co>]
  HOS 08,14 3sgF WQt0  << WQt0  Q       13     59  5..                       [W-<Cj>] [>KLH <Pr>] [>RMNTJH <Ob>]

@@ -55,10 +55,10 @@
  ICHR27,24 3sgM XQtl  << WxQX  ?       1      55  6..        |   |           |  [JW>B / BN YRWJH <ap><Su>] [HXL <Pr>]
  ICHR27,24 ---- InfC [adjunct] ?       1      56  7..        |   |           |      [L-MNWT <Pr>]
  ICHR27,24 3sgM WxQ0  << WxQX  ?       1      57  5..        |   |          [W-<Cj>] [L> <Ng>] [KLH <Pr>]
-                               =======                 ==============================================================================================/
- ICHR27,24 3sgM MSyn  << WxQ0  N       1      58  7m.        |   |               |  [W-<Cj>] [JHJ <Pr>]
- ICHR27,24 ---- NmCl  << MSyn  N       1      59  8..        |   |               |      [B-Z>T <Aj>] [QYP <Su>] [<L JFR>L <PC>]
-                               =======                 ==============================================================================================/
+                               -------                       |   |               |+------------------------------------------------------------------\
+ ICHR27,24 3sgM MSyn  << WxQ0  N       1      58  7m.        |   |               || [W-<Cj>] [JHJ <Pr>]
+ ICHR27,24 ---- NmCl  << MSyn  N       1      59  8..        |   |               ||     [B-Z>T <Aj>] [QYP <Su>] [<L JFR>L <PC>]
+                               -------                       |   |               |+------------------------------------------------------------------/
  ICHR27,24 3sgM WxQX  << WxQ0  ?       1      60  6..        |   |              [W-<Cj>] [L> <Ng>] [<LH <Pr>] [H-MSPR <Su>] [B-MSPR DBRJ H-JMJM / L--MLK / DWJD <ap><sp><Co>]
  ICHR27,25 ---- NmCl  << NmCl  ?       1      61  2..        |  [W-<Cj>] [<L >YRWT H-MLK <PC>] [<ZMWT / BN <DJ>L <ap><Su>]
  ICHR27,25 ---- NmCl  << NmCl  ?       1      62  2..        |  [W-<Cj>] [<L H->YRWT / B--FDH B--<RJM W-B--KPRJM W-B--MGDLWT <sp><PC>] [JHWNTN / BN <ZJHW <ap><Su>]

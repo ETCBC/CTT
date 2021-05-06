@@ -16,12 +16,12 @@
  NUM 07,04 3sgM WayX  << WayX  N       111    16  2.#    |   |  [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L MCH <Co>]
  NUM 07,04 ---- InfC [adjunct] N       111    17  3..    |   |   |  [L->MR <Pr>]
                                =======                   |   |   |    +===========================================================================\
- NUM 07,05 2sgM ZIm0  <<  [Q]  NQ      1111   18  4.q    |   |   |   || [QX <Pr>] [M->TM <Co>]
- NUM 07,05 3pl- WQt0  << ZIm0  NQ      1111   19  6..    |   |   |   ||      |  [W-<Cj>] [HJW <Pr>]
- NUM 07,05 ---- InfC [adjunct] NQ      1111   20  7..    |   |   |   ||      |      [L-<BD <Pr>] [>T <BDT >HL MW<D <Ob>]
- NUM 07,05 2sgM WQt0  << ZIm0  NQ      1111   21  5..    |   |   |   ||     [W-<Cj>] [NTTH <Pr>] [>WTM <Ob>] [>L H-LWJM <Co>]
- NUM 07,05 ---- Ellp [adjunct] NQ      1111   22  6l.    |   |   |   ||         [>JC <Co>] [K-PJ <BDTW <Aj>]
-                               =======                   |   |        +===========================================================================/
+ NUM 07,05 2sgM ZIm0  <<  [Q]  NQ      1111   18  4.q    |   |   |    | [QX <Pr>] [M->TM <Co>]
+ NUM 07,05 3pl- WQt0  << ZIm0  NQ      1111   19  6..    |   |   |    |      |  [W-<Cj>] [HJW <Pr>]
+ NUM 07,05 ---- InfC [adjunct] NQ      1111   20  7..    |   |   |    |      |      [L-<BD <Pr>] [>T <BDT >HL MW<D <Ob>]
+ NUM 07,05 2sgM WQt0  << ZIm0  NQ      1111   21  5..    |   |   |    |     [W-<Cj>] [NTTH <Pr>] [>WTM <Ob>] [>L H-LWJM <Co>]
+ NUM 07,05 ---- Ellp [adjunct] NQ      1111   22  6l.    |   |   |    |         [>JC <Co>] [K-PJ <BDTW <Aj>]
+                               =======                   |   |   |    +===========================================================================/
  NUM 07,06 3sgM WayX  << WayX  N       112    23  2.#    |   |  [W-<Cj>] [JQX <Pr>] [MCH <Su>] [>T H-<GLT W->T H-BQR <Ob>]
  NUM 07,06 3sgM Way0  << WayX  N       112    24  3..    |   |      [W-<Cj>] [JTN <Pr>] [>WTM <Ob>] [>L H-LWJM <Co>]
  NUM 07,07 3sgM xQt0  << Way0  N       112    25  4..    |   |          [>T CTJ H-<GLT W->T >RB<T H-BQR <Ob>] [NTN <Pr>] [L-BNJ GRCWN <Co>] [K-PJ <BDTM <Aj>]
@@ -29,7 +29,7 @@
  NUM 07,09 3sgM WxQ0  << WxQ0  N       112    27  6..    |   |                  [W-<Cj>] [L-BNJ QHT <Co>] [L> <Ng>] [NTN <Pr>]
  NUM 07,09 ---- NmCl  << WxQ0  N       112    28  7..    |   |                      [KJ <Cj>] [<BDT H-QDC / <LHM <sp><Su>]
                                -------                   |   |                        +-----------------------------------------------------------\
- NUM 07,09 3plM xYq0  << NmCl  ND      112    29  8..    |   |                       || [B--KTP <Co>] [JF>W <Pr>]
+ NUM 07,09 3plM xYq0  << NmCl  ND      112    29  8..    |   |                        | [B--KTP <Co>] [JF>W <Pr>]
                                -------                   |   |                        +-----------------------------------------------------------/
  NUM 07,10 3plM WayX  << WayX  N       12     30  1.#    |  [W-<Cj>] [JQRJBW <Pr>] [H-NF>JM <Su>] [>T XNKT H-MZBX <Ob>] [B-JWM <Ti>]
  NUM 07,10 ---- InfC [reg/rec] N       12     31  2..    |   |  [HMCX <Pr>] [>TW <Su>]
@@ -37,7 +37,7 @@
  NUM 07,11 3sgM WayX  << WayX  N       131    33  2.#    |      [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L MCH <Co>]
                                =======                   |        +===============================================================================\
  NUM 07,11 3plM xYq0  <<  [Q]  NQ      1311   34  3.q    |        | [NFJ> >XD / L--JWM / NFJ> >XD / L--JWM <sp><pa><sp><Mo>] [JQRJBW <Pr>] [>T QRBNM <Ob>] [L-XNKT H-MZBX <Aj>]
-                               =======                            +===============================================================================/
+                               =======                   |        +===============================================================================/
  NUM 07,12 3sgM Way0  << Way0  N       1      35  0..   [W-<Cj>] [JHJ <Pr>]
  NUM 07,12 -sgM Ptcp [subject] N       1      36  2.\    |   |  [H-<Re>] [MQRJB <PC>] [B--JWM H-R>CWN <Ti>] [>T QRBNW <Ob>]
  NUM 07,12 ---- NmCl  << Way0  N       1      37  1..    |  [NXCWN / BN <MJNDB / L-MVH JHWDH <sp><ap><PC>]

@@ -5,17 +5,17 @@
  JER 02,02 2sgM WQt0  << InfA  NQ      11      4  3..         |     [W-<Cj>] [QR>T <Pr>] [B->ZNJ JRWCLM <Co>]
  JER 02,02 ---- InfC [adjunct] NQ      11      5  4..         |         [L->MR <Pr>]
                                =======                        |              |+================================================================\
- JER 02,02 3sgM xQtX  <<  [Q]  NQQ     111     6  6.q         |               | [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
+ JER 02,02 3sgM xQtX  <<  [Q]  NQQ     111     6  6.q         |              || [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
                                =======                        |              ||   +=========================================================\
- JER 02,02 1sg- ZQt0  <<  [Q]  NQQQ    1111    7  7.q         |               |   | [ZKRTJ <Pr>] [LK <Aj>] [XSD N<WRJK / >HBT KLWLTJK <sp><Ob>]
- JER 02,02 ---- InfC [object ] NQQQ    1111    8  9..         |               |   |      |  [LKTK <Ps>] [>XRJ <Co>] [B--MDBR / B->RY <sp><Lo>]
- JER 02,02 -sgF Ptcp [attrib.] NQQQ    1111    9 10..         |               |   |      |      [L> <Ng>] [ZRW<H <PC>]
- JER 02,03 ---- NmCl  << ZQt0  NQQQ    1111   10  8..         |               |   |     [QDC <PC>] [JFR>L <Su>] [L-JHWH <Co>]
- JER 02,03 ---- NmCl [coordin] NQQQ    1111   11 10..         |               |   |          |  [R>CJT TBW>TH <PC>]
- JER 02,03 3plM XYqt  << NmCl  NQQQ    1111   12  9..         |               |   |         [KL >KLJW <Su>] [J>CMW <Pr>]
- JER 02,03 3sgF XYqt  << XYqt  NQQQ    1111   13 10..         |               |   |             [R<H <Su>] [TB> <Pr>] [>LJHM <Co>]
- JER 02,03 ---- MSyn  << XYqt  NQQQ    1111   14 11m.         |               |   |                 [N>M JHWH <PC>]
-                               =======                        |               +================================================================/
+ JER 02,02 1sg- ZQt0  <<  [Q]  NQQQ    1111    7  7.q         |              ||   | [ZKRTJ <Pr>] [LK <Aj>] [XSD N<WRJK / >HBT KLWLTJK <sp><Ob>]
+ JER 02,02 ---- InfC [object ] NQQQ    1111    8  9..         |              ||   |      |  [LKTK <Ps>] [>XRJ <Co>] [B--MDBR / B->RY <sp><Lo>]
+ JER 02,02 -sgF Ptcp [attrib.] NQQQ    1111    9 10..         |              ||   |      |      [L> <Ng>] [ZRW<H <PC>]
+ JER 02,03 ---- NmCl  << ZQt0  NQQQ    1111   10  8..         |              ||   |     [QDC <PC>] [JFR>L <Su>] [L-JHWH <Co>]
+ JER 02,03 ---- NmCl [coordin] NQQQ    1111   11 10..         |              ||   |          |  [R>CJT TBW>TH <PC>]
+ JER 02,03 3plM XYqt  << NmCl  NQQQ    1111   12  9..         |              ||   |         [KL >KLJW <Su>] [J>CMW <Pr>]
+ JER 02,03 3sgF XYqt  << XYqt  NQQQ    1111   13 10..         |              ||   |             [R<H <Su>] [TB> <Pr>] [>LJHM <Co>]
+ JER 02,03 ---- MSyn  << XYqt  NQQQ    1111   14 11m.         |              ||   |                 [N>M JHWH <PC>]
+                               =======                        |              |+================================================================/
  JER 02,04 2plM ZIm0  << InfC  NQ      11     15  5..         |             [CM<W <Pr>] [DBR JHWH <Ob>]
  JER 02,04 ---- Voct  << ZIm0  NQ      11     16  7v.         |                  |  [BJT J<QB W-KL MCPXWT BJT JFR>L <Vo>]
  JER 02,05 3sgM xQtX  << ZIm0  NQ      11     17  6..         |                 [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
@@ -23,9 +23,9 @@
  JER 02,05 3pl- xQtX  <<  [Q]  NQQ     112    18  7.q         |                   | [MH <Ob>] [MY>W <Pr>] [>BWTJKM <Su>] [BJ <Co>] [<WL <Pj>]
  JER 02,05 3pl- xQt0 [adjunct] NQQ     112    19 13..         |                   |      |   |   |   |   |  [KJ <Cj>] [RXQW <Pr>] [M-<LJ <Co>]
                                -------                        |                   |      |   |   |   |   |       |+-------------------------\
- JER 02,05 3plM Way0 [coordin] NQQN    112    20 15..         |                   |      |   |   |   |   |        | [W-<Cj>] [JLKW <Pr>] [>XRJ H-HBL <Co>]
- JER 02,05 3plM Way0 [coordin] NQQN    112    21 16..         |                   |      |   |   |   |   |        |     [W-<Cj>] [JHBLW <Pr>]
-                               -------                        |                   |      |   |   |   |   |        +-------------------------/
+ JER 02,05 3plM Way0 [coordin] NQQN    112    20 15..         |                   |      |   |   |   |   |       || [W-<Cj>] [JLKW <Pr>] [>XRJ H-HBL <Co>]
+ JER 02,05 3plM Way0 [coordin] NQQN    112    21 16..         |                   |      |   |   |   |   |       ||     [W-<Cj>] [JHBLW <Pr>]
+                               -------                        |                   |      |   |   |   |   |       |+-------------------------/
  JER 02,06 3pl- WxQ0 [coordin] NQQ     112    22 14..         |                   |      |   |   |   |   |      [W-<Cj>] [L> <Ng>] [>MRW <Pr>]
                                =======                        |                   |      |   |   |   |   |        +=========================\
  JER 02,06 ---- NmCl  <<  [Q]  NQQQ    1121   23 15.q         |                   |      |   |   |   |   |        | [>JH <PC>] [JHWH <Su>]
@@ -33,23 +33,23 @@
  JER 02,06 -sgM Ptcp [coordin] NQQQ    1121   25 16..         |                   |      |   |   |   |   |        |     [H-<Re>] [MWLJK <PC>] [>TNW <Ob>] [B--MDBR / B->RY <RBH W-CWXH / B->RY YJH W-YLMWT / B->RY <sp><sp><sp><Co>]
  JER 02,06 3sgM xQtX [attrib.] NQQQ    1121   26 17..         |                   |      |   |   |   |   |        |         [L> <Ng>] [<BR <Pr>] [BH <Co>] [>JC <Su>]
  JER 02,06 3sgM WxQX [coordin] NQQQ    1121   27 18..         |                   |      |   |   |   |   |        |             [W-<Cj>] [L> <Ng>] [JCB <Pr>] [>DM <Su>] [CM <Co>]
-                               =======                        |                   |      |   |   |   |            +=========================/
- JER 02,07 1sg- Way0  << xQtX  NQQN    112    28 12..         |                   |      |   |   |   |  [W-<Cj>] [>BJ> <Pr>] [>TKM <Ob>] [>L >RY H-KRML <Co>]
- JER 02,07 ---- InfC [adjunct] NQQN    112    29 14..         |                   |      |   |   |   |       |  [L->KL <Pr>] [PRJH W-VWBH <Ob>]
- JER 02,07 2plM Way0  << Way0  NQQN    112    30 13..         |                   |      |   |   |   |      [W-<Cj>] [TB>W <Pr>]
- JER 02,07 2plM Way0  << Way0  NQQN    112    31 13..         |                   |      |   |   |   |      [W-<Cj>] [TVM>W <Pr>] [>T >RYJ <Ob>]
- JER 02,07 2plM WxQ0  << Way0  NQQN    112    32 15..         |                   |      |   |   |   |            | [W-<Cj>] [NXLTJ <Ob>] [FMTM <Pr>] [L-TW<BH <Co>]
- JER 02,08 3pl- XQtl  << Way0  NQQN    112    33 14..         |                   |      |   |   |   |          [H-KHNJM <Su>] [L> <Ng>] [>MRW <Pr>]
-                               =======                        |                   |      |   |   |   |            |  |+==================\
- JER 02,08 ---- NmCl  <<  [Q]  NQQNQ   1122   34 16.q         |                   |      |   |   |   |            |   | [>JH <PC>] [JHWH <Su>]
-                               =======                        |                   |      |   |   |   |            |  |+==================/
- JER 02,08 3pl- WXQt  << XQtl  NQQN    112    35 15..         |                   |      |   |   |   |            | [W-<Cj>] [TPFJ H-TWRH <Su>] [L> <Ng>] [JD<WNJ <PO>]
- JER 02,08 3pl- WXQt  << WXQt  NQQN    1123   36 15.#         |                   |      |   |   |   |            | [W-<Cj>] [H-R<JM <Su>] [PC<W <Pr>] [BJ <Co>]
- JER 02,08 3pl- WXQt  << WXQt  NQQN    1124   37 15.#         |                   |      |   |   |   |            | [W-<Cj>] [H-NBJ>JM <Su>] [NB>W <Pr>] [B--B<L <Co>]
- JER 02,08 ---- Defc  << WXQt  NQQN    1124   38 16d.         |                   |      |   |   |   |            |     [W-<Cj>]
- JER 02,08 3plM ZYq0 [complm.] NQQN    1124   39 18.e         |                   |      |   |   |   |            |          |  [>XRJ L> JW<LW <Pr>]
- JER 02,08 3pl- ZQt0  << Defc  NQQN    1124   40 17..         |                   |      |   |   |   |            |         [HLKW <Pr>]
-                               -------                        |                   |      |   |   |                +-------------------------/
+                               -------                        |                   |      |   |   |   |+-------------------------------------\
+ JER 02,07 1sg- Way0  << xQtX  NQQN    112    28 12..         |                   |      |   |   |   || [W-<Cj>] [>BJ> <Pr>] [>TKM <Ob>] [>L >RY H-KRML <Co>]
+ JER 02,07 ---- InfC [adjunct] NQQN    112    29 14..         |                   |      |   |   |   ||      |  [L->KL <Pr>] [PRJH W-VWBH <Ob>]
+ JER 02,07 2plM Way0  << Way0  NQQN    112    30 13..         |                   |      |   |   |   ||     [W-<Cj>] [TB>W <Pr>]
+ JER 02,07 2plM Way0  << Way0  NQQN    112    31 13..         |                   |      |   |   |   ||     [W-<Cj>] [TVM>W <Pr>] [>T >RYJ <Ob>]
+ JER 02,07 2plM WxQ0  << Way0  NQQN    112    32 15..         |                   |      |   |   |   ||          |  [W-<Cj>] [NXLTJ <Ob>] [FMTM <Pr>] [L-TW<BH <Co>]
+ JER 02,08 3pl- XQtl  << Way0  NQQN    112    33 14..         |                   |      |   |   |   ||         [H-KHNJM <Su>] [L> <Ng>] [>MRW <Pr>]
+                               =======                        |                   |      |   |   |   ||              |+==================\
+ JER 02,08 ---- NmCl  <<  [Q]  NQQNQ   1122   34 16.q         |                   |      |   |   |   ||              || [>JH <PC>] [JHWH <Su>]
+                               =======                        |                   |      |   |   |   ||              |+==================/
+ JER 02,08 3pl- WXQt  << XQtl  NQQN    112    35 15..         |                   |      |   |   |   ||             [W-<Cj>] [TPFJ H-TWRH <Su>] [L> <Ng>] [JD<WNJ <PO>]
+ JER 02,08 3pl- WXQt  << WXQt  NQQN    1123   36 15.#         |                   |      |   |   |   ||             [W-<Cj>] [H-R<JM <Su>] [PC<W <Pr>] [BJ <Co>]
+ JER 02,08 3pl- WXQt  << WXQt  NQQN    1124   37 15.#         |                   |      |   |   |   ||             [W-<Cj>] [H-NBJ>JM <Su>] [NB>W <Pr>] [B--B<L <Co>]
+ JER 02,08 ---- Defc  << WXQt  NQQN    1124   38 16d.         |                   |      |   |   |   ||                 [W-<Cj>]
+ JER 02,08 3plM ZYq0 [complm.] NQQN    1124   39 18.e         |                   |      |   |   |   ||                      |  [>XRJ L> JW<LW <Pr>]
+ JER 02,08 3pl- ZQt0  << Defc  NQQN    1124   40 17..         |                   |      |   |   |   ||                     [HLKW <Pr>]
+                               -------                        |                   |      |   |   |   |+-------------------------------------/
  JER 02,09 1sg- xYq0  << xQtX  NQQ     112    41 11..         |                   |      |   |   |  [LKN <Mo>] [<D <Mo>] [>RJB <Pr>] [>TKM <Co>]
  JER 02,09 ---- NmCl  << xYq0  NQQ     112    42 12..         |                   |      |   |   |      [N>M JHWH <PC>]
  JER 02,09 1sg- WxY0  << NmCl  NQQ     112    43 13..         |                   |      |   |   |          [W-<Cj>] [>T BNJ BNJKM <Co>] [>RJB <Pr>]
@@ -81,7 +81,7 @@
                                -------                        |                   |      |       |   |           |    +---------------------\
  JER 02,15 3plM Way0  << ZQt0  NQQN    112    69 16..         |                   |      |       |   |           |    | [W-<Cj>] [JCJTW <Pr>] [>RYW <Ob>] [L-CMH <Co>]
  JER 02,15 3pl- XQtl  << Way0  NQQN    112    70 17..         |                   |      |       |   |           |    |     [<RJW <Su>] [NYTH <Pr>] [M-BLJ JCB <Aj>]
-                               -------                        |                   |      |       |   |                +---------------------/
+                               -------                        |                   |      |       |   |           |    +---------------------/
  JER 02,16 3plM XYqt  << xYqX  NQQ     112    71 14..         |                   |      |       |   |          [GM BNJ NP W-TXPNS <Su>] [JR<WK <PO>] [QDQD <Aj>]
  JER 02,17 3sgF xYq0  << NmCl  NQQ     112    72 11..         |                   |      |       |  [H-<Qu>] [LW> <Ng>] [Z>T <Ob>] [T<FH <Pr>] [LK <Co>]
  JER 02,17 ---- InfC [subject] NQQ     112    73 13..         |                   |      |       |       |  [<ZBK <Ps>] [>T JHWH / >LHJK <ap><Ob>] [B-<T <Ti>]
@@ -103,24 +103,24 @@
  JER 02,20 2sgF xQt0  << NmCl  NQQ     112    89 10..         |                   |      |      [KJ <Cj>] [M-<WLM <Ti>] [CBRTJ <Pr>] [<LK <Co>]
  JER 02,20 2sgF ZQt0 [coordin] NQQ     112    90 11..         |                   |      |          [NTQTJ <Pr>] [MWSRTJK <Ob>]
                                -------                        |                   |      |               |+---------------------------------\
- JER 02,20 2sgF Way0  << ZQt0  NQQN    112    91 13..         |                   |      |                | [W-<Cj>] [T>MRJ <Pr>]
+ JER 02,20 2sgF Way0  << ZQt0  NQQN    112    91 13..         |                   |      |               || [W-<Cj>] [T>MRJ <Pr>]
                                =======                        |                   |      |               ||      |+======================\
- JER 02,20 1sg- xYq0  <<  [Q]  NQQNQ   1126   92 15.q         |                   |      |                |       | [L> <Ng>] [><BD <Pr>]
-                               =======                        |                   |      |               ||       +======================/
- JER 02,20 -sgF Ptcp  << Way0  NQQN    112    93 14..         |                   |      |                |     [KJ <Cj>] [<L KL GB<H GBHH W-TXT KL <Y R<NN <Co>] [>T <Su>] [Y<H <PC>]
- JER 02,20 -sgF Ptcp [attrib.] NQQN    112    94 16..         |                   |      |                |          |  [ZNH <PC>]
- JER 02,21 1sg- WXQt  << Ptcp  NQQN    1127   95 15.#         |                   |      |                |         [W-<Cj>] [>NKJ <Su>] [NV<TJK <PO>] [FRQ <Pj>]
- JER 02,21 ---- NmCl  << WXQt  NQQN    1127   96 17..         |                   |      |                |              |  [KLH <Su>] [ZR< >MT <PC>]
- JER 02,21 2sgF WxQ0  << WXQt  NQQN    1127   97 16..         |                   |      |                |             [W-<Cj>] [>JK <Qu>] [NHPKT <Pr>] [LJ <Co>] [SWRJ H-GPN NKRJH <Ob>]
-                               -------                        |                   |      |                +---------------------------------/
+ JER 02,20 1sg- xYq0  <<  [Q]  NQQNQ   1126   92 15.q         |                   |      |               ||      || [L> <Ng>] [><BD <Pr>]
+                               =======                        |                   |      |               ||      |+======================/
+ JER 02,20 -sgF Ptcp  << Way0  NQQN    112    93 14..         |                   |      |               ||     [KJ <Cj>] [<L KL GB<H GBHH W-TXT KL <Y R<NN <Co>] [>T <Su>] [Y<H <PC>]
+ JER 02,20 -sgF Ptcp [attrib.] NQQN    112    94 16..         |                   |      |               ||          |  [ZNH <PC>]
+ JER 02,21 1sg- WXQt  << Ptcp  NQQN    1127   95 15.#         |                   |      |               ||         [W-<Cj>] [>NKJ <Su>] [NV<TJK <PO>] [FRQ <Pj>]
+ JER 02,21 ---- NmCl  << WXQt  NQQN    1127   96 17..         |                   |      |               ||              |  [KLH <Su>] [ZR< >MT <PC>]
+ JER 02,21 2sgF WxQ0  << WXQt  NQQN    1127   97 16..         |                   |      |               ||             [W-<Cj>] [>JK <Qu>] [NHPKT <Pr>] [LJ <Co>] [SWRJ H-GPN NKRJH <Ob>]
+                               -------                        |                   |      |               |+---------------------------------/
  JER 02,22 2sgF xYq0  << ZQt0  NQQ     112    98 12..         |                   |      |              [KJ >M <Cj>] [TKBSJ <Pr>] [B--NTR <Co>]
  JER 02,22 2sgF WYq0  << xYq0  NQQ     112    99 14..         |                   |      |                   |  [W-<Cj>] [TRBJ <Pr>] [LK <Co>] [BRJT <Ob>]
  JER 02,22 -sgM Ptcp  << xYq0  NQQ     112   100 13..         |                   |      |                  [NKTM <PC>] [<WNK <Su>] [L-PNJ <Co>]
  JER 02,22 ---- NmCl  << Ptcp  NQQ     112   101 14..         |                   |      |                      [N>M >DNJ JHWH <PC>]
  JER 02,23 2sgF xYq0  << xQtX  NQQ     112   102  8..         |                   |     [>JK <Qu>] [T>MRJ <Pr>]
                                =======                        |                   |          |   |   |   |+=================================\
- JER 02,23 1sg- xQt0  <<  [Q]  NQQQ    1128  103 13.q         |                   |          |   |   |    | [L> <Ng>] [NVM>TJ <Pr>]
- JER 02,23 1sg- xQt0  << xQt0  NQQQ    1128  104 14..         |                   |          |   |   |    |     [>XRJ H-B<LJM <Co>] [L> <Ng>] [HLKTJ <Pr>]
+ JER 02,23 1sg- xQt0  <<  [Q]  NQQQ    1128  103 13.q         |                   |          |   |   |   || [L> <Ng>] [NVM>TJ <Pr>]
+ JER 02,23 1sg- xQt0  << xQt0  NQQQ    1128  104 14..         |                   |          |   |   |   ||     [>XRJ H-B<LJM <Co>] [L> <Ng>] [HLKTJ <Pr>]
                                =======                        |                   |          |   |   |   |+=================================/
  JER 02,23 2sgF ZIm0  << xYq0  NQQ     112   105 12..         |                   |          |   |   |  [R>J <Pr>] [DRKK / B--GJ> <sp><Ob>]
  JER 02,23 2sgF ZIm0  << ZIm0  NQQ     112   106 12..         |                   |          |   |   |  [D<J <Pr>]
@@ -143,25 +143,25 @@
  JER 02,25 ---- NmCl  << Ptcp  NQQNQ   1129  121 16..         |                   |          |   |   |    |   |      |  [LW> <Ng>]
  JER 02,25 1sg- xQt0  << Ptcp  NQQNQ   1129  122 15..         |                   |          |   |   |    |   |     [KJ <Cj>] [>HBTJ <Pr>] [ZRJM <Ob>]
  JER 02,25 1sg- WxY0  << xQt0  NQQNQ   1129  123 16..         |                   |          |   |   |    |   |         [W-<Cj>] [>XRJHM <Co>] [>LK <Pr>]
-                               -------                        |                   |          |   |        +---------------------------------/
+                               -------                        |                   |          |   |   |    +---------------------------------/
  JER 02,26 ---- NmCl  << xYq0  NQQ     112   124 11..         |                   |          |   |  [K-BCT GNB <Aj>]
  JER 02,26 3sgM xYq0  << NmCl  NQQ     112   125 13..         |                   |          |   |       |  [KJ <Cj>] [JMY> <Pr>]
  JER 02,26 3pl- xQtX  << NmCl  NQQ     112   126 12..         |                   |          |   |      [KN <Mo>] [HBJCW <Pr>] [BJT JFR>L / HMH / MLKJHM FRJHM W-KHNJHM W-NBJ>JHM <sp><sp><Su>]
  JER 02,27 -plM Ptcp [attrib.] NQQ     112   127 15..         |                   |          |   |           |   |  [>MRJM <PC>] [L--<Y <Co>]
                                =======                        |                   |          |   |           |   |       |+=================\
- JER 02,27 ---- NmCl  <<  [Q]  NQQQ    11210 128 17.q         |                   |          |   |           |   |        | [>BJ <PC>] [>TH <Su>]
-                               =======                        |                   |          |   |           |   |        +=================/
+ JER 02,27 ---- NmCl  <<  [Q]  NQQQ    11210 128 17.q         |                   |          |   |           |   |       || [>BJ <PC>] [>TH <Su>]
+                               =======                        |                   |          |   |           |   |       |+=================/
  JER 02,27 ---- Ellp  << Ptcp  NQQ     112   129 16l.         |                   |          |   |           |   |      [W-<Cj>] [L-->BN <Co>]
                                =======                        |                   |          |   |           |   |        +=================\
  JER 02,27 2sgF XQtl  <<  [Q]  NQQQ    11211 130 17.q         |                   |          |   |           |   |        | [>T <Su>] [JLDTNJ <PO>]
-                               =======                        |                   |          |   |           |            +=================/
+                               =======                        |                   |          |   |           |   |        +=================/
  JER 02,27 3pl- xQt0  << xQtX  NQQ     112   131 14..         |                   |          |   |           |  [KJ <Cj>] [PNW <Pr>] [>LJ <Co>] [<RP <Ob>]
  JER 02,27 ---- Ellp  << xQt0  NQQ     112   132 16l.         |                   |          |   |           |       |  [W-<Cj>] [L> <Ng>] [PNJM <Ob>]
  JER 02,27 3plM WxY0  << xQt0  NQQ     112   133 15..         |                   |          |   |           |      [W-<Cj>] [B-<T R<TM <Ti>] [J>MRW <Pr>]
                                =======                        |                   |          |   |           |        +=====================\
  JER 02,27 2sgM ZIm0  <<  [Q]  NQQQ    11212 134 16.q         |                   |          |   |           |        | [QWMH <Pr>]
  JER 02,27 2sgM WIm0  << ZIm0  NQQQ    11212 135 17..         |                   |          |   |           |        |     [W-<Cj>] [HWCJ<NW <PO>]
-                               =======                        |                   |          |   |                    +=====================/
+                               =======                        |                   |          |   |           |        +=====================/
  JER 02,28 ---- NmCl  << xQtX  NQQ     112   136 13..         |                   |          |   |          [W-<Cj>] [>JH <PC>] [>LHJK <Su>]
  JER 02,28 2sgM xQt0 [attrib.] NQQ     112   137 15..         |                   |          |   |               |  [>CR <Re>] [<FJT <Pr>] [LK <Co>]
  JER 02,28 3plM ZYq0  << NmCl  NQQ     112   138 14..         |                   |          |   |              [JQWMW <Pr>]
@@ -170,19 +170,19 @@
  JER 02,28 ---- Voct  << xQtX  NQQ     112   141 16v.         |                   |          |   |                      [JHWDH <Vo>]
  JER 02,29 2plM xYq0  << xYq0  NQQ     112   142 10..         |                   |          |  [LMH <Qu>] [TRJBW <Pr>] [>LJ <Co>]
  JER 02,29 2plM XQtl  << xYq0  NQQ     112   143 12..         |                   |          |       |  [KLKM <Su>] [PC<TM <Pr>] [BJ <Co>]
- JER 02,29 ---- NmCl  << XQtl  NQQ     112   144 15..         |                   |          |       |   |   |   |  [N>M JHWH <PC>]
- JER 02,30 1sg- xQt0  << XQtl  NQQ     112   145 14..         |                   |          |       |   |   |  [L--CW> <Aj>] [HKJTJ <Pr>] [>T BNJKM <Ob>]
- JER 02,30 3pl- xQt0  << xQt0  NQQ     112   146 15..         |                   |          |       |   |   |      [MWSR <Ob>] [L> <Ng>] [LQXW <Pr>]
- JER 02,30 3sgF ZQtX  << XQtl  NQQ     112   147 13..         |                   |          |       |   |  [>KLH <Pr>] [XRBKM <Su>] [NBJ>JKM <Ob>] [K->RJH MCXJT <Aj>]
+ JER 02,29 ---- NmCl  << XQtl  NQQ     112   144 15..         |                   |          |       |       |   |  [N>M JHWH <PC>]
+ JER 02,30 1sg- xQt0  << XQtl  NQQ     112   145 14..         |                   |          |       |       |  [L--CW> <Aj>] [HKJTJ <Pr>] [>T BNJKM <Ob>]
+ JER 02,30 3pl- xQt0  << xQt0  NQQ     112   146 15..         |                   |          |       |       |      [MWSR <Ob>] [L> <Ng>] [LQXW <Pr>]
+ JER 02,30 3sgF ZQtX  << XQtl  NQQ     112   147 13..         |                   |          |       |      [>KLH <Pr>] [XRBKM <Su>] [NBJ>JKM <Ob>] [K->RJH MCXJT <Aj>]
  JER 02,31 ---- Voct  >> XImp  NQQ     112   148 12v\         |                   |          |       |  [H-DWR <Vo>]
  JER 02,31 2plM XImp  << xYq0  NQQ     112   149 11..         |                   |          |      [>TM <Su>] [R>W <Pr>] [DBR JHWH <Ob>]
  JER 02,31 1sg- xQt0  << XImp  NQQ     112   150 12..         |                   |          |          [H-<Qu>] [MDBR <PC>] [HJJTJ <Pr>] [L-JFR>L <Co>]
  JER 02,31 ---- NmCl  << xQt0  NQQ     112   151 14..         |                   |          |               |  [>M <Cj>] [>RY M>PLJH <PC>]
  JER 02,31 3pl- xQtX  << xQt0  NQQ     112   152 13..         |                   |          |              [MDW< <Qu>] [>MRW <Pr>] [<MJ <Su>]
                                =======                        |                   |          |                   |+=========================\
- JER 02,31 1pl- ZQt0  <<  [Q]  NQQQ    11213 153 15.q         |                   |          |                    | [RDNW <Pr>]
- JER 02,31 1pl- xYq0  << ZQt0  NQQQ    11213 154 16..         |                   |          |                    |     [LW> <Ng>] [NBW> <Pr>] [<WD <Mo>] [>LJK <Co>]
-                               =======                        |                   |          |                    +=========================/
+ JER 02,31 1pl- ZQt0  <<  [Q]  NQQQ    11213 153 15.q         |                   |          |                   || [RDNW <Pr>]
+ JER 02,31 1pl- xYq0  << ZQt0  NQQQ    11213 154 16..         |                   |          |                   ||     [LW> <Ng>] [NBW> <Pr>] [<WD <Mo>] [>LJK <Co>]
+                               =======                        |                   |          |                   |+=========================/
  JER 02,32 3sgF xYqX  << xQtX  NQQ     112   155 14..         |                   |          |                  [H-<Qu>] [TCKX <Pr>] [BTWLH <Su>] [<DJH <Ob>]
  JER 02,32 ---- Ellp  << xYqX  NQQ     112   156 16l.         |                   |          |                       |  [KLH <Su>] [QCRJH <Ob>]
  JER 02,32 3pl- WXQt  << xYqX  NQQ     11214 157 15.#         |                   |          |                      [W-<Cj>] [<MJ <Su>] [CKXWNJ <PO>] [JMJM <Ti>]
@@ -198,12 +198,12 @@
                                =======                        |                   |          |       |        |   +======================\
  JER 02,35 1sg- xQt0  <<  [Q]  NQQNQ   11215 166 15.q         |                   |          |       |        |   | [KJ <Cj>] [NQJTJ <Pr>]
  JER 02,35 3sgM xQtX  << xQt0  NQQNQ   11215 167 16..         |                   |          |       |        |   |     [>K <Mo>] [CB <Pr>] [>PW <Su>] [MMNJ <Co>]
-                               -------                        |                   |          |                +-----------------------------/
+                               -------                        |                   |          |       |        +-----------------------------/
  JER 02,35 -sgM Ptcp  << xQt0  NQQ     112   168 11..         |                   |          |      [HNNJ <Is>] [NCPV <PC>] [>WTK <Ob>]
  JER 02,35 ---- InfC [adjunct] NQQ     112   169 12..         |                   |          |          [<L >MRK <Ps>]
                                =======                        |                   |          |            +=================================\
  JER 02,35 1sg- xQt0  <<  [Q]  NQQQ    11216 170 13.q         |                   |          |            | [L> <Ng>] [XV>TJ <Pr>]
-                               =======                        |                   |                       +=================================/
+                               =======                        |                   |          |            +=================================/
  JER 02,36 2sgF xYq0  << xYq0  NQQ     112   171  9..         |                   |         [MH <Qu>] [TZLJ <Pr>] [M>D <Mo>]
  JER 02,36 ---- InfC [adjunct] NQQ     112   172 11..         |                   |              |  [L-CNWT <Pr>] [>T DRKK <Ob>]
  JER 02,36 2sgF xYq0  << xYq0  NQQ     112   173 10..         |                   |             [GM M-MYRJM <Co>] [TBWCJ <Pr>]

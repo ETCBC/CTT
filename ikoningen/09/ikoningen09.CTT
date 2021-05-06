@@ -24,7 +24,7 @@
  IKON09,05 ---- InfC [adjunct] NQ      121    23  8..    |    |          |              [L->MR <Pr>]
                                =======                   |    |          |                +====================================================\
  IKON09,05 3sgM xYqX  <<  [Q]  NQQ     1211   24  9.q    |    |          |                | [L> <Ng>] [JKRT <Pr>] [LK <Co>] [>JC <Su>] [M-<L KS> JFR>L <Aj>]
-                               =======                   |    |                           +====================================================/
+                               =======                   |    |          |                +====================================================/
  IKON09,06 2plM xYqX  << CPen  NQ      121    25  4..    |    |         [>M <Cj>] [CWB <Mo>] [TCBWN <Pr>] [>TM W-BNJKM <Su>] [M->XRJ <Co>]
  IKON09,06 2plM WxY0 [coordin] NQ      121    26  7..    |    |              |   |  [W-<Cj>] [L> <Ng>] [TCMRW <Pr>] [MYWTJ / XQTJ <ap><Ob>]
  IKON09,06 1sg- xQt0 [attrib.] NQ      121    27  8..    |    |              |   |      [>CR <Re>] [NTTJ <Pr>] [L-PNJKM <Co>]
@@ -44,19 +44,19 @@
  IKON09,08 3sgM WQt0  << Defc  NQ      121    41 10..    |    |                      |          [W-<Cj>] [CRQ <Pr>]
  IKON09,08 3pl- WQt0  << WQtX  NQ      121    42  7..    |    |                     [W-<Cj>] [>MRW <Pr>]
                                =======                   |    |                      |+========================================================\
- IKON09,08 3sgM xQtX  <<  [Q]  NQQ     1212   43  8.q    |    |                       | [<L MH <Aj>] [<FH <Pr>] [JHWH <Su>] [KKH <Mo>] [L-->RY H-Z>T W-L--BJT H-ZH <Co>]
-                               =======                   |    |                       +========================================================/
+ IKON09,08 3sgM xQtX  <<  [Q]  NQQ     1212   43  8.q    |    |                      || [<L MH <Aj>] [<FH <Pr>] [JHWH <Su>] [KKH <Mo>] [L-->RY H-Z>T W-L--BJT H-ZH <Co>]
+                               =======                   |    |                      |+========================================================/
  IKON09,09 3pl- WQt0  << WQt0  NQ      121    44  7..    |    |                     [W-<Cj>] [>MRW <Pr>]
                                =======                   |    |                       +========================================================\
  IKON09,09 3pl- xQt0  <<  [Q]  NQQ     1213   45  8.q    |    |                       | [<L >CR <Cj>] [<ZBW <Pr>] [>T JHWH / >LHJHM <ap><Ob>]
  IKON09,09 3sgM xQt0 [attrib.] NQQ     1213   46 11..    |    |                       |      |   |  [>CR <Re>] [HWYJ> <Pr>] [>T >BTM <Ob>] [M->RY MYRJM <Co>]
                                -------                   |    |                       |      |+---------------------------------------------\
- IKON09,09 3plM Way0  << xQt0  NQQN    1213   47 10..    |    |                       |       | [W-<Cj>] [JXZQW <Pr>] [B->LHJM >XRJM <Co>]
- IKON09,09 3plM Way0  << Way0  NQQN    1213   48 10..    |    |                       |       | [W-<Cj>] [JCTXW <Pr>] [LHM <Co>]
- IKON09,09 3plM Way0  << Way0  NQQN    1213   49 11..    |    |                       |       |     [W-<Cj>] [J<BDM <PO>]
-                               -------                   |    |                       |       +---------------------------------------------/
+ IKON09,09 3plM Way0  << xQt0  NQQN    1213   47 10..    |    |                       |      || [W-<Cj>] [JXZQW <Pr>] [B->LHJM >XRJM <Co>]
+ IKON09,09 3plM Way0  << Way0  NQQN    1213   48 10..    |    |                       |      || [W-<Cj>] [JCTXW <Pr>] [LHM <Co>]
+ IKON09,09 3plM Way0  << Way0  NQQN    1213   49 11..    |    |                       |      ||     [W-<Cj>] [J<BDM <PO>]
+                               -------                   |    |                       |      |+---------------------------------------------/
  IKON09,09 3sgM xQtX  << xQt0  NQQ     1213   50  9..    |    |                       |     [<L KN <Aj>] [HBJ> <Pr>] [JHWH <Su>] [<LJHM <Co>] [>T KL H-R<H H-Z>T <Ob>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  IKON09,10 3sgM Way0  << Way0  N       2      51  0.#   [W-<Cj>] [JHJ <Pr>] [M-QYH <FRJM CNH <Ti>]
  IKON09,10 3sgM xQtX [attrib.] N       2      52  2..    |   |  [>CR <Re>] [BNH <Pr>] [CLMH <Su>] [>T CNJ H-BTJM / >T BJT JHWH W->T BJT H-MLK <ap><Ob>]
  IKON09,11 3sgM XQtl  << Way0  N       2      53  1..    |  [XJRM / MLK YR <ap><Su>] [NF> <Pr>] [>T CLMH <Ob>] [B-<YJ >RZJM W-B-<YJ BRWCJM W-B--ZHB <Co>] [L-KL XPYW <Aj>]
@@ -75,7 +75,7 @@
                                =======                   |    |   |      |    +=============================================================/
  IKON09,13 3sgM Way0  << WayX  NDN     21     63  4..    |    |   |     [W-<Cj>] [JQR> <Pr>] [LHM <Co>] [>RY KBWL <Ob>] [<D H-JWM H-ZH <Ti>]
  IKON09,14 3sgM WayX  << Way0  NDN     212    64  4.#    |    |   |     [W-<Cj>] [JCLX <Pr>] [XJRM <Su>] [L--MLK <Co>] [M>H W-<FRJM KKR ZHB <Ob>]
-                               -------                        +-----------------------------------------------------------------------------------/
+                               -------                   |    +-----------------------------------------------------------------------------------/
  IKON09,15 ---- NmCl  << Way0  N       3      65  0.#   [W-<Cj>] [ZH <Su>] [DBR H-MS <PC>]
  IKON09,15 3sgM xQtX [attrib.] N       3      66  2..    |   |  [>CR <Re>] [H<LH <Pr>] [H-MLK / CLMH <ap><Su>]
  IKON09,15 ---- InfC [adjunct] N       3      67  3..    |   |      [L-BNWT <Pr>] [>T BJT JHWH W->T BJTW W->T H-MLW> W->T XWMT JRWCLM W->T XYR W->T MGDW W->T GZR <Ob>]

@@ -1,23 +1,24 @@
- DAN 12,01 3sgM WxYX  <<  [R]  Q       1       1  1..       [W-<Cj>] [B--<T H-HJ> <Ti>] [J<MD <Pr>] [MJK>L / H-FR H-GDWL <ap><Su>]
- DAN 12,01 -sgM Ptcp [attrib.] Q       1       2  5..    |       |   |   |  [H-<Re>] [<MD <PC>] [<L BNJ <MK <Co>]
- DAN 12,01 3sgF WQtX  << WxYX  Q       1       3  4..    |       |   |  [W-<Cj>] [HJTH <Pr>] [<T YRH <Su>]
- DAN 12,01 3sgF xQt0 [attrib.] Q       1       4  5..    |       |   |      [>CR <Re>] [L> <Ng>] [NHJTH <Pr>]
- DAN 12,01 ---- InfC [adjunct] Q       1       5  7.e    |       |   |           |  [M-HJWT <Pr>] [GWJ <Su>]
- DAN 12,01 ---- Defc  << xQt0  Q       1       6  6d.    |       |   |          [<D H-<T H-HJ> <Ti>]
- DAN 12,01 3sgM WxYX  << WxYX  Q       1       7  3..    |       |  [W-<Cj>] [B--<T H-HJ> <Ti>] [JMLV <Pr>] [<MK / KL <sp><Su>]
- DAN 12,01 -sgM Ptcp [reg/rec] Q       1       8  5..    |       |       |  [H-<Re>] [NMY> <PC>]
- DAN 12,01 -sgM Ptcp [pradjun] Q       1       9  6..    |       |       |      [KTWB <PC>] [B--SPR <Co>]
- DAN 12,02 3plM WXYq  << WxYX  Q       1      10  4..    |       |      [W-<Cj>] [RBJM / M-JCNJ >DMT <PR <sp><Su>] [JQJYW <Pr>]
- DAN 12,02 ---- Ellp  << WXYq  Q       1      11  6l.    |       |           |  [>LH <Su>] [L-XJJ <WLM <Co>]
- DAN 12,02 ---- Ellp  << Ellp  Q       1      12  7l.    |       |           |      [W-<Cj>] [>LH <Su>] [L-XRPWT / L-DR>WN <WLM <sp><Co>]
- DAN 12,03 3plM WXYq  << WXYq  Q       1      13  5..    |       |          [W-<Cj>] [H-MFKLJM <Su>] [JZHRW <Pr>] [K-ZHR H-RQJ< <Aj>]
- DAN 12,03 ---- Ellp  << WXYq  Q       1      14  6l.    |       |              [W-<Cj>] [MYDJQJ H-RBJM <Su>] [K--KWKBJM <Aj>] [L-<WLM W-<D <Ti>]
- DAN 12,04 ---- Defc  << WxYX  Q       1      15  2d.    |      [W-<Cj>] [>TH <Su>]
- DAN 12,04 ---- Voct  << Defc  Q       1      16  5ve    |           |   |  [DNJ>L <Vo>]
- DAN 12,04 2sgM ZIm0  << Defc  Q       1      17  4..    |           |  [STM <Pr>] [H-DBRJM <Ob>]
- DAN 12,04 2sgM WIm0  << Defc  Q       1      18  3..    |          [W-<Cj>] [XTM <Pr>] [H-SPR <Ob>] [<D <T QY <Ti>]
- DAN 12,04 3plM ZYqX  << WIm0  Q       11     19  4.#    |              [JCVVW <Pr>] [RBJM <Su>]
- DAN 12,04 3sgF WYqX  << ZYqX  Q       11     20  5..    |                  [W-<Cj>] [TRBH <Pr>] [H-D<T <Su>]
+ DAN 12,01 3sgM WxYX  <<  [R]  Q       1       1  1..     | [W-<Cj>] [B--<T H-HJ> <Ti>] [J<MD <Pr>] [MJK>L / H-FR H-GDWL <ap><Su>]
+ DAN 12,01 -sgM Ptcp [attrib.] Q       1       2  5..     |      |   |   |  [H-<Re>] [<MD <PC>] [<L BNJ <MK <Co>]
+ DAN 12,01 3sgF WQtX  << WxYX  Q       1       3  4..     |      |   |  [W-<Cj>] [HJTH <Pr>] [<T YRH <Su>]
+ DAN 12,01 3sgF xQt0 [attrib.] Q       1       4  5..     |      |   |      [>CR <Re>] [L> <Ng>] [NHJTH <Pr>]
+ DAN 12,01 ---- InfC [adjunct] Q       1       5  7.e     |      |   |           |  [M-HJWT <Pr>] [GWJ <Su>]
+ DAN 12,01 ---- Defc  << xQt0  Q       1       6  6d.     |      |   |          [<D H-<T H-HJ> <Ti>]
+ DAN 12,01 3sgM WxYX  << WxYX  Q       1       7  3..     |      |  [W-<Cj>] [B--<T H-HJ> <Ti>] [JMLV <Pr>] [<MK / KL <sp><Su>]
+ DAN 12,01 -sgM Ptcp [reg/rec] Q       1       8  5..     |      |       |  [H-<Re>] [NMY> <PC>]
+ DAN 12,01 -sgM Ptcp [pradjun] Q       1       9  6..     |      |       |      [KTWB <PC>] [B--SPR <Co>]
+ DAN 12,02 3plM WXYq  << WxYX  Q       1      10  4..     |      |      [W-<Cj>] [RBJM / M-JCNJ >DMT <PR <sp><Su>] [JQJYW <Pr>]
+ DAN 12,02 ---- Ellp  << WXYq  Q       1      11  6l.     |      |           |  [>LH <Su>] [L-XJJ <WLM <Co>]
+ DAN 12,02 ---- Ellp  << Ellp  Q       1      12  7l.     |      |           |      [W-<Cj>] [>LH <Su>] [L-XRPWT / L-DR>WN <WLM <sp><Co>]
+ DAN 12,03 3plM WXYq  << WXYq  Q       1      13  5..     |      |          [W-<Cj>] [H-MFKLJM <Su>] [JZHRW <Pr>] [K-ZHR H-RQJ< <Aj>]
+ DAN 12,03 ---- Ellp  << WXYq  Q       1      14  6l.     |      |              [W-<Cj>] [MYDJQJ H-RBJM <Su>] [K--KWKBJM <Aj>] [L-<WLM W-<D <Ti>]
+ DAN 12,04 ---- Defc  << WxYX  Q       1      15  2d.     |     [W-<Cj>] [>TH <Su>]
+ DAN 12,04 ---- Voct  << Defc  Q       1      16  5ve     |          |   |  [DNJ>L <Vo>]
+ DAN 12,04 2sgM ZIm0  << Defc  Q       1      17  4..     |          |  [STM <Pr>] [H-DBRJM <Ob>]
+ DAN 12,04 2sgM WIm0  << Defc  Q       1      18  3..     |         [W-<Cj>] [XTM <Pr>] [H-SPR <Ob>] [<D <T QY <Ti>]
+ DAN 12,04 3plM ZYqX  << WIm0  Q       11     19  4.#     |             [JCVVW <Pr>] [RBJM <Su>]
+ DAN 12,04 3sgF WYqX  << ZYqX  Q       11     20  5..     |                 [W-<Cj>] [TRBH <Pr>] [H-D<T <Su>]
+                               =======                +==============================================================================================\
  DAN 12,05 1sg- WQtX  <<  [R]  Q       2      21  0.N   [W-<Cj>] [R>JTJ <Pr>] [>NJ / DNJ>L <ap><Su>]
  DAN 12,05 ---- NmCl  << WQtX  Q       2      22  1..       [W-<Cj>] [HNH <Ij>]
  DAN 12,05 -plM Ptcp  << NmCl  Q       2      23  2..           [CNJM >XRJM <Su>] [<MDJM <PC>]
@@ -27,8 +28,8 @@
  DAN 12,06 3sgM Way0  << Ellp  QN      21     26  4.#                 | [W-<Cj>] [J>MR <Pr>] [L-->JC LBWC H-BDJM <Co>]
  DAN 12,06 ---- NmCl [attrib.] QN      21     27  7..                 |      |   |  [>CR <Re>] [M-M<L / L-MJMJ H-J>R <sp><PC>]
                                =======                                |      |+================================================================\
- DAN 12,06 ---- NmCl  <<  [Q]  QNQ     211    28  6.q                 |       | [<D MTJ <PC>] [QY H-PL>WT <Su>]
-                               =======                                |       +================================================================/
+ DAN 12,06 ---- NmCl  <<  [Q]  QNQ     211    28  6.q                 |      || [<D MTJ <PC>] [QY H-PL>WT <Su>]
+                               =======                                |      |+================================================================/
  DAN 12,07 1sg- Way0  << Way0  QN      21     29  5..                 |     [W-<Cj>] [>CM< <Pr>] [>T H->JC LBWC H-BDJM <Ob>]
  DAN 12,07 ---- NmCl [attrib.] QN      21     30  9..                 |          |   |   |  [>CR <Re>] [M-M<L / L-MJMJ H-J>R <sp><PC>]
  DAN 12,07 3sgM Way0  << Way0  QN      21     31  8..                 |          |   |  [W-<Cj>] [JRM <Pr>] [JMJNW W-FM>LW <Ob>] [>L H-CMJM <Co>]
@@ -37,18 +38,18 @@
                                -------                                |          |   |        +------------------------------------------------\
  DAN 12,07 ---- Defc [coordin] QND     21     34 10d.                 |          |   |        | [W-<Cj>]
  DAN 12,07 ---- InfC [adjunct] QND     21     35 12.\                 |          |   |        |      |  [K-KLWT <Pr>]
- DAN 12,07 ---- InfC [subject] QND     21     36 13.e                 |          |   |        |      |      [NPY <Pr>] [JD <M QDC <Ob>]
+ DAN 12,07 ---- InfC [subject] QND     21     36 13.e                 |          |   |        |      |   |  [NPY <Pr>] [JD <M QDC <Ob>]
  DAN 12,07 3plF ZYqX  << Defc  QND     21     37 11..                 |          |   |        |     [TKLJNH <Pr>] [KL >LH <Su>]
-                               -------                                |          |            +------------------------------------------------/
+                               -------                                |          |   |        +------------------------------------------------/
  DAN 12,08 1sg- WXQt  << Way0  QN      212    38  7.#                 |          |  [W-<Cj>] [>NJ <Su>] [CM<TJ <Pr>]
                                -------                                |          |    +--------------------------------------------------------\
  DAN 12,08 1sg- WxY0  << WXQt  QND     212    39  8..                 |          |    | [W-<Cj>] [L> <Ng>] [>BJN <Pr>]
-                               -------                                |               +--------------------------------------------------------/
+                               -------                                |          |    +--------------------------------------------------------/
  DAN 12,08 1sg- Way0  << Way0  QN      21     40  6..                 |         [W-<Cj>] [>MRH <Pr>]
                                =======                                |              |+========================================================\
- DAN 12,08 ---- Voct  << Way0  QNQ     21     41  8v.                 |               | [>DNJ <Vo>]
- DAN 12,08 ---- NmCl  << Voct  QNQ     21     42  9..                 |               |     [MH <PC>] [>XRJT >LH <Su>]
-                               =======                                |               +========================================================/
+ DAN 12,08 ---- Voct  << Way0  QNQ     21     41  8v.                 |              || [>DNJ <Vo>]
+ DAN 12,08 ---- NmCl  << Voct  QNQ     21     42  9..                 |              ||     [MH <PC>] [>XRJT >LH <Su>]
+                               =======                                |              |+========================================================/
  DAN 12,09 3sgM Way0  << Way0  QN      21     43  7..                 |             [W-<Cj>] [J>MR <Pr>]
                                =======                                |               +========================================================\
  DAN 12,09 2sgM ZIm0  <<  [Q]  QNQ     213    44  8.q                 |               | [LK <Pr>]

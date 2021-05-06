@@ -3,14 +3,14 @@
  JES 18,02 -sgM Ptcp [attrib.] Q       1       3  2..        |  [H-<Re>] [CLX <PC>] [B--JM <Co>] [YJRJM <Ob>]
  JES 18,02 ---- Ellp  << Ptcp  Q       1       4  4l.        |       |  [W-<Cj>] [B-KLJ GM> <Aj>] [<L PNJ MJM <Co>]
                                =======                       |    +===============================================================================\
- JES 18,02 2plM ZIm0  <<  [Q]  QQ      11      5  3.q        |   || [LKW <Pr>]
- JES 18,02 ---- Voct  << ZIm0  QQ      11      6  6ve        |   ||      |   |  [ML>KJM QLJM <Vo>]
- JES 18,02 ---- Defc  << ZIm0  QQ      11      7  5d.        |   ||      |  [>L GWJ MMCK W-MWRV <Co>]
- JES 18,02 ---- Ellp  << ZIm0  QQ      11      8  4l.        |   ||     [>L <M <Co>]
- JES 18,02 -sgM Ptcp [attrib.] QQ      11      9  6.e        |   ||          |  [NWR> <PC>] [MN HW> / W-/ HL>H <pa><cj><Co>]
- JES 18,02 ---- Defc  << Ellp  QQ      11     10  5d.        |   ||         [GWJ QW QW W-MBWSH <ap>]
- JES 18,02 3pl- xQtX [attrib.] QQ      11     11  6..        |   ||             [>CR <Re>] [BZ>W <Pr>] [NHRJM <Su>] [>RYW <Ob>]
-                               =======                            +===============================================================================/
+ JES 18,02 2plM ZIm0  <<  [Q]  QQ      11      5  3.q        |    | [LKW <Pr>]
+ JES 18,02 ---- Voct  << ZIm0  QQ      11      6  6ve        |    |      |   |  [ML>KJM QLJM <Vo>]
+ JES 18,02 ---- Defc  << ZIm0  QQ      11      7  5d.        |    |      |  [>L GWJ MMCK W-MWRV <Co>]
+ JES 18,02 ---- Ellp  << ZIm0  QQ      11      8  4l.        |    |     [>L <M <Co>]
+ JES 18,02 -sgM Ptcp [attrib.] QQ      11      9  6.e        |    |          |  [NWR> <PC>] [MN HW> / W-/ HL>H <pa><cj><Co>]
+ JES 18,02 ---- Defc  << Ellp  QQ      11     10  5d.        |    |         [GWJ QW QW W-MBWSH <ap>]
+ JES 18,02 3pl- xQtX [attrib.] QQ      11     11  6..        |    |             [>CR <Re>] [BZ>W <Pr>] [NHRJM <Su>] [>RYW <Ob>]
+                               =======                       |    +===============================================================================/
  JES 18,03 ---- Voct  << NmCl  Q       1      12  1v.       [KL JCBJ TBL W-CKNJ >RY <Vo>]
  JES 18,03 ---- InfC [adjunct] Q       1      13  3.\            |  [K-NF> <Pr>] [NS <Ob>] [HRJM <Lo>]
  JES 18,03 2plM ZYq0 [ref.Voc] Q       1      14  2..           [TR>W <Pr>]
@@ -19,12 +19,12 @@
  JES 18,03 2plM ZYq0  << Defc  Q       1      17  5..                |      [TCM<W <Pr>]
  JES 18,04 3sgM xQtX  << ZYq0  Q       1      18  3..               [KJ <Cj>] [KH <Mo>] [>MR <Pr>] [JHWH <Su>] [>LJ <Co>]
                                =======                                   |+=======================================================================\
- JES 18,04 1sg- ZYq0  <<  [Q]  QQ      12     19  5.q                     | [>CQWVH <Pr>]
- JES 18,04 1sg- WYq0  << ZYq0  QQ      12     20  6..                     |     [W-<Cj>] [>BJVH <Pr>] [B-MKWNJ <Lo>]
- JES 18,04 ---- InfC [adjunct] QQ      12     21  7..                     |         [K-XM <Pr>] [YX <Su>] [<LJ >WR <Aj>]
- JES 18,04 ---- NmCl [coordin] QQ      12     22  8..                     |             [K-<B VL <Aj>]
- JES 18,04 ---- InfC [adjunct] QQ      12     23  9..                     |                 [B-XM <Pr>] [QYJR <Su>]
-                               =======                                    +=======================================================================/
+ JES 18,04 1sg- ZYq0  <<  [Q]  QQ      12     19  5.q                    || [>CQWVH <Pr>]
+ JES 18,04 1sg- WYq0  << ZYq0  QQ      12     20  6..                    ||     [W-<Cj>] [>BJVH <Pr>] [B-MKWNJ <Lo>]
+ JES 18,04 ---- InfC [adjunct] QQ      12     21  7..                    ||         [K-XM <Pr>] [YX <Su>] [<LJ >WR <Aj>]
+ JES 18,04 ---- NmCl [coordin] QQ      12     22  8..                    ||             [K-<B VL <Aj>]
+ JES 18,04 ---- InfC [adjunct] QQ      12     23  9..                    ||                 [B-XM <Pr>] [QYJR <Su>]
+                               =======                                   |+=======================================================================/
  JES 18,05 ---- NmCl  << xQtX  Q       1      24  4..                   [KJ <Cj>] [L-PNJ QYJR <PC>]
  JES 18,05 ---- InfC [adjunct] Q       1      25  7..                        |   |  [K-TM <Pr>] [PRX <Su>]
  JES 18,05 3sgM WXYq [coordin] Q       1      26  8..                        |   |      [W-<Cj>] [BSR GML <Su>] [JHJH <Pr>] [NYH <PC>]

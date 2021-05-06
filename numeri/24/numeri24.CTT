@@ -29,17 +29,17 @@
  NUM 24,08 -sgM Ptcp  << ZYqX  NQ      213    28  6..    |            |  |   |  [>L <Su>] [MWYJ>W <po>] [M-MYRJM <Co>]
  NUM 24,08 ---- NmCl  << Ptcp  NQ      213    29  7..    |            |  |   |      [K-TW<PT R>M <Su>] [LW <PC>]
  NUM 24,08 3sgM ZYq0  << ZYqX  NQ      213    30  5..    |            |  |  [J>KL <Pr>] [GWJM / YRJW <sp><Ob>]
- NUM 24,08 3sgM WxY0  << ZYq0  NQ      213    31  7..    |            |  |   |   |  [W-<Cj>] [<YMTJHM <Ob>] [JGRM <Pr>]
- NUM 24,08 3sgM WxY0  << WxY0  NQ      213    32  8..    |            |  |   |   |      [W-<Cj>] [XYJW <Ob>] [JMXY <Pr>]
- NUM 24,09 3sgM ZQt0  << ZYq0  NQ      213    33  6..    |            |  |   |  [KR< <Pr>]
- NUM 24,09 3sgM ZQt0  << ZQt0  NQ      213    34  6..    |            |  |   |  [CKB <Pr>] [K->RJ W-K-LBJ> <Aj>]
- NUM 24,09 3sgM XYqt  << ZQt0  NQ      213    35  7..    |            |  |   |      [MJ <Su>] [JQJMNW <PO>]
+ NUM 24,08 3sgM WxY0  << ZYq0  NQ      213    31  7..    |            |  |       |  [W-<Cj>] [<YMTJHM <Ob>] [JGRM <Pr>]
+ NUM 24,08 3sgM WxY0  << WxY0  NQ      213    32  8..    |            |  |       |      [W-<Cj>] [XYJW <Ob>] [JMXY <Pr>]
+ NUM 24,09 3sgM ZQt0  << ZYq0  NQ      213    33  6..    |            |  |      [KR< <Pr>]
+ NUM 24,09 3sgM ZQt0  << ZQt0  NQ      213    34  6..    |            |  |      [CKB <Pr>] [K->RJ W-K-LBJ> <Aj>]
+ NUM 24,09 3sgM XYqt  << ZQt0  NQ      213    35  7..    |            |  |          [MJ <Su>] [JQJMNW <PO>]
  NUM 24,09 -plM Ptcp [subject] NQ      214    36  5.\    |            |  |  [MBRKJK <po>]
  NUM 24,09 -sgM Ptcp  << ZYqX  NQ      214    37  4.#    |            | [BRWK <PC>]
  NUM 24,09 ---- Defc  << Ptcp  NQ      214    38  5d.    |            |     [W-<Cj>]
  NUM 24,09 -plM Ptcp [subject] NQ      214    39  7.\    |            |          |  [>RRJK <po>]
  NUM 24,09 -sgM Ptcp  << Defc  NQ      214    40  6..    |            |         [>RWR <PC>]
-                               =======                                +===========================================================================/
+                               =======                   |            +===========================================================================/
  NUM 24,10 3sgM WayX  << WayX  N       3      41  0.#   [W-<Cj>] [JXR <Pr>] [>P BLQ <Su>] [>L BL<M <Co>]
  NUM 24,10 3sgM Way0  << WayX  N       3      42  2..        |  [W-<Cj>] [JSPQ <Pr>] [>T KPJW <Ob>]
  NUM 24,10 3sgM WayX  << WayX  N       31     43  1.#       [W-<Cj>] [J>MR <Pr>] [BLQ <Su>] [>L BL<M <Co>]
@@ -51,8 +51,8 @@
  NUM 24,11 2sgM ZIm0  << MSyn  NQ      311    48  5..        ||      |      [BRX <Pr>] [LK <sc>] [>L MQWMK <Co>]
  NUM 24,11 1sg- ZQt0  << ZQt0  NQ      311    49  3..        ||     [>MRTJ <Pr>]
                                =======                       ||          |+====================================================================\
- NUM 24,11 1sg- xYq0  <<  [Q]  NQQ     3111   50  5.q        ||           | [KBD <Mo>] [>KBDK <PO>]
-                               =======                       ||           +====================================================================/
+ NUM 24,11 1sg- xYq0  <<  [Q]  NQQ     3111   50  5.q        ||          || [KBD <Mo>] [>KBDK <PO>]
+                               =======                       ||          |+====================================================================/
  NUM 24,11 3sgM WxQX  << ZQt0  NQ      3112   51  4.#        ||         [W-<Cj>] [HNH <Ij>] [MN<K <PO>] [JHWH <Su>] [M-KBWD <Co>]
                                =======                       |+===================================================================================/
  NUM 24,12 3sgM WayX  << WayX  N       32     52  1.#       [W-<Cj>] [J>MR <Pr>] [BL<M <Su>] [>L BLQ <Co>]
@@ -62,13 +62,13 @@
  NUM 24,12 1sg- ZQt0  << Defc  NQ      321    55  5..        |   ||      |  [DBRTJ <Pr>]
  NUM 24,12 ---- InfC [adjunct] NQ      321    56  6..        |   ||      |      [L->MR <Pr>]
                                =======                       |   ||      |        +============================================================\
- NUM 24,13 3sgM xYqX  <<  [Q]  NQQ     3211   57  7.q        |   ||      |       || [>M <Cj>] [JTN <Pr>] [LJ <Co>] [BLQ <Su>] [ML> BJTW / KSP W-ZHB <sp><Ob>]
- NUM 24,13 1sg- xYq0  << xYqX  NQQ     3211   58  9..        |   ||      |       ||      |  [L> <Ng>] [>WKL <Pr>]
- NUM 24,13 ---- InfC [complm.] NQQ     3211   59 10..        |   ||      |       ||      |   |  [L-<BR <Pr>] [>T PJ JHWH <Ob>]
- NUM 24,13 ---- InfC [adjunct] NQQ     3211   60 11..        |   ||      |       ||      |   |      [L-<FWT <Pr>] [VWBH >W R<H <Ob>] [M-LBJ <Aj>]
- NUM 24,13 3sgM xYqX [object ] NQQ     3211   61  9.\        |   ||      |       ||      |  [>CR <Re>] [JDBR <Pr>] [JHWH <Su>]
- NUM 24,13 1sg- xYq0  << xYqX  NQQ     3211   62  8..        |   ||      |       ||     [>TW <Ob>] [>DBR <Pr>]
-                               =======                       |   ||               +============================================================/
+ NUM 24,13 3sgM xYqX  <<  [Q]  NQQ     3211   57  7.q        |   ||      |        | [>M <Cj>] [JTN <Pr>] [LJ <Co>] [BLQ <Su>] [ML> BJTW / KSP W-ZHB <sp><Ob>]
+ NUM 24,13 1sg- xYq0  << xYqX  NQQ     3211   58  9..        |   ||      |        |      |  [L> <Ng>] [>WKL <Pr>]
+ NUM 24,13 ---- InfC [complm.] NQQ     3211   59 10..        |   ||      |        |      |      [L-<BR <Pr>] [>T PJ JHWH <Ob>]
+ NUM 24,13 ---- InfC [adjunct] NQQ     3211   60 11..        |   ||      |        |      |          [L-<FWT <Pr>] [VWBH >W R<H <Ob>] [M-LBJ <Aj>]
+ NUM 24,13 3sgM xYqX [object ] NQQ     3211   61  9.\        |   ||      |        |      |  [>CR <Re>] [JDBR <Pr>] [JHWH <Su>]
+ NUM 24,13 1sg- xYq0  << xYqX  NQQ     3211   62  8..        |   ||      |        |     [>TW <Ob>] [>DBR <Pr>]
+                               =======                       |   ||      |        +============================================================/
  NUM 24,14 ---- MSyn  << Defc  NQ      321    63  4m.        |   ||     [W-<Cj>] [<TH <Ti>]
  NUM 24,14 -sgM Ptcp  << MSyn  NQ      321    64  6..        |   ||          |  [HNNJ <Is>] [HWLK <PC>] [L-<MJ <Co>]
  NUM 24,14 2sgM ZIm0  << MSyn  NQ      321    65  5..        |   ||         [LKH <Pr>]
@@ -101,31 +101,31 @@
  NUM 24,20 3sgM Way0  << Way0  N       32     89  3..        |   |  [W-<Cj>] [JF> <Pr>] [MCLW <Ob>]
  NUM 24,20 3sgM Way0  << Way0  N       32     90  4..        |   |      [W-<Cj>] [J>MR <Pr>]
                                =======                       |   |        +=======================================================================\
- NUM 24,20 ---- NmCl  <<  [Q]  NQ      324    91  5.q        |   |       || [R>CJT GWJM <PC>] [<MLQ <Su>]
- NUM 24,20 ---- NmCl  << NmCl  NQ      324    92  6..        |   |       ||     [W-<Cj>] [>XRJTW <Su>] [<DJ >BD <PC>]
-                               =======                       |            +=======================================================================/
+ NUM 24,20 ---- NmCl  <<  [Q]  NQ      324    91  5.q        |   |        | [R>CJT GWJM <PC>] [<MLQ <Su>]
+ NUM 24,20 ---- NmCl  << NmCl  NQ      324    92  6..        |   |        |     [W-<Cj>] [>XRJTW <Su>] [<DJ >BD <PC>]
+                               =======                       |   |        +=======================================================================/
  NUM 24,21 3sgM Way0  << Way0  N       32     93  2..        |  [W-<Cj>] [JR> <Pr>] [>T H-QJNJ <Ob>]
  NUM 24,21 3sgM Way0  << Way0  N       32     94  3..        |      [W-<Cj>] [JF> <Pr>] [MCLW <Ob>]
  NUM 24,21 3sgM Way0  << Way0  N       32     95  4..        |       |  [W-<Cj>] [J>MR <Pr>]
                                =======                       |       |    +=======================================================================\
- NUM 24,21 -sgM AjCl  <<  [Q]  NQ      325    96  5.q        |       |   || [>JTN <PC>] [MWCBK <Su>]
- NUM 24,21 -sgM Ptcp  << AjCl  NQ      325    97  7..        |       |   ||      |  [W-<Cj>] [FJM <PC>] [B--SL< <Co>] [QNK <Ob>]
- NUM 24,22 3sgM xYq0  << AjCl  NQ      325    98  6..        |       |   ||     [KJ >M <Cj>] [JHJH <Pr>]
- NUM 24,22 ---- InfC [predic.] NQ      325    99  9.e        |       |   ||          |   |  [L-B<R <Pr>]
- NUM 24,22 ---- Defc  << xYq0  NQ      325   100  8d.        |       |   ||          |  [QJN <Su>]
- NUM 24,22 3sgF XYqt  << xYq0  NQ      325   101  7..        |       |   ||         [<D MH <Ti>] [>CWR <Su>] [TCBK <PO>]
-                               =======                       |            +=======================================================================/
+ NUM 24,21 -sgM AjCl  <<  [Q]  NQ      325    96  5.q        |       |    | [>JTN <PC>] [MWCBK <Su>]
+ NUM 24,21 -sgM Ptcp  << AjCl  NQ      325    97  7..        |       |    |      |  [W-<Cj>] [FJM <PC>] [B--SL< <Co>] [QNK <Ob>]
+ NUM 24,22 3sgM xYq0  << AjCl  NQ      325    98  6..        |       |    |     [KJ >M <Cj>] [JHJH <Pr>]
+ NUM 24,22 ---- InfC [predic.] NQ      325    99  9.e        |       |    |          |   |  [L-B<R <Pr>]
+ NUM 24,22 ---- Defc  << xYq0  NQ      325   100  8d.        |       |    |          |  [QJN <Su>]
+ NUM 24,22 3sgF XYqt  << xYq0  NQ      325   101  7..        |       |    |         [<D MH <Ti>] [>CWR <Su>] [TCBK <PO>]
+                               =======                       |       |    +=======================================================================/
  NUM 24,23 3sgM Way0  << Way0  N       32    102  3..        |      [W-<Cj>] [JF> <Pr>] [MCLW <Ob>]
  NUM 24,23 3sgM Way0  << Way0  N       32    103  4..        |          [W-<Cj>] [J>MR <Pr>]
                                =======                       |            +=======================================================================\
- NUM 24,23 ---- NmCl  <<  [Q]  NQ      326   104  5.q        |           || [>WJ <Ij>]
- NUM 24,23 3sgM XYqt  << NmCl  NQ      326   105  6..        |           ||     [MJ <Su>] [JXJH <Pr>]
- NUM 24,23 ---- InfC [adjunct] NQ      326   106  8..        |           ||          |  [M-FMW <PO>] [>L <Su>]
- NUM 24,24 ---- NmCl  << XYqt  NQ      326   107  7..        |           ||         [W-<Cj>] [YJM <Su>] [M-JD KTJM <PC>]
- NUM 24,24 3pl- WQt0  << NmCl  NQ      326   108  8..        |           ||             [W-<Cj>] [<NW <Pr>] [>CWR <Ob>]
- NUM 24,24 3pl- WQt0  << WQt0  NQ      326   109  8..        |           ||             [W-<Cj>] [<NW <Pr>] [<BR <Ob>]
- NUM 24,24 ---- NmCl  << WQt0  NQ      326   110  9..        |           ||                 [W-<Cj>] [GM HW> <Su>] [<DJ >BD <PC>]
-                               =======                                    +=======================================================================/
+ NUM 24,23 ---- NmCl  <<  [Q]  NQ      326   104  5.q        |            | [>WJ <Ij>]
+ NUM 24,23 3sgM XYqt  << NmCl  NQ      326   105  6..        |            |     [MJ <Su>] [JXJH <Pr>]
+ NUM 24,23 ---- InfC [adjunct] NQ      326   106  8..        |            |          |  [M-FMW <PO>] [>L <Su>]
+ NUM 24,24 ---- NmCl  << XYqt  NQ      326   107  7..        |            |         [W-<Cj>] [YJM <Su>] [M-JD KTJM <PC>]
+ NUM 24,24 3pl- WQt0  << NmCl  NQ      326   108  8..        |            |             [W-<Cj>] [<NW <Pr>] [>CWR <Ob>]
+ NUM 24,24 3pl- WQt0  << WQt0  NQ      326   109  8..        |            |             [W-<Cj>] [<NW <Pr>] [<BR <Ob>]
+ NUM 24,24 ---- NmCl  << WQt0  NQ      326   110  9..        |            |                 [W-<Cj>] [GM HW> <Su>] [<DJ >BD <PC>]
+                               =======                       |            +=======================================================================/
  NUM 24,25 3sgM WayX  << WayX  N       33    111  1.#       [W-<Cj>] [JQM <Pr>] [BL<M <Su>]
  NUM 24,25 3sgM Way0  << WayX  N       33    112  2..           [W-<Cj>] [JLK <Pr>]
  NUM 24,25 3sgM Way0  << Way0  N       33    113  2..           [W-<Cj>] [JCB <Pr>] [L-MQMW <Co>]

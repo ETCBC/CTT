@@ -1,212 +1,212 @@
-IIKON05,01 3sgM WXQt  <<  [R]  ?       1       1  0.N   [W-<Cj>] [N<MN / FR YB> MLK >RM <ap><Su>] [HJH <Pr>] [>JC GDWL <PC>] [L-PNJ >DNJW <Co>]
-IIKON05,01 -sgM Ptcp  << WXQt  ?       1       2  2..        |  [W-<Cj>] [NF> <PC>] [PNJM <Ob>]
-IIKON05,01 3sgM xQtX  << Ptcp  ?       1       3  3..        |      [KJ <Cj>] [BW <Aj>] [NTN <Pr>] [JHWH <Su>] [TCW<H <Ob>] [L->RM <Co>]
-                               =======                    +=======================================================================================\
-IIKON05,01 3sgM WXQt  << WXQt  ??      11      4  1.#     | [W-<Cj>] [H->JC <Su>] [HJH <Pr>] [GBWR XJL <PC>]
-IIKON05,01 -sgM Ptcp [attrib.] ??      11      5  5..     |      |   |   |  [MYR< <PC>]
-                               =======                    |      |   |+========================================================================\
-IIKON05,02 3pl- WXQt  << WXQt  ???     111     6  4.#     |      |   || [W-<Cj>] [>RM <Su>] [JY>W <Pr>] [GDWDJM <Aj>]
-                               =======                    |      |   |+========================================================================/
-IIKON05,02 3plM Way0  << WXQt  ??N     111     7  5..     |      |   ||     [W-<Cj>] [JCBW <Pr>] [M->RY JFR>L <Co>] [N<RH QVNH <Ob>]
-IIKON05,02 3sgF Way0  << Way0  ??N     1111    8  6.#     |      |   ||         [W-<Cj>] [THJ <Pr>] [L-PNJ >CT N<MN <PC>]
-IIKON05,03 3sgF Way0  << Way0  ??N     1111    9  7..     |      |   ||             [W-<Cj>] [T>MR <Pr>] [>L GBRTH <Co>]
-                               =======                    |      |   ||               +=====================================================\
-IIKON05,03 ---- NmCl  <<  [Q]  ??NQ    11111  10  8.q     |      |   ||              || [>XLJ <Ij>] [>DNJ <Su>] [L-PNJ H-NBJ> <PC>]
-IIKON05,03 ---- NmCl [attrib.] ??NQ    11111  11 10..     |      |   ||              ||      |  [>CR <Re>] [B-CMRWN <PC>]
-IIKON05,03 3sgM xYq0  << NmCl  ??NQ    11111  12  9..     |      |   ||              ||     [>Z <Mo>] [J>SP <Pr>] [>TW <Ob>] [M-YR<TW <Co>]
-                               =======                    +=======================================================================================/
-IIKON05,04 3sgM Way0  << WXQt  ?N      11     13  3..     |      |  [W-<Cj>] [JB> <Pr>]
-IIKON05,04 3sgM Way0  << Way0  ?N      11     14  3..     |      |  [W-<Cj>] [JGD <Pr>] [L->DNJW <Co>]
-IIKON05,04 ---- InfC [adjunct] ?N      11     15  5..     |      |   ||  |  [L->MR <Pr>]
-                               =======                    |      |   |   |    +================================================================\
-IIKON05,04 3sgF xQtX  <<  [Q]  ?NQ     112    16  6.q     |      |   |   |   || [K-Z>T W-K-Z>T <Aj>] [DBRH <Pr>] [H-N<RH <Su>]
-IIKON05,04 ---- NmCl [attrib.] ?NQ     112    17  7..     |      |   |   |   ||     [>CR <Re>] [M->RY JFR>L <PC>]
-                               =======                    |      |   |        +================================================================/
-IIKON05,05 3sgM WayX  << Way0  ?N      113    18  4.#     |      |   |  [W-<Cj>] [J>MR <Pr>] [MLK >RM <Su>]
-                               =======                    |      |   |    +====================================================================\
-IIKON05,05 2sgM ZIm0  <<  [Q]  ?NQ     1131   19  5.q     |      |   |   || [LK <Pr>]
-IIKON05,05 2sgM ZIm0  << ZIm0  ?NQ     1131   20  5..     |      |   |   || [B> <Pr>]
-IIKON05,05 1sg- WYq0  << ZIm0  ?NQ     1131   21  6..     |      |   |   ||     [W-<Cj>] [>CLXH <Pr>] [SPR <Ob>] [>L MLK JFR>L <Co>]
-                               =======                    |      |   |    +====================================================================/
-IIKON05,05 3sgM Way0  << Way0  ?N      11     22  3..     |      |  [W-<Cj>] [JLK <Pr>]
-IIKON05,05 3sgM Way0  << Way0  ?N      11     23  3..     |      |  [W-<Cj>] [JQX <Pr>] [B-JDW <Co>] [<FR KKRJ KSP W-CCT >LPJM ZHB W-<FR XLJPWT BGDJM <Ob>]
-IIKON05,06 3sgM Way0  << Way0  ?N      11     24  3..     |      |  [W-<Cj>] [JB> <Pr>] [H-SPR <Ob>] [>L MLK JFR>L <Co>]
-IIKON05,06 ---- InfC [adjunct] ?N      11     25  5..     |      |       |  [L->MR <Pr>]
-                               =======                    |      |       |    +================================================================\
-IIKON05,06 ---- MSyn  <<  [Q]  ?NQ     114    26  6mq     |      |       |   || [W-<Cj>] [<TH <Ti>]
-IIKON05,06 ---- InfC [adjunct] ?NQ     114    27  8..     |      |       |   ||      |  [K-BW> <Pr>] [H-SPR H-ZH <Su>] [>LJK <Co>]
-IIKON05,06 1sg- xQt0  << MSyn  ?NQ     114    28  7..     |      |       |   ||     [HNH <Ij>] [CLXTJ <Pr>] [>LJK <Co>] [>T N<MN / <BDJ <ap><Ob>]
-IIKON05,06 2sgM WQt0  << xQt0  ?NQ     114    29  8..     |      |       |   ||         [W-<Cj>] [>SPTW <PO>] [M-YR<TW <Co>]
-                               =======                    |      |       |    +================================================================/
-IIKON05,07 3sgM Way0  << Way0  ?N      115    30  4.#     |      |      [W-<Cj>] [JHJ <Pr>]
-IIKON05,07 ---- InfC [adjunct] ?N      115    31  6..     |      |       |   |  [K-QR> <Pr>] [MLK JFR>L <Su>] [>T H-SPR <Ob>]
-IIKON05,07 3sgM Way0  << Way0  ?N      115    32  5..     |      |       |  [W-<Cj>] [JQR< <Pr>] [BGDJW <Ob>]
-IIKON05,07 3sgM Way0  << Way0  ?N      115    33  5..     |      |       |  [W-<Cj>] [J>MR <Pr>]
-                               =======                    |      |       |    +================================================================\
-IIKON05,07 ---- NmCl  <<  [Q]  ?NQ     1151   34  6.q     |      |       |   || [H-<Qu>] [>LHJM <PC>] [>NJ <Su>]
-IIKON05,07 ---- InfC [adjunct] ?NQ     1151   35  8..     |      |       |   ||      |  [L-HMJT <Pr>]
-IIKON05,07 ---- InfC [coordin] ?NQ     1151   36  9..     |      |       |   ||      |      [W-<Cj>] [L-HXJWT <Pr>]
-IIKON05,07 -sgM Ptcp  << NmCl  ?NQ     1151   37  7..     |      |       |   ||     [KJ <Cj>] [ZH <Su>] [CLX <PC>] [>LJ <Co>]
-IIKON05,07 ---- InfC [adjunct] ?NQ     1151   38  9..     |      |       |   ||          |  [L->SP <Pr>] [>JC <Ob>] [M-YR<TW <Co>]
-IIKON05,07 2plM xIm0  << Ptcp  ?NQ     1151   39  8..     |      |       |   ||         [KJ <Cj>] [>K <Mo>] [D<W <Pr>] [N> <Ij>]
-IIKON05,07 2plM WIm0  << xIm0  ?NQ     1151   40 10..     |      |       |   ||              |  [W-<Cj>] [R>W <Pr>]
-IIKON05,07 -sgM Ptcp [object ] ?NQ     1151   41  9..     |      |       |   ||             [KJ <Cj>] [MT>NH <PC>] [HW> <Su>] [LJ <Co>]
-                               =======                    |      |            +================================================================/
-IIKON05,08 3sgM Way0  << Way0  ?N      116    42  4.#     |      |      [W-<Cj>] [JHJ <Pr>]
-IIKON05,08 ---- InfC [adjunct] ?N      116    43  6..     |      |           |  [K-CM< <Pr>] [>LJC< / >JC H->LHJM <ap><Su>]
-IIKON05,08 3sgM xQtX [object ] ?N      116    44  7..     |      |           |      [KJ <Cj>] [QR< <Pr>] [MLK JFR>L <Su>] [>T BGDJW <Ob>]
-IIKON05,08 3sgM Way0  << Way0  ?N      116    45  5..     |      |          [W-<Cj>] [JCLX <Pr>] [>L H-MLK <Co>]
-IIKON05,08 ---- InfC [adjunct] ?N      116    46  6..     |      |              [L->MR <Pr>]
-                               =======                    |      |                +============================================================\
-IIKON05,08 2sgM xQt0  <<  [Q]  ?NQ     1161   47  7.q     |      |               || [LMH <Qu>] [QR<T <Pr>] [BGDJK <Ob>]
-IIKON05,08 3sgM ZYq0  << xQt0  ?NQ     1161   48  8..     |      |               ||     [JB> <Pr>] [N> <Ij>] [>LJ <Co>]
-IIKON05,08 3sgM WYq0  << ZYq0  ?NQ     1161   49  9..     |      |               ||         [W-<Cj>] [JD< <Pr>]
-IIKON05,08 ---- NmCl [object ] ?NQ     1161   50 10..     |      |               ||             [KJ <Cj>] [JC <eX>] [NBJ> <Su>] [B-JFR>L <PC>]
-                               =======                    +=======================================================================================/
-IIKON05,09 3sgM WayX  << WXQt  ??N     117    51  2.#     |     [W-<Cj>] [JB> <Pr>] [N<MN <Su>] [B-SWSW W-B-RKBW <Aj>]
-IIKON05,09 3sgM Way0  << WayX  ??N     117    52  4..     |      |   |  [W-<Cj>] [J<MD <Pr>] [PTX H-BJT / L->LJC< <sp><Co>]
-IIKON05,10 3sgM WayX  << WayX  ??N     1171   53  3.#     |      |  [W-<Cj>] [JCLX <Pr>] [>LJW <Co>] [>LJC< <Su>] [ML>K <Ob>]
-IIKON05,10 ---- InfC [adjunct] ??N     1171   54  4..     |      |      [L->MR <Pr>]
-                               =======                    |      |         =================================================================\
-IIKON05,10 ---- InfA  <<  [Q]  ??NQ    11711  55  5.q     |      |          [HLWK <Pr>]
-IIKON05,10 2sgM WQt0  << InfA  ??NQ    11711  56  6..     |      |              [W-<Cj>] [RXYT <Pr>] [CB< P<MJM <Mo>] [B--JRDN <Co>]
-IIKON05,10 3sgM WYqX  << WQt0  ??NQ    11711  57  8..     |      |               ||  |  [W-<Cj>] [JCB <Pr>] [BFRK <Su>] [LK <Co>]
-IIKON05,10 2sgM WIm0  << WQt0  ??NQ    11711  58  7..     |      |               || [W-<Cj>] [VHR <Pr>]
-                               =======                    |      |         =================================================================/
-IIKON05,11 3sgM WayX  << WayX  ??N     118    59  2.#     |     [W-<Cj>] [JQYP <Pr>] [N<MN <Su>]
-IIKON05,11 3sgM Way0  << WayX  ??N     118    60  3..     |      |  [W-<Cj>] [JLK <Pr>]
-IIKON05,11 3sgM Way0  << Way0  ??N     118    61  3..     |      |  [W-<Cj>] [J>MR <Pr>]
-                               =======                    |      |   | =====================================================================\
-IIKON05,11 1sg- xQt0  <<  [Q]  ??NQ    1181   62  4.q     |      |   |  [HNH <Ij>] [>MRTJ <Pr>] [>LJ <Co>]
-                               =======                    |      |   |       | ==========================================================\
-IIKON05,11 3sgM ZYq0  <<  [Q]  ??NQQ   11811  63  6.q     |      |   |       |  [JY> <Pr>] [JYW> <Mo>]
-IIKON05,11 3sgM WQt0  << ZYq0  ??NQQ   11811  64  7..     |      |   |       |   || [W-<Cj>] [<MD <Pr>]
-IIKON05,11 3sgM WQt0  << WQt0  ??NQQ   11811  65  7..     |      |   |       |   || [W-<Cj>] [QR> <Pr>] [B-CM JHWH / >LHJW <ap><Co>]
-IIKON05,11 3sgM WQt0  << WQt0  ??NQQ   11811  66  7..     |      |   |       |   || [W-<Cj>] [HNJP <Pr>] [JDW <Ob>] [>L H-MQWM <Co>]
-IIKON05,11 3sgM WQt0  << WQt0  ??NQQ   11811  67  7..     |      |   |       |   || [W-<Cj>] [>SP <Pr>] [H-MYR< <Ob>]
-                               =======                    |      |   |         ==========================================================/
-IIKON05,12 -sgM AjCl  << xQt0  ??NQ    1181   68  5..     |      |   |      [H-<Qu>] [L> <Ng>] [VWB <PC>] [>BNH W-PRPR / NHRWT DMFQ <ap><Su>] [M-KL MJMJ JFR>L <Aj>]
-IIKON05,12 1sg- xYq0  << AjCl  ??NQ    1181   69  6..     |      |   |          [H-<Qu>] [L> <Ng>] [>RXY <Pr>] [BHM <Co>]
-IIKON05,12 1sg- WQt0  << xYq0  ??NQ    1181   70  7..     |      |   |           || [W-<Cj>] [VHRTJ <Pr>]
-                               =======                    |      |   | =====================================================================/
-IIKON05,12 3sgM Way0  << Way0  ??N     118    71  3..     |      |  [W-<Cj>] [JPN <Pr>]
-IIKON05,12 3sgM Way0  << Way0  ??N     118    72  3..     |      |  [W-<Cj>] [JLK <Pr>] [B-XMH <Aj>]
-IIKON05,13 3plM WayX  << Way0  ??N     1182   73  4.#     |      |   |  [W-<Cj>] [JGCW <Pr>] [<BDJW <Su>]
-IIKON05,13 3plM Way0  << WayX  ??N     1182   74  5..     |      |   |      [W-<Cj>] [JDBRW <Pr>] [>LJW <Co>]
-IIKON05,13 3plM Way0  << Way0  ??N     1182   75  6..     |      |   |          [W-<Cj>] [J>MRW <Pr>]
-                               =======                    |      |   |            +=========================================================\
-IIKON05,13 ---- Voct  <<  [Q]  ??NQ    11821  76  7vq     |      |   |           || [>BJ <Vo>]
-IIKON05,13 3sgM XQtl [ref.Voc] ??NQ    11821  77  8..     |      |   |           ||     [DBR GDWL <Ob>] [H-NBJ> <Su>] [DBR <Pr>] [>LJK <Co>]
-IIKON05,13 2sgM xYq0  << XQtl  ??NQ    11821  78 10..     |      |   |           ||          |  [H-<Qu>] [LW> <Ng>] [T<FH <Pr>]
-IIKON05,13 3sgM WxQ0  << XQtl  ??NQ    11821  79  9..     |      |   |           ||         [W-<Cj>] [>P <Mo>] [KJ <Cj>] [>MR <Pr>] [>LJK <Co>]
-                               =======                    |      |   |            |            ==========================================\
-IIKON05,13 2sgM ZIm0  <<  [Q]  ??NQQ   118211 80 10.q     |      |   |           ||             [RXY <Pr>]
-IIKON05,13 2sgM WIm0  << ZIm0  ??NQQ   118211 81 11..     |      |   |           ||                 [W-<Cj>] [VHR <Pr>]
-                               =======                    |      |   |            +=========================================================/
-IIKON05,14 3sgM Way0  << Way0  ??N     118    82  3..     |      |  [W-<Cj>] [JRD <Pr>]
-IIKON05,14 3sgM Way0  << Way0  ??N     118    83  3..     |      |  [W-<Cj>] [JVBL <Pr>] [B--JRDN <Co>] [CB< P<MJM <Mo>] [K-DBR >JC H->LHJM <Aj>]
-IIKON05,14 3sgM WayX  << Way0  ??N     1183   84  4.#     |      |   |  [W-<Cj>] [JCB <Pr>] [BFRW <Su>] [K-BFR N<R QVN <Aj>]
-IIKON05,14 3sgM Way0  << Way0  ??N     118    85  3..     |      |  [W-<Cj>] [JVHR <Pr>]
-IIKON05,15 3sgM WayX  << WayX  ??N     119    86  2.#     |     [W-<Cj>] [JCB <Pr>] [>L >JC H->LHJM <Co>] [HW> W-KL MXNHW <Su>]
-IIKON05,15 3sgM Way0  << WayX  ??N     119    87  3..     |      |  [W-<Cj>] [JB> <Pr>]
-IIKON05,15 3sgM Way0  << Way0  ??N     119    88  3..     |      |  [W-<Cj>] [J<MD <Pr>] [L-PNJW <Co>]
-IIKON05,15 3sgM Way0  << Way0  ??N     119    89  3..     |      |  [W-<Cj>] [J>MR <Pr>]
-                               =======                    |      |   |   | =================================================================\
-IIKON05,15 1sg- xQt0  <<  [Q]  ??NQ    1191   90  5.q     |      |   |   |  [HNH <Ij>] [N> <Ij>] [JD<TJ <Pr>]
-IIKON05,15 ---- NmCl [object ] ??NQ    1191   91  7..     |      |   |   |       || [KJ <Cj>] [>JN <NC>] [>LHJM <Su>] [B-KL H->RY <PC>]
-IIKON05,15 ---- NmCl [coordin] ??NQ    1191   92  8..     |      |   |   |       ||     [KJ >M <Cj>] [B-JFR>L <PC>]
-IIKON05,15 ---- MSyn  << xQt0  ??NQ    1191   93  6m.     |      |   |   |      [W-<Cj>] [<TH <Ti>]
-IIKON05,15 2sgM ZIm0  << MSyn  ??NQ    1191   94  7..     |      |   |   |       || [QX <Pr>] [N> <Ij>] [BRKH <Ob>] [M->T <BDK <Co>]
-                               =======                    |      |   |     =================================================================/
-IIKON05,16 3sgM Way0  << Way0  ??N     1192   95  4.#     |      |   |  [W-<Cj>] [J>MR <Pr>]
-                               =======                    |      |   |     =================================================================\
-IIKON05,16 -sgM AjCl  <<  [Q]  ??NQ    11921  96  5.q     |      |   |      [XJ <PC>] [JHWH <Su>]
-IIKON05,16 1sg- xQt0 [attrib.] ??NQ    11921  97  7..     |      |   |           || [>CR <Re>] [<MDTJ <Pr>] [L-PNJW <Co>]
-IIKON05,16 1sg- xYq0  << AjCl  ??NQ    11921  98  6..     |      |   |          [>M <Cj>] [>QX <Pr>]
-                               =======                    |      |         =================================================================/
-IIKON05,16 3sgM Way0  << Way0  ??N     119    99  3..     |      |  [W-<Cj>] [JPYR <Pr>] [BW <Co>]
-IIKON05,16 ---- InfC [adjunct] ??N     119   100  5..     |      |       |  [L-QXT <Pr>]
-IIKON05,16 3sgM Way0  << Way0  ??N     1193  101  4.#     |      |      [W-<Cj>] [JM>N <Pr>]
-IIKON05,17 3sgM WayX  << WayX  ??N     1110  102  2.#     |     [W-<Cj>] [J>MR <Pr>] [N<MN <Su>]
-                               =======                    |          |   | =================================================================\
-IIKON05,17 ---- NmCl  <<  [Q]  ??NQ    11101 103  5.q     |          |   |  [W-<Cj>] [L> <Ng>]
-IIKON05,17 3sgM ZYqX  << NmCl  ??NQ    11101 104  6..     |          |   |      [JTN <Pr>] [N> <Ij>] [L-<BDK <Co>] [MF> YMD PRDJM >DMH <Su>]
-IIKON05,17 3sgM xYqX  << ZYqX  ??NQ    11101 105  7..     |          |   |        | [KJ <Cj>] [LW> <Ng>] [J<FH <Pr>] [<WD <Mo>] [<BDK <Su>] [<LH W-ZBX <Ob>] [L->LHJM >XRJM <Co>]
-IIKON05,17 ---- Ellp  << xYqX  ??NQ    11101 106  9l.     |          |   |        |      |  [KJ >M <Cj>] [L-JHWH <Co>]
-IIKON05,18 3sgM xYqX  << xYqX  ??NQ    11101 107  8..     |          |   |        |     [L--DBR H-ZH <Co>] [JSLX <Pr>] [JHWH <Su>] [L-<BDK <Co>]
-IIKON05,18 ---- InfC [adjunct] ??NQ    11101 108 10.\     |          |   |        |          |  [B-BW> <Pr>] [>DNJ <Su>] [BJT RMWN <Co>]
-IIKON05,18 ---- InfC [adjunct] ??NQ    11101 109 13..     |          |   |        |          |       |   |  [L-HCTXWT <Pr>] [CMH <Lo>]
-IIKON05,18 -sgM Ptcp [coordin] ??NQ    11101 110 12..     |          |   |        |          |       |  [W-<Cj>] [HW> <Su>] [NC<N <PC>] [<L JDJ <Co>]
-IIKON05,18 1sg- WQt0 [coordin] ??NQ    11101 111 13..     |          |   |        |          |       |      [W-<Cj>] [HCTXWJTJ <Pr>] [BJT RMN <Lo>]
-IIKON05,18 ---- InfC [adjunct] ??NQ    11101 112 11..     |          |   |        |          |      [B-HCTXWJTJ <Ps>] [BJT RMN <Lo>]
-IIKON05,18 3sgM ZYqX  << xYqX  ??NQ    11101 113  9..     |          |   |        |         [JSLX_N> <Pr>] [JHWH <Su>] [L-<BDK <Co>] [B--DBR H-ZH <Co>]
-                               =======                    |          |     =================================================================/
-IIKON05,19 3sgM Way0  << WayX  ??N     11102 114  4.#     |          |  [W-<Cj>] [J>MR <Pr>] [LW <Co>]
-                               =======                    |          |     =================================================================\
-IIKON05,19 2sgM ZIm0  <<  [Q]  ??NQ    111021115  5.q     |          |      [LK <Pr>] [L-CLWM <Aj>]
-                               =======                    |                =================================================================/
-IIKON05,19 3sgM Way0  << WayX  ??N     11103 116  3.#     |         [W-<Cj>] [JLK <Pr>] [M->TW <Aj>] [KBRT >RY <Co>]
-IIKON05,20 3sgM WayX  << Way0  ??N     111031117  4.#     |             [W-<Cj>] [J>MR <Pr>] [GJXZJ / N<R >LJC< / >JC H->LHJM <ap><ap><Su>]
-                               =======                    |                  | =============================================================\
-IIKON05,20 3sgM xQtX  <<  [Q]  ??NQ    111031118  6.q     |                  |  [HNH <Ij>] [XFK <Pr>] [>DNJ <Su>] [>T N<MN / H->RMJ H-ZH <ap><Ob>]
-IIKON05,20 ---- InfC [adjunct] ??NQ    111031119  8..     |                  |    |  |  [M-QXT <Pr>] [M-JDW <Co>]
-IIKON05,20 3sgM xQt0 [object ] ??NQ    111031120  9..     |                  |    |  |      [>T >CR <Re>] [HBJ> <Pr>]
-IIKON05,20 -sgM AjCl  << xQtX  ??NQ    111031121  7..     |                  |    | [XJ <PC>] [JHWH <Su>]
-IIKON05,20 1sg- xQt0 [complm.] ??NQ    111031122  8..     |                  |    |     [KJ >M <Cj>] [RYTJ <Pr>] [>XRJW <Co>]
-IIKON05,20 1sg- WQt0 [coordin] ??NQ    111031123  9.#     |                  |    |         [W-<Cj>] [LQXTJ <Pr>] [M->TW <Co>] [M>WMH <Ob>]
-                               =======                    |                  | =============================================================/
-IIKON05,21 3sgM WayX  << WayX  ??N     111031124  5.#     |                 [W-<Cj>] [JRDP <Pr>] [GJXZJ <Su>] [>XRJ N<MN <Co>]
-IIKON05,21 3sgM WayX  << WayX  ??N     111031125  7.#     |                  |    | [W-<Cj>] [JR>H <Pr>] [N<MN <Su>]
-IIKON05,21 -sgM Ptcp [object ] ??N     111031126  9..     |                  |    |      |  [RY <PC>] [>XRJW <Co>]
-IIKON05,21 3sgM Way0  << WayX  ??N     111031127  8..     |                  |    |     [W-<Cj>] [JPL <Pr>] [M-<L H-MRKBH <Co>]
-IIKON05,21 ---- InfC [adjunct] ??N     111031128  9..     |                  |    |      |  [L-QR>TW <PO>]
-IIKON05,21 3sgM Way0  << Way0  ??N     111031129  8..     |                  |    |     [W-<Cj>] [J>MR <Pr>]
-                               =======                    |                  |   ||       +=================================================\
-IIKON05,21 ---- NmCl  <<  [Q]  ??NQ    111031130  9.q     |                  |    |       | [H-<Qu>] [CLWM <PC>]
-                               =======                    |                  |   ||       +=================================================/
-IIKON05,22 3sgM Way0  << WayX  ??N     111031131  6..     |                  |  [W-<Cj>] [J>MR <Pr>]
-                               =======                    |                  |   ||  |+=====================================================\
-IIKON05,22 ---- NmCl  <<  [Q]  ??NQ    111031132  8.q     |                  |    |   | [CLWM <Su>]
-IIKON05,22 3sgM XQtl  << NmCl  ??NQ    111031133  9..     |                  |    |   |     [>DNJ <Su>] [CLXNJ <PO>]
-IIKON05,22 ---- InfC [adjunct] ??NQ    111031134 10..     |                  |    |   |         [L->MR <Pr>]
-                               =======                    |                  |   ||  ||           +======================================\
-IIKON05,22 3pl- xQtX  <<  [Q]  ??NQQ   111031135 11.q     |                  |    |   |           | [HNH <Ij>] [<TH ZH <Ti>] [B>W <Pr>] [>LJ <Co>] [CNJ N<RJM <Su>] [M-HR >PRJM / M-BNJ H-NBJ>JM <sp><Co>]
-IIKON05,22 2sgM ZIm0  << xQtX  ??NQQ   111031136 12.#     |                  |    |   |           |     [TNH <Pr>] [N> <Ij>] [LHM <Co>] [KKR KSP W-CTJ XLPWT BGDJM <Ob>]
-                               =======                    |                  |   ||   +=====================================================/
-IIKON05,23 3sgM WayX  << Way0  ??N     111031137  7.#     |                  |    | [W-<Cj>] [J>MR <Pr>] [N<MN <Su>]
-                               =======                    |                  |   ||      |+=================================================\
-IIKON05,23 2sgM ZIm0  <<  [Q]  ??NQ    111031138  9.q     |                  |    |       | [HW>L <Pr>]
-IIKON05,23 2sgM ZIm0  << ZIm0  ??NQ    111031139  9..     |                  |    |       | [QX <Pr>] [KKRJM <Ob>]
-                               =======                    |                  |   ||      |+=================================================/
-IIKON05,23 3sgM Way0  << WayX  ??N     111031140  8..     |                  |    |     [W-<Cj>] [JPRY <Pr>] [BW <Co>]
-IIKON05,23 3sgM Way0  << Way0  ??N     111031141  8..     |                  |    |     [W-<Cj>] [JYR <Pr>] [KKRJM KSP <Ob>] [B-CNJ XRVJM / W-/ CTJ XLPWT BGDJM <pa><cj><Co>]
-IIKON05,23 3sgM Way0  << Way0  ??N     111031142  8..     |                  |    |     [W-<Cj>] [JTN <Pr>] [>L CNJ N<RJW <Co>]
-IIKON05,23 3plM Way0  << Way0  ??N     111031143  9.#     |                  |    |         [W-<Cj>] [JF>W <Pr>] [L-PNJW <Co>]
-IIKON05,24 3sgM Way0  << Way0  ??N     111031144  6..     |                  |  [W-<Cj>] [JB> <Pr>] [>L H-<PL <Co>]
-IIKON05,24 3sgM Way0  << Way0  ??N     111031145  6..     |                  |  [W-<Cj>] [JQX <Pr>] [M-JDM <Co>]
-IIKON05,24 3sgM Way0  << Way0  ??N     111031146  6..     |                  |  [W-<Cj>] [JPQD <Pr>] [B--BJT <Co>]
-IIKON05,24 3sgM Way0  << Way0  ??N     111031147  6..     |                  |  [W-<Cj>] [JCLX <Pr>] [>T H->NCJM <Ob>]
-IIKON05,24 3plM Way0  << Way0  ??N     111031148  7.#     |                  |    | [W-<Cj>] [JLKW <Pr>]
-IIKON05,25 3sgM WXQt  << WayX  ??N     111031149  5.#     |                 [W-<Cj>] [HW> <Su>] [B> <Pr>]
-IIKON05,25 3sgM Way0  << WXQt  ??N     111031150  7.#     |                       | [W-<Cj>] [J<MD <Pr>] [>L >DNJW <Co>]
-IIKON05,25 3sgM WayX  << WXQt  ??N     111031151  6.#     |                     [W-<Cj>] [J>MR <Pr>] [>LJW <Co>] [>LJC< <Su>]
-                               =======                    |                       |  |+=====================================================\
-IIKON05,25 ---- NmCl  <<  [Q]  ??NQ    111031152  8.q     |                       |   | [M->N <Co>]
-IIKON05,25 ---- Voct  << NmCl  ??NQ    111031153  9v.     |                       |   |     [GXZJ <Vo>]
-                               =======                    |                       |  |+=====================================================/
-IIKON05,25 3sgM Way0  << WayX  ??N     111031154  7.#     |                       | [W-<Cj>] [J>MR <Pr>]
-                               =======                    |                       |  |+=====================================================\
-IIKON05,25 3sgM xQtX  <<  [Q]  ??NQ    111031155  8.q     |                       |   | [L> <Ng>] [HLK <Pr>] [<BDK <Su>] [>NH W->NH <Co>]
-                               =======                    |                       |  |+=====================================================/
-IIKON05,26 3sgM Way0  << Way0  ??N     111031156  7.#     |                       | [W-<Cj>] [J>MR <Pr>] [>LJW <Co>]
-                               =======                    |                       |  |+=====================================================\
-IIKON05,26 3sgM XQtl  <<  [Q]  ??NQ    111031157  8.q     |                       |   | [L> <Ng>] [LBJ <Su>] [HLK <Pr>]
-IIKON05,26 3sgM xQtX [adjunct] ??NQ    111031158 10..     |                       |   |      |  [K->CR <Cj>] [HPK <Pr>] [>JC <Su>] [M-<L MRKBTW <Co>]
-IIKON05,26 ---- InfC [adjunct] ??NQ    111031159 11..     |                       |   |      |      [L-QR>TK <PO>]
-IIKON05,26 ---- NmCl  << XQtl  ??NQ    111031160  9..     |                       |   |     [H-<Qu>] [<T <Su>]
-IIKON05,26 ---- InfC [adjunct] ??NQ    111031161 11..     |                       |   |          |  [L-QXT <Pr>] [>T H-KSP <Ob>]
-IIKON05,26 ---- InfC [coordin] ??NQ    111031162 12..     |                       |   |          |      [W-<Cj>] [L-QXT <Pr>] [BGDJM W-ZJTJM W-KRMJM W-Y>N W-BQR W-<BDJM W-CPXWT <Ob>]
-IIKON05,27 3sgF WXYq  << NmCl  ??NQ    111031163 10..     |                       |   |         [W-<Cj>] [YR<T N<MN <Su>] [TDBQ <Pr>] [BK W-B-ZR<K <Co>] [L-<WLM <Ti>]
-                               =======                    |                       |   +=====================================================/
-IIKON05,27 3sgM Way0  << Way0  ??N     111031164  7.#     |                       | [W-<Cj>] [JY> <Pr>] [M-L-PNJW <Co>]
-IIKON05,27 -sgM Ptcp [pradjun] ??N     111031165  8..     |                       |     [MYR< <PC>] [K--CLG <Aj>]
+IIKON05,01 3sgM WXQt  <<  [R]  ?       1            1  0.N   [W-<Cj>] [N<MN / FR YB> MLK >RM <ap><Su>] [HJH <Pr>] [>JC GDWL <PC>] [L-PNJ >DNJW <Co>]
+IIKON05,01 -sgM Ptcp  << WXQt  ?       1            2  2..        |  [W-<Cj>] [NF> <PC>] [PNJM <Ob>]
+IIKON05,01 3sgM xQtX  << Ptcp  ?       1            3  3..        |      [KJ <Cj>] [BW <Aj>] [NTN <Pr>] [JHWH <Su>] [TCW<H <Ob>] [L->RM <Co>]
+                               =======                         +=======================================================================================\
+IIKON05,01 3sgM WXQt  << WXQt  ??      11           4  1.#     | [W-<Cj>] [H->JC <Su>] [HJH <Pr>] [GBWR XJL <PC>]
+IIKON05,01 -sgM Ptcp [attrib.] ??      11           5  5..     |      |   |   |  [MYR< <PC>]
+                               =======                         |      |   |+========================================================================\
+IIKON05,02 3pl- WXQt  << WXQt  ???     111          6  4.#     |      |   || [W-<Cj>] [>RM <Su>] [JY>W <Pr>] [GDWDJM <Aj>]
+                               -------                         |      |   ||   +--------------------------------------------------------------------\
+IIKON05,02 3plM Way0  << WXQt  ??N     111          7  5..     |      |   ||   | [W-<Cj>] [JCBW <Pr>] [M->RY JFR>L <Co>] [N<RH QVNH <Ob>]
+IIKON05,02 3sgF Way0  << Way0  ??N     1111         8  6.#     |      |   ||   |     [W-<Cj>] [THJ <Pr>] [L-PNJ >CT N<MN <PC>]
+IIKON05,03 3sgF Way0  << Way0  ??N     1111         9  7..     |      |   ||   |         [W-<Cj>] [T>MR <Pr>] [>L GBRTH <Co>]
+                               =======                         |      |   ||   |           +=====================================================\
+IIKON05,03 ---- NmCl  <<  [Q]  ??NQ    11111       10  8.q     |      |   ||   |           | [>XLJ <Ij>] [>DNJ <Su>] [L-PNJ H-NBJ> <PC>]
+IIKON05,03 ---- NmCl [attrib.] ??NQ    11111       11 10..     |      |   ||   |           |      |  [>CR <Re>] [B-CMRWN <PC>]
+IIKON05,03 3sgM xYq0  << NmCl  ??NQ    11111       12  9..     |      |   ||   |           |     [>Z <Mo>] [J>SP <Pr>] [>TW <Ob>] [M-YR<TW <Co>]
+                               -------                         |      |+-------------------------------------------------------------------------------\
+IIKON05,04 3sgM Way0  << WXQt  ?N      11          13  3..     |      || [W-<Cj>] [JB> <Pr>]
+IIKON05,04 3sgM Way0  << Way0  ?N      11          14  3..     |      || [W-<Cj>] [JGD <Pr>] [L->DNJW <Co>]
+IIKON05,04 ---- InfC [adjunct] ?N      11          15  5..     |      ||  |   |  [L->MR <Pr>]
+                               =======                         |      ||  |   |    +================================================================\
+IIKON05,04 3sgF xQtX  <<  [Q]  ?NQ     112         16  6.q     |      ||  |   |    | [K-Z>T W-K-Z>T <Aj>] [DBRH <Pr>] [H-N<RH <Su>]
+IIKON05,04 ---- NmCl [attrib.] ?NQ     112         17  7..     |      ||  |   |    |     [>CR <Re>] [M->RY JFR>L <PC>]
+                               =======                         |      ||  |   |    +================================================================/
+IIKON05,05 3sgM WayX  << Way0  ?N      113         18  4.#     |      ||  |  [W-<Cj>] [J>MR <Pr>] [MLK >RM <Su>]
+                               =======                         |      ||  |    +====================================================================\
+IIKON05,05 2sgM ZIm0  <<  [Q]  ?NQ     1131        19  5.q     |      ||  |    | [LK <Pr>]
+IIKON05,05 2sgM ZIm0  << ZIm0  ?NQ     1131        20  5..     |      ||  |    | [B> <Pr>]
+IIKON05,05 1sg- WYq0  << ZIm0  ?NQ     1131        21  6..     |      ||  |    |     [W-<Cj>] [>CLXH <Pr>] [SPR <Ob>] [>L MLK JFR>L <Co>]
+                               =======                         |      ||  |    +====================================================================/
+IIKON05,05 3sgM Way0  << Way0  ?N      11          22  3..     |      || [W-<Cj>] [JLK <Pr>]
+IIKON05,05 3sgM Way0  << Way0  ?N      11          23  3..     |      || [W-<Cj>] [JQX <Pr>] [B-JDW <Co>] [<FR KKRJ KSP W-CCT >LPJM ZHB W-<FR XLJPWT BGDJM <Ob>]
+IIKON05,06 3sgM Way0  << Way0  ?N      11          24  3..     |      || [W-<Cj>] [JB> <Pr>] [H-SPR <Ob>] [>L MLK JFR>L <Co>]
+IIKON05,06 ---- InfC [adjunct] ?N      11          25  5..     |      ||      |  [L->MR <Pr>]
+                               =======                         |      ||      |    +================================================================\
+IIKON05,06 ---- MSyn  <<  [Q]  ?NQ     114         26  6mq     |      ||      |    | [W-<Cj>] [<TH <Ti>]
+IIKON05,06 ---- InfC [adjunct] ?NQ     114         27  8..     |      ||      |    |      |  [K-BW> <Pr>] [H-SPR H-ZH <Su>] [>LJK <Co>]
+IIKON05,06 1sg- xQt0  << MSyn  ?NQ     114         28  7..     |      ||      |    |     [HNH <Ij>] [CLXTJ <Pr>] [>LJK <Co>] [>T N<MN / <BDJ <ap><Ob>]
+IIKON05,06 2sgM WQt0  << xQt0  ?NQ     114         29  8..     |      ||      |    |         [W-<Cj>] [>SPTW <PO>] [M-YR<TW <Co>]
+                               =======                         |      ||      |    +================================================================/
+IIKON05,07 3sgM Way0  << Way0  ?N      115         30  4.#     |      ||     [W-<Cj>] [JHJ <Pr>]
+IIKON05,07 ---- InfC [adjunct] ?N      115         31  6..     |      ||      |   |  [K-QR> <Pr>] [MLK JFR>L <Su>] [>T H-SPR <Ob>]
+IIKON05,07 3sgM Way0  << Way0  ?N      115         32  5..     |      ||      |  [W-<Cj>] [JQR< <Pr>] [BGDJW <Ob>]
+IIKON05,07 3sgM Way0  << Way0  ?N      115         33  5..     |      ||      |  [W-<Cj>] [J>MR <Pr>]
+                               =======                         |      ||      |    +================================================================\
+IIKON05,07 ---- NmCl  <<  [Q]  ?NQ     1151        34  6.q     |      ||      |    | [H-<Qu>] [>LHJM <PC>] [>NJ <Su>]
+IIKON05,07 ---- InfC [adjunct] ?NQ     1151        35  8..     |      ||      |    |      |  [L-HMJT <Pr>]
+IIKON05,07 ---- InfC [coordin] ?NQ     1151        36  9..     |      ||      |    |      |      [W-<Cj>] [L-HXJWT <Pr>]
+IIKON05,07 -sgM Ptcp  << NmCl  ?NQ     1151        37  7..     |      ||      |    |     [KJ <Cj>] [ZH <Su>] [CLX <PC>] [>LJ <Co>]
+IIKON05,07 ---- InfC [adjunct] ?NQ     1151        38  9..     |      ||      |    |          |  [L->SP <Pr>] [>JC <Ob>] [M-YR<TW <Co>]
+IIKON05,07 2plM xIm0  << Ptcp  ?NQ     1151        39  8..     |      ||      |    |         [KJ <Cj>] [>K <Mo>] [D<W <Pr>] [N> <Ij>]
+IIKON05,07 2plM WIm0  << xIm0  ?NQ     1151        40 10..     |      ||      |    |              |  [W-<Cj>] [R>W <Pr>]
+IIKON05,07 -sgM Ptcp [object ] ?NQ     1151        41  9..     |      ||      |    |             [KJ <Cj>] [MT>NH <PC>] [HW> <Su>] [LJ <Co>]
+                               =======                         |      ||      |    +================================================================/
+IIKON05,08 3sgM Way0  << Way0  ?N      116         42  4.#     |      ||     [W-<Cj>] [JHJ <Pr>]
+IIKON05,08 ---- InfC [adjunct] ?N      116         43  6..     |      ||          |  [K-CM< <Pr>] [>LJC< / >JC H->LHJM <ap><Su>]
+IIKON05,08 3sgM xQtX [object ] ?N      116         44  7..     |      ||          |      [KJ <Cj>] [QR< <Pr>] [MLK JFR>L <Su>] [>T BGDJW <Ob>]
+IIKON05,08 3sgM Way0  << Way0  ?N      116         45  5..     |      ||         [W-<Cj>] [JCLX <Pr>] [>L H-MLK <Co>]
+IIKON05,08 ---- InfC [adjunct] ?N      116         46  6..     |      ||             [L->MR <Pr>]
+                               =======                         |      ||               +============================================================\
+IIKON05,08 2sgM xQt0  <<  [Q]  ?NQ     1161        47  7.q     |      ||               | [LMH <Qu>] [QR<T <Pr>] [BGDJK <Ob>]
+IIKON05,08 3sgM ZYq0  << xQt0  ?NQ     1161        48  8..     |      ||               |     [JB> <Pr>] [N> <Ij>] [>LJ <Co>]
+IIKON05,08 3sgM WYq0  << ZYq0  ?NQ     1161        49  9..     |      ||               |         [W-<Cj>] [JD< <Pr>]
+IIKON05,08 ---- NmCl [object ] ?NQ     1161        50 10..     |      ||               |             [KJ <Cj>] [JC <eX>] [NBJ> <Su>] [B-JFR>L <PC>]
+                               -------                         |   +--------------------------------------------------------------------------------\
+IIKON05,09 3sgM WayX  << WXQt  ??N     117         51  2.#     |   | [W-<Cj>] [JB> <Pr>] [N<MN <Su>] [B-SWSW W-B-RKBW <Aj>]
+IIKON05,09 3sgM Way0  << WayX  ??N     117         52  4..     |   |  |   |  [W-<Cj>] [J<MD <Pr>] [PTX H-BJT / L->LJC< <sp><Co>]
+IIKON05,10 3sgM WayX  << WayX  ??N     1171        53  3.#     |   |  |  [W-<Cj>] [JCLX <Pr>] [>LJW <Co>] [>LJC< <Su>] [ML>K <Ob>]
+IIKON05,10 ---- InfC [adjunct] ??N     1171        54  4..     |   |  |      [L->MR <Pr>]
+                               =======                         |   |  |        +=================================================================\
+IIKON05,10 ---- InfA  <<  [Q]  ??NQ    11711       55  5.q     |   |  |        | [HLWK <Pr>]
+IIKON05,10 2sgM WQt0  << InfA  ??NQ    11711       56  6..     |   |  |        |     [W-<Cj>] [RXYT <Pr>] [CB< P<MJM <Mo>] [B--JRDN <Co>]
+IIKON05,10 3sgM WYqX  << WQt0  ??NQ    11711       57  8..     |   |  |        |          |  [W-<Cj>] [JCB <Pr>] [BFRK <Su>] [LK <Co>]
+IIKON05,10 2sgM WIm0  << WQt0  ??NQ    11711       58  7..     |   |  |        |         [W-<Cj>] [VHR <Pr>]
+                               =======                         |   |  |        +=================================================================/
+IIKON05,11 3sgM WayX  << WayX  ??N     118         59  2.#     |   | [W-<Cj>] [JQYP <Pr>] [N<MN <Su>]
+IIKON05,11 3sgM Way0  << WayX  ??N     118         60  3..     |   |  |  [W-<Cj>] [JLK <Pr>]
+IIKON05,11 3sgM Way0  << Way0  ??N     118         61  3..     |   |  |  [W-<Cj>] [J>MR <Pr>]
+                               =======                         |   |  |   |+=====================================================================\
+IIKON05,11 1sg- xQt0  <<  [Q]  ??NQ    1181        62  4.q     |   |  |   || [HNH <Ij>] [>MRTJ <Pr>] [>LJ <Co>]
+                               =======                         |   |  |   ||      |+==========================================================\
+IIKON05,11 3sgM ZYq0  <<  [Q]  ??NQQ   11811       63  6.q     |   |  |   ||      || [JY> <Pr>] [JYW> <Mo>]
+IIKON05,11 3sgM WQt0  << ZYq0  ??NQQ   11811       64  7..     |   |  |   ||      ||     [W-<Cj>] [<MD <Pr>]
+IIKON05,11 3sgM WQt0  << WQt0  ??NQQ   11811       65  7..     |   |  |   ||      ||     [W-<Cj>] [QR> <Pr>] [B-CM JHWH / >LHJW <ap><Co>]
+IIKON05,11 3sgM WQt0  << WQt0  ??NQQ   11811       66  7..     |   |  |   ||      ||     [W-<Cj>] [HNJP <Pr>] [JDW <Ob>] [>L H-MQWM <Co>]
+IIKON05,11 3sgM WQt0  << WQt0  ??NQQ   11811       67  7..     |   |  |   ||      ||     [W-<Cj>] [>SP <Pr>] [H-MYR< <Ob>]
+                               =======                         |   |  |   ||      |+==========================================================/
+IIKON05,12 -sgM AjCl  << xQt0  ??NQ    1181        68  5..     |   |  |   ||     [H-<Qu>] [L> <Ng>] [VWB <PC>] [>BNH W-PRPR / NHRWT DMFQ <ap><Su>] [M-KL MJMJ JFR>L <Aj>]
+IIKON05,12 1sg- xYq0  << AjCl  ??NQ    1181        69  6..     |   |  |   ||         [H-<Qu>] [L> <Ng>] [>RXY <Pr>] [BHM <Co>]
+IIKON05,12 1sg- WQt0  << xYq0  ??NQ    1181        70  7..     |   |  |   ||             [W-<Cj>] [VHRTJ <Pr>]
+                               =======                         |   |  |   |+=====================================================================/
+IIKON05,12 3sgM Way0  << Way0  ??N     118         71  3..     |   |  |  [W-<Cj>] [JPN <Pr>]
+IIKON05,12 3sgM Way0  << Way0  ??N     118         72  3..     |   |  |  [W-<Cj>] [JLK <Pr>] [B-XMH <Aj>]
+IIKON05,13 3plM WayX  << Way0  ??N     1182        73  4.#     |   |  |   |  [W-<Cj>] [JGCW <Pr>] [<BDJW <Su>]
+IIKON05,13 3plM Way0  << WayX  ??N     1182        74  5..     |   |  |   |      [W-<Cj>] [JDBRW <Pr>] [>LJW <Co>]
+IIKON05,13 3plM Way0  << Way0  ??N     1182        75  6..     |   |  |   |          [W-<Cj>] [J>MRW <Pr>]
+                               =======                         |   |  |   |            +=========================================================\
+IIKON05,13 ---- Voct  <<  [Q]  ??NQ    11821       76  7vq     |   |  |   |            | [>BJ <Vo>]
+IIKON05,13 3sgM XQtl [ref.Voc] ??NQ    11821       77  8..     |   |  |   |            |     [DBR GDWL <Ob>] [H-NBJ> <Su>] [DBR <Pr>] [>LJK <Co>]
+IIKON05,13 2sgM xYq0  << XQtl  ??NQ    11821       78 10..     |   |  |   |            |          |  [H-<Qu>] [LW> <Ng>] [T<FH <Pr>]
+IIKON05,13 3sgM WxQ0  << XQtl  ??NQ    11821       79  9..     |   |  |   |            |         [W-<Cj>] [>P <Mo>] [KJ <Cj>] [>MR <Pr>] [>LJK <Co>]
+                               =======                         |   |  |   |            |           +==========================================\
+IIKON05,13 2sgM ZIm0  <<  [Q]  ??NQQ   118211      80 10.q     |   |  |   |            |           | [RXY <Pr>]
+IIKON05,13 2sgM WIm0  << ZIm0  ??NQQ   118211      81 11..     |   |  |   |            |           |     [W-<Cj>] [VHR <Pr>]
+                               =======                         |   |  |   |            +=========================================================/
+IIKON05,14 3sgM Way0  << Way0  ??N     118         82  3..     |   |  |  [W-<Cj>] [JRD <Pr>]
+IIKON05,14 3sgM Way0  << Way0  ??N     118         83  3..     |   |  |  [W-<Cj>] [JVBL <Pr>] [B--JRDN <Co>] [CB< P<MJM <Mo>] [K-DBR >JC H->LHJM <Aj>]
+IIKON05,14 3sgM WayX  << Way0  ??N     1183        84  4.#     |   |  |   |  [W-<Cj>] [JCB <Pr>] [BFRW <Su>] [K-BFR N<R QVN <Aj>]
+IIKON05,14 3sgM Way0  << Way0  ??N     118         85  3..     |   |  |  [W-<Cj>] [JVHR <Pr>]
+IIKON05,15 3sgM WayX  << WayX  ??N     119         86  2.#     |   | [W-<Cj>] [JCB <Pr>] [>L >JC H->LHJM <Co>] [HW> W-KL MXNHW <Su>]
+IIKON05,15 3sgM Way0  << WayX  ??N     119         87  3..     |   |  |  [W-<Cj>] [JB> <Pr>]
+IIKON05,15 3sgM Way0  << Way0  ??N     119         88  3..     |   |  |  [W-<Cj>] [J<MD <Pr>] [L-PNJW <Co>]
+IIKON05,15 3sgM Way0  << Way0  ??N     119         89  3..     |   |  |  [W-<Cj>] [J>MR <Pr>]
+                               =======                         |   |  |   |   |+=================================================================\
+IIKON05,15 1sg- xQt0  <<  [Q]  ??NQ    1191        90  5.q     |   |  |   |   || [HNH <Ij>] [N> <Ij>] [JD<TJ <Pr>]
+IIKON05,15 ---- NmCl [object ] ??NQ    1191        91  7..     |   |  |   |   ||      |  [KJ <Cj>] [>JN <NC>] [>LHJM <Su>] [B-KL H->RY <PC>]
+IIKON05,15 ---- NmCl [coordin] ??NQ    1191        92  8..     |   |  |   |   ||      |      [KJ >M <Cj>] [B-JFR>L <PC>]
+IIKON05,15 ---- MSyn  << xQt0  ??NQ    1191        93  6m.     |   |  |   |   ||     [W-<Cj>] [<TH <Ti>]
+IIKON05,15 2sgM ZIm0  << MSyn  ??NQ    1191        94  7..     |   |  |   |   ||         [QX <Pr>] [N> <Ij>] [BRKH <Ob>] [M->T <BDK <Co>]
+                               =======                         |   |  |   |   |+=================================================================/
+IIKON05,16 3sgM Way0  << Way0  ??N     1192        95  4.#     |   |  |   |  [W-<Cj>] [J>MR <Pr>]
+                               =======                         |   |  |   |    +=================================================================\
+IIKON05,16 -sgM AjCl  <<  [Q]  ??NQ    11921       96  5.q     |   |  |   |    | [XJ <PC>] [JHWH <Su>]
+IIKON05,16 1sg- xQt0 [attrib.] ??NQ    11921       97  7..     |   |  |   |    |      |  [>CR <Re>] [<MDTJ <Pr>] [L-PNJW <Co>]
+IIKON05,16 1sg- xYq0  << AjCl  ??NQ    11921       98  6..     |   |  |   |    |     [>M <Cj>] [>QX <Pr>]
+                               =======                         |   |  |   |    +=================================================================/
+IIKON05,16 3sgM Way0  << Way0  ??N     119         99  3..     |   |  |  [W-<Cj>] [JPYR <Pr>] [BW <Co>]
+IIKON05,16 ---- InfC [adjunct] ??N     119        100  5..     |   |  |       |  [L-QXT <Pr>]
+IIKON05,16 3sgM Way0  << Way0  ??N     1193       101  4.#     |   |  |      [W-<Cj>] [JM>N <Pr>]
+IIKON05,17 3sgM WayX  << WayX  ??N     1110       102  2.#     |   | [W-<Cj>] [J>MR <Pr>] [N<MN <Su>]
+                               =======                         |   |      |   |+=================================================================\
+IIKON05,17 ---- NmCl  <<  [Q]  ??NQ    11101      103  5.q     |   |      |   || [W-<Cj>] [L> <Ng>]
+IIKON05,17 3sgM ZYqX  << NmCl  ??NQ    11101      104  6..     |   |      |   ||     [JTN <Pr>] [N> <Ij>] [L-<BDK <Co>] [MF> YMD PRDJM >DMH <Su>]
+IIKON05,17 3sgM xYqX  << ZYqX  ??NQ    11101      105  7..     |   |      |   ||         [KJ <Cj>] [LW> <Ng>] [J<FH <Pr>] [<WD <Mo>] [<BDK <Su>] [<LH W-ZBX <Ob>] [L->LHJM >XRJM <Co>]
+IIKON05,17 ---- Ellp  << xYqX  ??NQ    11101      106  9l.     |   |      |   ||              |  [KJ >M <Cj>] [L-JHWH <Co>]
+IIKON05,18 3sgM xYqX  << xYqX  ??NQ    11101      107  8..     |   |      |   ||             [L--DBR H-ZH <Co>] [JSLX <Pr>] [JHWH <Su>] [L-<BDK <Co>]
+IIKON05,18 ---- InfC [adjunct] ??NQ    11101      108 10.\     |   |      |   ||                  |  [B-BW> <Pr>] [>DNJ <Su>] [BJT RMWN <Co>]
+IIKON05,18 ---- InfC [adjunct] ??NQ    11101      109 13..     |   |      |   ||                  |   |   |   |  [L-HCTXWT <Pr>] [CMH <Lo>]
+IIKON05,18 -sgM Ptcp [coordin] ??NQ    11101      110 12..     |   |      |   ||                  |   |   |  [W-<Cj>] [HW> <Su>] [NC<N <PC>] [<L JDJ <Co>]
+IIKON05,18 1sg- WQt0 [coordin] ??NQ    11101      111 13..     |   |      |   ||                  |   |   |      [W-<Cj>] [HCTXWJTJ <Pr>] [BJT RMN <Lo>]
+IIKON05,18 ---- InfC [adjunct] ??NQ    11101      112 11..     |   |      |   ||                  |   |  [B-HCTXWJTJ <Ps>] [BJT RMN <Lo>]
+IIKON05,18 3sgM ZYqX  << xYqX  ??NQ    11101      113  9..     |   |      |   ||                 [JSLX_N> <Pr>] [JHWH <Su>] [L-<BDK <Co>] [B--DBR H-ZH <Co>]
+                               =======                         |   |      |   |+=================================================================/
+IIKON05,19 3sgM Way0  << WayX  ??N     11102      114  4.#     |   |      |  [W-<Cj>] [J>MR <Pr>] [LW <Co>]
+                               =======                         |   |      |    +=================================================================\
+IIKON05,19 2sgM ZIm0  <<  [Q]  ??NQ    111021     115  5.q     |   |      |    | [LK <Pr>] [L-CLWM <Aj>]
+                               =======                         |   |      |    +=================================================================/
+IIKON05,19 3sgM Way0  << WayX  ??N     11103      116  3.#     |   |     [W-<Cj>] [JLK <Pr>] [M->TW <Aj>] [KBRT >RY <Co>]
+IIKON05,20 3sgM WayX  << Way0  ??N     111031     117  4.#     |   |         [W-<Cj>] [J>MR <Pr>] [GJXZJ / N<R >LJC< / >JC H->LHJM <ap><ap><Su>]
+                               =======                         |   |              |+=============================================================\
+IIKON05,20 3sgM xQtX  <<  [Q]  ??NQ    1110311    118  6.q     |   |              || [HNH <Ij>] [XFK <Pr>] [>DNJ <Su>] [>T N<MN / H->RMJ H-ZH <ap><Ob>]
+IIKON05,20 ---- InfC [adjunct] ??NQ    1110311    119  8..     |   |              ||      |  [M-QXT <Pr>] [M-JDW <Co>]
+IIKON05,20 3sgM xQt0 [object ] ??NQ    1110311    120  9..     |   |              ||      |      [>T >CR <Re>] [HBJ> <Pr>]
+IIKON05,20 -sgM AjCl  << xQtX  ??NQ    1110311    121  7..     |   |              ||     [XJ <PC>] [JHWH <Su>]
+IIKON05,20 1sg- xQt0 [complm.] ??NQ    1110311    122  8..     |   |              ||         [KJ >M <Cj>] [RYTJ <Pr>] [>XRJW <Co>]
+IIKON05,20 1sg- WQt0 [coordin] ??NQ    11103111   123  9.#     |   |              ||             [W-<Cj>] [LQXTJ <Pr>] [M->TW <Co>] [M>WMH <Ob>]
+                               =======                         |   |              |+=============================================================/
+IIKON05,21 3sgM WayX  << WayX  ??N     1110312    124  5.#     |   |             [W-<Cj>] [JRDP <Pr>] [GJXZJ <Su>] [>XRJ N<MN <Co>]
+IIKON05,21 3sgM WayX  << WayX  ??N     11103121   125  7.#     |   |              |   |  [W-<Cj>] [JR>H <Pr>] [N<MN <Su>]
+IIKON05,21 -sgM Ptcp [object ] ??N     11103121   126  9..     |   |              |   |       |  [RY <PC>] [>XRJW <Co>]
+IIKON05,21 3sgM Way0  << WayX  ??N     11103121   127  8..     |   |              |   |      [W-<Cj>] [JPL <Pr>] [M-<L H-MRKBH <Co>]
+IIKON05,21 ---- InfC [adjunct] ??N     11103121   128  9..     |   |              |   |       |  [L-QR>TW <PO>]
+IIKON05,21 3sgM Way0  << Way0  ??N     11103121   129  8..     |   |              |   |      [W-<Cj>] [J>MR <Pr>]
+                               =======                         |   |              |   |        +=================================================\
+IIKON05,21 ---- NmCl  <<  [Q]  ??NQ    111031211  130  9.q     |   |              |   |        | [H-<Qu>] [CLWM <PC>]
+                               =======                         |   |              |   |        +=================================================/
+IIKON05,22 3sgM Way0  << WayX  ??N     1110312    131  6..     |   |              |  [W-<Cj>] [J>MR <Pr>]
+                               =======                         |   |              |   |   |+=====================================================\
+IIKON05,22 ---- NmCl  <<  [Q]  ??NQ    11103122   132  8.q     |   |              |   |   || [CLWM <Su>]
+IIKON05,22 3sgM XQtl  << NmCl  ??NQ    11103122   133  9..     |   |              |   |   ||     [>DNJ <Su>] [CLXNJ <PO>]
+IIKON05,22 ---- InfC [adjunct] ??NQ    11103122   134 10..     |   |              |   |   ||         [L->MR <Pr>]
+                               =======                         |   |              |   |   ||           +======================================\
+IIKON05,22 3pl- xQtX  <<  [Q]  ??NQQ   111031221  135 11.q     |   |              |   |   ||           | [HNH <Ij>] [<TH ZH <Ti>] [B>W <Pr>] [>LJ <Co>] [CNJ N<RJM <Su>] [M-HR >PRJM / M-BNJ H-NBJ>JM <sp><Co>]
+IIKON05,22 2sgM ZIm0  << xQtX  ??NQQ   1110312211 136 12.#     |   |              |   |   ||           |     [TNH <Pr>] [N> <Ij>] [LHM <Co>] [KKR KSP W-CTJ XLPWT BGDJM <Ob>]
+                               =======                         |   |              |   |   |+=====================================================/
+IIKON05,23 3sgM WayX  << Way0  ??N     11103123   137  7.#     |   |              |   |  [W-<Cj>] [J>MR <Pr>] [N<MN <Su>]
+                               =======                         |   |              |   |       |+=================================================\
+IIKON05,23 2sgM ZIm0  <<  [Q]  ??NQ    111031231  138  9.q     |   |              |   |       || [HW>L <Pr>]
+IIKON05,23 2sgM ZIm0  << ZIm0  ??NQ    111031231  139  9..     |   |              |   |       || [QX <Pr>] [KKRJM <Ob>]
+                               =======                         |   |              |   |       |+=================================================/
+IIKON05,23 3sgM Way0  << WayX  ??N     11103123   140  8..     |   |              |   |      [W-<Cj>] [JPRY <Pr>] [BW <Co>]
+IIKON05,23 3sgM Way0  << Way0  ??N     11103123   141  8..     |   |              |   |      [W-<Cj>] [JYR <Pr>] [KKRJM KSP <Ob>] [B-CNJ XRVJM / W-/ CTJ XLPWT BGDJM <pa><cj><Co>]
+IIKON05,23 3sgM Way0  << Way0  ??N     11103123   142  8..     |   |              |   |      [W-<Cj>] [JTN <Pr>] [>L CNJ N<RJW <Co>]
+IIKON05,23 3plM Way0  << Way0  ??N     111031232  143  9.#     |   |              |   |          [W-<Cj>] [JF>W <Pr>] [L-PNJW <Co>]
+IIKON05,24 3sgM Way0  << Way0  ??N     1110312    144  6..     |   |              |  [W-<Cj>] [JB> <Pr>] [>L H-<PL <Co>]
+IIKON05,24 3sgM Way0  << Way0  ??N     1110312    145  6..     |   |              |  [W-<Cj>] [JQX <Pr>] [M-JDM <Co>]
+IIKON05,24 3sgM Way0  << Way0  ??N     1110312    146  6..     |   |              |  [W-<Cj>] [JPQD <Pr>] [B--BJT <Co>]
+IIKON05,24 3sgM Way0  << Way0  ??N     1110312    147  6..     |   |              |  [W-<Cj>] [JCLX <Pr>] [>T H->NCJM <Ob>]
+IIKON05,24 3plM Way0  << Way0  ??N     11103124   148  7.#     |   |              |      [W-<Cj>] [JLKW <Pr>]
+IIKON05,25 3sgM WXQt  << WayX  ??N     1110313    149  5.#     |   |             [W-<Cj>] [HW> <Su>] [B> <Pr>]
+IIKON05,25 3sgM Way0  << WXQt  ??N     11103131   150  7.#     |   |                  |  [W-<Cj>] [J<MD <Pr>] [>L >DNJW <Co>]
+IIKON05,25 3sgM WayX  << WXQt  ??N     11103132   151  6.#     |   |                 [W-<Cj>] [J>MR <Pr>] [>LJW <Co>] [>LJC< <Su>]
+                               =======                         |   |                      |+=====================================================\
+IIKON05,25 ---- NmCl  <<  [Q]  ??NQ    111031321  152  8.q     |   |                      || [M->N <Co>]
+IIKON05,25 ---- Voct  << NmCl  ??NQ    111031321  153  9v.     |   |                      ||     [GXZJ <Vo>]
+                               =======                         |   |                      |+=====================================================/
+IIKON05,25 3sgM Way0  << WayX  ??N     111031322  154  7.#     |   |                     [W-<Cj>] [J>MR <Pr>]
+                               =======                         |   |                      |+=====================================================\
+IIKON05,25 3sgM xQtX  <<  [Q]  ??NQ    1110313221 155  8.q     |   |                      || [L> <Ng>] [HLK <Pr>] [<BDK <Su>] [>NH W->NH <Co>]
+                               =======                         |   |                      |+=====================================================/
+IIKON05,26 3sgM Way0  << Way0  ??N     111031323  156  7.#     |   |                     [W-<Cj>] [J>MR <Pr>] [>LJW <Co>]
+                               =======                         |   |                      |+=====================================================\
+IIKON05,26 3sgM XQtl  <<  [Q]  ??NQ    1110313231 157  8.q     |   |                      || [L> <Ng>] [LBJ <Su>] [HLK <Pr>]
+IIKON05,26 3sgM xQtX [adjunct] ??NQ    1110313231 158 10..     |   |                      ||      |  [K->CR <Cj>] [HPK <Pr>] [>JC <Su>] [M-<L MRKBTW <Co>]
+IIKON05,26 ---- InfC [adjunct] ??NQ    1110313231 159 11..     |   |                      ||      |      [L-QR>TK <PO>]
+IIKON05,26 ---- NmCl  << XQtl  ??NQ    1110313231 160  9..     |   |                      ||     [H-<Qu>] [<T <Su>]
+IIKON05,26 ---- InfC [adjunct] ??NQ    1110313231 161 11..     |   |                      ||          |  [L-QXT <Pr>] [>T H-KSP <Ob>]
+IIKON05,26 ---- InfC [coordin] ??NQ    1110313231 162 12..     |   |                      ||          |      [W-<Cj>] [L-QXT <Pr>] [BGDJM W-ZJTJM W-KRMJM W-Y>N W-BQR W-<BDJM W-CPXWT <Ob>]
+IIKON05,27 3sgF WXYq  << NmCl  ??NQ    1110313231 163 10..     |   |                      ||         [W-<Cj>] [YR<T N<MN <Su>] [TDBQ <Pr>] [BK W-B-ZR<K <Co>] [L-<WLM <Ti>]
+                               =======                         |   |                      |+=====================================================/
+IIKON05,27 3sgM Way0  << Way0  ??N     111031324  164  7.#     |   |                     [W-<Cj>] [JY> <Pr>] [M-L-PNJW <Co>]
+IIKON05,27 -sgM Ptcp [pradjun] ??N     111031324  165  8..     |   |                         [MYR< <PC>] [K--CLG <Aj>]

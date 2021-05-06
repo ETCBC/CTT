@@ -6,36 +6,36 @@ JONA 02,03 3sgM Way0  << WayX  N       3       5  1..    |  [W-<Cj>] [J>MR <Pr>]
                                =======                   |    +===================================================================================\
 JONA 02,03 1sg- ZQt0  <<  [Q]  NQ      31      6  2.q    |    | [QR>TJ <Pr>] [M-YRH <Aj>] [LJ <sc>] [>L JHWH <Co>]
                                -------                   |    |      |   |+--------------------------------------------------------------------\
-JONA 02,03 3sgM Way0  << ZQt0  NQN     31      7  5..    |    |      |    | [W-<Cj>] [J<NNJ <PO>]
+JONA 02,03 3sgM Way0  << ZQt0  NQN     31      7  5..    |    |      |   || [W-<Cj>] [J<NNJ <PO>]
                                -------                   |    |      |   |+--------------------------------------------------------------------/
 JONA 02,03 1sg- xQt0  << ZQt0  NQ      31      8  4..    |    |      |  [M-BVN C>WL <Aj>] [CW<TJ <Pr>]
-JONA 02,03 2sgM ZQt0  << xQt0  NQ      31      9  5..    |    |      |   |  [CM<T <Pr>] [QWLJ <Ob>]
-                               -------                   |    |      |   |    +----------------------------------------------------------------\
-JONA 02,04 2sgM Way0  << ZQt0  NQN     31     10  6..    |    |      |   |    | [W-<Cj>] [TCLJKNJ <PO>] [MYWLH <Co>] [B-LBB JMJM <Lo>]
-                               -------                   |    |      |   |    |      |+-----------------------------------------------------\
-JONA 02,04 3sgM WXYq  << Way0  NQND    31     11  8..    |    |      |   |    |      || [W-<Cj>] [NHR <Su>] [JSBBNJ <PO>]
-JONA 02,04 3pl- XQtl  << WXYq  NQND    31     12  9..    |    |      |   |    |      ||     [KL MCBRJK W-GLJK <Su>] [<LJ <Co>] [<BRW <Pr>]
-JONA 02,05 1sg- WXQt  << XQtl  NQND    311    13 11.#    |    |      |   |    |      ||          |  [W-<Cj>] [>NJ <Su>] [>MRTJ <Pr>]
-                               =======                   |    |      |   |    |      ||          |    +==================================\
-JONA 02,05 1sg- ZQt0  <<  [Q]  NQNDQ   3111   14 12.q    |    |      |   |    |      ||          |   || [NGRCTJ <Pr>] [M-NGD <JNJK <Aj>]
-JONA 02,05 1sg- xYq0  << ZQt0  NQNDQ   3111   15 13..    |    |      |   |    |      ||          |   ||     [>K <Mo>] [>WSJP <Pr>]
-JONA 02,05 ---- InfC [adjunct] NQNDQ   3111   16 14..    |    |      |   |    |      ||          |   ||         [L-HBJV <Pr>] [>L HJKL QDCK <Co>]
-                               =======                   |    |      |   |    |      ||               +==================================/
-JONA 02,06 3pl- ZQtX  << XQtl  NQND    31     17 10..    |    |      |   |    |      ||         [>PPWNJ <PO>] [MJM <Su>] [<D NPC <Aj>]
-JONA 02,06 3sgM XYqt  << ZQtX  NQND    31     18 11..    |    |      |   |    |      ||             [THWM <Su>] [JSBBNJ <PO>]
-JONA 02,06 -sgM Ptcp  << XYqt  NQND    31     19 13..    |    |      |   |    |      ||                  |  [SWP <Su>] [XBWC <PC>] [L-R>CJ <Co>]
-JONA 02,07 1sg- xQt0  << XYqt  NQND    31     20 12..    |    |      |   |    |      ||                 [L-QYBJ HRJM <Co>] [JRDTJ <Pr>]
-JONA 02,07 ---- CPen  << xQt0  NQND    31     21 13c.    |    |      |   |    |      ||                     [H->RY <Fr>]
-JONA 02,07 ---- NmCl [resumpt] NQND    31     22 14..    |    |      |   |    |      ||                         [BRXJH <Su>] [B<DJ <PC>] [L-<WLM <Ti>]
-                               -------                   |    |      |   |    |       +-----------------------------------------------------/
-JONA 02,07 2sgM Way0  << Way0  NQN     31     23  7..    |    |      |   |    |     [W-<Cj>] [T<L <Pr>] [M-CXT <Co>] [XJJ <Ob>]
-                               =======                   |    |      |   |    |       +=====================================================\
-JONA 02,07 ---- Voct  << Way0  NQNQ    31     24  8v.    |    |      |   |    |      || [JHWH / >LHJ <ap><Vo>]
+JONA 02,03 2sgM ZQt0  << xQt0  NQ      31      9  5..    |    |      |      [CM<T <Pr>] [QWLJ <Ob>]
+                               -------                   |    |      |        +----------------------------------------------------------------\
+JONA 02,04 2sgM Way0  << ZQt0  NQN     31     10  6..    |    |      |        | [W-<Cj>] [TCLJKNJ <PO>] [MYWLH <Co>] [B-LBB JMJM <Lo>]
+                               -------                   |    |      |        |      |+-----------------------------------------------------\
+JONA 02,04 3sgM WXYq  << Way0  NQND    31     11  8..    |    |      |        |      || [W-<Cj>] [NHR <Su>] [JSBBNJ <PO>]
+JONA 02,04 3pl- XQtl  << WXYq  NQND    31     12  9..    |    |      |        |      ||     [KL MCBRJK W-GLJK <Su>] [<LJ <Co>] [<BRW <Pr>]
+JONA 02,05 1sg- WXQt  << XQtl  NQND    311    13 11.#    |    |      |        |      ||          |  [W-<Cj>] [>NJ <Su>] [>MRTJ <Pr>]
+                               =======                   |    |      |        |      ||          |    +==================================\
+JONA 02,05 1sg- ZQt0  <<  [Q]  NQNDQ   3111   14 12.q    |    |      |        |      ||          |    | [NGRCTJ <Pr>] [M-NGD <JNJK <Aj>]
+JONA 02,05 1sg- xYq0  << ZQt0  NQNDQ   3111   15 13..    |    |      |        |      ||          |    |     [>K <Mo>] [>WSJP <Pr>]
+JONA 02,05 ---- InfC [adjunct] NQNDQ   3111   16 14..    |    |      |        |      ||          |    |         [L-HBJV <Pr>] [>L HJKL QDCK <Co>]
+                               =======                   |    |      |        |      ||          |    +==================================/
+JONA 02,06 3pl- ZQtX  << XQtl  NQND    31     17 10..    |    |      |        |      ||         [>PPWNJ <PO>] [MJM <Su>] [<D NPC <Aj>]
+JONA 02,06 3sgM XYqt  << ZQtX  NQND    31     18 11..    |    |      |        |      ||             [THWM <Su>] [JSBBNJ <PO>]
+JONA 02,06 -sgM Ptcp  << XYqt  NQND    31     19 13..    |    |      |        |      ||                  |  [SWP <Su>] [XBWC <PC>] [L-R>CJ <Co>]
+JONA 02,07 1sg- xQt0  << XYqt  NQND    31     20 12..    |    |      |        |      ||                 [L-QYBJ HRJM <Co>] [JRDTJ <Pr>]
+JONA 02,07 ---- CPen  << xQt0  NQND    31     21 13c.    |    |      |        |      ||                     [H->RY <Fr>]
+JONA 02,07 ---- NmCl [resumpt] NQND    31     22 14..    |    |      |        |      ||                         [BRXJH <Su>] [B<DJ <PC>] [L-<WLM <Ti>]
+                               -------                   |    |      |        |      |+-----------------------------------------------------/
+JONA 02,07 2sgM Way0  << Way0  NQN     31     23  7..    |    |      |        |     [W-<Cj>] [T<L <Pr>] [M-CXT <Co>] [XJJ <Ob>]
+                               =======                   |    |      |        |       +=====================================================\
+JONA 02,07 ---- Voct  << Way0  NQNQ    31     24  8v.    |    |      |        |       | [JHWH / >LHJ <ap><Vo>]
                                -------                   |    |      |        +----------------------------------------------------------------/
 JONA 02,08 ---- InfC [adjunct] NQ      31     25  4.\    |    |      |  [B-HT<VP <Pr>] [<LJ <Co>] [NPCJ <Su>]
 JONA 02,08 1sg- xQt0  << ZQt0  NQ      31     26  3..    |    |     [>T JHWH <Ob>] [ZKRTJ <Pr>]
                                -------                   |    |          |   |+----------------------------------------------------------------\
-JONA 02,08 3sgF WayX  << xQt0  NQN     312    27  6.#    |    |          |    | [W-<Cj>] [TBW> <Pr>] [>LJK <Co>] [TPLTJ / >L HJKL QDCK <sp><Su>]
+JONA 02,08 3sgF WayX  << xQt0  NQN     312    27  6.#    |    |          |   || [W-<Cj>] [TBW> <Pr>] [>LJK <Co>] [TPLTJ / >L HJKL QDCK <sp><Su>]
                                -------                   |    |          |   |+----------------------------------------------------------------/
 JONA 02,09 -plM Ptcp [subject] NQ      31     28  6.\    |    |          |   |  [MCMRJM <PC>] [HBLJ CW> <Ob>]
 JONA 02,09 3plM xYq0  << xQt0  NQ      31     29  5..    |    |          |  [XSDM <Ob>] [J<ZBW <Pr>]
@@ -44,6 +44,6 @@ JONA 02,10 1sg- xYq0 [resumpt] NQ      31     31  7..    |    |          |      
 JONA 02,10 1sg- xQt0 [object ] NQ      31     32  9.\    |    |          |               |  [>CR <Re>] [NDRTJ <Pr>]
 JONA 02,10 1sg- ZYq0  << xYq0  NQ      31     33  8..    |    |          |              [>CLMH <Pr>]
 JONA 02,10 ---- NmCl  << xQt0  NQ      31     34  4..    |    |         [JCW<TH <Su>] [L-JHWH <PC>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
 JONA 02,11 3sgM WayX  << WayX  N       4      35  0.#   [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [L--DG <Co>]
 JONA 02,11 3sgM Way0  << WayX  N       4      36  1..       [W-<Cj>] [JQ> <Pr>] [>T JWNH <Ob>] [>L H-JBCH <Co>]

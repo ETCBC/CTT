@@ -24,7 +24,7 @@
  NEH 08,06 3plM WayX  << WayX  N       141    24  3.#    |   |   |  [W-<Cj>] [J<NW <Pr>] [KL H-<M <Su>]
                                =======                   |   |   |       |   |+===================================================================\
  NEH 08,06 ---- NmCl  <<  [Q]  NQ      1411   25  6.q    |   |   |       |   || [>MN >MN <Ij>]
-                               =======                   |   |   |       |    +===================================================================/
+                               =======                   |   |   |       |   |+===================================================================/
  NEH 08,06 ---- Defc  << WayX  N       141    26  5d.    |   |   |       |  [B-M<L JDJHM <Aj>]
  NEH 08,06 3plM Way0  << WayX  N       141    27  4..    |   |   |      [W-<Cj>] [JQDW <Pr>]
  NEH 08,06 3plM Way0  << Way0  N       141    28  4..    |   |   |      [W-<Cj>] [JCTXW <Pr>] [L-JHWH <Co>]
@@ -40,11 +40,11 @@
  NEH 08,09 -plM Ptcp [attrib.] N       15     38  8.e    |       |   |   |   |       |  [H-<Re>] [MBJNJM <PC>] [>T H-<M <Ob>]
  NEH 08,09 ---- Defc  << Defc  N       15     39  7d.    |       |   |   |   |      [L-KL H-<M <Co>]
                                =======                   |       |   |   |+=======================================================================\
- NEH 08,09 ---- CPen  <<  [Q]  NQ      151    40  5cq    |       |   |    | [H-JWM <Fr>]
- NEH 08,09 -sgM AjCl [resumpt] NQ      151    41  7..    |       |   |    |      |  [QDC <PC>] [HW> <Su>] [L-JHWH / >LHJKM <ap><Co>]
- NEH 08,09 2plM xYq0  << CPen  NQ      151    42  6..    |       |   |    |     [>L <Ng>] [TT>BLW <Pr>]
- NEH 08,09 2plM WxY0  << xYq0  NQ      151    43  7..    |       |   |    |         [W-<Cj>] [>L <Ng>] [TBKW <Pr>]
-                               =======                   |       |   |    +=======================================================================/
+ NEH 08,09 ---- CPen  <<  [Q]  NQ      151    40  5cq    |       |   |   || [H-JWM <Fr>]
+ NEH 08,09 -sgM AjCl [resumpt] NQ      151    41  7..    |       |   |   ||      |  [QDC <PC>] [HW> <Su>] [L-JHWH / >LHJKM <ap><Co>]
+ NEH 08,09 2plM xYq0  << CPen  NQ      151    42  6..    |       |   |   ||     [>L <Ng>] [TT>BLW <Pr>]
+ NEH 08,09 2plM WxY0  << xYq0  NQ      151    43  7..    |       |   |   ||         [W-<Cj>] [>L <Ng>] [TBKW <Pr>]
+                               =======                   |       |   |   |+=======================================================================/
  NEH 08,09 -plM Ptcp  << WayX  N       15     44  4..    |       |   |  [KJ <Cj>] [BWKJM <PC>] [KL H-<M <Su>]
  NEH 08,09 ---- InfC [adjunct] N       15     45  5..    |       |   |      [K-CM<M <Ps>] [>T DBRJ H-TWRH <Ob>]
  NEH 08,10 3sgM Way0  << WayX  N       15     46  3..    |       |  [W-<Cj>] [J>MR <Pr>] [LHM <Co>]
@@ -58,14 +58,14 @@
  NEH 08,10 2plM WxY0  << ZIm0  NQ      152    53  5..    |       |    |     [W-<Cj>] [>L <Ng>] [T<YBW <Pr>]
  NEH 08,10 ---- CPen  << WxY0  NQ      152    54  6c.    |       |    |         [KJ <Cj>] [XDWT JHWH <Fr>]
  NEH 08,10 ---- NmCl [resumpt] NQ      152    55  7..    |       |    |             [HJ> <Su>] [M<ZKM <PC>]
-                               =======                   |            +===========================================================================/
+                               =======                   |       |    +===========================================================================/
  NEH 08,11 -plM Ptcp  << WayX  N       153    56  2.#    |      [W-<Cj>] [H-LWJM <Su>] [MXCJM <PC>] [L-KL H-<M <Co>]
  NEH 08,11 ---- InfC [adjunct] N       153    57  4..    |           |  [L->MR <Pr>]
                                =======                   |           |    +=======================================================================\
  NEH 08,11 2plM ZIm0  <<  [Q]  NQ      1531   58  5.q    |           |    | [HSW <Pr>]
  NEH 08,11 -sgM AjCl  << ZIm0  NQ      1531   59  7..    |           |    |      |  [KJ <Cj>] [H-JWM <Su>] [QDC <PC>]
  NEH 08,11 2plM WxY0  << ZIm0  NQ      1531   60  6..    |           |    |     [W-<Cj>] [>L <Ng>] [T<YBW <Pr>]
-                               =======                   |                +=======================================================================/
+                               =======                   |           |    +=======================================================================/
  NEH 08,12 3plM WayX  << Ptcp  N       1532   61  3.#    |          [W-<Cj>] [JLKW <Pr>] [KL H-<M <Su>]
  NEH 08,12 ---- InfC [adjunct] N       1532   62  5..    |               |  [L->KL <Pr>]
  NEH 08,12 ---- InfC [coordin] N       1532   63  6..    |               |      [W-<Cj>] [L-CTWT <Pr>]
@@ -82,13 +82,13 @@
  NEH 08,14 3plM xYqX [coordin] ND      2      73  6..        |       |       || [>CR <Re>] [JCBW <Pr>] [BNJ JFR>L <Su>] [B--SKWT <Co>] [B--XG / B--XDC H-CBJ<J <sp><Ti>]
  NEH 08,15 3plM WxY0 [coordin] ND      2      74  7..        |       |       ||     [W-<Cj>] [>CR <Re>] [JCMJ<W <Pr>]
  NEH 08,15 3plM WYq0 [coordin] ND      2      75  8..        |       |       ||         [W-<Cj>] [J<BJRW <Pr>] [QWL <Ob>] [B-KL <RJHM W-B-JRWCLM <Co>]
-                               -------                       |       |        +-------------------------------------------------------------------/
+                               -------                       |       |       |+-------------------------------------------------------------------/
  NEH 08,15 ---- InfC [adjunct] N       2      76  5..        |       |      [L->MR <Pr>]
                                =======                       |       |        +===================================================================\
- NEH 08,15 2plM ZIm0  <<  [Q]  NQ      21     77  6.q        |       |       || [Y>W <Pr>] [H-HR <Co>]
- NEH 08,15 2plM WIm0  << ZIm0  NQ      21     78  7..        |       |       ||     [W-<Cj>] [HBJ>W <Pr>] [<LJ ZJT W-<LJ <Y CMN W-<LJ HDS W-<LJ TMRJM W-<LJ <Y <BT <Ob>]
- NEH 08,15 ---- InfC [adjunct] NQ      21     79  8..        |       |       ||         [L-<FT <Pr>] [SKT <Ob>] [K--KTWB <Aj>]
-                               =======                       |                +===================================================================/
+ NEH 08,15 2plM ZIm0  <<  [Q]  NQ      21     77  6.q        |       |        | [Y>W <Pr>] [H-HR <Co>]
+ NEH 08,15 2plM WIm0  << ZIm0  NQ      21     78  7..        |       |        |     [W-<Cj>] [HBJ>W <Pr>] [<LJ ZJT W-<LJ <Y CMN W-<LJ HDS W-<LJ TMRJM W-<LJ <Y <BT <Ob>]
+ NEH 08,15 ---- InfC [adjunct] NQ      21     79  8..        |       |        |         [L-<FT <Pr>] [SKT <Ob>] [K--KTWB <Aj>]
+                               =======                       |       |        +===================================================================/
  NEH 08,16 3plM WayX  << Way0  N       22     80  3.#        |      [W-<Cj>] [JY>W <Pr>] [H-<M <Su>]
  NEH 08,16 3plM Way0  << WayX  N       22     81  4..        |          [W-<Cj>] [JBJ>W <Pr>]
  NEH 08,16 3plM Way0  << Way0  N       22     82  4..        |          [W-<Cj>] [J<FW <Pr>] [LHM <Co>] [SKWT <Ob>]

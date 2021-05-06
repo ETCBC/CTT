@@ -1,18 +1,18 @@
  PS132,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [CJR H-M<LWT <PC>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PS132,001 2sgM ZIm0  << NmCl  Q       2       2  0.N   [ZKWR <Pr>]
  PS132,001 ---- Voct  << ZIm0  Q       2       3  4ve    |   |   |   |  [JHWH <Vo>]
  PS132,001 ---- Defc  << ZIm0  Q       2       4  3d.    |   |   |  [L-DWD <Co>] [>T KL <NWTW <Ob>]
  PS132,002 3sgM xQt0 [object ] Q       2       5  2..    |   |  [>CR <Re>] [NCB< <Pr>] [L-JHWH <Co>]
  PS132,002 3sgM ZQt0 [coordin] Q       2       6  3..    |   |      [NDR <Pr>] [L->BJR J<QB <Co>]
                                =======                   |   |        +===========================================================================\
- PS132,003 1sg- xYq0  <<  [Q]  QQ      21      7  4.q    |   |       || [>M <Cj>] [>B> <Pr>] [B->HL BJTJ <Co>]
- PS132,003 1sg- xYq0  << xYq0  QQ      21      8  6..    |   |       ||      |  [>M <Cj>] [><LH <Pr>] [<L <RF JYW<J <Co>]
- PS132,004 1sg- xYq0  << xYq0  QQ      21      9  6..    |   |       ||      |  [>M <Cj>] [>TN <Pr>] [CNT <Ob>] [L-<JNJ <Co>]
- PS132,004 ---- Ellp  << xYq0  QQ      21     10  7l.    |   |       ||      |      [L-<P<PJ <Co>] [TNWMH <Ob>]
- PS132,005 1sg- xYq0  << xYq0  QQ      21     11  5..    |   |       ||     [<D <Cj>] [>MY> <Pr>] [MQWM <Ob>] [L-JHWH <Co>]
- PS132,005 ---- Ellp  << xYq0  QQ      21     12  6l.    |   |       ||         [MCKNWT <Ob>] [L->BJR J<QB <Co>]
-                               =======                   |            +===========================================================================/
+ PS132,003 1sg- xYq0  <<  [Q]  QQ      21      7  4.q    |   |        | [>M <Cj>] [>B> <Pr>] [B->HL BJTJ <Co>]
+ PS132,003 1sg- xYq0  << xYq0  QQ      21      8  6..    |   |        |      |  [>M <Cj>] [><LH <Pr>] [<L <RF JYW<J <Co>]
+ PS132,004 1sg- xYq0  << xYq0  QQ      21      9  6..    |   |        |      |  [>M <Cj>] [>TN <Pr>] [CNT <Ob>] [L-<JNJ <Co>]
+ PS132,004 ---- Ellp  << xYq0  QQ      21     10  7l.    |   |        |      |      [L-<P<PJ <Co>] [TNWMH <Ob>]
+ PS132,005 1sg- xYq0  << xYq0  QQ      21     11  5..    |   |        |     [<D <Cj>] [>MY> <Pr>] [MQWM <Ob>] [L-JHWH <Co>]
+ PS132,005 ---- Ellp  << xYq0  QQ      21     12  6l.    |   |        |         [MCKNWT <Ob>] [L->BJR J<QB <Co>]
+                               =======                   |   |        +===========================================================================/
  PS132,006 1pl- xQt0  << ZIm0  Q       2      13  1..    |  [HNH <Ij>] [CM<NWH <PO>] [B->PRTH <Lo>]
  PS132,006 1pl- ZQt0 [coordin] Q       2      14  3..    |       |  [MY>NWH <PO>] [B-FDJ J<R <Co>]
  PS132,007 1pl- ZYq0  << xQt0  Q       2      15  2..    |      [NBW>H <Pr>] [L-MCKNWTJW <Co>]
@@ -26,11 +26,11 @@
  PS132,011 3sgM ZQtX  << ZIm0  Q       2      23  1..       [NCB< <Pr>] [JHWH <Su>] [L-DWD <Co>] [>MT <Aj>]
  PS132,011 3sgM xYq0  << ZQtX  Q       2      24  4..            |   |  [L> <Ng>] [JCWB <Pr>] [MMNH <Co>]
                                =======                           |+===============================================================================\
- PS132,011 1sg- xYq0  <<  [Q]  QQ      22     25  3.q             | [M-PRJ BVNK <Co>] [>CJT <Pr>] [L-KS> <Co>] [LK <Aj>]
- PS132,012 3plM xYqX  << xYq0  QQ      22     26  4..             |     [>M <Cj>] [JCMRW <Pr>] [BNJK <Su>] [BRJTJ W-<DTJ <Ob>]
- PS132,012 1sg- xYq0 [attrib.] QQ      22     27  6..             |          |  [ZW <Ob>] [>LMDM <PO>]
- PS132,012 3plM XYqt  << xYqX  QQ      22     28  5..             |         [GM BNJHM <Su>] [<DJ <D <Ti>] [JCBW <Pr>] [L-KS> <Co>] [LK <Co>]
-                               =======                            +===============================================================================/
+ PS132,011 1sg- xYq0  <<  [Q]  QQ      22     25  3.q            || [M-PRJ BVNK <Co>] [>CJT <Pr>] [L-KS> <Co>] [LK <Aj>]
+ PS132,012 3plM xYqX  << xYq0  QQ      22     26  4..            ||     [>M <Cj>] [JCMRW <Pr>] [BNJK <Su>] [BRJTJ W-<DTJ <Ob>]
+ PS132,012 1sg- xYq0 [attrib.] QQ      22     27  6..            ||          |  [ZW <Ob>] [>LMDM <PO>]
+ PS132,012 3plM XYqt  << xYqX  QQ      22     28  5..            ||         [GM BNJHM <Su>] [<DJ <D <Ti>] [JCBW <Pr>] [L-KS> <Co>] [LK <Co>]
+                               =======                           |+===============================================================================/
  PS132,013 3sgM xQtX  << ZQtX  Q       2      29  2..           [KJ <Cj>] [BXR <Pr>] [JHWH <Su>] [B-YJWN <Co>]
  PS132,013 3sgM ZQt0 [coordin] Q       2      30  3..               [>WH <PO>] [L-MWCB <Co>] [LW <Co>]
                                =======                                +===========================================================================\

@@ -1,7 +1,7 @@
  PS068,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [L--MNYX <PC>]
  PS068,001 ---- NmCl  << NmCl  ?       1       2  2..    |   |  [L-DWD <PC>]
  PS068,001 ---- NmCl  << NmCl  ?       1       3  1..    |  [MZMWR / CJR <ap><PC>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PS068,002 3sgM ZYqX  << NmCl  Q       2       4  0.N   [JQWM <Pr>] [>LHJM <Su>]
  PS068,002 3plM ZYqX  << ZYqX  Q       2       5  3..        |   |  [JPWYW <Pr>] [>WJBJW <Su>]
  PS068,002 3plM WYqX  << ZYqX  Q       2       6  6..        |   |       |   |  [W-<Cj>] [JNWSW <Pr>] [MFN>JW <Su>] [M-PNJW <Co>]
@@ -24,8 +24,8 @@
  PS068,007 3pl- XQtl  << Ptcp  Q       21     23  6..        |       |          [>K SWRRJM <Su>] [CKNW <Pr>] [YXJXH <Co>]
  PS068,008 ---- Voct  << ZIm0  Q       211    24  3v#        |      [>LHJM <Vo>]
  PS068,008 ---- InfC [adjunct] Q       211    25  6.\        |           |   |  [B-Y>TK <Ps>] [L-PNJ <MK <Co>]
- PS068,008 ---- InfC [coordin] Q       211    26  7..        |           |   |      [B-Y<DK <Ps>] [B-JCJMWN <Co>]
- PS068,008 ---- MSyn  << InfC  Q       211    27  8m.        |           |   |          [SLH <Ij>]
+ PS068,008 ---- InfC [coordin] Q       211    26  7..        |           |   |   |  [B-Y<DK <Ps>] [B-JCJMWN <Co>]
+ PS068,008 ---- MSyn  << InfC  Q       211    27  8m.        |           |   |   |      [SLH <Ij>]
  PS068,009 3sgF XQtl  << Voct  Q       211    28  5..        |           |  [>RY <Su>] [R<CH <Pr>]
  PS068,009 3pl- XQtl  << XQtl  Q       211    29  6..        |           |      [>P CMJM <Su>] [NVPW <Pr>] [M-PNJ >LHJM <Aj>]
  PS068,009 ---- Ellp  << XQtl  Q       211    30  7l.        |           |          [ZH <Mo>] [SJNJ <Su>] [M-PNJ >LHJM / >LHJ JFR>L <ap><Aj>]
@@ -42,8 +42,8 @@
  PS068,013 3plM ZYq0  << XYqt  Q       2      41  8..            |   |       |   |   |  [JDDWN <Pr>]
  PS068,013 3sgF WXYq  << XYqt  Q       2      42  7..            |   |       |   |  [W-<Cj>] [NWT BJT <Su>] [TXLQ <Pr>] [CLL <Ob>]
  PS068,014 2plM xYq0  << XYqt  Q       2      43  6..            |   |       |  [>M <Cj>] [TCKBWN <Pr>] [BJN CPTJM <Co>]
- PS068,014 -sgF Ptcp  << xYq0  Q       2      44  7..            |   |       |   |  [KNPJ JWNH <Su>] [NXPH <PC>] [B--KSP <Co>]
- PS068,014 ---- Ellp  << Ptcp  Q       2      45  8l.            |   |       |   |      [W-<Cj>] [>BRWTJH <Su>] [B-JRQRQ XRWY <Co>]
+ PS068,014 -sgF Ptcp  << xYq0  Q       2      44  7..            |   |       |      [KNPJ JWNH <Su>] [NXPH <PC>] [B--KSP <Co>]
+ PS068,014 ---- Ellp  << Ptcp  Q       2      45  8l.            |   |       |          [W-<Cj>] [>BRWTJH <Su>] [B-JRQRQ XRWY <Co>]
  PS068,015 ---- InfC [adjunct] Q       2      46  6.\            |   |       |  [B-PRF <Pr>] [CDJ <Su>] [MLKJM <Ob>] [BH <Co>]
  PS068,015 3sgF ZYq0  << XYqt  Q       2      47  5..            |   |      [TCLG <Pr>] [B-YLMWN <Aj>]
  PS068,016 ---- NmCl  << ZYq0  Q       2      48  7..            |   |           |  [HR >LHJM <PC>] [HR BCN <Su>]
@@ -78,7 +78,7 @@
  PS068,023 1sg- ZYq0  << xYq0  QQ      24     76  7..                |        |     [>CJB <Pr>] [M-MYLWT JM <Co>]
  PS068,024 2sgM xYq0  << ZYq0  QQ      24     77  8..                |        |         [LM<N <Cj>] [TMXY <Pr>] [RGLK <Ob>] [B-DM <Aj>]
  PS068,024 ---- NmCl [coordin] QQ      24     78  9..                |        |             [LCWN KLBJK <Su>] [M->JBJM / MNHW <sp><PC>]
-                               =======                                        +===================================================================/
+                               =======                               |        +===================================================================/
  PS068,025 3pl- ZQt0  << Ptcp  Q       2      79  3..               [R>W <Pr>] [HLJKWTJK <Ob>]
  PS068,025 ---- Voct  << ZQt0  Q       2      80  8v.                    |   |   |   |  [>LHJM <Vo>]
  PS068,025 ---- Ellp  << ZQt0  Q       2      81  7l.                    |   |   |  [HLJKWT >LJ / MLKJ <ap><Ob>] [B--QDC <Co>]

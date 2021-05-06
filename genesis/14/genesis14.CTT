@@ -57,16 +57,16 @@
  GEN 14,19 3sgM Way0  << WXQt  N       151    57  8..                            |      [W-<Cj>] [JBRKHW <PO>]
  GEN 14,19 3sgM Way0  << Way0  N       151    58  9..                            |          [W-<Cj>] [J>MR <Pr>]
                                =======                                           |           |+===================================================\
- GEN 14,19 -sgM Ptcp  <<  [Q]  NQ      1511   59 10.q                            |            | [BRWK <PC>] [>BRM <Su>] [L->L <LJWN / QNH CMJM W->RY <ap><Co>]
- GEN 14,20 -sgM Ptcp  << Ptcp  NQ      1511   60 11..                            |            |     [W-<Cj>] [BRWK <PC>] [>L <LJWN <Su>]
- GEN 14,20 3sgM xQt0 [attrib.] NQ      1511   61 12..                            |            |         [>CR <Re>] [MGN <Pr>] [YRJK <Ob>] [B-JDK <Co>]
-                               =======                                           |            +===================================================/
+ GEN 14,19 -sgM Ptcp  <<  [Q]  NQ      1511   59 10.q                            |           || [BRWK <PC>] [>BRM <Su>] [L->L <LJWN / QNH CMJM W->RY <ap><Co>]
+ GEN 14,20 -sgM Ptcp  << Ptcp  NQ      1511   60 11..                            |           ||     [W-<Cj>] [BRWK <PC>] [>L <LJWN <Su>]
+ GEN 14,20 3sgM xQt0 [attrib.] NQ      1511   61 12..                            |           ||         [>CR <Re>] [MGN <Pr>] [YRJK <Ob>] [B-JDK <Co>]
+                               =======                                           |           |+===================================================/
  GEN 14,20 3sgM Way0  << Way0  N       151    62  9..                            |          [W-<Cj>] [JTN <Pr>] [LW <Co>] [M<FR / M-KL <sp><Ob>]
  GEN 14,21 3sgM WayX  << WayX  N       16     63  6.#                           [W-<Cj>] [J>MR <Pr>] [MLK SDM <Su>] [>L >BRM <Co>]
                                =======                                           |+===============================================================\
- GEN 14,21 2sgM ZIm0  <<  [Q]  NQ      161    64  7.q                             | [TN <Pr>] [LJ <Co>] [H-NPC <Ob>]
- GEN 14,21 2sgM WxI0  << ZIm0  NQ      161    65  8..                             |     [W-<Cj>] [H-RKC <Ob>] [QX <Pr>] [LK <Co>]
-                               =======                                            +===============================================================/
+ GEN 14,21 2sgM ZIm0  <<  [Q]  NQ      161    64  7.q                            || [TN <Pr>] [LJ <Co>] [H-NPC <Ob>]
+ GEN 14,21 2sgM WxI0  << ZIm0  NQ      161    65  8..                            ||     [W-<Cj>] [H-RKC <Ob>] [QX <Pr>] [LK <Co>]
+                               =======                                           |+===============================================================/
  GEN 14,22 3sgM WayX  << WayX  N       17     66  6.#                           [W-<Cj>] [J>MR <Pr>] [>BRM <Su>] [>L MLK SDM <Co>]
                                =======                                            +===============================================================\
  GEN 14,22 1sg- ZQt0  <<  [Q]  NQ      171    67  7.q                             | [HRJMTJ <Pr>] [JDJ <Ob>] [>L JHWH / >L <LJWN / QNH CMJM W->RY <sp><ap><Co>]
@@ -76,7 +76,7 @@
  GEN 14,23 2sgM WxY0  << Ellp  NQ      171    71 11..                             |          |   |  [W-<Cj>] [L> <Ng>] [T>MR <Pr>]
                                =======                                            |          |   |    +========================================\
  GEN 14,23 1sg- XQtl  <<  [Q]  NQQ     1711   72 12.q                             |          |   |    | [>NJ <Su>] [H<CRTJ <Pr>] [>T >BRM <Ob>]
-                               =======                                            |          |        +========================================/
+                               =======                                            |          |   |    +========================================/
  GEN 14,24 ---- NmCl  << Ellp  NQ      171    73 10..                             |          |  [BL<DJ <PC>]
  GEN 14,24 ---- Ellp  << Ellp  NQ      171    74  9l.                             |         [RQ <Mo>]
  GEN 14,24 3pl- xQtX [object ] NQ      171    75 10..                             |             [>CR <Re>] [>KLW <Pr>] [H-N<RJM <Su>]

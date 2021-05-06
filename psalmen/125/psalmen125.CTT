@@ -8,11 +8,11 @@
  PS125,002 ---- NmCl  << CPen  ?       2       8  4..        |   |      [W-<Cj>] [JHWH <Su>] [SBJB <PC>] [L-<MW <Co>] [M-<TH W-<D <WLM <Ti>]
  PS125,003 3sgM xYqX  << NmCl  ?       2       9  5..        |   |          [KJ <Cj>] [L> <Ng>] [JNWX <Pr>] [CBV H-RC< <Su>] [<L GWRL H-YDJQJM <Co>]
  PS125,003 3plM xYqX [coordin] ?       2      10  6..        |   |              [LM<N <Cj>] [L> <Ng>] [JCLXW <Pr>] [H-YDJQJM <Su>] [B-<WLTH <Co>] [JDJHM <Ob>]
-                               =======                 ==============================================================================================/
- PS125,004 2sgM ZIm0  << NmCl  Q       2      11  2..        |  [HJVJBH <Pr>]
- PS125,004 ---- Voct  << ZIm0  Q       2      12  5ve        |       |   |  [JHWH <Vo>]
- PS125,004 ---- Defc  << ZIm0  Q       2      13  4d.        |       |  [L--VWBJM W-L-JCRJM / B-LBWTM <sp><Co>]
- PS125,005 -plM CPen  << ZIm0  Q       2      14  3c.        |      [W-<Cj>] [H-<Re>] [MVJM <PC>] [<QLQLWTM <Ob>]
- PS125,005 3sgM ZYqX [resumpt] Q       2      15  4..        |          [JWLJKM <PO>] [JHWH <Su>] [>T P<LJ H->WN <Aj>]
-                               =======                 ==============================================================================================/
+                               =======                       |+======================================================================================\
+ PS125,004 2sgM ZIm0  << NmCl  Q       2      11  2..        || [HJVJBH <Pr>]
+ PS125,004 ---- Voct  << ZIm0  Q       2      12  5ve        ||      |   |  [JHWH <Vo>]
+ PS125,004 ---- Defc  << ZIm0  Q       2      13  4d.        ||      |  [L--VWBJM W-L-JCRJM / B-LBWTM <sp><Co>]
+ PS125,005 -plM CPen  << ZIm0  Q       2      14  3c.        ||     [W-<Cj>] [H-<Re>] [MVJM <PC>] [<QLQLWTM <Ob>]
+ PS125,005 3sgM ZYqX [resumpt] Q       2      15  4..        ||         [JWLJKM <PO>] [JHWH <Su>] [>T P<LJ H->WN <Aj>]
+                               =======                       |+======================================================================================/
  PS125,005 ---- NmCl  << NmCl  ?       2      16  1..       [CLWM <Su>] [<L JFR>L <PC>]

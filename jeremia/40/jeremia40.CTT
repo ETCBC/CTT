@@ -16,7 +16,7 @@
  JER 40,03 2plM xQt0  << WayX  ?NQN    1111   13 10..    |        |  |    |      ||          |  [KJ <Cj>] [XV>TM <Pr>] [L-JHWH <Co>]
  JER 40,03 2plM WxQ0  << xQt0  ?NQN    1111   14 11..    |        |  |    |      ||          |      [W-<Cj>] [L> <Ng>] [CM<TM <Pr>] [B-QWLW <Co>]
  JER 40,03 3sgM WQtX  << WayX  ?NQN    1111   15  9..    |        |  |    |      ||         [W-<Cj>] [HJH <Pr>] [LKM <PC>] [-DBR H-ZH <Su>]
-                               -------                   |        |  |    |       +---------------------------------------------------------/
+                               -------                   |        |  |    |      |+---------------------------------------------------------/
  JER 40,04 ---- MSyn  << XQtl  ?NQ     111    16  6m.    |        |  |    |     [W-<Cj>] [<TH <Ti>]
  JER 40,04 1sg- xQt0  << MSyn  ?NQ     111    17  7..    |        |  |    |         [HNH <Ij>] [PTXTJK <PO>] [H-JWM <Ti>] [MN H->ZQJM <Co>]
  JER 40,04 ---- NmCl [attrib.] ?NQ     111    18  9..    |        |  |    |              |  [>CR <Re>] [<L JDK <PC>]
@@ -47,32 +47,32 @@
  JER 40,06 3sgM WayX  << WayX  ?N      13     42  3.#    |        | [W-<Cj>] [JB> <Pr>] [JRMJHW <Su>] [>L GDLJH / BN >XJQM <ap><Co>] [H-MYPTH <Co>]
  JER 40,06 3sgM Way0  << WayX  ?N      13     43  4..    |        |     [W-<Cj>] [JCB <Pr>] [>TW <Aj>] [B-TWK H-<M <Co>]
  JER 40,06 -plM Ptcp [attrib.] ?N      13     44  5..    |        |         [H-<Re>] [NC>RJM <PC>] [B-->RY <Co>]
-                               =======                 ==============================================================================================/
+                               -------                +----------------------------------------------------------------------------------------------\
  JER 40,07 3plM WayX  << NmCl  N       2      45  0.#   [W-<Cj>] [JCM<W <Pr>] [KL FRJ H-XJLJM <Su>]
- JER 40,07 ---- NmCl [attrib.] N       2      46  6.e        |   ||  |   |   |  [>CR <Re>] [B--FDH <PC>]
- JER 40,07 ---- Defc  << WayX  N       2      47  5d.        |   ||  |   |  [HMH W->NCJHM <sp>]
- JER 40,07 3sgM xQtX [object ] N       2      48  4..        |   ||  |  [KJ <Cj>] [HPQJD <Pr>] [MLK BBL <Su>] [>T GDLJHW / BN >XJQM <ap><Ob>] [B-->RY <Co>]
- JER 40,07 3sgM WxQ0 [coordin] N       2      49  5..        |   ||  |      [W-<Cj>] [KJ <Cj>] [HPQJD <Pr>] [>TW <Aj>] [>NCJM W-NCJM W-VP / W-/ M-DLT H->RY <pa><cj><Ob>]
- JER 40,07 3pl- xQt0 [attrib.] N       2      50  6..        |   ||  |          [M->CR <Re>] [L> <Ng>] [HGLW <Pr>] [BBLH <Co>]
- JER 40,08 3plM Way0  << WayX  N       2      51  3..        |   || [W-<Cj>] [JB>W <Pr>] [>L GDLJH / H-MYPTH <sp><Co>]
- JER 40,08 ---- NmCl  << Way0  N       2      52  5..        |   ||      |  [W-<Cj>] [JCM<>L / BN NTNJHW / W-/ JWXNN W-JWNTN / BNJ QRX / W-/ FRJH / BN TNXMT / W-/ BNJ <WPJ / H-NVPTJ / W-/ JZNJHW / BN H-M<KTJ / HMH W->NCJHM <sp><ap><pa><cj><ap><pa><cj><ap><pa><cj><ap><pa><cj><ap><PC>]
- JER 40,09 3sgM WayX  << Way0  N       21     53  4.#        |   ||     [W-<Cj>] [JCB< <Pr>] [LHM <Co>] [GDLJHW / BN >XJQM / BN CPN / W-/ L->NCJHM <pa><cj><ap><ap><Su>]
- JER 40,09 ---- InfC [adjunct] N       21     54  5..        |   ||         [L->MR <Pr>]
+ JER 40,07 ---- NmCl [attrib.] N       2      46  6.e        |   |   |   |   |  [>CR <Re>] [B--FDH <PC>]
+ JER 40,07 ---- Defc  << WayX  N       2      47  5d.        |   |   |   |  [HMH W->NCJHM <sp>]
+ JER 40,07 3sgM xQtX [object ] N       2      48  4..        |   |   |  [KJ <Cj>] [HPQJD <Pr>] [MLK BBL <Su>] [>T GDLJHW / BN >XJQM <ap><Ob>] [B-->RY <Co>]
+ JER 40,07 3sgM WxQ0 [coordin] N       2      49  5..        |   |   |      [W-<Cj>] [KJ <Cj>] [HPQJD <Pr>] [>TW <Aj>] [>NCJM W-NCJM W-VP / W-/ M-DLT H->RY <pa><cj><Ob>]
+ JER 40,07 3pl- xQt0 [attrib.] N       2      50  6..        |   |   |          [M->CR <Re>] [L> <Ng>] [HGLW <Pr>] [BBLH <Co>]
+ JER 40,08 3plM Way0  << WayX  N       2      51  3..        |   |  [W-<Cj>] [JB>W <Pr>] [>L GDLJH / H-MYPTH <sp><Co>]
+ JER 40,08 ---- NmCl  << Way0  N       2      52  5..        |   |       |  [W-<Cj>] [JCM<>L / BN NTNJHW / W-/ JWXNN W-JWNTN / BNJ QRX / W-/ FRJH / BN TNXMT / W-/ BNJ <WPJ / H-NVPTJ / W-/ JZNJHW / BN H-M<KTJ / HMH W->NCJHM <sp><ap><pa><cj><ap><pa><cj><ap><pa><cj><ap><pa><cj><ap><PC>]
+ JER 40,09 3sgM WayX  << Way0  N       21     53  4.#        |   |      [W-<Cj>] [JCB< <Pr>] [LHM <Co>] [GDLJHW / BN >XJQM / BN CPN / W-/ L->NCJHM <pa><cj><ap><ap><Su>]
+ JER 40,09 ---- InfC [adjunct] N       21     54  5..        |   |          [L->MR <Pr>]
                                =======                       |   |            +===================================================================\
- JER 40,09 2plM xYq0  <<  [Q]  NQ      211    55  6.q        |   |           || [>L <Ng>] [TJR>W <Pr>]
- JER 40,09 ---- InfC [adjunct] NQ      211    56  9..        |   |           ||      |   |  [M-<BWD <Pr>] [H-KFDJM <Ob>]
- JER 40,09 2plM ZIm0  << xYq0  NQ      211    57  8..        |   |           ||      |  [CBW <Pr>] [B-->RY <Co>]
- JER 40,09 2plM WIm0  << ZIm0  NQ      211    58 10..        |   |           ||      |       |  [W-<Cj>] [<BDW <Pr>] [>T MLK BBL <Ob>]
- JER 40,09 3sgM WYq0  << ZIm0  NQ      211    59  9..        |   |           ||      |      [W-<Cj>] [JJVB <Pr>] [LKM <Co>]
- JER 40,10 ---- CPen  << xYq0  NQ      211    60  7c.        |   |           ||     [W-<Cj>] [>NJ <Fr>]
- JER 40,10 -sgM Ptcp [resumpt] NQ      211    61  9..        |   |           ||          |  [HNNJ <Is>] [JCB <PC>] [B--MYPH <Co>]
- JER 40,10 ---- InfC [adjunct] NQ      211    62 10..        |   |           ||          |      [L-<MD <Pr>] [L-PNJ H-KFDJM <Co>]
- JER 40,10 3plM xYq0 [attrib.] NQ      211    63 11..        |   |           ||          |          [>CR <Re>] [JB>W <Pr>] [>LJNW <Co>]
- JER 40,10 2plM WXIm  << CPen  NQ      211    64  8..        |   |           ||         [W-<Cj>] [>TM <Su>] [>SPW <Pr>] [JJN W-QJY W-CMN <Ob>]
- JER 40,10 2plM WIm0  << WXIm  NQ      211    65  9..        |   |           ||             [W-<Cj>] [FMW <Pr>] [B-KLJKM <Co>]
- JER 40,10 2plM WIm0  << WIm0  NQ      211    66  9..        |   |           ||             [W-<Cj>] [CBW <Pr>] [B-<RJKM <Co>]
- JER 40,10 2plM xQt0 [attrib.] NQ      211    67 10..        |   |           ||                 [>CR <Re>] [TPFTM <Pr>]
-                               =======                       |                +===================================================================/
+ JER 40,09 2plM xYq0  <<  [Q]  NQ      211    55  6.q        |   |            | [>L <Ng>] [TJR>W <Pr>]
+ JER 40,09 ---- InfC [adjunct] NQ      211    56  9..        |   |            |      |   |  [M-<BWD <Pr>] [H-KFDJM <Ob>]
+ JER 40,09 2plM ZIm0  << xYq0  NQ      211    57  8..        |   |            |      |  [CBW <Pr>] [B-->RY <Co>]
+ JER 40,09 2plM WIm0  << ZIm0  NQ      211    58 10..        |   |            |      |       |  [W-<Cj>] [<BDW <Pr>] [>T MLK BBL <Ob>]
+ JER 40,09 3sgM WYq0  << ZIm0  NQ      211    59  9..        |   |            |      |      [W-<Cj>] [JJVB <Pr>] [LKM <Co>]
+ JER 40,10 ---- CPen  << xYq0  NQ      211    60  7c.        |   |            |     [W-<Cj>] [>NJ <Fr>]
+ JER 40,10 -sgM Ptcp [resumpt] NQ      211    61  9..        |   |            |          |  [HNNJ <Is>] [JCB <PC>] [B--MYPH <Co>]
+ JER 40,10 ---- InfC [adjunct] NQ      211    62 10..        |   |            |          |      [L-<MD <Pr>] [L-PNJ H-KFDJM <Co>]
+ JER 40,10 3plM xYq0 [attrib.] NQ      211    63 11..        |   |            |          |          [>CR <Re>] [JB>W <Pr>] [>LJNW <Co>]
+ JER 40,10 2plM WXIm  << CPen  NQ      211    64  8..        |   |            |         [W-<Cj>] [>TM <Su>] [>SPW <Pr>] [JJN W-QJY W-CMN <Ob>]
+ JER 40,10 2plM WIm0  << WXIm  NQ      211    65  9..        |   |            |             [W-<Cj>] [FMW <Pr>] [B-KLJKM <Co>]
+ JER 40,10 2plM WIm0  << WIm0  NQ      211    66  9..        |   |            |             [W-<Cj>] [CBW <Pr>] [B-<RJKM <Co>]
+ JER 40,10 2plM xQt0 [attrib.] NQ      211    67 10..        |   |            |                 [>CR <Re>] [TPFTM <Pr>]
+                               =======                       |   |            +===================================================================/
  JER 40,11 ---- Defc  << WayX  N       2      68  2d.        |  [W-<Cj>] [GM KL H-JHWDJM <Su>]
  JER 40,11 ---- NmCl [attrib.] N       2      69  5..        |       |   |  [>CR <Re>] [B-MW>B W-B-BNJ <MWN W-B->DWM <PC>]
  JER 40,11 ---- NmCl [coordin] N       2      70  6.e        |       |   |      [W-<Cj>] [>CR <Re>] [B-KL H->RYWT <PC>]
@@ -91,7 +91,7 @@
  JER 40,14 2sgM xYq0  <<  [Q]  NQ      231    82  4.q        |       || [H-<Qu>] [JD< <Mo>] [TD< <Pr>]
  JER 40,14 3sgM XQtl [object ] NQ      231    83  5..        |       ||     [KJ <Cj>] [B<LJS / MLK BNJ <MWN <ap><Su>] [CLX <Pr>] [>T JCM<>L / BN NTNJH <ap><Ob>]
  JER 40,14 ---- InfC [adjunct] NQ      231    84  6..        |       ||         [L-HKTK <PO>] [NPC <Ob>]
-                               =======                       |        +===========================================================================/
+                               =======                       |       |+===========================================================================/
  JER 40,14 3sgM WxQX  << Way0  N       23     85  3..        |      [W-<Cj>] [L> <Ng>] [H>MJN <Pr>] [LHM <Co>] [GDLJHW / BN >XJQM <ap><Su>]
  JER 40,15 3sgM WXQt  << Defc  N       24     86  1.#       [W-<Cj>] [JWXNN / BN QRX <ap><Su>] [>MR <Pr>] [>L GDLJHW <Co>] [B--STR <Aj>] [B--MYPH <Lo>]
  JER 40,15 ---- InfC [adjunct] N       24     87  3..            |  [L->MR <Pr>]
@@ -103,7 +103,7 @@
  JER 40,15 3pl- WQtX  << xYq0  NQ      241    92  6..            |    |         [W-<Cj>] [NPYW <Pr>] [KL JHWDH <Su>]
  JER 40,15 -plM Ptcp [attrib.] NQ      241    93  8..            |    |              |  [H-<Re>] [NQBYJM <PC>] [>LJK <Co>]
  JER 40,15 3sgF WQtX  << WQtX  NQ      241    94  7..            |    |             [W-<Cj>] [>BDH <Pr>] [C>RJT JHWDH <Su>]
-                               =======                                +===========================================================================/
+                               =======                           |    +===========================================================================/
  JER 40,16 3sgM WayX  << WXQt  N       242    95  2.#           [W-<Cj>] [J>MR <Pr>] [GDLJHW / BN >XJQM <ap><Su>] [>L JWXNN / BN QRX <ap><Co>]
                                =======                            +===============================================================================\
  JER 40,16 2sgM xYq0  <<  [Q]  NQ      2421   96  3.q             | [>L <Ng>] [T<F <Pr>] [>T H-DBR H-ZH <Ob>]

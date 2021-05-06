@@ -3,7 +3,7 @@
  EXO 36,01 ---- InfC [adjunct] ?       1       3  2..    |      [L-D<T <Pr>]
  EXO 36,01 ---- InfC [adjunct] ?       1       4  3..    |          [L-<FT <Pr>] [>T KL ML>KT <BDT H-QDC <Ob>] [L-KL <Aj>]
  EXO 36,01 3sgM xQtX [reg/rec] ?       1       5  4..    |              [>CR <Re>] [YWH <Pr>] [JHWH <Su>]
-                               =======                 ==============================================================================================/
+                               -------                +----------------------------------------------------------------------------------------------\
  EXO 36,02 3sgM WayX  << WQtX  N       2       6  0.#   [W-<Cj>] [JQR> <Pr>] [MCH <Su>] [>L BYL>L W->L >HLJ>B / W-/ >L KL >JC XKM LB <pa><cj><Co>]
  EXO 36,02 3sgM xQtX [attrib.] N       2       7  3.e    |   |   |  [>CR <Re>] [NTN <Pr>] [JHWH <Su>] [XKMH <Ob>] [B-LBW <Aj>]
  EXO 36,02 ---- Defc  << WayX  N       2       8  2d.    |   |  [KL <sp>]
@@ -31,7 +31,7 @@
  EXO 36,06 ---- InfC [adjunct] N       212    28  5..    |           |      [L->MR <Pr>]
                                =======                   |           |        +===================================================================\
  EXO 36,06 3plM XYqt  <<  [Q]  NQ      2121   29  6.q    |           |        | [>JC W->CH <Su>] [>L <Ng>] [J<FW <Pr>] [<WD <Mo>] [ML>KH <Ob>] [L-TRWMT H-QDC <Co>]
-                               =======                   |                    +===================================================================/
+                               =======                   |           |        +===================================================================/
  EXO 36,06 3sgM WayX  << WayX  N       213    30  3.#    |          [W-<Cj>] [JKL> <Pr>] [H-<M <Su>]
  EXO 36,06 ---- InfC [adjunct] N       213    31  5..    |               |  [M-HBJ> <Pr>]
  EXO 36,07 3sgF WXQt  << WayX  N       2131   32  4.#    |              [W-<Cj>] [H-ML>KH <Su>] [HJTH <Pr>] [DJM <PC>] [L-KL H-ML>KH <Aj>]
@@ -91,8 +91,8 @@
  EXO 36,28 3sgM WxQ0  << WxQ0  N       3      86  3..        |      [W-<Cj>] [CNJ QRCJM <Ob>] [<FH <Pr>] [L-MQY<T H-MCKN / B--JRKTJM <sp><Co>]
  EXO 36,29 3pl- WQt0  << WxQ0  N       3      87  6..        |           |   |  [W-<Cj>] [HJW <Pr>] [TW>MM <PC>] [M-L-MVH <Aj>]
                                -------                       |           |   |    +---------------------------------------------------------------\
- EXO 36,29 3plM WxY0  << WQt0  ND      3      88  7..        |           |   |   || [W-<Cj>] [JXDW <Mo>] [JHJW <Pr>] [TMJM <PC>] [>L R>CW / >L H-VB<T H->XT <sp><Aj>]
-                               -------                       |           |        +---------------------------------------------------------------/
+ EXO 36,29 3plM WxY0  << WQt0  ND      3      88  7..        |           |   |    | [W-<Cj>] [JXDW <Mo>] [JHJW <Pr>] [TMJM <PC>] [>L R>CW / >L H-VB<T H->XT <sp><Aj>]
+                               -------                       |           |   |    +---------------------------------------------------------------/
  EXO 36,29 3sgM xQt0  << WxQ0  N       3      89  5..        |           |  [KN <Mo>] [<FH <Pr>] [L-CNJHM <Co>] [L-CNJ H-MQY<T <Lo>]
  EXO 36,30 3pl- WQtX  << WxQ0  N       3      90  4..        |          [W-<Cj>] [HJW <Pr>] [CMNH QRCJM W->DNJHM KSP / CCH <FR >DNJM <sp><Su>]
  EXO 36,30 ---- NmCl  << WQtX  N       3      91  5..        |              [CNJ >DNJM CNJ >DNJM <Su>] [TXT H-QRC H->XD <PC>]

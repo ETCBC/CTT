@@ -1,10 +1,10 @@
  PS048,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [CJR <PC>]
  PS048,001 ---- NmCl  << NmCl  ?       1       2  0..   [MZMWR <PC>]
  PS048,001 ---- NmCl  << NmCl  ?       1       3  1..    |  [L-BNJ QRX <PC>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PS048,002 -sgM AjCl  << NmCl  Q       2       4  0.N   [GDWL <PC>] [JHWH <Su>]
  PS048,002 -sgM Ptcp  << AjCl  Q       2       5  6..        |   |   |   |   |  [W-<Cj>] [MHLL <PC>] [M>D <Mo>] [B-<JR >LHJNW / HR QDCW <ap><Lo>]
- PS048,003 -sgM AjCl  << AjCl  Q       2       6  5..        |   |   |   |  [JPH NWP <PC>]
+ PS048,003 ---- AjCl  << AjCl  Q       2       6  5..        |   |   |   |  [JPH NWP <PC>]
  PS048,003 ---- NmCl [coordin] Q       2       7  7..        |   |   |   |       |  [MFWF KL H->RY <PC>] [HR YJWN / JRKTJ YPWN / QRJT MLK RB <sp><sp><Su>]
  PS048,004 3sgM XQtl  << AjCl  Q       2       8  6..        |   |   |   |      [>LHJM <Su>] [B->RMNWTJH <Lo>] [NWD< <Pr>] [L-MFGB <Co>]
  PS048,005 3pl- XQtl  << XQtl  Q       2       9  7..        |   |   |   |          [KJ <Cj>] [HNH <Ij>] [H-MLKJM <Su>] [NW<DW <Pr>]

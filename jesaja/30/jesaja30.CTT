@@ -33,9 +33,9 @@
  JES 30,07 3plM WXYq  << Defc  Q       11     33  3..        |      [W-<Cj>] [MYRJM <Su>] [HBL W-RJQ <Aj>] [J<ZRW <Pr>]
  JES 30,07 1sg- xQt0  << WXYq  Q       11     34  4..        |          [LKN <Mo>] [QR>TJ <Pr>] [L-Z>T <Co>]
                                =======                       |            +=======================================================================\
- JES 30,07 ---- CPen [object ] QQ      111    35  5cq        |           || [RHB <Fr>]
- JES 30,07 ---- NmCl [resumpt] QQ      111    36  6..        |           ||     [HM <Su>] [CBT <PC>]
-                               =======                                    +=======================================================================/
+ JES 30,07 ---- CPen [object ] QQ      111    35  5cq        |            | [RHB <Fr>]
+ JES 30,07 ---- NmCl [resumpt] QQ      111    36  6..        |            |     [HM <Su>] [CBT <PC>]
+                               =======                       |            +=======================================================================/
  JES 30,08 2sgM xIm0  << NmCl  Q       12     37  1.#       [<TH <Mo>] [BW> <Pr>]
  JES 30,08 2sgM ZIm0  << xIm0  Q       12     38  3..            |  [KTBH <PO>] [<L LWX <Co>] [>TM <Aj>]
  JES 30,08 2sgM WxI0  << ZIm0  Q       12     39  5..            |       |  [W-<Cj>] [<L SPR <Co>] [XQH <PO>]
@@ -47,8 +47,8 @@
  JES 30,09 ---- InfC [complm.] Q       12     45 10..            |               |       |      [CMW< <Pr>] [TWRT JHWH <Ob>]
  JES 30,10 3pl- xQt0 [attrib.] Q       12     46  8..            |               |      [>CR <Re>] [>MRW <Pr>] [L--R>JM <Co>]
                                =======                           |               |           |+===================================================\
- JES 30,10 2plM xYq0  <<  [Q]  QQ      121    47 10.q            |               |            | [L> <Ng>] [TR>W <Pr>]
-                               =======                           |               |            +===================================================/
+ JES 30,10 2plM xYq0  <<  [Q]  QQ      121    47 10.q            |               |           || [L> <Ng>] [TR>W <Pr>]
+                               =======                           |               |           |+===================================================/
  JES 30,10 ---- Ellp  << xQt0  Q       12     48  9l.            |               |          [W-<Cj>] [L--XZJM <Co>]
                                =======                           |               |            +===================================================\
  JES 30,10 2plM xYq0  <<  [Q]  QQ      122    49 10.q            |               |            | [L> <Ng>] [TXZW <Pr>] [LNW <Aj>] [NKXWT <Ob>]
@@ -57,47 +57,47 @@
  JES 30,11 2plM ZIm0  << ZIm0  QQ      122    52 11..            |               |            |     [SWRW <Pr>] [MNJ DRK <Co>]
  JES 30,11 2plM ZIm0  << ZIm0  QQ      122    53 11..            |               |            |     [HVW <Pr>] [MNJ >RX <Co>]
  JES 30,11 2plM ZIm0  << ZIm0  QQ      122    54 11..            |               |            |     [HCBJTW <Pr>] [M-PNJNW <Co>] [>T QDWC JFR>L <Ob>]
-                               =======                           |                            +===================================================/
+                               =======                           |               |            +===================================================/
  JES 30,12 ---- MSyn  << NmCl  Q       12     55  6m.            |              [LKN <Mo>]
  JES 30,12 3sgM xQtX  << MSyn  Q       12     56  7..            |                  [KH <Mo>] [>MR <Pr>] [QDWC JFR>L <Su>]
                                =======                           |                       |+=======================================================\
- JES 30,12 ---- InfC  <<  [Q]  QQ      123    57  9.q            |                        | [J<N M>SKM <Ps>] [B--DBR H-ZH <Co>]
+ JES 30,12 ---- InfC  <<  [Q]  QQ      123    57  9.q            |                       || [J<N M>SKM <Ps>] [B--DBR H-ZH <Co>]
                                -------                           |                       ||      |+--------------------------------------------\
- JES 30,12 2plM Way0  << InfC  QQN     123    58 11..            |                        |      || [W-<Cj>] [TBVXW <Pr>] [B-<CQ W-NLWZ <Co>]
- JES 30,12 2plM Way0  << Way0  QQN     123    59 12..            |                        |      ||     [W-<Cj>] [TC<NW <Pr>] [<LJW <Co>]
-                               -------                           |                       ||       +--------------------------------------------/
- JES 30,13 3sgM xYqX  << InfC  QQ      123    60 10..            |                        |     [LKN <Mo>] [JHJH <Pr>] [LKM <Aj>] [H-<WN H-ZH <Su>] [K-PRY NPL <PC>]
- JES 30,13 -sgM Ptcp [attrib.] QQ      123    61 12..            |                        |          |  [NB<H <PC>] [B-XWMH NFGBH <Aj>]
- JES 30,13 3sgM xYqX [attrib.] QQ      123    62 13..            |                        |          |      [>CR <Re>] [PT>M / L-PT< <sp><Mo>] [JBW> <Pr>] [CBRH <Su>]
- JES 30,14 3sgM WQt0  << xYqX  QQ      123    63 11..            |                        |         [W-<Cj>] [CBRH <PO>] [K-CBR NBL JWYRJM <Aj>]
- JES 30,14 -sgM Ptcp [attrib.] QQ      123    64 13..            |                        |              |  [KTWT <PC>]
- JES 30,14 3sgM xYq0 [coordin] QQ      123    65 14..            |                        |              |      [L> <Ng>] [JXML <Pr>]
- JES 30,14 3sgM WxYX  << WQt0  QQ      123    66 12..            |                        |             [W-<Cj>] [L> <Ng>] [JMY> <Pr>] [B-MKTTW <Lo>] [XRF <Su>]
- JES 30,14 ---- InfC [adjunct] QQ      123    67 13..            |                        |                 [L-XTWT <Pr>] [>C <Ob>] [M-JQWD <Co>]
- JES 30,14 ---- InfC [coordin] QQ      123    68 14..            |                        |                     [W-<Cj>] [L-XFP <Pr>] [MJM <Ob>] [M-GB> <Co>]
-                               =======                           |                        +=======================================================/
+ JES 30,12 2plM Way0  << InfC  QQN     123    58 11..            |                       ||      || [W-<Cj>] [TBVXW <Pr>] [B-<CQ W-NLWZ <Co>]
+ JES 30,12 2plM Way0  << Way0  QQN     123    59 12..            |                       ||      ||     [W-<Cj>] [TC<NW <Pr>] [<LJW <Co>]
+                               -------                           |                       ||      |+--------------------------------------------/
+ JES 30,13 3sgM xYqX  << InfC  QQ      123    60 10..            |                       ||     [LKN <Mo>] [JHJH <Pr>] [LKM <Aj>] [H-<WN H-ZH <Su>] [K-PRY NPL <PC>]
+ JES 30,13 -sgM Ptcp [attrib.] QQ      123    61 12..            |                       ||          |  [NB<H <PC>] [B-XWMH NFGBH <Aj>]
+ JES 30,13 3sgM xYqX [attrib.] QQ      123    62 13..            |                       ||          |      [>CR <Re>] [PT>M / L-PT< <sp><Mo>] [JBW> <Pr>] [CBRH <Su>]
+ JES 30,14 3sgM WQt0  << xYqX  QQ      123    63 11..            |                       ||         [W-<Cj>] [CBRH <PO>] [K-CBR NBL JWYRJM <Aj>]
+ JES 30,14 -sgM Ptcp [attrib.] QQ      123    64 13..            |                       ||              |  [KTWT <PC>]
+ JES 30,14 3sgM xYq0 [coordin] QQ      123    65 14..            |                       ||              |      [L> <Ng>] [JXML <Pr>]
+ JES 30,14 3sgM WxYX  << WQt0  QQ      123    66 12..            |                       ||             [W-<Cj>] [L> <Ng>] [JMY> <Pr>] [B-MKTTW <Lo>] [XRF <Su>]
+ JES 30,14 ---- InfC [adjunct] QQ      123    67 13..            |                       ||                 [L-XTWT <Pr>] [>C <Ob>] [M-JQWD <Co>]
+ JES 30,14 ---- InfC [coordin] QQ      123    68 14..            |                       ||                     [W-<Cj>] [L-XFP <Pr>] [MJM <Ob>] [M-GB> <Co>]
+                               =======                           |                       |+=======================================================/
  JES 30,15 3sgM xQtX  << xQtX  Q       12     69  8..            |                      [KJ <Cj>] [KH <Mo>] [>MR <Pr>] [>DNJ JHWH / QDWC JFR>L <ap><Su>]
                                =======                           |                           |+===================================================\
- JES 30,15 2plM xYq0  <<  [Q]  QQ      124    70 10.q            |                            | [B-CWBH W-NXT <Aj>] [TWC<WN <Pr>]
- JES 30,15 3sgF xYqX  << xYq0  QQ      124    71 11..            |                            |     [B-HCQV W-B-BVXH <PC>] [THJH <Pr>] [GBWRTKM <Su>]
- JES 30,15 2plM WxQ0  << xYqX  QQ      124    72 12..            |                            |         [W-<Cj>] [L> <Ng>] [>BJTM <Pr>]
+ JES 30,15 2plM xYq0  <<  [Q]  QQ      124    70 10.q            |                           || [B-CWBH W-NXT <Aj>] [TWC<WN <Pr>]
+ JES 30,15 3sgF xYqX  << xYq0  QQ      124    71 11..            |                           ||     [B-HCQV W-B-BVXH <PC>] [THJH <Pr>] [GBWRTKM <Su>]
+ JES 30,15 2plM WxQ0  << xYqX  QQ      124    72 12..            |                           ||         [W-<Cj>] [L> <Ng>] [>BJTM <Pr>]
                                -------                           |                           ||           +------------------------------------\
- JES 30,16 2plM Way0  << WxQ0  QQN     124    73 13..            |                            |          || [W-<Cj>] [T>MRW <Pr>]
+ JES 30,16 2plM Way0  << WxQ0  QQN     124    73 13..            |                           ||           | [W-<Cj>] [T>MRW <Pr>]
                                =======                           |                           ||           |      |   |+=====================\
- JES 30,16 ---- NmCl  <<  [Q]  QQNQ    1241   74 16.q            |                            |          ||      |    | [L> <Ng>]
- JES 30,16 1pl- xYq0  << NmCl  QQNQ    1241   75 17..            |                            |          ||      |    |     [KJ <Cj>] [<L SWS <Aj>] [NNWS <Pr>]
-                               =======                           |                           ||           |      |    +=====================/
- JES 30,16 2plM xYq0  << Way0  QQND    124    76 15..            |                            |          ||      |  [<L KN <Aj>] [TNWSWN <Pr>]
-                               -------                           |                           ||           |           +---------------------/
- JES 30,16 ---- Ellp  << Way0  QQN     124    77 14l.            |                            |          ||     [W-<Cj>]
+ JES 30,16 ---- NmCl  <<  [Q]  QQNQ    1241   74 16.q            |                           ||           |      |   || [L> <Ng>]
+ JES 30,16 1pl- xYq0  << NmCl  QQNQ    1241   75 17..            |                           ||           |      |   ||     [KJ <Cj>] [<L SWS <Aj>] [NNWS <Pr>]
+                               -------                           |                           ||           |      |+-------------------------\
+ JES 30,16 2plM xYq0  << Way0  QQND    124    76 15..            |                           ||           |      || [<L KN <Aj>] [TNWSWN <Pr>]
+                               -------                           |                           ||           |      |+-------------------------/
+ JES 30,16 ---- Ellp  << Way0  QQN     124    77 14l.            |                           ||           |     [W-<Cj>]
                                =======                           |                           ||           |          |+=====================\
- JES 30,16 1pl- xYq0  <<  [Q]  QQNQ    1242   78 16.q            |                            |          ||           | [<L QL <Aj>] [NRKB <Pr>]
-                               =======                           |                           ||           |           +=====================/
- JES 30,16 3plM xYqX  << Ellp  QQND    124    79 15..            |                            |          ||         [<L KN <Aj>] [JQLW <Pr>] [RDPJKM <Su>]
- JES 30,17 ---- NmCl  << xYqX  QQND    124    80 16..            |                            |          ||           | [>LP <Su>] [>XD <PC>] [M-PNJ G<RT >XD <Aj>]
- JES 30,17 2plM xYq0  << NmCl  QQND    124    81 17..            |                            |          ||           |     [M-PNJ G<RT XMCH <Aj>] [TNSW <Pr>]
- JES 30,17 2plM xQt0  << xYq0  QQND    124    82 18..            |                            |          ||           |         [<D >M <Cj>] [NWTRTM <Pr>] [K--TRN / <L R>C H-HR / W-/ K--NS / <L H-GB<H <sp><pa><cj><sp><Aj>]
-                               =======                           |                            +===================================================/
+ JES 30,16 1pl- xYq0  <<  [Q]  QQNQ    1242   78 16.q            |                           ||           |          || [<L QL <Aj>] [NRKB <Pr>]
+                               -------                           |                           ||           |       +-------------------------\
+ JES 30,16 3plM xYqX  << Ellp  QQND    124    79 15..            |                           ||           |       | [<L KN <Aj>] [JQLW <Pr>] [RDPJKM <Su>]
+ JES 30,17 ---- NmCl  << xYqX  QQND    124    80 16..            |                           ||           |       |     [>LP <Su>] [>XD <PC>] [M-PNJ G<RT >XD <Aj>]
+ JES 30,17 2plM xYq0  << NmCl  QQND    124    81 17..            |                           ||           |       |         [M-PNJ G<RT XMCH <Aj>] [TNSW <Pr>]
+ JES 30,17 2plM xQt0  << xYq0  QQND    124    82 18..            |                           ||           |       |             [<D >M <Cj>] [NWTRTM <Pr>] [K--TRN / <L R>C H-HR / W-/ K--NS / <L H-GB<H <sp><pa><cj><sp><Aj>]
+                               =======                           |                           |+===================================================/
  JES 30,18 3sgM WxYX  << xQtX  Q       12     83  9..            |                          [W-<Cj>] [LKN <Mo>] [JXKH <Pr>] [JHWH <Su>]
  JES 30,18 ---- InfC [adjunct] Q       12     84 12..            |                               |   |  [L-XNNKM <PO>]
  JES 30,18 3sgM WxY0  << WxYX  Q       12     85 11..            |                               |  [W-<Cj>] [LKN <Mo>] [JRWM <Pr>]
@@ -115,13 +115,13 @@
  JES 30,19 3sgM ZQt0  << xYq0  Q       125    97  6..                |       |  [<NK <PO>]
  JES 30,20 3sgM WQtX  << xYq0  Q       125    98  5..                |      [W-<Cj>] [NTN <Pr>] [LKM <Co>] [>DNJ <Su>] [LXM YR W-MJM LXY <Ob>]
  JES 30,20 3sgM WxYX  << WQtX  Q       125    99  6..                |          [W-<Cj>] [L> <Ng>] [JKNP <Pr>] [<WD <Mo>] [MWRJK <Su>]
- JES 30,20 3pl- WQtX  << WxYX  Q       125   100  7..                |              [W-<Cj>] [HJW <Pr>] [<JNJK <Su>] [R>WT <PC>] [>T MWRJK <Ob>]
+ JES 30,20 3plF WQtX  << WxYX  Q       125   100  7..                |              [W-<Cj>] [HJW <Pr>] [<JNJK <Su>] [R>WT <PC>] [>T MWRJK <Ob>]
  JES 30,21 3plF WXYq  << WQtX  Q       125   101  9..                |                   |  [W-<Cj>] [>ZNJK <Su>] [TCM<NH <Pr>] [DBR / M->XRJK <sp><Ob>]
  JES 30,21 ---- InfC [adjunct] Q       125   102 11..                |                   |       |  [L->MR <Pr>]
                                =======                               |                   |       |    +===========================================\
  JES 30,21 ---- NmCl  <<  [Q]  QQ      1251  103 12.q                |                   |       |    | [ZH <Su>] [H-DRK <PC>]
  JES 30,21 2plM ZIm0  << NmCl  QQ      1251  104 13..                |                   |       |    |     [LKW <Pr>] [BW <Co>]
-                               =======                               |                   |            +===========================================/
+                               =======                               |                   |       |    +===========================================/
  JES 30,21 2plM xYq0  << WXYq  Q       125   105 10..                |                   |      [KJ <Cj>] [T>MJNW <Pr>]
  JES 30,21 2plM WxY0  << xYq0  Q       125   106 11..                |                   |          [W-<Cj>] [KJ <Cj>] [TFM>JLW <Pr>]
  JES 30,22 2plM WQt0  << WQtX  Q       125   107  8..                |                  [W-<Cj>] [VM>TM <Pr>] [>T YPWJ PSJLJ KSPK W->T >PDT MSKT ZHBK <Ob>]
@@ -129,7 +129,7 @@
                                =======                               |                       |    +===============================================\
  JES 30,22 ---- NmCl  >> ZYq0  QQ      1252  109 12.\                |                       |    |  |  [Y> <PC>]
  JES 30,22 2sgM ZYq0  <<  [Q]  QQ      1252  110 11.q                |                       |    | [T>MR <Pr>] [LW <Co>]
-                               =======                               |                            +===============================================/
+                               =======                               |                       |    +===============================================/
  JES 30,23 3sgM WQt0  << WQt0  Q       125   111  9..                |                      [W-<Cj>] [NTN <Pr>] [MVR ZR<K <Ob>]
  JES 30,23 2sgM xYq0 [attrib.] Q       125   112 13.e                |                           |   |   |  [>CR <Re>] [TZR< <Pr>] [>T H->DMH <Ob>]
  JES 30,23 ---- Defc  << WQt0  Q       125   113 12d.                |                           |   |  [W-/ LXM / TBW>T H->DMH <sp><pa><cj>]

@@ -1,12 +1,12 @@
  NUM 08,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JDBR <Pr>] [JHWH <Su>] [>L MCH <Co>]
  NUM 08,01 ---- InfC [adjunct] N       1       2  2..    |   |  [L->MR <Pr>]
                                =======                   |   |    +===============================================================================\
- NUM 08,02 2sgM ZIm0  <<  [Q]  NQ      11      3  3.q    |   |   || [DBR <Pr>] [>L >HRN <Co>]
- NUM 08,02 2sgM WQt0  << ZIm0  NQ      11      4  4..    |   |   ||     [W-<Cj>] [>MRT <Pr>] [>LJW <Co>]
+ NUM 08,02 2sgM ZIm0  <<  [Q]  NQ      11      3  3.q    |   |    | [DBR <Pr>] [>L >HRN <Co>]
+ NUM 08,02 2sgM WQt0  << ZIm0  NQ      11      4  4..    |   |    |     [W-<Cj>] [>MRT <Pr>] [>LJW <Co>]
                                =======                   |   |    |       +====================================================================\
- NUM 08,02 ---- InfC [adjunct] NQQ     111     5  6.\    |   |   ||       |  |  [B-H<LTK <Ps>] [>T H-NRT <Ob>]
- NUM 08,02 3plM xYqX  <<  [Q]  NQQ     111     6  5.q    |   |   ||       | [>L MWL PNJ H-MNWRH <Co>] [J>JRW <Pr>] [CB<T H-NRWT <Su>]
-                               =======                   |        +===============================================================================/
+ NUM 08,02 ---- InfC [adjunct] NQQ     111     5  6.\    |   |    |       |  |  [B-H<LTK <Ps>] [>T H-NRT <Ob>]
+ NUM 08,02 3plM xYqX  <<  [Q]  NQQ     111     6  5.q    |   |    |       | [>L MWL PNJ H-MNWRH <Co>] [J>JRW <Pr>] [CB<T H-NRWT <Su>]
+                               =======                   |   |    +===============================================================================/
  NUM 08,03 3sgM WayX  << WayX  N       12      7  1.#    |  [W-<Cj>] [J<F <Pr>] [KN <Mo>] [>HRN <Su>]
  NUM 08,03 3sgM xQt0  << WayX  N       12      8  2..    |      [>L MWL PNJ H-MNWRH <Co>] [H<LH <Pr>] [NRTJH <Ob>]
  NUM 08,03 3sgM xQtX [adjunct] N       12      9  4..    |           |  [K->CR <Cj>] [YWH <Pr>] [JHWH <Su>] [>T MCH <Ob>]
@@ -65,17 +65,17 @@
                                -------                   |    |                               |   +-----------------------------------------\
  NUM 08,19 3sgM WxYX  << Way0  NQND    21     60 11..    |    |                               |   | [W-<Cj>] [L> <Ng>] [JHJH <Pr>] [B-BNJ JFR>L <PC>] [NGP <Su>]
  NUM 08,19 ---- InfC [adjunct] NQND    21     61 12..    |    |                               |   |     [B-GCT <Pr>] [BNJ JFR>L <Su>] [>L H-QDC <Co>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  NUM 08,20 3sgM WayX  << WayX  N       3      62  0.#   [W-<Cj>] [J<F <Pr>] [MCH W->HRN W-KL <DT BNJ JFR>L <Su>] [L--LWJM <Co>] [K-KL <Aj>]
  NUM 08,20 3sgM xQtX [reg/rec] N       3      63  2..    |   |  [>CR <Re>] [YWH <Pr>] [JHWH <Su>] [>T MCH <Ob>] [L--LWJM <Co>]
  NUM 08,20 3pl- xQtX  << WayX  N       3      64  1..    |  [KN <Mo>] [<FW <Pr>] [LHM <Co>] [BNJ JFR>L <Su>]
  NUM 08,21 3plM WayX  << xQtX  N       31     65  3.#    |       |  [W-<Cj>] [JTXV>W <Pr>] [H-LWJM <Su>]
- NUM 08,21 3plM Way0  << WayX  N       31     66  6..    |       |   |   |   |  [W-<Cj>] [JKBSW <Pr>] [BGDJHM <Ob>]
- NUM 08,21 3sgM WayX  << WayX  N       311    67  5.#    |       |   |   |  [W-<Cj>] [JNP <Pr>] [>HRN <Su>] [>TM <Ob>] [TNWPH <Ob>] [L-PNJ JHWH <Co>]
- NUM 08,21 3sgM WayX  << WayX  N       312    68  5.#    |       |   |   |  [W-<Cj>] [JKPR <Pr>] [<LJHM <Co>] [>HRN <Su>]
- NUM 08,21 ---- InfC [adjunct] N       312    69  6..    |       |   |   |      [L-VHRM <PO>]
- NUM 08,22 3pl- WxQX  << WayX  N       31     70  4..    |       |   |  [W-<Cj>] [>XRJ KN <Ti>] [B>W <Pr>] [H-LWJM <Su>]
- NUM 08,22 ---- InfC [adjunct] N       31     71  5..    |       |   |      [L-<BD <Pr>] [>T <BDTM / B->HL MW<D <sp><Ob>] [L-PNJ >HRN W-L-PNJ BNJW <Aj>]
+ NUM 08,21 3plM Way0  << WayX  N       31     66  6..    |       |       |   |  [W-<Cj>] [JKBSW <Pr>] [BGDJHM <Ob>]
+ NUM 08,21 3sgM WayX  << WayX  N       311    67  5.#    |       |       |  [W-<Cj>] [JNP <Pr>] [>HRN <Su>] [>TM <Ob>] [TNWPH <Ob>] [L-PNJ JHWH <Co>]
+ NUM 08,21 3sgM WayX  << WayX  N       312    68  5.#    |       |       |  [W-<Cj>] [JKPR <Pr>] [<LJHM <Co>] [>HRN <Su>]
+ NUM 08,21 ---- InfC [adjunct] N       312    69  6..    |       |       |      [L-VHRM <PO>]
+ NUM 08,22 3pl- WxQX  << WayX  N       31     70  4..    |       |      [W-<Cj>] [>XRJ KN <Ti>] [B>W <Pr>] [H-LWJM <Su>]
+ NUM 08,22 ---- InfC [adjunct] N       31     71  5..    |       |          [L-<BD <Pr>] [>T <BDTM / B->HL MW<D <sp><Ob>] [L-PNJ >HRN W-L-PNJ BNJW <Aj>]
  NUM 08,22 3sgM xQtX [adjunct] N       3      72  3.\    |       |  [K->CR <Cj>] [YWH <Pr>] [JHWH <Su>] [>T MCH <Ob>] [<L H-LWJM <Co>]
  NUM 08,22 3pl- xQt0  << xQtX  N       3      73  2..    |      [KN <Mo>] [<FW <Pr>] [LHM <Co>]
  NUM 08,23 3sgM WayX  << WayX  N       4      74  0.#   [W-<Cj>] [JDBR <Pr>] [JHWH <Su>] [>L MCH <Co>]

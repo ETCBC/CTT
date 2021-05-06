@@ -5,13 +5,13 @@
  PRO 22,03 3sgM XQtl  << XQtl  ?       1       5  3..    |   |      [<RWM <Su>] [R>H <Pr>] [R<H <Ob>]
  PRO 22,03 3sgM WQt0  << XQtl  ?       1       6  5..    |   |           |  [W-<Cj>] [JSTR <Pr>]
                                =======                   |   |        +===========================================================================\
- PRO 22,03 3pl- WXQt  << XQtl  ??      11      7  4.#    |   |       || [W-<Cj>] [PTJJM <Su>] [<BRW <Pr>]
- PRO 22,03 3pl- WQt0  << WXQt  ??      11      8  5..    |   |       ||     [W-<Cj>] [N<NCW <Pr>]
-                               =======                   |            +===========================================================================/
+ PRO 22,03 3pl- WXQt  << XQtl  ??      11      7  4.#    |   |        | [W-<Cj>] [PTJJM <Su>] [<BRW <Pr>]
+ PRO 22,03 3pl- WQt0  << WXQt  ??      11      8  5..    |   |        |     [W-<Cj>] [N<NCW <Pr>]
+                               =======                   |   |        +===========================================================================/
  PRO 22,04 ---- NmCl  << Ptcp  ?       1       9  1..    |  [<QB <NWH / JR>T JHWH <ap><Su>] [<CR W-KBWD W-XJJM <PC>]
  PRO 22,05 ---- NmCl  << NmCl  ?       1      10  2..    |      [YNJM PXJM <Su>] [B-DRK <QC <PC>]
  PRO 22,05 3sgM XYqt  << NmCl  ?       1      11  3..    |          [CWMR NPCW <Su>] [JRXQ <Pr>] [MHM <Co>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PRO 22,06 2sgM ZIm0  << Ptcp  Q       2      12  0.#   [XNK <Pr>] [L--N<R <Co>] [<L PJ DRKW <Co>]
  PRO 22,06 3sgM xYq0  << ZIm0  Q       2      13  2..    |   |  [GM <Mo>] [KJ <Cj>] [JZQJN <Pr>]
  PRO 22,06 3sgM xYq0  << xYq0  Q       2      14  3..    |   |      [L> <Ng>] [JSWR <Pr>] [MMNH <Co>]
@@ -30,13 +30,13 @@
  PRO 22,11 ---- NmCl [resumpt] Q       3      27  3..    |   |      [R<HW <PC>] [MLK <Su>]
  PRO 22,12 3pl- XQtl  << ZIm0  Q       3      28  1..    |  [<JNJ JHWH <Su>] [NYRW <Pr>] [D<T <Ob>]
                                -------                   |       |   |+---------------------------------------------------------------------------\
- PRO 22,12 3sgM Way0  << XQtl  QN      3      29  4..    |       |    | [W-<Cj>] [JSLP <Pr>] [DBRJ BGD <Ob>]
-                               -------                   |       |    +---------------------------------------------------------------------------/
+ PRO 22,12 3sgM Way0  << XQtl  QN      3      29  4..    |       |   || [W-<Cj>] [JSLP <Pr>] [DBRJ BGD <Ob>]
+                               -------                   |       |   |+---------------------------------------------------------------------------/
  PRO 22,13 3sgM ZQtX  << XQtl  Q       3      30  3..    |       |  [>MR <Pr>] [<YL <Su>]
                                =======                   |       |    +===========================================================================\
  PRO 22,13 ---- NmCl  <<  [Q]  QQ      31     31  4.q    |       |    | [>RJ <Su>] [B--XWY <PC>]
  PRO 22,13 1sg- xYq0  << NmCl  QQ      31     32  5..    |       |    |     [B-TWK RXBWT <Aj>] [>RYX <Pr>]
-                               =======                   |            +===========================================================================/
+                               =======                   |       |    +===========================================================================/
  PRO 22,14 ---- NmCl  << XQtl  Q       3      33  2..    |      [CWXH <MQH <PC>] [PJ ZRWT <Su>]
  PRO 22,14 3sgM XYqt  << NmCl  Q       3      34  4..    |           |  [Z<WM JHWH <Su>] [JPWL <Pr>] [CM <Lo>]
  PRO 22,15 -sgF Ptcp  << NmCl  Q       3      35  3..    |          [>WLT <Su>] [QCWRH <PC>] [B-LB N<R <Co>]
@@ -47,10 +47,10 @@
  PRO 22,16 ---- NmCl [resumpt] Q       3      40  6..    |                      [>K L-MXSWR <PC>]
  PRO 22,17 2sgM ZIm0  << ZIm0  Q       4      41  0.#   [HV <Pr>] [>ZNK <Ob>]
  PRO 22,17 2sgM WIm0  << ZIm0  Q       4      42  4..        |   |   |  [W-<Cj>] [CM< <Pr>] [DBRJ XKMJM <Ob>]
- PRO 22,17 2sgM WxY0  << WIm0  Q       4      43  6..        |   |   |   |   |  [W-<Cj>] [LBK <Ob>] [TCJT <Pr>] [L-D<TJ <Co>]
- PRO 22,18 -sgM AjCl  << WIm0  Q       4      44  5..        |   |   |   |  [KJ <Cj>] [N<JM <PC>]
- PRO 22,18 2sgM xYq0 [subject] Q       4      45  6..        |   |   |   |      [KJ <Cj>] [TCMRM <PO>] [B-BVNK <Co>]
- PRO 22,18 3plM ZYq0 [coordin] Q       4      46  7..        |   |   |   |          [JKNW <Pr>] [JXDW <Mo>] [<L FPTJK <Co>]
+ PRO 22,17 2sgM WxY0  << WIm0  Q       4      43  6..        |   |   |       |  [W-<Cj>] [LBK <Ob>] [TCJT <Pr>] [L-D<TJ <Co>]
+ PRO 22,18 -sgM AjCl  << WIm0  Q       4      44  5..        |   |   |      [KJ <Cj>] [N<JM <PC>]
+ PRO 22,18 2sgM xYq0 [subject] Q       4      45  6..        |   |   |          [KJ <Cj>] [TCMRM <PO>] [B-BVNK <Co>]
+ PRO 22,18 3plM ZYq0 [coordin] Q       4      46  7..        |   |   |              [JKNW <Pr>] [JXDW <Mo>] [<L FPTJK <Co>]
  PRO 22,19 ---- InfC [adjunct] Q       4      47  4.\        |   |   |  [L-HJWT <Pr>] [B-JHWH <PC>] [MBVXK <Su>]
  PRO 22,19 1sg- ZQt0  << ZIm0  Q       4      48  3..        |   |  [HWD<TJK <PO>] [H-JWM / >P >TH <ss><Ti>]
  PRO 22,20 1sg- xQt0  << ZIm0  Q       4      49  2..        |  [H-<Qu>] [L> <Ng>] [KTBTJ <Pr>] [LK <Co>] [CLCWM / B-MW<YT W-D<T <sp><Ob>]

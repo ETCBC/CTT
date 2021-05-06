@@ -3,7 +3,7 @@
  PS045,001 ---- NmCl  << NmCl  ?       1       3  2..    |   |  [L-BNJ QRX <PC>]
  PS045,001 ---- NmCl  << NmCl  ?       1       4  1..    |  [MFKJL <PC>]
  PS045,001 ---- NmCl  << NmCl  ?       1       5  1..    |  [CJR JDJDT <PC>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PS045,002 3sgM ZQtX  << NmCl  Q       2       6  0.N   [RXC <Pr>] [LBJ <Su>] [DBR VWB <Ob>]
  PS045,002 -sgM Ptcp  << ZQtX  Q       2       7  2..        |  [>MR <PC>] [>NJ <Su>] [M<FJ <Ob>] [L-MLK <Co>]
  PS045,002 ---- NmCl  << Ptcp  Q       2       8  3..        |      [LCWNJ <Su>] [<V SWPR MHJR <PC>]
@@ -25,8 +25,8 @@
  PS045,007 ---- NmCl  << Defc  Q       2      24  6..                    |   |  [CBV MJCR <PC>] [CBV MLKWTK <Su>]
  PS045,008 2sgM ZQt0  << NmCl  Q       2      25  7..                    |   |      [>HBT <Pr>] [YDQ <Ob>]
                                -------                                   |   |           |+-------------------------------------------------------\
- PS045,008 2sgM Way0  << ZQt0  QN      2      26  9..                    |   |            | [W-<Cj>] [TFN> <Pr>] [RC< <Ob>]
-                               -------                                   |   |            +-------------------------------------------------------/
+ PS045,008 2sgM Way0  << ZQt0  QN      2      26  9..                    |   |           || [W-<Cj>] [TFN> <Pr>] [RC< <Ob>]
+                               -------                                   |   |           |+-------------------------------------------------------/
  PS045,008 3sgM xQtX  << ZQt0  Q       2      27  8..                    |   |          [<L KN <Aj>] [MCXK <PO>] [>LHJM / >LHJK <ap><Su>] [CMN FFWN <Ob>] [M-XBRJK <Aj>]
  PS045,009 ---- NmCl  << Defc  Q       2      28  5..                    |  [MR W->HLWT QYJ<WT <PC>] [KL BGDTJK <Su>]
  PS045,009 3pl- xQt0  << NmCl  Q       2      29  7..                    |       |  [MN HJKLJ CN <Aj>] [MNJ <Aj>] [FMXWK <PO>]

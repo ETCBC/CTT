@@ -18,9 +18,9 @@
  PRO 17,07 -sgF AjCl  << NmCl  ?       3      18  2..    |   |  [L> <Ng>] [N>WH <PC>] [L-NBL <Co>] [FPT JTR <Su>]
  PRO 17,07 ---- Ellp  << AjCl  ?       3      19  3l.    |   |      [>P <Mo>] [KJ <Cj>] [L-NDJB <Co>] [FPT CQR <Su>]
  PRO 17,08 ---- NmCl  << NmCl  ?       3      20  1..    |  [>BN XN <PC>] [H-CXD <Su>] [B-<JNJ B<LJW <Aj>]
- PRO 17,08 ---- Defc  << NmCl  ?       3      21  2d.    |   |  [>L KL <Aj>]
- PRO 17,08 3sgM xYq0 [reg/rec] ?       3      22  4.e    |   |       |  [>CR <Re>] [JPNH <Pr>]
- PRO 17,08 3sgM ZYq0  << Defc  ?       3      23  3..    |   |      [JFKJL <Pr>]
+ PRO 17,08 ---- Defc  << NmCl  ?       3      21  2d.    |      [>L KL <Aj>]
+ PRO 17,08 3sgM xYq0 [reg/rec] ?       3      22  4.e    |           |  [>CR <Re>] [JPNH <Pr>]
+ PRO 17,08 3sgM ZYq0  << Defc  ?       3      23  3..    |          [JFKJL <Pr>]
  PRO 17,09 -sgM Ptcp [subject] ?       4      24  1.\    |  [MKSH <PC>] [PC< <Ob>]
  PRO 17,09 -sgM Ptcp  << NmCl  ?       4      25  0.#   [MBQC <PC>] [>HBH <Ob>]
  PRO 17,09 ---- Defc  << Ptcp  ?       4      26  1d.    |  [W-<Cj>]
@@ -35,11 +35,11 @@
  PRO 17,13 -sgM CPen  << xYqX  ?       5      35  2c.    |      [MCJB <PC>] [R<H <Ob>] [TXT VWBH <Aj>]
  PRO 17,13 3sgF xYqX [resumpt] ?       5      36  3..    |          [L> <Ng>] [TMJC <Pr>] [R<H <Su>] [M-BJTW <Co>]
  PRO 17,14 ---- NmCl  << ZYqX  ?       6      37  0.#   [PWVR MJM <PC>] [R>CJT MDWN <Su>]
-                               =======                 ==============================================================================================/
- PRO 17,14 ---- Defc  << NmCl  Q       6      38  2d.    |   |  [W-<Cj>]
- PRO 17,14 ---- InfC [adjunct] Q       6      39  4.\    |   |       |  [L-PNJ HTGL< <Pr>]
- PRO 17,14 2sgM xIm0  << Defc  Q       6      40  3..    |   |      [H-RJB <Ob>] [NVWC <Pr>]
-                               =======                 ==============================================================================================/
+                               =======                   |   |+======================================================================================\
+ PRO 17,14 ---- Defc  << NmCl  Q       6      38  2d.    |   || [W-<Cj>]
+ PRO 17,14 ---- InfC [adjunct] Q       6      39  4.\    |   ||      |  [L-PNJ HTGL< <Pr>]
+ PRO 17,14 2sgM xIm0  << Defc  Q       6      40  3..    |   ||     [H-RJB <Ob>] [NVWC <Pr>]
+                               =======                   |   |+======================================================================================/
  PRO 17,15 -sgM CPen  << NmCl  ?       6      41  1c.    |  [MYDJQ <PC>] [RC< <Ob>]
  PRO 17,15 -sgM Ptcp [coordin] ?       6      42  3..    |       |  [W-<Cj>] [MRCJ< <PC>] [YDJQ <Ob>]
  PRO 17,15 ---- NmCl [resumpt] ?       6      43  2..    |      [TW<BT JHWH <PC>] [GM CNJHM <Su>]
@@ -74,7 +74,7 @@
  PRO 17,26 ---- InfC [adjunct] ?       9      72  6..        |       |          [L-HKWT <Pr>] [NDJBJM <Ob>] [<L JCR <Aj>]
  PRO 17,27 -sgM Ptcp  << NmCl  ?       9      73  3..        |      [XWFK <PC>] [>MRJW <Ob>]
  PRO 17,27 -sgM Ptcp [subject] ?       9      74  5..        |           |  [JWD< <PC>] [D<T <Ob>]
- PRO 17,27 -sg- AjCl  << Ptcp  ?       9      75  4..        |          [WQR RWX <PC>] [>JC TBWNH <Su>]
+ PRO 17,27 ---- AjCl  << Ptcp  ?       9      75  4..        |          [WQR RWX <PC>] [>JC TBWNH <Su>]
  PRO 17,28 ---- Defc  << XYqt  ?       9      76  1d.       [GM >WJL <Su>]
  PRO 17,28 -sgM Ptcp [attrib.] ?       9      77  4.e            |   |  [MXRJC <PC>]
  PRO 17,28 3sgM xYq0  << Defc  ?       9      78  3..            |  [XKM <Pj>] [JXCB <Pr>]

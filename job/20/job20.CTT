@@ -15,7 +15,7 @@
  IOB 20,07 3plM XYqt  << xYq0  NQ      11     14 10..         |              |       |       |  [R>JW <Su>] [J>MRW <Pr>]
                                =======                        |              |       |       |    +============================================\
  IOB 20,07 ---- NmCl  <<  [Q]  NQQ     111    15 11.q         |              |       |       |    | [>JW <PS>]
-                               =======                        |              |       |            +============================================/
+                               =======                        |              |       |       |    +============================================/
  IOB 20,08 3sgM xYq0  << xYq0  NQ      11     16  9..         |              |       |      [K-XLWM <Aj>] [J<WP <Pr>]
  IOB 20,08 3plM WxY0  << xYq0  NQ      11     17 13..         |              |       |           |   |   |  [W-<Cj>] [L> <Ng>] [JMY>WHW <PO>]
  IOB 20,08 3sgM WYq0  << xYq0  NQ      11     18 12..         |              |       |           |   |  [W-<Cj>] [JDD <Pr>] [K-XZJWN LJLH <Aj>]
@@ -35,25 +35,25 @@
  IOB 20,14 ---- NmCl  << XQtl  NQ      11     32 10..         |              |               |  [MRWRT PTNJM <Su>] [B-QRBW <PC>]
  IOB 20,15 3sgM xQt0  << XQtl  NQ      11     33  9..         |              |              [XJL <Ob>] [BL< <Pr>]
                                -------                        |              |                   |   |+----------------------------------------\
- IOB 20,15 3sgM Way0  << xQt0  NQN     11     34 12..         |              |                   |    | [W-<Cj>] [JQ>NW <PO>]
-                               -------                        |              |                   |    +----------------------------------------/
+ IOB 20,15 3sgM Way0  << xQt0  NQN     11     34 12..         |              |                   |   || [W-<Cj>] [JQ>NW <PO>]
+                               -------                        |              |                   |   |+----------------------------------------/
  IOB 20,15 3sgM xYqX  << xQt0  NQ      11     35 11..         |              |                   |  [M-BVNW <Co>] [JWRCNW <PO>] [>L <Su>]
  IOB 20,16 3sgM xYq0  << xQt0  NQ      11     36 10..         |              |                  [R>C PTNJM <Ob>] [JJNQ <Pr>]
  IOB 20,16 3sgF ZYqX  << xYq0  NQ      11     37 13..         |              |                       |   |  [THRGHW <PO>] [LCWN >P<H <Su>]
  IOB 20,17 3sgM xYq0  << ZYqX  NQ      11     38 14..         |              |                       |   |      [>L <Ng>] [JR> <Pr>] [B-PLGWT / NHRJ NXLJ DBC W-XM>H <pa><Co>]
  IOB 20,18 -sgM Ptcp  << xYq0  NQ      11     39 12..         |              |                       |  [MCJB <PC>] [JG< <Ob>]
- IOB 20,18 3sgM WxY0  << Ptcp  NQ      11     40 16.e         |              |                       |   |   |   |   |  [W-<Cj>] [L> <Ng>] [JBL< <Pr>]
- IOB 20,18 ---- Defc  << Ptcp  NQ      11     41 15d.         |              |                       |   |   |   |  [K-XJL TMWRTW <Aj>]
- IOB 20,18 3sgM WxY0  << Defc  NQ      11     42 16..         |              |                       |   |   |   |      [W-<Cj>] [L> <Ng>] [J<LS <Pr>]
- IOB 20,19 3sgM xQt0  << Ptcp  NQ      11     43 14..         |              |                       |   |   |  [KJ <Cj>] [RYY <Pr>]
- IOB 20,19 3sgM ZQt0  << xQt0  NQ      11     44 15..         |              |                       |   |   |      [<ZB <Pr>] [DLJM <Ob>]
- IOB 20,19 3sgM xQt0  << ZQt0  NQ      11     45 16..         |              |                       |   |   |          [BJT <Ob>] [GZL <Pr>]
- IOB 20,19 3sgM WxY0  << xQt0  NQ      11     46 17..         |              |                       |   |   |              [W-<Cj>] [L> <Ng>] [JBNHW <PO>]
- IOB 20,20 3sgM xQt0  << Ptcp  NQ      11     47 13..         |              |                       |   |  [KJ <Cj>] [L> <Ng>] [JD< <Pr>] [CLW / B-BVNW <sp><Ob>]
- IOB 20,20 3sgM xYq0  << xQt0  NQ      11     48 14..         |              |                       |   |      [B-XMWDW <Aj>] [L> <Ng>] [JMLV <Pr>]
- IOB 20,21 ---- NmCl  << xYq0  NQ      11     49 15..         |              |                       |   |          [>JN <NC>] [FRJD <Su>]
- IOB 20,21 ---- InfC [adjunct] NQ      11     50 17..         |              |                       |   |               |  [L->KLW <PO>]
- IOB 20,21 3sgM xYqX  << NmCl  NQ      11     51 16..         |              |                       |   |              [<L KN <Aj>] [L> <Ng>] [JXJL <Pr>] [VWBW <Su>]
+ IOB 20,18 3sgM WxY0  << Ptcp  NQ      11     40 16.e         |              |                       |       |   |   |  [W-<Cj>] [L> <Ng>] [JBL< <Pr>]
+ IOB 20,18 ---- Defc  << Ptcp  NQ      11     41 15d.         |              |                       |       |   |  [K-XJL TMWRTW <Aj>]
+ IOB 20,18 3sgM WxY0  << Defc  NQ      11     42 16..         |              |                       |       |   |      [W-<Cj>] [L> <Ng>] [J<LS <Pr>]
+ IOB 20,19 3sgM xQt0  << Ptcp  NQ      11     43 14..         |              |                       |       |  [KJ <Cj>] [RYY <Pr>]
+ IOB 20,19 3sgM ZQt0  << xQt0  NQ      11     44 15..         |              |                       |       |      [<ZB <Pr>] [DLJM <Ob>]
+ IOB 20,19 3sgM xQt0  << ZQt0  NQ      11     45 16..         |              |                       |       |          [BJT <Ob>] [GZL <Pr>]
+ IOB 20,19 3sgM WxY0  << xQt0  NQ      11     46 17..         |              |                       |       |              [W-<Cj>] [L> <Ng>] [JBNHW <PO>]
+ IOB 20,20 3sgM xQt0  << Ptcp  NQ      11     47 13..         |              |                       |      [KJ <Cj>] [L> <Ng>] [JD< <Pr>] [CLW / B-BVNW <sp><Ob>]
+ IOB 20,20 3sgM xYq0  << xQt0  NQ      11     48 14..         |              |                       |          [B-XMWDW <Aj>] [L> <Ng>] [JMLV <Pr>]
+ IOB 20,21 ---- NmCl  << xYq0  NQ      11     49 15..         |              |                       |              [>JN <NC>] [FRJD <Su>]
+ IOB 20,21 ---- InfC [adjunct] NQ      11     50 17..         |              |                       |                   |  [L->KLW <PO>]
+ IOB 20,21 3sgM xYqX  << NmCl  NQ      11     51 16..         |              |                       |                  [<L KN <Aj>] [L> <Ng>] [JXJL <Pr>] [VWBW <Su>]
  IOB 20,22 ---- InfC [adjunct] NQ      11     52 12.\         |              |                       |  [B-ML>WT <Pr>] [FPQW <Su>]
  IOB 20,22 3sgM ZYq0  << xYq0  NQ      11     53 11..         |              |                      [JYR <Pr>] [LW <Co>]
  IOB 20,22 3sgF XYqt  << ZYq0  NQ      11     54 15..         |              |                           |   |   |  [KL JD <ML <Su>] [TBW>NW <PO>]
@@ -68,7 +68,7 @@
  IOB 20,25 3sgM Way0  << ZQt0  NQN     11     62 19..         |              |                           |   |                    | [W-<Cj>] [JY> <Pr>] [M-GWH <Co>]
                                -------                        |              |                           |   |                    |   +-----\
  IOB 20,25 3sgM WXYq  << Way0  NQND    11     63 20..         |              |                           |   |                    |   | [W-<Cj>] [BRQ <Su>] [M-MRRTW <Co>] [JHLK <Pr>]
-                               -------                        |              |                           |                        +------------/
+                               -------                        |              |                           |   |                    +------------/
  IOB 20,25 ---- NmCl  << ZYq0  NQ      11     64 13..         |              |                           |  [<LJW <PC>] [>MJM <Su>]
  IOB 20,26 -sgM Ptcp  << ZYq0  NQ      11     65 12..         |              |                          [KL XCK <Su>] [VMWN <PC>] [L-YPWNJW <Aj>]
  IOB 20,26 3sgF ZYqX  << Ptcp  NQ      11     66 13..         |              |                              [T>KLHW <PO>] [>C <Su>]

@@ -34,17 +34,17 @@
  EZE 41,06 ---- NmCl  << NmCl  N       1      32  5..        |       |   |  [W-<Cj>] [B>WT <Su>] [B--QJR <PC>]
  EZE 41,06 ---- NmCl [attrib.] N       1      33  9.e        |       |   |       |   |   |  [>CR <Re>] [L--BJT <PC>]
  EZE 41,06 ---- Defc  << NmCl  N       1      34  8d.        |       |   |       |   |  [L--YL<WT <Aj>] [SBJB SBJB <Mo>]
- EZE 41,06 ---- InfC [adjunct] N       1      35  7..        |       |   |       |  [L-HJWT <Pr>] [>XWZJM <PC>]
+ EZE 41,06 -plM InfC [adjunct] N       1      35  7..        |       |   |       |  [L-HJWT <Pr>] [>XWZJM <PC>]
                                -------                       |       |   |    +-------------------------------------------------------------------\
- EZE 41,06 3plM WxY0  << NmCl  ND      1      36  6..        |       |   |   || [W-<Cj>] [L> <Ng>] [JHJW <Pr>] [>XWZJM <PC>] [B-QJR H-BJT <Aj>]
+ EZE 41,06 3plM WxY0  << NmCl  ND      1      36  6..        |       |   |    | [W-<Cj>] [L> <Ng>] [JHJW <Pr>] [>XWZJM <PC>] [B-QJR H-BJT <Aj>]
                                -------                       |       |   |    +-------------------------------------------------------------------/
  EZE 41,07 3sgF WQt0  << NmCl  N       1      37  4..        |       |  [W-<Cj>] [RXBH <Pr>]
  EZE 41,07 3sgF WQt0  << WQt0  N       1      38  4..        |       |  [W-<Cj>] [NSBH <Pr>] [L-M<LH L-M<LH <Aj>] [L--YL<WT <Aj>]
  EZE 41,07 ---- NmCl  << WQt0  N       1      39  5..        |       |      [KJ <Cj>] [MWSB H-BJT <Su>] [L-M<LH L-M<LH <PC>] [SBJB SBJB <Mo>] [L--BJT <Aj>]
  EZE 41,07 ---- NmCl  << NmCl  N       1      40  6..        |       |          [<L KN <Aj>] [RXB / L--BJT <sp><Su>] [L-M<LH <PC>]
                                -------                       |       |            +---------------------------------------------------------------\
- EZE 41,07 3sgM WXYq  << NmCl  ND      1      41  7..        |       |           || [W-<Cj>] [KN <Mo>] [H-TXTWNH <Su>] [J<LH <Pr>] [<L H-<LJWNH <Co>] [L--TJKWNH <Aj>]
-                               -------                       |                    +---------------------------------------------------------------/
+ EZE 41,07 3sgM WXYq  << NmCl  ND      1      41  7..        |       |            | [W-<Cj>] [KN <Mo>] [H-TXTWNH <Su>] [J<LH <Pr>] [<L H-<LJWNH <Co>] [L--TJKWNH <Aj>]
+                               -------                       |       |            +---------------------------------------------------------------/
  EZE 41,08 1sg- WQt0  << NmCl  N       1      42  3..        |      [W-<Cj>] [R>JTJ <Pr>] [L--BJT <Co>] [GBH <Ob>] [SBJB SBJB <Mo>] [MJSDWT H-YL<WT <Pj>]
  EZE 41,08 ---- NmCl  << WQt0  N       1      43  7..        |           |   |   |  [MLW H-QNH <Su>] [CC >MWT <PC>] [>YJLH <Mo>]
  EZE 41,09 ---- Defc  << WQt0  N       1      44  6d.        |           |   |  [RXB H-QJR <Su>]
@@ -95,8 +95,8 @@
  EZE 41,22 ---- NmCl  << NmCl  N       1      89 11..        |                                      [W-<Cj>] [>RKW W-QJRTJW <Su>] [<Y <PC>]
  EZE 41,22 3sgM Way0  << Way0  N       1      90  1..       [W-<Cj>] [JDBR <Pr>] [>LJ <Co>]
                                =======                           |+===============================================================================\
- EZE 41,22 ---- NmCl  <<  [Q]  NQ      12     91  3.q             | [ZH <Su>] [H-CLXN <PC>]
- EZE 41,22 ---- NmCl [attrib.] NQ      12     92  4..             |     [>CR <Re>] [L-PNJ JHWH <PC>]
+ EZE 41,22 ---- NmCl  <<  [Q]  NQ      12     91  3.q            || [ZH <Su>] [H-CLXN <PC>]
+ EZE 41,22 ---- NmCl [attrib.] NQ      12     92  4..            ||     [>CR <Re>] [L-PNJ JHWH <PC>]
                                =======                           |+===============================================================================/
  EZE 41,23 ---- NmCl  << Way0  N       1      93  2..           [W-<Cj>] [CTJM DLTWT <Su>] [L--HJKL W-L--QDC <PC>]
  EZE 41,24 ---- NmCl  << NmCl  N       1      94  2..           [W-<Cj>] [CTJM DLTWT <Su>] [L--DLTWT <PC>]

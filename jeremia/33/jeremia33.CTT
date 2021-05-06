@@ -14,7 +14,7 @@
  JER 33,03 1sg- WYq0  << ZIm0  NQQ     111    12  5..    |    |  |   ||     [W-<Cj>] [><NK <PO>]
  JER 33,03 1sg- WYq0  << WYq0  NQQ     111    13  6..    |    |  |   ||         [W-<Cj>] [>GJDH <Pr>] [LK <Co>] [GDLWT W-BYRWT <Ob>]
  JER 33,03 2sgM xQt0 [attrib.] NQQ     111    14  7..    |    |  |   ||             [L> <Ng>] [JD<TM <PO>]
-                               =======                   |    |  |    +========================================================================/
+                               =======                   |    |  |   |+========================================================================/
  JER 33,04 3sgM xQtX  << xQtX  NQ      11     15  3..    |    |  |  [KJ <Cj>] [KH <Mo>] [>MR <Pr>] [JHWH / >LHJ JFR>L <ap><Su>] [<L BTJ H-<JR H-Z>T W-<L BTJ MLKJ JHWDH <Co>]
  JER 33,04 -plM Ptcp [attrib.] NQ      11     16  5..    |    |  |       |  [H-<Re>] [NTYJM <PC>] [>L H-SLLWT W->L H-XRB <Aj>]
  JER 33,05 -plM Ptcp  << Ptcp  NQ      11     17  6..    |    |  |       |      [B>JM <PC>]
@@ -23,22 +23,22 @@
  JER 33,05 1sg- xQt0 [attrib.] NQ      11     20  9..    |    |  |       |                  [>CR <Re>] [HKJTJ <Pr>] [B->PJ W-B-XMTJ <Aj>]
  JER 33,05 1sg- WxQ0 [coordin] NQ      11     21 10..    |    |  |       |                      [W-<Cj>] [>CR <Re>] [HSTRTJ <Pr>] [PNJ <Ob>] [M-H-<JR H-Z>T <Co>] [<L KL R<TM <Aj>]
                                =======                   |    |  |    +========================================================================\
- JER 33,06 -sgM Ptcp  <<  [Q]  NQQ     112    22  4.q    |    |  |   || [HNNJ <Is>] [M<LH <PC>] [LH <Co>] [>RKH W-MRP> <Ob>]
- JER 33,06 1sg- WQt0  << Ptcp  NQQ     112    23  6..    |    |  |   ||      |  [W-<Cj>] [RP>TJM <PO>]
- JER 33,06 1sg- WQt0  << WQt0  NQQ     112    24  7..    |    |  |   ||      |      [W-<Cj>] [GLJTJ <Pr>] [LHM <Co>] [<TRT CLWM W->MT <Ob>]
- JER 33,07 1sg- WQt0  << WQt0  NQQ     112    25  7..    |    |  |   ||      |      [W-<Cj>] [HCBTJ <Pr>] [>T CBWT JHWDH W->T CBWT JFR>L <Ob>]
- JER 33,07 1sg- WQt0  << WQt0  NQQ     112    26  8..    |    |  |   ||      |          [W-<Cj>] [BNTJM <PO>] [K-B--R>CNH <Aj>]
- JER 33,08 1sg- WQt0  << WQt0  NQQ     112    27  8..    |    |  |   ||      |          [W-<Cj>] [VHRTJM <PO>] [M-KL <WNM <Co>]
- JER 33,08 3pl- xQt0 [attrib.] NQQ     112    28 10..    |    |  |   ||      |               |  [>CR <Re>] [XV>W <Pr>] [LJ <Co>]
- JER 33,08 1sg- WQt0  << WQt0  NQQ     112    29  9..    |    |  |   ||      |              [W-<Cj>] [SLXTJ <Pr>] [L-KWL <WNWTJHM <Co>]
- JER 33,08 3pl- xQt0 [attrib.] NQQ     112    30 10..    |    |  |   ||      |                  [>CR <Re>] [XV>W <Pr>] [LJ <Co>]
- JER 33,08 3pl- WxQ0 [coordin] NQQ     112    31 11..    |    |  |   ||      |                      [W-<Cj>] [>CR <Re>] [PC<W <Pr>] [BJ <Co>]
- JER 33,09 3sgF WQt0  << Ptcp  NQQ     112    32  5..    |    |  |   ||     [W-<Cj>] [HJTH <Pr>] [LJ <Co>] [L-CM FFWN L-THLH W-L-TP>RT <PC>] [L-KL GWJJ H->RY <Aj>]
- JER 33,09 3plM xYq0 [attrib.] NQQ     112    33  7..    |    |  |   ||          |  [>CR <Re>] [JCM<W <Pr>] [>T KL H-VWBH <Ob>]
- JER 33,09 -sgM Ptcp [attrib.] NQQ     112    34  8..    |    |  |   ||          |      [>CR <Re>] [>NKJ <Su>] [<FH <PC>] [>TM <Ob>]
- JER 33,09 3pl- WQt0  << WQt0  NQQ     112    35  6..    |    |  |   ||         [W-<Cj>] [PXDW <Pr>]
- JER 33,09 3pl- WQt0  << WQt0  NQQ     112    36  6..    |    |  |   ||         [W-<Cj>] [RGZW <Pr>] [<L KL H-VWBH W-<L KL H-CLWM <Aj>]
- JER 33,09 -sgM Ptcp [attrib.] NQQ     112    37  7..    |    |  |   ||             [>CR <Re>] [>NKJ <Su>] [<FH <PC>] [LH <Co>]
+ JER 33,06 -sgM Ptcp  <<  [Q]  NQQ     112    22  4.q    |    |  |    | [HNNJ <Is>] [M<LH <PC>] [LH <Co>] [>RKH W-MRP> <Ob>]
+ JER 33,06 1sg- WQt0  << Ptcp  NQQ     112    23  6..    |    |  |    |      |  [W-<Cj>] [RP>TJM <PO>]
+ JER 33,06 1sg- WQt0  << WQt0  NQQ     112    24  7..    |    |  |    |      |      [W-<Cj>] [GLJTJ <Pr>] [LHM <Co>] [<TRT CLWM W->MT <Ob>]
+ JER 33,07 1sg- WQt0  << WQt0  NQQ     112    25  7..    |    |  |    |      |      [W-<Cj>] [HCBTJ <Pr>] [>T CBWT JHWDH W->T CBWT JFR>L <Ob>]
+ JER 33,07 1sg- WQt0  << WQt0  NQQ     112    26  8..    |    |  |    |      |          [W-<Cj>] [BNTJM <PO>] [K-B--R>CNH <Aj>]
+ JER 33,08 1sg- WQt0  << WQt0  NQQ     112    27  8..    |    |  |    |      |          [W-<Cj>] [VHRTJM <PO>] [M-KL <WNM <Co>]
+ JER 33,08 3pl- xQt0 [attrib.] NQQ     112    28 10..    |    |  |    |      |               |  [>CR <Re>] [XV>W <Pr>] [LJ <Co>]
+ JER 33,08 1sg- WQt0  << WQt0  NQQ     112    29  9..    |    |  |    |      |              [W-<Cj>] [SLXTJ <Pr>] [L-KWL <WNWTJHM <Co>]
+ JER 33,08 3pl- xQt0 [attrib.] NQQ     112    30 10..    |    |  |    |      |                  [>CR <Re>] [XV>W <Pr>] [LJ <Co>]
+ JER 33,08 3pl- WxQ0 [coordin] NQQ     112    31 11..    |    |  |    |      |                      [W-<Cj>] [>CR <Re>] [PC<W <Pr>] [BJ <Co>]
+ JER 33,09 3sgF WQt0  << Ptcp  NQQ     112    32  5..    |    |  |    |     [W-<Cj>] [HJTH <Pr>] [LJ <Co>] [L-CM FFWN L-THLH W-L-TP>RT <PC>] [L-KL GWJJ H->RY <Aj>]
+ JER 33,09 3plM xYq0 [attrib.] NQQ     112    33  7..    |    |  |    |          |  [>CR <Re>] [JCM<W <Pr>] [>T KL H-VWBH <Ob>]
+ JER 33,09 -sgM Ptcp [attrib.] NQQ     112    34  8..    |    |  |    |          |      [>CR <Re>] [>NKJ <Su>] [<FH <PC>] [>TM <Ob>]
+ JER 33,09 3pl- WQt0  << WQt0  NQQ     112    35  6..    |    |  |    |         [W-<Cj>] [PXDW <Pr>]
+ JER 33,09 3pl- WQt0  << WQt0  NQQ     112    36  6..    |    |  |    |         [W-<Cj>] [RGZW <Pr>] [<L KL H-VWBH W-<L KL H-CLWM <Aj>]
+ JER 33,09 -sgM Ptcp [attrib.] NQQ     112    37  7..    |    |  |    |             [>CR <Re>] [>NKJ <Su>] [<FH <PC>] [LH <Co>]
                                =======                   |    |  |    +========================================================================/
  JER 33,10 3sgM xQtX  << xQtX  NQ      11     38  2..    |    | [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
                                =======                   |    |  |+============================================================================\
@@ -46,40 +46,40 @@
  JER 33,10 -plM Ptcp [attrib.] NQQ     113    40  7..    |    |  ||      |   |   |  [>CR <Re>] [>TM <Su>] [>MRJM <PC>]
                                =======                   |    |  ||      |   |   |    +=====================================================\
  JER 33,10 -sgM AjCl  <<  [Q]  NQQQ    1131   41  8.q    |    |  ||      |   |   |    | [XRB <PC>] [HW> <Su>] [M->JN >DM W-M->JN BHMH <Aj>]
-                               =======                   |    |  ||      |   |        +=====================================================/
+                               =======                   |    |  ||      |   |   |    +=====================================================/
  JER 33,10 ---- Defc  << xYq0  NQQ     113    42  6d.    |    |  ||      |   |  [B-<RJ JHWDH W-B-XYWT JRWCLM <Lo>]
  JER 33,10 -plF Ptcp [attrib.] NQQ     113    43  8.e    |    |  ||      |   |       |  [H-<Re>] [NCMWT <PC>] [M->JN >DM W-M->JN JWCB W-M->JN BHMH <Aj>]
  JER 33,11 ---- Defc  << Defc  NQQ     113    44  7d.    |    |  ||      |   |      [QWL FFWN W-QWL FMXH QWL XTN W-QWL KLH <Su>]
  JER 33,11 ---- Ellp  << xYq0  NQQ     113    45  5l.    |    |  ||      |  [QWL >MRJM <Su>]
                                =======                   |    |  ||      |       |+=========================================================\
- JER 33,11 2plM ZIm0  <<  [Q]  NQQQ    1132   46  7.q    |    |  ||      |        | [HWDW <Pr>] [>T JHWH YB>WT <Ob>]
- JER 33,11 -sgM AjCl [complm.] NQQQ    1132   47  8..    |    |  ||      |        |     [KJ <Cj>] [VWB <PC>] [JHWH <Su>]
- JER 33,11 ---- NmCl [coordin] NQQQ    1132   48  9..    |    |  ||      |        |         [KJ <Cj>] [L-<WLM <PC>] [XSDW <Su>]
-                               =======                   |    |  ||      |        +=========================================================/
+ JER 33,11 2plM ZIm0  <<  [Q]  NQQQ    1132   46  7.q    |    |  ||      |       || [HWDW <Pr>] [>T JHWH YB>WT <Ob>]
+ JER 33,11 -sgM AjCl [complm.] NQQQ    1132   47  8..    |    |  ||      |       ||     [KJ <Cj>] [VWB <PC>] [JHWH <Su>]
+ JER 33,11 ---- NmCl [coordin] NQQQ    1132   48  9..    |    |  ||      |       ||         [KJ <Cj>] [L-<WLM <PC>] [XSDW <Su>]
+                               =======                   |    |  ||      |       |+=========================================================/
  JER 33,11 -plM Ptcp [attrib.] NQQ     113    49  6..    |    |  ||      |      [MB>JM <PC>] [TWDH <Ob>] [BJT JHWH <Co>]
  JER 33,11 1sg- xYq0  << xYq0  NQQ     113    50  4..    |    |  ||     [KJ <Cj>] [>CJB <Pr>] [>T CBWT H->RY <Ob>] [K-B--R>CNH <Aj>]
  JER 33,11 3sgM ZQtX  << xYq0  NQQ     113    51  5..    |    |  ||         [>MR <Pr>] [JHWH <Su>]
-                               =======                   |    |   +============================================================================/
+                               =======                   |    |  |+============================================================================/
  JER 33,12 3sgM xQtX  << xQtX  NQ      11     52  2..    |    | [KH <Mo>] [>MR <Pr>] [JHWH YB>WT <Su>]
                                =======                   |    |      |+========================================================================\
- JER 33,12 3sgM xYq0  <<  [Q]  NQQ     114    53  4.q    |    |       | [<WD <Mo>] [JHJH <Pr>] [B--MQWM H-ZH <Lo>]
- JER 33,12 -sgM AjCl [attrib.] NQQ     114    54  8.e    |    |       |      |   |   |  [H-<Re>] [XRB <PC>] [M->JN >DM / W-/ <D BHMH <pa><cj><Aj>]
- JER 33,12 ---- Defc  << xYq0  NQQ     114    55  7d.    |    |       |      |   |  [W-/ B-KL <RJW <pa><cj>] [NWH R<JM <Su>]
- JER 33,12 -plM Ptcp [attrib.] NQQ     114    56  8..    |    |       |      |   |      [MRBYJM <PC>] [Y>N <Ob>]
- JER 33,13 3plF xYqX  << xYq0  NQQ     114    57  6..    |    |       |      |  [B-<RJ H-HR B-<RJ H-CPLH W-B-<RJ H-NGB W-B->RY BNJMN W-B-SBJBJ JRWCLM W-B-<RJ JHWDH <Lo>] [<D <Mo>] [T<BRNH <Pr>] [H-Y>N <Su>] [<L JDJ MWNH <Co>]
- JER 33,13 3sgM ZQtX  << xYqX  NQQ     114    58  7..    |    |       |      |      [>MR <Pr>] [JHWH <Su>]
- JER 33,14 -plM Ptcp  << xYq0  NQQ     114    59  5..    |    |       |     [HNH <Ij>] [JMJM <Su>] [B>JM <PC>]
- JER 33,14 ---- MSyn  << Ptcp  NQQ     114    60  8m.    |    |       |          |   |  [N>M JHWH <PC>]
- JER 33,14 1sg- WQt0  << Ptcp  NQQ     114    61  7..    |    |       |          |  [W-<Cj>] [HQMTJ <Pr>] [>T H-DBR H-VWB <Ob>]
- JER 33,14 1sg- xQt0 [attrib.] NQQ     114    62  8..    |    |       |          |      [>CR <Re>] [DBRTJ <Pr>] [>L BJT JFR>L W-<L BJT JHWDH <Co>]
- JER 33,15 1sg- xYq0  << Ptcp  NQQ     114    63  6..    |    |       |         [B--JMJM H-HM W-B--<T H-HJ> <Ti>] [>YMJX <Pr>] [L-DWD <Co>] [YMX YDQH <Ob>]
- JER 33,15 3sgM WQt0  << xYq0  NQQ     114    64  8..    |    |       |              |  [W-<Cj>] [<FH <Pr>] [MCPV W-YDQH <Ob>] [B-->RY <Lo>]
- JER 33,16 3sgF xYqX  << xYq0  NQQ     114    65  7..    |    |       |             [B--JMJM H-HM <Ti>] [TWC< <Pr>] [JHWDH <Su>]
- JER 33,16 3sgF WXYq  << xYqX  NQQ     114    66  9..    |    |       |                  |  [W-<Cj>] [JRWCLM <Su>] [TCKWN <Pr>] [L-BVX <Aj>]
- JER 33,16 ---- NmCl  << xYqX  NQQ     114    67  8..    |    |       |                 [W-<Cj>] [ZH <Su>]
- JER 33,16 3sgM xYq0 [predic.] NQQ     114    68 10..    |    |       |                      |  [>CR <Re>] [JQR> <Pr>] [LH <Co>]
- JER 33,16 ---- NmCl  << NmCl  NQQ     114    69  9..    |    |       |                     [JHWH <Su>] [YDQNW <PC>]
-                               =======                   |    |       +========================================================================/
+ JER 33,12 3sgM xYq0  <<  [Q]  NQQ     114    53  4.q    |    |      || [<WD <Mo>] [JHJH <Pr>] [B--MQWM H-ZH <Lo>]
+ JER 33,12 -sgM AjCl [attrib.] NQQ     114    54  8.e    |    |      ||      |   |   |  [H-<Re>] [XRB <PC>] [M->JN >DM / W-/ <D BHMH <pa><cj><Aj>]
+ JER 33,12 ---- Defc  << xYq0  NQQ     114    55  7d.    |    |      ||      |   |  [W-/ B-KL <RJW <pa><cj>] [NWH R<JM <Su>]
+ JER 33,12 -plM Ptcp [attrib.] NQQ     114    56  8..    |    |      ||      |   |      [MRBYJM <PC>] [Y>N <Ob>]
+ JER 33,13 3plF xYqX  << xYq0  NQQ     114    57  6..    |    |      ||      |  [B-<RJ H-HR B-<RJ H-CPLH W-B-<RJ H-NGB W-B->RY BNJMN W-B-SBJBJ JRWCLM W-B-<RJ JHWDH <Lo>] [<D <Mo>] [T<BRNH <Pr>] [H-Y>N <Su>] [<L JDJ MWNH <Co>]
+ JER 33,13 3sgM ZQtX  << xYqX  NQQ     114    58  7..    |    |      ||      |      [>MR <Pr>] [JHWH <Su>]
+ JER 33,14 -plM Ptcp  << xYq0  NQQ     114    59  5..    |    |      ||     [HNH <Ij>] [JMJM <Su>] [B>JM <PC>]
+ JER 33,14 ---- MSyn  << Ptcp  NQQ     114    60  8m.    |    |      ||          |   |  [N>M JHWH <PC>]
+ JER 33,14 1sg- WQt0  << Ptcp  NQQ     114    61  7..    |    |      ||          |  [W-<Cj>] [HQMTJ <Pr>] [>T H-DBR H-VWB <Ob>]
+ JER 33,14 1sg- xQt0 [attrib.] NQQ     114    62  8..    |    |      ||          |      [>CR <Re>] [DBRTJ <Pr>] [>L BJT JFR>L W-<L BJT JHWDH <Co>]
+ JER 33,15 1sg- xYq0  << Ptcp  NQQ     114    63  6..    |    |      ||         [B--JMJM H-HM W-B--<T H-HJ> <Ti>] [>YMJX <Pr>] [L-DWD <Co>] [YMX YDQH <Ob>]
+ JER 33,15 3sgM WQt0  << xYq0  NQQ     114    64  8..    |    |      ||              |  [W-<Cj>] [<FH <Pr>] [MCPV W-YDQH <Ob>] [B-->RY <Lo>]
+ JER 33,16 3sgF xYqX  << xYq0  NQQ     114    65  7..    |    |      ||             [B--JMJM H-HM <Ti>] [TWC< <Pr>] [JHWDH <Su>]
+ JER 33,16 3sgF WXYq  << xYqX  NQQ     114    66  9..    |    |      ||                  |  [W-<Cj>] [JRWCLM <Su>] [TCKWN <Pr>] [L-BVX <Aj>]
+ JER 33,16 ---- NmCl  << xYqX  NQQ     114    67  8..    |    |      ||                 [W-<Cj>] [ZH <Su>]
+ JER 33,16 3sgM xYq0 [predic.] NQQ     114    68 10..    |    |      ||                      |  [>CR <Re>] [JQR> <Pr>] [LH <Co>]
+ JER 33,16 ---- NmCl  << NmCl  NQQ     114    69  9..    |    |      ||                     [JHWH <Su>] [YDQNW <PC>]
+                               =======                   |    |      |+========================================================================/
  JER 33,17 3sgM xQtX  << xQtX  NQ      11     70  3..    |    |     [KJ <Cj>] [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
                                =======                   |    |       +========================================================================\
  JER 33,17 3sgM xYqX  <<  [Q]  NQQ     115    71  4.q    |    |       | [L> <Ng>] [JKRT <Pr>] [L-DWD <Co>] [>JC <Su>]
@@ -89,7 +89,7 @@
  JER 33,18 -sgM Ptcp [coordin] NQQ     115    75  8..    |    |       |              |  [W-<Cj>] [MQVJR <PC>] [MNXH <Ob>]
  JER 33,18 -sgM Ptcp [coordin] NQQ     115    76  8..    |    |       |              |  [W-<Cj>] [<FH <PC>] [ZBX <Ob>]
  JER 33,18 ---- Ellp  << Ptcp  NQQ     115    77  7l.    |    |       |             [KL H-JMJM <Ti>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  JER 33,19 3sgM WayX  << WayX  N       2      78  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L JRMJHW <Co>]
  JER 33,19 ---- InfC [adjunct] N       2      79  1..    |  [L->MWR <Pr>]
                                =======                   |    +===================================================================================\
@@ -102,10 +102,10 @@
  JER 33,21 -sgM Ptcp [attrib.] NQQ     211    85  8..    |    |   |          |   |      [MLK <PC>] [<L KS>W <Co>]
  JER 33,21 ---- Ellp  << XYqt  NQQ     211    86  6l.    |    |   |          |  [W-<Cj>] [>T H-LWJM / H-KHNJM / MCRTJ <ap><ap><Aj>]
  JER 33,22 3sgM xYqX [adjunct] NQQ     211    87  6.\    |    |   |          |  [>CR <Cj>] [L> <Ng>] [JSPR <Pr>] [YB> H-CMJM <Su>]
- JER 33,22 3sgM WxYX [coordin] NQQ     211    88  7..    |    |   |          |      [W-<Cj>] [L> <Ng>] [JMD <Pr>] [XWL H-JM <Su>]
+ JER 33,22 3sgM WxYX [coordin] NQQ     211    88  7..    |    |   |          |   |  [W-<Cj>] [L> <Ng>] [JMD <Pr>] [XWL H-JM <Su>]
  JER 33,22 1sg- xYq0  << XYqt  NQQ     211    89  5..    |    |   |         [KN <Mo>] [>RBH <Pr>] [>T ZR< DWD / <BDJ / W-/ >T H-LWJM <pa><cj><ap><Ob>]
  JER 33,22 -plM Ptcp [attrib.] NQQ     211    90  6..    |    |   |             [MCRTJ <PC>] [>TJ <Ob>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  JER 33,23 3sgM WayX  << WayX  N       3      91  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L JRMJHW <Co>]
  JER 33,23 ---- InfC [adjunct] N       3      92  1..       [L->MR <Pr>]
                                =======                        +===================================================================================\
@@ -116,7 +116,7 @@
  JER 33,24 ---- CPen  <<  [Q]  NQQ     311    96  7cq         |      |       |    | [CTJ H-MCPXWT <Fr>]
  JER 33,24 3sgM xQtX [attrib.] NQQ     311    97  9..         |      |       |    |      |  [>CR <Re>] [BXR <Pr>] [JHWH <Su>] [BHM <Co>]
  JER 33,24 3sgM Way0 [resumpt] NQQ     311    98  8..         |      |       |    |     [W-<Cj>] [JM>SM <PO>]
-                               =======                        |      |            +============================================================/
+                               =======                        |      |       |    +============================================================/
  JER 33,24 3plM WxY0  << XQtl  NQ      31     99  5..         |      |      [W-<Cj>] [>T <MJ <Ob>] [JN>YWN <Pr>]
  JER 33,24 ---- InfC [adjunct] NQ      31    100  6..         |      |          [M-HJWT <Pr>] [<WD <Mo>] [GWJ <Su>] [L-PNJHM <PC>]
  JER 33,25 3sgM xQtX  << xQt0  NQ      31    101  3..         |     [KH <Mo>] [>MR <Pr>] [JHWH <Su>]

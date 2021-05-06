@@ -1,6 +1,6 @@
  PS092,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [MZMWR <PC>]
  PS092,001 ---- NmCl  << NmCl  ?       1       2  1..    |  [CJR / L-JWM H-CBT <sp><PC>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PS092,002 3sgM ZQt0  << NmCl  Q       2       3  0.N   [VWB <Pr>]
  PS092,002 ---- InfC [subject] Q       2       4  4..        |   |   |  [L-HDWT <Pr>] [L-JHWH <Co>]
  PS092,002 ---- InfC [coordin] Q       2       5  5..        |   |   |      [W-<Cj>] [L-ZMR <Pr>] [L-CMK <Co>]
@@ -19,9 +19,9 @@
  PS092,007 3sgM WXYq  << XYqt  Q       2      18  5..        |       |      [W-<Cj>] [KSJL <Su>] [L> <Ng>] [JBJN <Pr>] [>T Z>T <Ob>]
  PS092,008 ---- InfC [adjunct] Q       2      19  6..        |       |          [B-PRX <Pr>] [RC<JM <Su>] [KMW <FB <Aj>]
                                -------                       |       |            +---------------------------------------------------------------\
- PS092,008 3plM WayX [coordin] QN      2      20  7..        |       |           || [W-<Cj>] [JYJYW <Pr>] [KL P<LJ >WN <Su>]
- PS092,008 ---- InfC [adjunct] QN      2      21  8..        |       |           ||     [L-HCMDM <PO>] [<DJ <D <Ti>]
-                               -------                       |                    +---------------------------------------------------------------/
+ PS092,008 3plM WayX [coordin] QN      2      20  7..        |       |            | [W-<Cj>] [JYJYW <Pr>] [KL P<LJ >WN <Su>]
+ PS092,008 ---- InfC [adjunct] QN      2      21  8..        |       |            |     [L-HCMDM <PO>] [<DJ <D <Ti>]
+                               -------                       |       |            +---------------------------------------------------------------/
  PS092,009 ---- NmCl  << xQtX  Q       2      22  3..        |      [W-<Cj>] [>TH <Su>] [MRWM <PC>] [L-<LM <Ti>]
  PS092,009 ---- Voct  << NmCl  Q       2      23  6v.        |           |   |  [JHWH <Vo>]
  PS092,010 ---- Reop  << NmCl  Q       2      24  5r.        |           |  [KJ <Cj>] [HNH <Ij>] [>JBJK <Su>]
@@ -29,14 +29,14 @@
  PS092,010 3plM XYqt [resumpt] Q       2      26  6..        |           |      [KJ <Cj>] [HNH <Ij>] [>JBJK <Su>] [J>BDW <Pr>]
  PS092,010 3plM ZYqX [coordin] Q       2      27  7..        |           |          [JTPRDW <Pr>] [KL P<LJ >WN <Su>]
                                -------                       |        +---------------------------------------------------------------------------\
- PS092,011 2sgM Way0  << NmCl  QN      2      28  4..        |       || [W-<Cj>] [TRM <Pr>] [K-R>JM <Aj>] [QRNJ <Ob>]
- PS092,011 1sg- ZQt0  << Way0  QN      2      29  6..        |       ||      |  [BLTJ <Pr>] [B-CMN R<NN <Co>]
- PS092,012 3sgF WayX  << Way0  QN      21     30  5.#        |       ||     [W-<Cj>] [TBV <Pr>] [<JNJ <Su>] [B-CWRJ <Co>]
+ PS092,011 2sgM Way0  << NmCl  QN      2      28  4..        |        | [W-<Cj>] [TRM <Pr>] [K-R>JM <Aj>] [QRNJ <Ob>]
+ PS092,011 1sg- ZQt0  << Way0  QN      2      29  6..        |        |      |  [BLTJ <Pr>] [B-CMN R<NN <Co>]
+ PS092,012 3sgF WayX  << Way0  QN      21     30  5.#        |        |     [W-<Cj>] [TBV <Pr>] [<JNJ <Su>] [B-CWRJ <Co>]
                                -------                       |        |       +----------------------------------------------------------------\
- PS092,012 -plM Ptcp [complm.] QND     21     31  7.\        |       ||       |  |  [B--<Re>] [QMJM <PC>] [<LJ <Co>]
- PS092,012 -plM Ptcp [coordin] QND     21     32  8..        |       ||       |  |      [MR<JM <PC>]
- PS092,012 3plF ZYqX  << WayX  QND     21     33  6..        |       ||       | [TCM<NH <Pr>] [>ZNJ <Su>]
-                               -------                                +---------------------------------------------------------------------------/
+ PS092,012 -plM Ptcp [complm.] QND     21     31  7.\        |        |       |  |  [B--<Re>] [QMJM <PC>] [<LJ <Co>]
+ PS092,012 -plM Ptcp [coordin] QND     21     32  8..        |        |       |  |   |  [MR<JM <PC>]
+ PS092,012 3plF ZYqX  << WayX  QND     21     33  6..        |        |       | [TCM<NH <Pr>] [>ZNJ <Su>]
+                               -------                       |        +---------------------------------------------------------------------------/
  PS092,013 3sgM XYqt  << ZQt0  Q       22     34  1.#       [YDJQ <Su>] [K--TMR <Aj>] [JPRX <Pr>]
  PS092,013 3sgM xYq0  << XYqt  Q       22     35  4..            |   |  [K->RZ / B--LBNWN <sp><Aj>] [JFGH <Pr>]
  PS092,014 -plM Ptcp  << XYqt  Q       22     36  3..            |  [CTWLJM <PC>] [B-BJT JHWH <Lo>]

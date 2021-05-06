@@ -34,7 +34,7 @@
  ZACH08,08 3pl- WQt0  << WQt0  NQQ     115    24  5..    |    |  ||         [W-<Cj>] [CKNW <Pr>] [B-TWK JRWCLM <Co>]
  ZACH08,08 3pl- WQt0  << WQt0  NQQ     115    25  5..    |    |  ||         [W-<Cj>] [HJW <Pr>] [LJ <Co>] [L-<M <PC>]
  ZACH08,08 1sg- WXYq  << WQt0  NQQ     115    26  6..    |    |  ||             [W-<Cj>] [>NJ <Su>] [>HJH <Pr>] [LHM <Co>] [L->LHJM <PC>] [B->MT W-B-YDQH <Aj>]
-                               =======                   |    |   +============================================================================/
+                               =======                   |    |  |+============================================================================/
  ZACH08,09 3sgM xQtX  << xQtX  NQ      11     27  2..    |    | [KH <Mo>] [>MR <Pr>] [JHWH YB>WT <Su>]
                                =======                   |    |   +============================================================================\
  ZACH08,09 3plF ZYqX  <<  [Q]  NQQ     116    28  3.q    |    |   | [TXZQNH <Pr>] [JDJKM <Su>]
@@ -68,14 +68,14 @@
  ZACH08,14 1sg- CPen  <<  [Q]  NQQQ    1161   55  7cq    |    |   |      |   |    | [K->CR <Cj>] [ZMMTJ <Pr>]
  ZACH08,14 ---- InfC [adjunct] NQQQ    1161   56 12..    |    |   |      |   |    |      |   |   |   |  [L-HR< <Pr>] [LKM <Co>]
  ZACH08,14 ---- InfC [adjunct] NQQQ    1161   57 11..    |    |   |      |   |    |      |   |   |  [B-HQYJP <Pr>] [>BTJKM <Su>] [>TJ <Ob>]
+                               =======                   |    |   |      |   |    |      |   |+================================================\
+ ZACH08,14 3sgM ZQtX  << CPen  NQQ     11611  58 10.#    |    |   |      |   |    |      |   || [>MR <Pr>] [JHWH YB>WT <Su>]
+                               =======                   |    |   |      |   |    |      |   |+================================================/
+ ZACH08,14 1sg- WxQ0 [coordin] NQQQ    1161   59  9..    |    |   |      |   |    |      |  [W-<Cj>] [L> <Ng>] [NXMTJ <Pr>]
+ ZACH08,15 1sg- xQt0 [resumpt] NQQQ    1161   60  8..    |    |   |      |   |    |     [KN <Mo>] [CBTJ <Pr>]
+ ZACH08,15 1sg- ZQt0  << xQt0  NQQQ    1161   61  9..    |    |   |      |   |    |         [ZMMTJ <Pr>] [B--JMJM H->LH <Ti>]
+ ZACH08,15 ---- InfC [adjunct] NQQQ    1161   62 10..    |    |   |      |   |    |             [L-HJVJB <Pr>] [>T JRWCLM W->T BJT JHWDH <Ob>]
                                =======                   |    |   |      |   |    +=========================================================/
- ZACH08,14 3sgM ZQtX  << CPen  NQQ     11611  58 10.#    |    |   |      |   |           |   |  [>MR <Pr>] [JHWH YB>WT <Su>]
-                               =======                   |    |   |      |   |           |+=================================================\
- ZACH08,14 1sg- WxQ0 [coordin] NQQQ    1161   59  9..    |    |   |      |   |            | [W-<Cj>] [L> <Ng>] [NXMTJ <Pr>]
- ZACH08,15 1sg- xQt0 [resumpt] NQQQ    1161   60  8..    |    |   |      |   |          [KN <Mo>] [CBTJ <Pr>]
- ZACH08,15 1sg- ZQt0  << xQt0  NQQQ    1161   61  9..    |    |   |      |   |            | [ZMMTJ <Pr>] [B--JMJM H->LH <Ti>]
- ZACH08,15 ---- InfC [adjunct] NQQQ    1161   62 10..    |    |   |      |   |            |     [L-HJVJB <Pr>] [>T JRWCLM W->T BJT JHWDH <Ob>]
-                               =======                   |    |   |      |                +=================================================/
  ZACH08,15 2plM xYq0  << xYq0  NQQ     116    63  5..    |    |   |      |  [>L <Ng>] [TJR>W <Pr>]
  ZACH08,16 ---- NmCl  << ZYqX  NQQ     116    64  4..    |    |   |     [>LH <Su>] [H-DBRJM <PC>]
  ZACH08,16 2plM xYq0 [attrib.] NQQ     116    65  6..    |    |   |          |  [>CR <Re>] [T<FW <Pr>]
@@ -89,7 +89,7 @@
  ZACH08,17 ---- NmCl  << Defc  NQQ     116    73  7..    |    |   |                 [KJ <Cj>] [>T KL >LH <Su>]
  ZACH08,17 1sg- xQt0 [predic.] NQQ     116    74  8..    |    |   |                     [>CR <Re>] [FN>TJ <Pr>]
  ZACH08,17 ---- MSyn  << xQt0  NQQ     116    75  9m.    |    |   |                         [N>M JHWH <PC>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  ZACH08,18 3sgM WayX  << WayX  N       2      76  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH YB>WT <Su>] [>LJ <Co>]
  ZACH08,18 ---- InfC [adjunct] N       2      77  1..       [L->MR <Pr>]
                                =======                        +===================================================================================\
@@ -109,11 +109,11 @@
  ZACH08,21 ---- InfC [adjunct] NQQQ    2121   87  9..         |  ||          |    |      |  [L-XLWT <Pr>] [>T PNJ JHWH <Ob>]
  ZACH08,21 ---- InfC [coordin] NQQQ    2121   88 10..         |  ||          |    |      |      [W-<Cj>] [L-BQC <Pr>] [>T JHWH YB>WT <Ob>]
  ZACH08,21 1sg- ZYqX  << ZYq0  NQQQ    2121   89  8..         |  ||          |    |     [>LKH <Pr>] [GM >NJ <Su>]
-                               =======                        |  ||               +=========================================================/
+                               =======                        |  ||          |    +=========================================================/
  ZACH08,22 3pl- WQtX  << WQtX  NQQ     212    90  5..         |  ||         [W-<Cj>] [B>W <Pr>] [<MJM RBJM W-GWJM <YWMJM <Su>]
  ZACH08,22 ---- InfC [adjunct] NQQ     212    91  6..         |  ||             [L-BQC <Pr>] [>T JHWH YB>WT <Ob>] [B-JRWCLM <Lo>]
  ZACH08,22 ---- InfC [coordin] NQQ     212    92  7..         |  ||                 [W-<Cj>] [L-XLWT <Pr>] [>T PNJ JHWH <Ob>]
-                               =======                        |   +============================================================================/
+                               =======                        |  |+============================================================================/
  ZACH08,23 3sgM xQtX  << xQtX  NQ      21     93  2..         | [KH <Mo>] [>MR <Pr>] [JHWH YB>WT <Su>]
                                =======                        |   +============================================================================\
  ZACH08,23 ---- NmCl  <<  [Q]  NQQ     213    94  3.q         |   | [B--JMJM H-HMH <Ti>]

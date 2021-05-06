@@ -3,8 +3,8 @@
  JES 27,01 ---- NmCl [attrib.] D       1       3  3..        |      [>CR <Re>] [B--JM <PC>]
  JES 27,02 ---- NmCl  << xYqX  D       1       4  1..       [B--JWM H-HW> <Ti>] [KRM XMD <Su>]
                                =======                           |+===============================================================================\
- JES 27,02 2plM ZIm0  << NmCl  DQ      1       5  3..             | [<NW <Pr>] [LH <Co>]
-                               =======                            +===============================================================================/
+ JES 27,02 2plM ZIm0  << NmCl  DQ      1       5  3..            || [<NW <Pr>] [LH <Co>]
+                               =======                           |+===============================================================================/
  JES 27,03 -sgM Ptcp  << NmCl  D       1       6  2..           [>NJ / JHWH <ap><Su>] [NYRH <po>]
  JES 27,03 1sg- xYq0  << Ptcp  D       1       7  5..                |   |  [L-RG<JM <Ti>] [>CQNH <PO>]
  JES 27,03 3sgM xYq0 [adjunct] D       1       8  7.\                |   |       |  [PN <Cj>] [JPQD <Pr>] [<LJH <Co>]
@@ -24,19 +24,19 @@
  JES 27,07 3sgM xQt0  << NmCl  D       1      22  5..                    |  [H-<Qu>] [K-MKT MKHW <Aj>] [HKHW <PO>]
  JES 27,07 3sgM xQt0  << xQt0  D       1      23  8..                    |       |   |  [>M <Cj>] [K-HRG HRGJW <Aj>] [HRG <Pr>]
  JES 27,08 ---- InfC [adjunct] D       1      24  8.\                    |       |   |  [B-S>S>H <Pr>]
- JES 27,08 ---- InfC [coordin] D       1      25  9..                    |       |   |      [B-CLXH <PO>]
+ JES 27,08 ---- InfC [coordin] D       1      25  9..                    |       |   |   |  [B-CLXH <PO>]
  JES 27,08 2sgM ZYq0  << xQt0  D       1      26  7..                    |       |  [TRJBNH <PO>]
  JES 27,08 3sgM ZQt0  << ZYq0  D       1      27  8..                    |       |      [HGH <Pr>] [B-RWXW H-QCH <Aj>] [B-JWM QDJM <Ti>]
  JES 27,09 3sgM xYqX  << xQt0  D       1      28  6..                    |      [LKN <Mo>] [B-Z>T <Aj>] [JKPR <Pr>] [<WN J<QB <Su>]
  JES 27,09 ---- NmCl  << xYqX  D       1      29  8..                    |           |  [W-<Cj>] [ZH <Su>] [KL PRJ <PC>]
- JES 27,09 ---- InfC [reg/rec] D       1      30  9..                    |           |   |  [HSR <Pr>] [XV>TW <Ob>]
+ JES 27,09 ---- InfC [reg/rec] D       1      30  9..                    |           |      [HSR <Pr>] [XV>TW <Ob>]
  JES 27,09 ---- InfC [adjunct] D       1      31  8.\                    |           |  [B-FWMW <Ps>] [KL >BNJ MZBX <Ob>] [K->BNJ GR MNPYWT <Co>]
  JES 27,09 3plM xYqX  << xYqX  D       1      32  7..                    |          [L> <Ng>] [JQMW <Pr>] [>CRJM W-XMNJM <Su>]
  JES 27,10 ---- NmCl  << xYqX  D       1      33  8..                    |              [KJ <Cj>] [<JR BYWRH <Su>] [BDD <PC>]
  JES 27,10 ---- NmCl  << NmCl  D       1      34 10..                    |                   |  [NWH MCLX W-N<ZB / K--MDBR <sp><PC>]
  JES 27,10 3sgM xYqX  << NmCl  D       1      35  9..                    |                  [CM <Lo>] [JR<H <Pr>] [<GL <Su>]
  JES 27,10 3sgM WxY0  << xYqX  D       1      36 11..                    |                       |  [W-<Cj>] [CM <Lo>] [JRBY <Pr>]
- JES 27,10 3sgM WQt0  << WxY0  D       1      37 12..                    |                       |   |  [W-<Cj>] [KLH <Pr>] [S<PJH <Ob>]
+ JES 27,10 3sgM WQt0  << WxY0  D       1      37 12..                    |                       |      [W-<Cj>] [KLH <Pr>] [S<PJH <Ob>]
  JES 27,11 ---- InfC [adjunct] D       1      38 11.\                    |                       |  [B-JBC <Pr>] [QYJRH <Su>]
  JES 27,11 3plF ZYq0  << xYqX  D       1      39 10..                    |                      [TCBRNH <Pr>]
  JES 27,11 -plF Ptcp  << ZYq0  D       1      40 12..                    |                           |  [NCJM <Su>] [B>WT <PC>]
@@ -49,7 +49,7 @@
  JES 27,12 2plM WXYq  << ZYqX  D       1      47  6..                    |      [W-<Cj>] [>TM <Su>] [TLQVW <Pr>] [L->XD >XD <Aj>]
                                =======                                   |        +===============================================================\
  JES 27,12 ---- Voct  << WXYq  DQ      1      48  7v.                    |        | [BNJ JFR>L <Vo>]
-                               =======                                            +===============================================================/
+                               =======                                   |        +===============================================================/
  JES 27,13 3sgM WQt0  << WQt0  D       1      49  4..                   [W-<Cj>] [HJH <Pr>] [B--JWM H-HW> <Ti>]
  JES 27,13 3sgM ZYq0  << WQt0  D       1      50  5..                       [JTQ< <Pr>] [B-CWPR GDWL <Co>]
  JES 27,13 3pl- WQt0  << ZYq0  D       1      51  6..                           [W-<Cj>] [B>W <Pr>]

@@ -19,7 +19,7 @@
  HAB 02,03 2sgM ZIm0  << xYq0  QNQ     111    17  7..    |   ||       |             [XKH <Pr>] [LW <Co>]
  HAB 02,03 3sgM xYq0  << ZIm0  QNQ     111    18  8..    |   ||       |                 [KJ <Cj>] [B> <Mo>] [JB> <Pr>]
  HAB 02,03 3sgM xYq0  << xYq0  QNQ     111    19  9..    |   ||       |                     [L> <Ng>] [J>XR <Pr>]
-                               -------                   |    +-----------------------------------------------------------------------------------/
+                               -------                   |   |+-----------------------------------------------------------------------------------/
  HAB 02,04 3sgF xQt0  << xYq0  Q       12     20  1.#    |  [HNH <Ij>] [<PLH <Pr>]
  HAB 02,04 3sgF xQtX  << xQt0  Q       12     21  3..    |       |  [L> <Ng>] [JCRH <Pr>] [NPCW <Su>] [BW <Aj>]
  HAB 02,04 3sgM WXYq  << xQtX  Q       12     22  4..    |       |      [W-<Cj>] [YDJQ <Su>] [B->MWNTW <Aj>] [JXJH <Pr>]
@@ -32,7 +32,7 @@
                                -------                   |                   |    +---------------------------------------------------------------\
  HAB 02,05 3sgM Way0  << WxY0  QN      12     29  7..    |                   |    | [W-<Cj>] [J>SP <Pr>] [>LJW <Aj>] [KL H-GWJM <Ob>]
  HAB 02,05 3sgM Way0  << Way0  QN      12     30  7..    |                   |    | [W-<Cj>] [JQBY <Pr>] [>LJW <Co>] [KL H-<MJM <Ob>]
-                               -------                   |                        +---------------------------------------------------------------/
+                               -------                   |                   |    +---------------------------------------------------------------/
  HAB 02,06 3plM XYqt  << NmCl  Q       121    31  5.#    |                  [H-<Qu>] [LW> <Ng>] [>LH / KLM <sp><Su>] [<LJW <Co>] [MCL <Ob>] [JF>W <Pr>]
  HAB 02,06 ---- Ellp  << XYqt  Q       121    32  7l.    |                       |  [W-<Cj>] [MLJYH / XJDWT <sp><Ob>] [LW <Aj>]
  HAB 02,06 3sgM WYq0  << XYqt  Q       121    33  6..    |                      [W-<Cj>] [J>MR <Pr>]
@@ -80,7 +80,7 @@
  HAB 02,17 3sgM XYqt  << ZImX  QQ      1214   74  9..    |                        |         [KJ <Cj>] [XMS LBNWN <Su>] [JKSK <PO>]
  HAB 02,17 3sgM WXYq  << XYqt  QQ      1214   75 10..    |                        |             [W-<Cj>] [CD BHMWT <Su>] [JXJTN <PO>] [M-DMJ >DM W-XMS >RY QRJH W-KL <Aj>]
  HAB 02,17 -plM Ptcp [reg/rec] QQ      1214   76 11..    |                        |                 [JCBJ <PC>] [BH <Co>]
-                               =======                                            +===============================================================/
+                               =======                   |                        +===============================================================/
  HAB 02,18 3sgM xQtX  << xYq0  Q       2      77  0.#   [MH <Ob>] [HW<JL <Pr>] [PSL <Su>]
  HAB 02,18 3sgM xQtX  << xQtX  Q       2      78  4..        |   |   |  [KJ <Cj>] [PSLW <PO>] [JYRW <Su>]
  HAB 02,18 ---- Ellp  << xQtX  Q       2      79  3l.        |   |  [MSKH <Su>]

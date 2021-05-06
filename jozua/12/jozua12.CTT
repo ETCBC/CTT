@@ -1,8 +1,8 @@
  JOZ 12,01 ---- NmCl  <<  [R]  ?       1       1  0.N   [W-<Cj>] [>LH <Su>] [MLKJ H->RY <PC>]
  JOZ 12,01 3pl- xQtX [attrib.] ?       1       2  2..    |   |  [>CR <Re>] [HKW <Pr>] [BNJ JFR>L <Su>]
-                               =======                 ==============================================================================================/
- JOZ 12,01 3plM Way0 [coordin] N       1       3  3..    |   |      [W-<Cj>] [JRCW <Pr>] [>T >RYM <Ob>] [B-<BR H-JRDN / MZRXH H-CMC / M-NXL >RNWN / <D HR XRMWN / W-/ KL H-<RBH / MZRXH <sp><pa><cj><sp><sp><sp><Lo>]
-                               =======                 ==============================================================================================/
+                               -------                   |   |    +----------------------------------------------------------------------------------\
+ JOZ 12,01 3plM Way0 [coordin] N       1       3  3..    |   |    | [W-<Cj>] [JRCW <Pr>] [>T >RYM <Ob>] [B-<BR H-JRDN / MZRXH H-CMC / M-NXL >RNWN / <D HR XRMWN / W-/ KL H-<RBH / MZRXH <sp><pa><cj><sp><sp><sp><Lo>]
+                               -------                   |   |    +----------------------------------------------------------------------------------/
  JOZ 12,02 ---- NmCl  << NmCl  ?       1       4  1..    |  [SJXWN / MLK H->MRJ <ap><PC>]
  JOZ 12,02 -sgM Ptcp [attrib.] ?       1       5  5..    |       |   |   |  [H-<Re>] [JWCB <PC>] [B-XCBWN <Co>]
  JOZ 12,02 -sgM Ptcp [attrib.] ?       1       6  4..    |       |   |  [MCL <PC>] [M-<RW<R <Co>]
@@ -15,14 +15,14 @@
  JOZ 12,06 3pl- XQtl  << NmCl  ?       1      13  2..    |      [MCH / <BD JHWH / W-/ BNJ JFR>L <pa><cj><ap><Su>] [HKWM <PO>]
                                -------                   |        +-------------------------------------------------------------------------------\
  JOZ 12,06 3sgM WayX  << XQtl  ?N      11     14  3.#    |        | [W-<Cj>] [JTNH <PO>] [MCH / <BD JHWH <ap><Su>] [JRCH <Ob>] [L--R>WBNJ W-L--GDJ W-L-XYJ CBV H-MNCH <Co>]
-                               -------                            +-------------------------------------------------------------------------------/
+                               -------                   |        +-------------------------------------------------------------------------------/
  JOZ 12,07 ---- NmCl  << NmCl  ?       1      15  0..   [W-<Cj>] [>LH <Su>] [MLKJ H->RY <PC>]
  JOZ 12,07 3sgM xQtX [attrib.] ?       1      16  2..        |  [>CR <Re>] [HKH <Pr>] [JHWC< W-BNJ JFR>L <Su>] [B-<BR H-JRDN / JMH / M-B<L_GD / B-BQ<T H-LBNWN / W-/ <D H-HR H-XLQ <pa><cj><sp><sp><sp><Lo>]
  JOZ 12,07 -sgM Ptcp [attrib.] ?       1      17  4..        |       |  [H-<Re>] [<LH <PC>] [F<JRH <Co>]
                                -------                       |    +-------------------------------------------------------------------------------\
- JOZ 12,07 3sgM WayX  << xQtX  ?N      12     18  3.#        |   || [W-<Cj>] [JTNH <PO>] [JHWC< <Su>] [L-CBVJ JFR>L <Co>] [JRCH <Ob>] [K-MXLQTM <Aj>]
- JOZ 12,08 ---- Ellp  << WayX  ?N      12     19  4l.        |   ||     [B--HR W-B--CPLH W-B--<RBH W-B-->CDWT W-B--MDBR W-B--NGB <Lo>] [H-XTJ H->MRJ W-H-KN<NJ H-PRZJ H-XWJ W-H-JBWSJ <Ob>]
-                               -------                            +-------------------------------------------------------------------------------/
+ JOZ 12,07 3sgM WayX  << xQtX  ?N      12     18  3.#        |    | [W-<Cj>] [JTNH <PO>] [JHWC< <Su>] [L-CBVJ JFR>L <Co>] [JRCH <Ob>] [K-MXLQTM <Aj>]
+ JOZ 12,08 ---- Ellp  << WayX  ?N      12     19  4l.        |    |     [B--HR W-B--CPLH W-B--<RBH W-B-->CDWT W-B--MDBR W-B--NGB <Lo>] [H-XTJ H->MRJ W-H-KN<NJ H-PRZJ H-XWJ W-H-JBWSJ <Ob>]
+                               -------                       |    +-------------------------------------------------------------------------------/
  JOZ 12,09 ---- NmCl  << NmCl  ?       1      20  1..       [MLK JRJXW / >XD <sp><PC>]
  JOZ 12,09 ---- Defc  << NmCl  ?       1      21  2d.           [MLK H-<J <PC>]
  JOZ 12,09 ---- NmCl [attrib.] ?       1      22  5.e                |   |  [>CR <Re>] [M-YD BJT_>L <PC>]

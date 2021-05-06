@@ -17,7 +17,7 @@
  NUM 06,04 3sgM xYq0  << Defc  NQQ     111    15 11..    |    |       |      |   |               |  [L> <Ng>] [J>KL <Pr>]
  NUM 06,05 3sgM XYqt  << Defc  NQQ     111    16 10..    |    |       |      |   |              [KL JMJ NDR NZRW <Ti>] [T<R <Su>] [L> <Ng>] [J<BR <Pr>] [<L R>CW <Co>]
  NUM 06,05 ---- InfC [adjunct] NQQ     111    17 13.\    |    |       |      |   |                   |   |  [<D ML>T <Pr>] [H-JMM <Su>]
- NUM 06,05 3sgM xYq0 [attrib.] NQQ     111    18 14..    |    |       |      |   |                   |   |      [>CR <Re>] [JZJR <Pr>] [L-JHWH <Co>]
+ NUM 06,05 3sgM xYq0 [attrib.] NQQ     111    18 14..    |    |       |      |   |                   |   |   |  [>CR <Re>] [JZJR <Pr>] [L-JHWH <Co>]
  NUM 06,05 3sgM xYq0  << XYqt  NQQ     111    19 12..    |    |       |      |   |                   |  [QDC <PC>] [JHJH <Pr>]
  NUM 06,05 ---- InfC  << xYq0  NQQ     111    20 13..    |    |       |      |   |                   |      [GDL <Pr>] [PR< F<R R>CW <Su>]
  NUM 06,06 ---- Defc  << XYqt  NQQ     111    21 11d.    |    |       |      |   |                  [KL JMJ <Ti>]
@@ -77,7 +77,7 @@
  NUM 06,21 ---- Defc  << NmCl  NQQ     111    75  6d.    |    |       |         [K-PJ NDRW <Aj>]
  NUM 06,21 3sgM xYq0 [attrib.] NQQ     111    76  8.e    |    |       |              |  [>CR <Re>] [JDR <Pr>]
  NUM 06,21 3sgM xYq0  << Defc  NQQ     111    77  7..    |    |       |             [KN <Mo>] [J<FH <Pr>] [<L TWRT NZRW <Aj>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  NUM 06,22 3sgM WayX  << WayX  N       2      78  0.#   [W-<Cj>] [JDBR <Pr>] [JHWH <Su>] [>L MCH <Co>]
  NUM 06,22 ---- InfC [adjunct] N       2      79  1..       [L->MR <Pr>]
                                =======                        +===================================================================================\
@@ -87,12 +87,12 @@
  NUM 06,23 2plM xYq0  <<  [Q]  NQQ     211    82  5.q         |      |    | [KH <Mo>] [TBRKW <Pr>] [>T BNJ JFR>L <Ob>]
  NUM 06,23 ---- InfA  << xYq0  NQQ     211    83  6..         |      |    |     [>MWR <Pr>] [LHM <Co>]
                                =======                        |      |    |       +=========================================================\
- NUM 06,24 3sgM ZYqX  <<  [Q]  NQQQ    2111   84  7.q         |      |    |      || [JBRKK <PO>] [JHWH <Su>]
- NUM 06,24 3sgM WYq0  << ZYqX  NQQQ    2111   85  9..         |      |    |      ||      |  [W-<Cj>] [JCMRK <PO>]
- NUM 06,25 3sgM ZYqX  << ZYqX  NQQQ    2111   86  8..         |      |    |      ||     [J>R <Pr>] [JHWH <Su>] [PNJW <Ob>] [>LJK <Co>]
- NUM 06,25 3sgM WYq0  << ZYqX  NQQQ    2111   87  9..         |      |    |      ||      |  [W-<Cj>] [JXNK <PO>]
- NUM 06,26 3sgM ZYqX  << ZYqX  NQQQ    2111   88  8..         |      |    |      ||     [JF> <Pr>] [JHWH <Su>] [PNJW <Ob>] [>LJK <Co>]
- NUM 06,26 3sgM WYq0  << ZYqX  NQQQ    2111   89  9..         |      |    |      ||         [W-<Cj>] [JFM <Pr>] [LK <Co>] [CLWM <Ob>]
-                               =======                        |           +====================================================================/
+ NUM 06,24 3sgM ZYqX  <<  [Q]  NQQQ    2111   84  7.q         |      |    |       | [JBRKK <PO>] [JHWH <Su>]
+ NUM 06,24 3sgM WYq0  << ZYqX  NQQQ    2111   85  9..         |      |    |       |      |  [W-<Cj>] [JCMRK <PO>]
+ NUM 06,25 3sgM ZYqX  << ZYqX  NQQQ    2111   86  8..         |      |    |       |     [J>R <Pr>] [JHWH <Su>] [PNJW <Ob>] [>LJK <Co>]
+ NUM 06,25 3sgM WYq0  << ZYqX  NQQQ    2111   87  9..         |      |    |       |      |  [W-<Cj>] [JXNK <PO>]
+ NUM 06,26 3sgM ZYqX  << ZYqX  NQQQ    2111   88  8..         |      |    |       |     [JF> <Pr>] [JHWH <Su>] [PNJW <Ob>] [>LJK <Co>]
+ NUM 06,26 3sgM WYq0  << ZYqX  NQQQ    2111   89  9..         |      |    |       |         [W-<Cj>] [JFM <Pr>] [LK <Co>] [CLWM <Ob>]
+                               =======                        |      |    +====================================================================/
  NUM 06,27 3pl- WQt0  << ZIm0  NQ      21     90  3..         |     [W-<Cj>] [FMW <Pr>] [>T CMJ <Ob>] [<L BNJ JFR>L <Co>]
  NUM 06,27 1sg- WXYq  << WQt0  NQ      21     91  4..         |         [W-<Cj>] [>NJ <Su>] [>BRKM <PO>]

@@ -114,7 +114,7 @@
  LEV 20,24 2plM XYqt  <<  [Q]  NQQNQ   1112  110  9.q         |   |          |        |   | [>TM <Su>] [TJRCW <Pr>] [>T >DMTM <Ob>]
  LEV 20,24 1sg- WXYq  << XYqt  NQQNQ   1112  111 10..         |   |          |        |   |     [W-<Cj>] [>NJ <Su>] [>TNNH <PO>] [LKM <Co>]
  LEV 20,24 ---- InfC [adjunct] NQQNQ   1112  112 11..         |   |          |        |   |         [L-RCT <Pr>] [>TH / >RY ZBT XLB W-DBC <ss><Ob>]
-                               -------                        |   |                   +-----------------------------------------------------/
+                               -------                        |   |          |        +-----------------------------------------------------/
  LEV 20,24 ---- NmCl  << WQt0  NQQ     111   113  5..         |   |         [>NJ <Su>] [JHWH / >LHJKM <ap><PC>]
  LEV 20,24 1sg- xQt0 [attrib.] NQQ     111   114  7..         |   |              |  [>CR <Re>] [HBDLTJ <Pr>] [>TKM <Ob>] [MN H-<MJM <Co>]
  LEV 20,25 2plM WQt0  << NmCl  NQQ     111   115  6..         |   |             [W-<Cj>] [HBDLTM <Pr>] [BJN H-BHMH H-VHRH <Co>] [L--VM>H <Co>]
@@ -126,9 +126,9 @@
  LEV 20,26 2plM WQt0  << WQt0  NQQ     111   121  6..         |   |             [W-<Cj>] [HJJTM <Pr>] [LJ <Co>] [QDCJM <PC>]
  LEV 20,26 -sgM AjCl  << WQt0  NQQ     111   122  7..         |   |                 [KJ <Cj>] [QDWC <PC>] [>NJ / JHWH <ap><Su>]
                                -------                        |   |                      |+-------------------------------------------------\
- LEV 20,26 1sg- Way0  << AjCl  NQQN    111   123  9..         |   |                       | [W-<Cj>] [>BDL <Pr>] [>TKM <Ob>] [MN H-<MJM <Co>]
- LEV 20,26 ---- InfC [adjunct] NQQN    111   124 10..         |   |                       |     [L-HJWT <Pr>] [LJ <PC>]
-                               -------                        |   |                       +-------------------------------------------------/
+ LEV 20,26 1sg- Way0  << AjCl  NQQN    111   123  9..         |   |                      || [W-<Cj>] [>BDL <Pr>] [>TKM <Ob>] [MN H-<MJM <Co>]
+ LEV 20,26 ---- InfC [adjunct] NQQN    111   124 10..         |   |                      ||     [L-HJWT <Pr>] [LJ <PC>]
+                               -------                        |   |                      |+-------------------------------------------------/
  LEV 20,27 ---- CPen  << AjCl  NQQ     111   125  8c.         |   |                     [W-<Cj>] [>JC >W >CH <Fr>]
  LEV 20,27 3sgM xYqX  << CPen  NQQ     111   126 10..         |   |                          |  [KJ <Cj>] [JHJH <Pr>] [BHM <PC>] [>WB >W JD<NJ <Su>]
  LEV 20,27 3plM xYq0 [resumpt] NQQ     111   127  9..         |   |                         [MWT <Mo>] [JWMTW <Pr>]

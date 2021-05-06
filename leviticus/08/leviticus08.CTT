@@ -3,16 +3,16 @@
                                =======                   |    +===================================================================================\
  LEV 08,02 2sgM ZIm0  <<  [Q]  NQ      11      3  2.q    |    | [QX <Pr>] [>T >HRN W->T BNJW / >TW / W-/ >T H-BGDJM W->T CMN H-MCXH W->T PR H-XV>T W->T CNJ H->JLJM W->T SL H-MYWT <pa><cj><sp><Ob>]
  LEV 08,03 2sgM WxI0  << ZIm0  NQ      11      4  3..    |    |     [W-<Cj>] [>T KL H-<DH <Ob>] [HQHL <Pr>] [>L PTX >HL MW<D <Co>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  LEV 08,04 3sgM WayX  << WayX  N       2       5  0.#   [W-<Cj>] [J<F <Pr>] [MCH <Su>]
  LEV 08,04 3sgM xQtX [adjunct] N       2       6  2..    |   |  [K->CR <Cj>] [YWH <Pr>] [JHWH <Su>] [>TW <Ob>]
  LEV 08,04 3sgF WayX  << WayX  N       21      7  1.#    |  [W-<Cj>] [TQHL <Pr>] [H-<DH <Su>] [>L PTX >HL MW<D <Co>]
  LEV 08,05 3sgM WayX  << WayX  N       3       8  0.#   [W-<Cj>] [J>MR <Pr>] [MCH <Su>] [>L H-<DH <Co>]
                                =======                   |+=======================================================================================\
- LEV 08,05 ---- NmCl  <<  [Q]  NQ      31      9  1.q     | [ZH <Su>] [H-DBR <PC>]
- LEV 08,05 3sgM xQtX [attrib.] NQ      31     10  2..     |     [>CR <Re>] [YWH <Pr>] [JHWH <Su>]
- LEV 08,05 ---- InfC [adjunct] NQ      31     11  3..     |         [L-<FWT <Pr>]
-                               =======                    +=======================================================================================/
+ LEV 08,05 ---- NmCl  <<  [Q]  NQ      31      9  1.q    || [ZH <Su>] [H-DBR <PC>]
+ LEV 08,05 3sgM xQtX [attrib.] NQ      31     10  2..    ||     [>CR <Re>] [YWH <Pr>] [JHWH <Su>]
+ LEV 08,05 ---- InfC [adjunct] NQ      31     11  3..    ||         [L-<FWT <Pr>]
+                               =======                   |+=======================================================================================/
  LEV 08,06 3sgM WayX  << WayX  N       4      12  0.#   [W-<Cj>] [JQRB <Pr>] [MCH <Su>] [>T >HRN W->T BNJW <Ob>]
  LEV 08,06 3sgM Way0  << WayX  N       4      13  1..    |  [W-<Cj>] [JRXY <Pr>] [>TM <Ob>] [B--MJM <Co>]
  LEV 08,07 3sgM Way0  << Way0  N       4      14  1..    |  [W-<Cj>] [JTN <Pr>] [<LJW <Co>] [>T H-KTNT <Ob>]
@@ -98,28 +98,28 @@
  LEV 08,30 3sgM Way0  << Way0  N       710    94  4..        |       |  [W-<Cj>] [JQDC <Pr>] [>T >HRN >T BGDJW W->T BNJW W->T BGDJ BNJW / >TW <sp><Ob>]
  LEV 08,31 3sgM WayX  << WayX  N       711    95  3.#        |      [W-<Cj>] [J>MR <Pr>] [MCH <Su>] [>L >HRN W->L BNJW <Co>]
                                =======                       |        +===========================================================================\
- LEV 08,31 2plM ZIm0  <<  [Q]  NQ      7111   96  4.q        |       || [BCLW <Pr>] [>T H-BFR <Ob>] [PTX >HL MW<D <Lo>]
- LEV 08,31 2plM WxY0  << ZIm0  NQ      7111   97  6..        |       ||      |  [W-<Cj>] [CM <Lo>] [T>KLW <Pr>] [>TW W->T H-LXM <Ob>]
- LEV 08,31 ---- NmCl [attrib.] NQ      7111   98  8..        |       ||      |       |  [>CR <Re>] [B-SL H-ML>JM <PC>]
- LEV 08,31 1sg- xQt0 [adjunct] NQ      7111   99  7..        |       ||      |      [K->CR <Cj>] [YWJTJ <Pr>]
- LEV 08,31 ---- InfC [adjunct] NQ      7111  100  8..        |       ||      |          [L->MR <Pr>]
+ LEV 08,31 2plM ZIm0  <<  [Q]  NQ      7111   96  4.q        |        | [BCLW <Pr>] [>T H-BFR <Ob>] [PTX >HL MW<D <Lo>]
+ LEV 08,31 2plM WxY0  << ZIm0  NQ      7111   97  6..        |        |      |  [W-<Cj>] [CM <Lo>] [T>KLW <Pr>] [>TW W->T H-LXM <Ob>]
+ LEV 08,31 ---- NmCl [attrib.] NQ      7111   98  8..        |        |      |       |  [>CR <Re>] [B-SL H-ML>JM <PC>]
+ LEV 08,31 1sg- xQt0 [adjunct] NQ      7111   99  7..        |        |      |      [K->CR <Cj>] [YWJTJ <Pr>]
+ LEV 08,31 ---- InfC [adjunct] NQ      7111  100  8..        |        |      |          [L->MR <Pr>]
                                =======                       |        |      |            +====================================================\
- LEV 08,31 3plM XYqt  <<  [Q]  NQQ     71111 101  9.q        |       ||      |            | [>HRN W-BNJW <Su>] [J>KLHW <PO>]
-                               =======                       |        |                   +====================================================/
- LEV 08,32 ---- Defc  << ZIm0  NQ      7111  102  5d.        |       ||     [W-<Cj>]
- LEV 08,32 -sgM Ptcp [object ] NQ      7111  103  8.\        |       ||          |   |  [H-<Re>] [NWTR <PC>] [B--BFR W-B--LXM <Co>]
- LEV 08,32 2plM xYq0  << Defc  NQ      7111  104  7..        |       ||          |  [B-->C <Co>] [TFRPW <Pr>]
- LEV 08,33 2plM WxY0  << Defc  NQ      7111  105  6..        |       ||         [W-<Cj>] [M-PTX >HL MW<D <Co>] [L> <Ng>] [TY>W <Pr>] [CB<T JMJM <Ti>] [<D JWM <Ti>]
- LEV 08,33 ---- InfC [reg/rec] NQ      7111  106  9..        |       ||              |   |  [ML>T <Pr>] [JMJ ML>JKM <Su>]
- LEV 08,33 3sgM xYq0  << WxY0  NQ      7111  107  8..        |       ||              |  [KJ <Cj>] [CB<T JMJM <Ti>] [JML> <Pr>] [>T JDKM <Ob>]
- LEV 08,34 3sgM xQt0 [adjunct] NQ      7111  108 10.\        |       ||              |       |  [K->CR <Cj>] [<FH <Pr>] [B--JWM H-ZH <Ti>]
- LEV 08,34 3sgM ZQtX  << xYq0  NQ      7111  109  9..        |       ||              |      [YWH <Pr>] [JHWH <Su>]
- LEV 08,34 ---- InfC [adjunct] NQ      7111  110 10..        |       ||              |          [L-<FT <Pr>]
- LEV 08,34 ---- InfC [adjunct] NQ      7111  111 11..        |       ||              |              [L-KPR <Pr>] [<LJKM <Co>]
- LEV 08,35 2plM WxY0  << WxY0  NQ      7111  112  7..        |       ||             [W-<Cj>] [PTX >HL MW<D <Lo>] [TCBW <Pr>] [JWMM W-LJLH <Ti>] [CB<T JMJM <Ti>]
- LEV 08,35 2plM WQt0  << WxY0  NQ      7111  113  9..        |       ||                  |  [W-<Cj>] [CMRTM <Pr>] [>T MCMRT JHWH <Ob>]
- LEV 08,35 2plM WxY0  << WQt0  NQ      7111  114 10..        |       ||                  |      [W-<Cj>] [L> <Ng>] [TMWTW <Pr>]
- LEV 08,35 1sg- xQt0  << WxY0  NQ      7111  115  8..        |       ||                 [KJ <Cj>] [KN <Mo>] [YWJTJ <Pr>]
-                               =======                                +===========================================================================/
+ LEV 08,31 3plM XYqt  <<  [Q]  NQQ     71111 101  9.q        |        |      |            | [>HRN W-BNJW <Su>] [J>KLHW <PO>]
+                               =======                       |        |      |            +====================================================/
+ LEV 08,32 ---- Defc  << ZIm0  NQ      7111  102  5d.        |        |     [W-<Cj>]
+ LEV 08,32 -sgM Ptcp [object ] NQ      7111  103  8.\        |        |          |   |  [H-<Re>] [NWTR <PC>] [B--BFR W-B--LXM <Co>]
+ LEV 08,32 2plM xYq0  << Defc  NQ      7111  104  7..        |        |          |  [B-->C <Co>] [TFRPW <Pr>]
+ LEV 08,33 2plM WxY0  << Defc  NQ      7111  105  6..        |        |         [W-<Cj>] [M-PTX >HL MW<D <Co>] [L> <Ng>] [TY>W <Pr>] [CB<T JMJM <Ti>] [<D JWM <Ti>]
+ LEV 08,33 ---- InfC [reg/rec] NQ      7111  106  9..        |        |              |   |  [ML>T <Pr>] [JMJ ML>JKM <Su>]
+ LEV 08,33 3sgM xYq0  << WxY0  NQ      7111  107  8..        |        |              |  [KJ <Cj>] [CB<T JMJM <Ti>] [JML> <Pr>] [>T JDKM <Ob>]
+ LEV 08,34 3sgM xQt0 [adjunct] NQ      7111  108 10.\        |        |              |       |  [K->CR <Cj>] [<FH <Pr>] [B--JWM H-ZH <Ti>]
+ LEV 08,34 3sgM ZQtX  << xYq0  NQ      7111  109  9..        |        |              |      [YWH <Pr>] [JHWH <Su>]
+ LEV 08,34 ---- InfC [adjunct] NQ      7111  110 10..        |        |              |          [L-<FT <Pr>]
+ LEV 08,34 ---- InfC [adjunct] NQ      7111  111 11..        |        |              |              [L-KPR <Pr>] [<LJKM <Co>]
+ LEV 08,35 2plM WxY0  << WxY0  NQ      7111  112  7..        |        |             [W-<Cj>] [PTX >HL MW<D <Lo>] [TCBW <Pr>] [JWMM W-LJLH <Ti>] [CB<T JMJM <Ti>]
+ LEV 08,35 2plM WQt0  << WxY0  NQ      7111  113  9..        |        |                  |  [W-<Cj>] [CMRTM <Pr>] [>T MCMRT JHWH <Ob>]
+ LEV 08,35 2plM WxY0  << WQt0  NQ      7111  114 10..        |        |                  |      [W-<Cj>] [L> <Ng>] [TMWTW <Pr>]
+ LEV 08,35 1sg- xQt0  << WxY0  NQ      7111  115  8..        |        |                 [KJ <Cj>] [KN <Mo>] [YWJTJ <Pr>]
+                               =======                       |        +===========================================================================/
  LEV 08,36 3sgM WayX  << WayX  N       712   116  1.#       [W-<Cj>] [J<F <Pr>] [>HRN W-BNJW <Su>] [>T KL H-DBRJM <Ob>]
  LEV 08,36 3sgM xQtX [attrib.] N       712   117  2..           [>CR <Re>] [YWH <Pr>] [JHWH <Su>] [B-JD MCH <Aj>]

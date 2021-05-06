@@ -7,8 +7,8 @@
  IOB 08,03 3sgM WXYq  << XYqt  NQ      11      6  7..         |          |   |   |  [W-<Cj>] [>M <Cj>] [CDJ <Su>] [J<WT <Pr>] [YDQ <Ob>]
  IOB 08,04 3pl- XQtl  << XYqt  NQ      11      7  6..         |          |   |  [>M <Cj>] [BNJK <Su>] [XV>W <Pr>] [LW <Co>]
                                -------                        |          |   |       |+--------------------------------------------------------\
- IOB 08,04 3sgM Way0  << XQtl  NQN     11      8  8..         |          |   |        | [W-<Cj>] [JCLXM <PO>] [B-JD PC<M <Co>]
-                               -------                        |          |   |        +--------------------------------------------------------/
+ IOB 08,04 3sgM Way0  << XQtl  NQN     11      8  8..         |          |   |       || [W-<Cj>] [JCLXM <PO>] [B-JD PC<M <Co>]
+                               -------                        |          |   |       |+--------------------------------------------------------/
  IOB 08,05 2sgM XYqt  << XQtl  NQ      11      9  7..         |          |   |      [>M <Cj>] [>TH <Su>] [TCXR <Pr>] [>L >L <Co>]
  IOB 08,05 2sgM WxY0  << XYqt  NQ      11     10 10..         |          |   |           |   |  [W-<Cj>] [>L CDJ <Co>] [TTXNN <Pr>]
  IOB 08,06 -sgM AjCl  << XYqt  NQ      11     11  9..         |          |   |           |  [>M <Cj>] [ZK W-JCR <PC>] [>TH <Su>]
@@ -45,7 +45,7 @@
  IOB 08,18 3sgM WQt0  << xYq0  NQ      11     42 15..         |          |                                       |  [W-<Cj>] [KXC <Pr>] [BW <Co>]
                                =======                        |          |                                       |    +========================\
  IOB 08,18 1sg- xQt0  <<  [Q]  NQQ     111    43 16.q         |          |                                       |    | [L> <Ng>] [R>JTJK <PO>]
-                               =======                        |          |                                            +========================/
+                               =======                        |          |                                       |    +========================/
  IOB 08,19 ---- NmCl  << xYq0  NQ      11     44 14..         |          |                                      [HN <Ij>] [HW> <Su>] [MFWF DRKW <PC>]
  IOB 08,19 3plM WXYq  << NmCl  NQ      11     45 15..         |          |                                          [W-<Cj>] [M-<PR <Co>] [>XR <Su>] [JYMXW <Pr>]
  IOB 08,20 ---- MSyn  << XYqt  NQ      11     46  4m.         |         [HN <Ij>]

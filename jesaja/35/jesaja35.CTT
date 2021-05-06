@@ -9,14 +9,15 @@
  JES 35,03 2plM ZIm0  << ZYqX  D       2       9  0.#   [XZQW <Pr>] [JDJM RPWT <Ob>]
                                =======                       |   |+===============================================================================\
  JES 35,03 2plM WxI0  << ZIm0  DQ      2      10  3..        |   || [W-<Cj>] [BRKJM KCLWT <Ob>] [>MYW <Pr>]
- JES 35,04 2plM ZIm0  << ZIm0  DQ      2      11  2..        |  [>MRW <Pr>] [L-NMHRJ LB <Co>]
-                               =======                       |    +============================================================================\
- JES 35,04 2plM ZIm0  <<  [Q]  DQQ     21     12  3.q        |   || [XZQW <Pr>]
- JES 35,04 2plM xYq0  << ZIm0  DQQ     21     13  5..        |   ||      |  [>L <Ng>] [TJR>W <Pr>]
- JES 35,04 3sgM XYqt  << ZIm0  DQQ     21     14  4..        |   ||     [HNH <Ij>] [>LHJKM <Su>] [NQM <Aj>] [JBW> / GMWL >LHJM <pa><Pr>]
- JES 35,04 3sgM XYqt  << XYqt  DQQ     21     15  5..        |   ||         [HW> <Su>] [JBW> <Pr>]
- JES 35,04 3sgM WYq0  << XYqt  DQQ     21     16  6..        |   ||             [W-<Cj>] [JC<KM <PO>]
-                               =======                            +===============================================================================/
+                               =======                       |+===================================================================================\
+ JES 35,04 2plM ZIm0  << ZIm0  DQ      2      11  2..        || [>MRW <Pr>] [L-NMHRJ LB <Co>]
+                               =======                       ||   +============================================================================\
+ JES 35,04 2plM ZIm0  <<  [Q]  DQQ     21     12  3.q        ||   | [XZQW <Pr>]
+ JES 35,04 2plM xYq0  << ZIm0  DQQ     21     13  5..        ||   |      |  [>L <Ng>] [TJR>W <Pr>]
+ JES 35,04 3sgM XYqt  << ZIm0  DQQ     21     14  4..        ||   |     [HNH <Ij>] [>LHJKM <Su>] [NQM <Aj>] [JBW> / GMWL >LHJM <pa><Pr>]
+ JES 35,04 3sgM XYqt  << XYqt  DQQ     21     15  5..        ||   |         [HW> <Su>] [JBW> <Pr>]
+ JES 35,04 3sgM WYq0  << XYqt  DQQ     21     16  6..        ||   |             [W-<Cj>] [JC<KM <PO>]
+                               =======                       |+===================================================================================/
  JES 35,05 3plF xYqX  << ZIm0  D       2      17  1..       [>Z <Ti>] [TPQXNH <Pr>] [<JNJ <WRJM <Su>]
  JES 35,05 3plF WXYq  << xYqX  D       2      18  5..            |   |   |  [W-<Cj>] [>ZNJ XRCJM <Su>] [TPTXNH <Pr>]
  JES 35,06 3sgM xYqX  << xYqX  D       2      19  4..            |   |  [>Z <Ti>] [JDLG <Pr>] [K-->JL <Aj>] [PSX <Su>]

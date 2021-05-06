@@ -2,9 +2,9 @@
  MICH06,01 -sgM Ptcp [object ] Q       1       2  2..    |   |  [>T >CR <Re>] [JHWH <Su>] [>MR <PC>]
                                =======                   |+=======================================================================================\
  MICH06,01 2sgM ZIm0  <<  [Q]  QQ      11      3  1.q    || [QWM <Pr>]
- MICH06,01 2sgM ZIm0  << ZIm0  QQ      11      4  1..     | [RJB <Pr>] [>T H-HRJM <Co>]
- MICH06,01 3plF WYqX  << ZIm0  QQ      11      5  2..     |     [W-<Cj>] [TCM<NH <Pr>] [H-GB<WT <Su>] [QWLK <Ob>]
-                               =======                    +=======================================================================================/
+ MICH06,01 2sgM ZIm0  << ZIm0  QQ      11      4  1..    || [RJB <Pr>] [>T H-HRJM <Co>]
+ MICH06,01 3plF WYqX  << ZIm0  QQ      11      5  2..    ||     [W-<Cj>] [TCM<NH <Pr>] [H-GB<WT <Su>] [QWLK <Ob>]
+                               =======                   |+=======================================================================================/
  MICH06,02 2plM ZIm0  << ZIm0  Q       1       6  0..   [CM<W <Pr>]
  MICH06,02 ---- Voct  << ZIm0  Q       1       7  5ve    |   |   |   |   |  [HRJM <Vo>]
  MICH06,02 ---- Defc  << ZIm0  Q       1       8  4d.    |   |   |   |  [>T RJB JHWH <Ob>]
@@ -20,14 +20,14 @@
  MICH06,04 1sg- WxQ0  << xQt0  QQ      12     17  4..    ||  |       |  [W-<Cj>] [M-BJT <BDJM <Co>] [PDJTJK <PO>]
                                -------                   ||  |    +----------------------------------------------------------------------------\
  MICH06,04 1sg- Way0  << xQt0  QQN     12     18  3..    ||  |    | [W-<Cj>] [>CLX <Pr>] [L-PNJK <Co>] [>T MCH >HRN W-MRJM <Ob>]
-                               -------                   ||       +----------------------------------------------------------------------------/
- MICH06,05 ---- Voct  << Voct  QQ      12     19  1v.     | [<MJ <Vo>]
- MICH06,05 2sgM ZIm0 [ref.Voc] QQ      12     20  2..     |     [ZKR <Pr>] [N> <Ij>]
- MICH06,05 3sgM xQtX [object ] QQ      12     21  4..     |          |  [MH <Ob>] [J<Y <Pr>] [BLQ / MLK MW>B <ap><Su>]
- MICH06,05 3sgM WxQX [coordin] QQ      12     22  6..     |          |       |  [W-<Cj>] [MH <Ob>] [<NH <Pr>] [>TW <Ob>] [BL<M / BN B<WR <ap><Su>]
- MICH06,05 ---- NmCl [coordin] QQ      12     23  5..     |          |      [MN H-CVJM <Aj>] [<D H-GLGL <Aj>]
- MICH06,05 ---- InfC [adjunct] QQ      12     24  3..     |         [LM<N D<T <Pr>] [YDQWT JHWH <Ob>]
-                               =======                    +=======================================================================================/
+                               -------                   ||  |    +----------------------------------------------------------------------------/
+ MICH06,05 ---- Voct  << Voct  QQ      12     19  1v.    || [<MJ <Vo>]
+ MICH06,05 2sgM ZIm0 [ref.Voc] QQ      12     20  2..    ||     [ZKR <Pr>] [N> <Ij>]
+ MICH06,05 3sgM xQtX [object ] QQ      12     21  4..    ||          |  [MH <Ob>] [J<Y <Pr>] [BLQ / MLK MW>B <ap><Su>]
+ MICH06,05 3sgM WxQX [coordin] QQ      12     22  6..    ||          |       |  [W-<Cj>] [MH <Ob>] [<NH <Pr>] [>TW <Ob>] [BL<M / BN B<WR <ap><Su>]
+ MICH06,05 ---- NmCl [coordin] QQ      12     23  5..    ||          |      [MN H-CVJM <Aj>] [<D H-GLGL <Aj>]
+ MICH06,05 ---- InfC [adjunct] QQ      12     24  3..    ||         [LM<N D<T <Pr>] [YDQWT JHWH <Ob>]
+                               =======                   |+=======================================================================================/
  MICH06,06 1sg- xYq0  << ZIm0  Q       2      25  0.#   [B-MH <Co>] [>QDM <Pr>] [JHWH <Ob>]
  MICH06,06 1sg- ZYq0 [coordin] Q       2      26  4..    |   |   |   |  [>KP <Pr>] [L->LHJ MRWM <Co>]
  MICH06,06 1sg- xYq0  << xYq0  Q       2      27  3..    |   |   |  [H-<Qu>] [>QDMNW <PO>] [B-<WLWT / B-<GLJM / BNJ CNH <ap><sp><Aj>]
@@ -72,8 +72,8 @@
  MICH06,15 2sgM WxY0  << Ellp  QQ      41     65  7..     |      |                  [W-<Cj>] [L> <Ng>] [TCTH <Pr>] [JJN <Ob>]
  MICH06,16 3sgM WYq0  << ZIm0  QQ      41     66  2..     |     [W-<Cj>] [JCTMR <Pr>] [XQWT <MRJ W-KL M<FH BJT >X>B <Ob>]
                                -------                    |          |   |+--------------------------------------------------------------------\
- MICH06,16 2plM Way0  << WYq0  QQN     41     67  5..     |          |    | [W-<Cj>] [TLKW <Pr>] [B-M<YWTM <Co>]
-                               -------                    |          |    +--------------------------------------------------------------------/
+ MICH06,16 2plM Way0  << WYq0  QQN     41     67  5..     |          |   || [W-<Cj>] [TLKW <Pr>] [B-M<YWTM <Co>]
+                               -------                    |          |   |+--------------------------------------------------------------------/
  MICH06,16 ---- InfC [adjunct] QQ      41     68  4..     |          |  [LM<N TTJ <Ps>] [>TK <Ob>] [L-CMH <Co>]
  MICH06,16 ---- Ellp  << InfC  QQ      41     69  5l.     |          |      [W-<Cj>] [JCBJH <Ob>] [L-CRQH <Co>]
  MICH06,16 2plM WxY0  << WYq0  QQ      41     70  3..     |         [W-<Cj>] [XRPT <MJ <Ob>] [TF>W <Pr>]

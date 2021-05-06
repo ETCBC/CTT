@@ -2,8 +2,8 @@
                                =======                   |   |   |   |   |+=======================================================================\
  ICHR04,02 3sgM WXQt  << NmCl  ??      11      2  5.#    |   |   |   |   || [W-<Cj>] [R>JH / BN CWBL <ap><Su>] [HWLJD <Pr>] [>T JXT <Ob>]
                                =======                   |   |   |   |   ||   +================================================================\
- ICHR04,02 3sgM WXQt  << WXQt  ???     111     3  6.#    |   |   |   |   ||  || [W-<Cj>] [JXT <Su>] [HLJD <Pr>] [>T >XWMJ W->T LHD <Ob>]
-                               =======                   |   |   |   |    +=======================================================================/
+ ICHR04,02 3sgM WXQt  << WXQt  ???     111     3  6.#    |   |   |   |   ||   | [W-<Cj>] [JXT <Su>] [HLJD <Pr>] [>T >XWMJ W->T LHD <Ob>]
+                               =======                   |   |   |   |   |+=======================================================================/
  ICHR04,02 ---- NmCl  << NmCl  ?       1       4  4..    |   |   |   |  [>LH <Su>] [MCPXWT H-YR<TJ <PC>]
  ICHR04,03 ---- NmCl  << NmCl  ?       1       5  5..    |   |   |   |      [W-<Cj>] [>LH <Su>] [>BJ <JVM <PC>]
  ICHR04,03 ---- NmCl  << NmCl  ?       1       6  6..    |   |   |   |          [JZR<>L W-JCM> W-JDBC <Su>]
@@ -14,64 +14,64 @@
                                -------                   |   |       |+---------------------------------------------------------------------------\
  ICHR04,06 3sgF WayX  << WxQX  ?N      12     11  4.#    |   |       || [W-<Cj>] [TLD <Pr>] [LW <Co>] [N<RH <Su>] [>T >XZM W->T XPR W->T TJMNJ W->T H->XCTRJ <Ob>]
  ICHR04,06 ---- NmCl  << WayX  ?N      12     12  5..    |   |       ||     [>LH <Su>] [BNJ N<RH <PC>]
-                               -------                   |   |        +---------------------------------------------------------------------------/
+                               -------                   |   |       |+---------------------------------------------------------------------------/
  ICHR04,07 ---- NmCl  << WxQX  ?       1      13  3..    |   |      [W-<Cj>] [BNJ XL>H <Su>] [YRT J-YXR W->TNN <PC>]
                                =======                   |+=======================================================================================\
- ICHR04,08 3sgM WXQt  << NmCl  ??      13     14  1.#     | [W-<Cj>] [QWY <Su>] [HWLJD <Pr>] [>T <NWB W->T HYBBH W-MCPXWT >XRXL / BN HRWM <ap><Ob>]
+ ICHR04,08 3sgM WXQt  << NmCl  ??      13     14  1.#    || [W-<Cj>] [QWY <Su>] [HWLJD <Pr>] [>T <NWB W->T HYBBH W-MCPXWT >XRXL / BN HRWM <ap><Ob>]
+                               -------                   ||      |   |+---------------------------------------------------------------------------\
+ ICHR04,09 3sgM MSyn  << WXQt  ?N      13     15  4m.    ||      |   || [W-<Cj>] [JHJ <Pr>]
+ ICHR04,09 -sgM Ptcp  << MSyn  ?N      13     16  5..    ||      |   ||     [J<BY <Su>] [NKBD <PC>] [M->XJW <Aj>]
+ ICHR04,09 3sgF WXQt  << Ptcp  ?N      131    17  7.#    ||      |   ||          |  [W-<Cj>] [>MW <Su>] [QR>H <Pr>] [CMW <Ob>] [J<BY <Ob>]
+ ICHR04,09 ---- InfC [adjunct] ?N      131    18  8..    ||      |   ||          |      [L->MR <Pr>]
+                               =======                   ||      |   ||          |        +====================================================\
+ ICHR04,09 1sg- xQt0 [object ] ?NQ     1311   19  9.q    ||      |   ||          |        | [KJ <Cj>] [JLDTJ <Pr>] [B-<YB <Aj>]
+                               =======                   ||      |   ||          |        +====================================================/
+ ICHR04,10 3sgM WayX  << Ptcp  ?N      132    20  6.#    ||      |   ||         [W-<Cj>] [JQR> <Pr>] [J<BY <Su>] [L->LHJ JFR>L <Co>]
+ ICHR04,10 ---- InfC [adjunct] ?N      132    21  8..    ||      |   ||              |  [L->MR <Pr>]
+                               =======                   ||      |   ||              |    +====================================================\
+ ICHR04,10 2sgM xYq0 [object ] ?NQ     1321   22  9.q    ||      |   ||              |    | [>M <Cj>] [BRK <Mo>] [TBRKNJ <PO>]
+ ICHR04,10 2sgM WQt0  << xYq0  ?NQ     1321   23 10..    ||      |   ||              |    |     [W-<Cj>] [HRBJT <Pr>] [>T GBWLJ <Ob>]
+ ICHR04,10 3sgF WQtX  << WQt0  ?NQ     1321   24 11..    ||      |   ||              |    |         [W-<Cj>] [HJTH <Pr>] [JDK <Su>] [<MJ <Co>]
+ ICHR04,10 2sgM WQt0  << WQtX  ?NQ     1321   25 12..    ||      |   ||              |    |             [W-<Cj>] [<FJT <Pr>] [M-R<H <Co>]
+ ICHR04,10 ---- InfC [adjunct] ?NQ     1321   26 13..    ||      |   ||              |    |                 [L-BLTJ <YBJ <PO>]
+                               =======                   ||      |   ||              |    +====================================================/
+ ICHR04,10 3sgM WayX  << WayX  ?N      1322   27  7.#    ||      |   ||             [W-<Cj>] [JB> <Pr>] [>LHJM <Su>]
+ ICHR04,10 3sgM xQt0 [object ] ?N      1322   28  8..    ||      |   ||                 [>T >CR <Re>] [C>L <Pr>]
+                               =======                   ||      |+============================================================================\
+ ICHR04,11 3sgM WXQt  << WXQt  ???     133    29  3.#    ||      || [W-<Cj>] [KLWB / >XJ CWXH <ap><Su>] [HWLJD <Pr>] [>T MXJR <Ob>]
+ ICHR04,11 ---- NmCl  << WXQt  ???     133    30  6..    ||      ||  |   |   |  [HW> <Su>] [>BJ >CTWN <PC>]
+                               =======                   ||      ||  |   |+=================================================================\
+ ICHR04,12 3sgM WXQt  << WXQt  ????    1331   31  5.#    ||      ||  |   || [W-<Cj>] [>CTWN <Su>] [HWLJD <Pr>] [>T BJT RP> W->T PSX W->T TXNH / >BJ <JR_NXC <ap><Ob>]
+                               =======                   ||      ||  |   |+=================================================================/
+ ICHR04,12 ---- NmCl  << WXQt  ???     133    32  4..    ||      ||  |  [>LH <Su>] [>NCJ RKH <PC>]
+ ICHR04,13 ---- NmCl  << NmCl  ???     133    33  5..    ||      ||  |      [W-<Cj>] [BNJ QNZ <Su>] [<TNJ>L W-FRJH <PC>]
+ ICHR04,13 ---- NmCl  << NmCl  ???     133    34  6..    ||      ||  |          [W-<Cj>] [BNJ <TNJ>L <Su>] [XTT <PC>]
+ ICHR04,14 3sgM WXQt  << WXQt  ???     134    35  3.#    ||      || [W-<Cj>] [M<WNTJ <Su>] [HWLJD <Pr>] [>T <PRH <Ob>]
+ ICHR04,14 3sgM WXQt  << WXQt  ???     135    36  3.#    ||      || [W-<Cj>] [FRJH <Su>] [HWLJD <Pr>] [>T JW>B / >BJ GJ> XRCJM <ap><Ob>]
+ ICHR04,14 3pl- xQt0  << WXQt  ???     135    37  4..    ||      ||     [KJ <Cj>] [XRCJM <PC>] [HJW <Pr>]
+                               =======                   ||      |+============================================================================/
+ ICHR04,15 ---- NmCl  << WXQt  ??      13     38  2..    ||     [W-<Cj>] [BNJ KLB / BN JPNH <ap><Su>] [<JRW >LH W-N<M <PC>]
+ ICHR04,15 ---- NmCl  << NmCl  ??      13     39  5..    ||          |   |  [W-<Cj>] [BNJ >LH <Su>]
+ ICHR04,15 ---- NmCl  << NmCl  ??      13     40  6..    ||          |   |      [W-<Cj>] [QNZ <PC>]
+ ICHR04,16 ---- NmCl  << NmCl  ??      13     41  4..    ||          |  [W-<Cj>] [BNJ JHLL>L <Su>] [ZJP W-ZJPH TJRJ> W->FR>L <PC>]
+ ICHR04,17 ---- NmCl  << NmCl  ??      13     42  4..    ||          |  [W-<Cj>] [BN <ZRH <Su>] [JTR W-MRD W-<PR W-JLWN <PC>]
+                               -------                   ||          |   |   |   |   |+-----------------------------------------------------------\
+ ICHR04,17 3sgF Way0  << NmCl  ?N      13     43  8..    ||          |   |   |   |   || [W-<Cj>] [THR <Pr>] [>T MRJM W->T CMJ W->T JCBX / >BJ >CTM< <ap><Ob>]
+                               =======                   ||          |   |   |   |+============================================================\
+ ICHR04,18 3sgF WXQt  << NmCl  ???     136    44  7.#    ||          |   |   |   || [W-<Cj>] [>CTW H-JHDJH <Su>] [JLDH <Pr>] [>T JRD / >BJ GDWR / W-/ >T XBR / >BJ FWKW / W-/ >T JQWTJ>L / >BJ ZNWX <ap><pa><cj><ap><pa><cj><ap><Ob>]
+                               =======                   ||          |   |   |   |+============================================================/
+ ICHR04,18 ---- NmCl  << NmCl  ??      13     45  6..    ||          |   |   |  [W-<Cj>] [>LH <Su>] [BNJ BTJH / BT PR<H <ap><PC>]
+ ICHR04,18 3sgM xQtX [attrib.] ??      13     46  7..    ||          |   |   |      [>CR <Re>] [LQX <Pr>] [MRD <Su>]
+ ICHR04,19 ---- NmCl  << NmCl  ??      13     47  5..    ||          |   |  [W-<Cj>] [BNJ >CT HWDJH / >XWT NXM <ap><Su>] [>BJ Q<JLH / H-GRMJ / W-/ >CTM< / H-M<KTJ <ap><pa><cj><ap><PC>]
+ ICHR04,20 ---- NmCl  << NmCl  ??      13     48  4..    ||          |  [W-<Cj>] [BNJ CJMWN <Su>] [>MNWN W-RNH BN_XNN W-TWLWN <PC>]
+ ICHR04,20 ---- NmCl  << NmCl  ??      13     49  4..    ||          |  [W-<Cj>] [BNJ JC<J <Su>] [ZWXT W-BN_ZWXT <PC>]
+ ICHR04,21 ---- NmCl  << NmCl  ??      13     50  3..    ||         [BNJ CLH / BN JHWDH <ap><Su>] [<R / >BJ LKH / W-/ L<DH / >BJ MRCH / W-/ MCPXWT BJT <BDT H-BY / L-BJT >CB< <sp><pa><cj><ap><pa><cj><ap><PC>]
+ ICHR04,22 ---- NmCl  << NmCl  ??      13     51  5..    ||              |  [W-<Cj>] [JWQJM W->NCJ KZB> W-JW>C W-FRP <PC>]
+ ICHR04,22 3pl- xQt0 [attrib.] ??      13     52  6..    ||              |      [>CR <Re>] [B<LW <Pr>] [L-MW>B W-JCBJ_LXM <Co>]
+ ICHR04,22 -plM AjCl  << NmCl  ??      13     53  4..    ||             [W-<Cj>] [H-DBRJM <Su>] [<TJQJM <PC>]
+ ICHR04,23 ---- NmCl  << AjCl  ??      13     54  5..    ||                 [HMH <Su>] [H-JWYRJM / W-/ JCBJ NV<JM W-GDRH <pa><cj><PC>]
+ ICHR04,23 3pl- xQt0  << NmCl  ??      13     55  6..    ||                     [<M H-MLK <Co>] [B-ML>KTW <Aj>] [JCBW <Pr>] [CM <Co>]
                                =======                   |+=======================================================================================/
- ICHR04,09 3sgM MSyn  << WXQt  ?N      13     15  4m.     |      |   |  [W-<Cj>] [JHJ <Pr>]
- ICHR04,09 -sgM Ptcp  << MSyn  ?N      13     16  5..     |      |   |      [J<BY <Su>] [NKBD <PC>] [M->XJW <Aj>]
- ICHR04,09 3sgF WXQt  << Ptcp  ?N      131    17  7.#     |      |   |           |  [W-<Cj>] [>MW <Su>] [QR>H <Pr>] [CMW <Ob>] [J<BY <Ob>]
- ICHR04,09 ---- InfC [adjunct] ?N      131    18  8..     |      |   |           |      [L->MR <Pr>]
-                               =======                   ||      |   |           |        +====================================================\
- ICHR04,09 1sg- xQt0 [object ] ?NQ     1311   19  9.q     |      |   |           |       || [KJ <Cj>] [JLDTJ <Pr>] [B-<YB <Aj>]
-                               =======                   ||      |   |                    +====================================================/
- ICHR04,10 3sgM WayX  << Ptcp  ?N      132    20  6.#     |      |   |          [W-<Cj>] [JQR> <Pr>] [J<BY <Su>] [L->LHJ JFR>L <Co>]
- ICHR04,10 ---- InfC [adjunct] ?N      132    21  8..     |      |   |               |  [L->MR <Pr>]
-                               =======                   ||      |   |               |    +====================================================\
- ICHR04,10 2sgM xYq0 [object ] ?NQ     1321   22  9.q     |      |   |               |   || [>M <Cj>] [BRK <Mo>] [TBRKNJ <PO>]
- ICHR04,10 2sgM WQt0  << xYq0  ?NQ     1321   23 10..     |      |   |               |   ||     [W-<Cj>] [HRBJT <Pr>] [>T GBWLJ <Ob>]
- ICHR04,10 3sgF WQtX  << WQt0  ?NQ     1321   24 11..     |      |   |               |   ||         [W-<Cj>] [HJTH <Pr>] [JDK <Su>] [<MJ <Co>]
- ICHR04,10 2sgM WQt0  << WQtX  ?NQ     1321   25 12..     |      |   |               |   ||             [W-<Cj>] [<FJT <Pr>] [M-R<H <Co>]
- ICHR04,10 ---- InfC [adjunct] ?NQ     1321   26 13..     |      |   |               |   ||                 [L-BLTJ <YBJ <PO>]
-                               =======                   ||      |   |                    +====================================================/
- ICHR04,10 3sgM WayX  << WayX  ?N      1322   27  7.#     |      |   |              [W-<Cj>] [JB> <Pr>] [>LHJM <Su>]
- ICHR04,10 3sgM xQt0 [object ] ?N      1322   28  8..     |      |   |                  [>T >CR <Re>] [C>L <Pr>]
-                               =======                   |+=======================================================================================/
- ICHR04,11 3sgM WXQt  << WXQt  ???     133    29  3.#     |      |  [W-<Cj>] [KLWB / >XJ CWXH <ap><Su>] [HWLJD <Pr>] [>T MXJR <Ob>]
- ICHR04,11 ---- NmCl  << WXQt  ???     133    30  6..     |      |   |   |   |  [HW> <Su>] [>BJ >CTWN <PC>]
-                               =======                   ||      |   |   | =================================================================\
- ICHR04,12 3sgM WXQt  << WXQt  ????    1331   31  5.#     |      |   |   |  [W-<Cj>] [>CTWN <Su>] [HWLJD <Pr>] [>T BJT RP> W->T PSX W->T TXNH / >BJ <JR_NXC <ap><Ob>]
-                               =======                   ||      |   |     =================================================================/
- ICHR04,12 ---- NmCl  << WXQt  ???     133    32  4..     |      |   |  [>LH <Su>] [>NCJ RKH <PC>]
- ICHR04,13 ---- NmCl  << NmCl  ???     133    33  5..     |      |   |      [W-<Cj>] [BNJ QNZ <Su>] [<TNJ>L W-FRJH <PC>]
- ICHR04,13 ---- NmCl  << NmCl  ???     133    34  6..     |      |   |          [W-<Cj>] [BNJ <TNJ>L <Su>] [XTT <PC>]
- ICHR04,14 3sgM WXQt  << WXQt  ???     134    35  3.#     |      |  [W-<Cj>] [M<WNTJ <Su>] [HWLJD <Pr>] [>T <PRH <Ob>]
- ICHR04,14 3sgM WXQt  << WXQt  ???     135    36  3.#     |      |  [W-<Cj>] [FRJH <Su>] [HWLJD <Pr>] [>T JW>B / >BJ GJ> XRCJM <ap><Ob>]
- ICHR04,14 3pl- xQt0  << WXQt  ???     135    37  4..     |      |      [KJ <Cj>] [XRCJM <PC>] [HJW <Pr>]
-                               =======                 ========================================================================================/
- ICHR04,15 ---- NmCl  << WXQt  ??      13     38  2..     |     [W-<Cj>] [BNJ KLB / BN JPNH <ap><Su>] [<JRW >LH W-N<M <PC>]
- ICHR04,15 ---- NmCl  << NmCl  ??      13     39  5..     |          |   |  [W-<Cj>] [BNJ >LH <Su>]
- ICHR04,15 ---- NmCl  << NmCl  ??      13     40  6..     |          |   |      [W-<Cj>] [QNZ <PC>]
- ICHR04,16 ---- NmCl  << NmCl  ??      13     41  4..     |          |  [W-<Cj>] [BNJ JHLL>L <Su>] [ZJP W-ZJPH TJRJ> W->FR>L <PC>]
- ICHR04,17 ---- NmCl  << NmCl  ??      13     42  4..     |          |  [W-<Cj>] [BN <ZRH <Su>] [JTR W-MRD W-<PR W-JLWN <PC>]
-                               =======                   |+=======================================================================================/
- ICHR04,17 3sgF Way0  << NmCl  ?N      13     43  8..     |          |   |   |   |   |  [W-<Cj>] [THR <Pr>] [>T MRJM W->T CMJ W->T JCBX / >BJ >CTM< <ap><Ob>]
-                               =======                   |+=======================================================================================/
- ICHR04,18 3sgF WXQt  << NmCl  ???     136    44  7.#     |          |   |   |   |  [W-<Cj>] [>CTW H-JHDJH <Su>] [JLDH <Pr>] [>T JRD / >BJ GDWR / W-/ >T XBR / >BJ FWKW / W-/ >T JQWTJ>L / >BJ ZNWX <ap><pa><cj><ap><pa><cj><ap><Ob>]
-                               =======                 ========================================================================================/
- ICHR04,18 ---- NmCl  << NmCl  ??      13     45  6..     |          |   |   |  [W-<Cj>] [>LH <Su>] [BNJ BTJH / BT PR<H <ap><PC>]
- ICHR04,18 3sgM xQtX [attrib.] ??      13     46  7..     |          |   |   |      [>CR <Re>] [LQX <Pr>] [MRD <Su>]
- ICHR04,19 ---- NmCl  << NmCl  ??      13     47  5..     |          |   |  [W-<Cj>] [BNJ >CT HWDJH / >XWT NXM <ap><Su>] [>BJ Q<JLH / H-GRMJ / W-/ >CTM< / H-M<KTJ <ap><pa><cj><ap><PC>]
- ICHR04,20 ---- NmCl  << NmCl  ??      13     48  4..     |          |  [W-<Cj>] [BNJ CJMWN <Su>] [>MNWN W-RNH BN_XNN W-TWLWN <PC>]
- ICHR04,20 ---- NmCl  << NmCl  ??      13     49  4..     |          |  [W-<Cj>] [BNJ JC<J <Su>] [ZWXT W-BN_ZWXT <PC>]
- ICHR04,21 ---- NmCl  << NmCl  ??      13     50  3..     |         [BNJ CLH / BN JHWDH <ap><Su>] [<R / >BJ LKH / W-/ L<DH / >BJ MRCH / W-/ MCPXWT BJT <BDT H-BY / L-BJT >CB< <sp><pa><cj><ap><pa><cj><ap><PC>]
- ICHR04,22 ---- NmCl  << NmCl  ??      13     51  5..     |              |  [W-<Cj>] [JWQJM W->NCJ KZB> W-JW>C W-FRP <PC>]
- ICHR04,22 3pl- xQt0 [attrib.] ??      13     52  6..     |              |      [>CR <Re>] [B<LW <Pr>] [L-MW>B W-JCBJ_LXM <Co>]
- ICHR04,22 -plM AjCl  << NmCl  ??      13     53  4..     |             [W-<Cj>] [H-DBRJM <Su>] [<TJQJM <PC>]
- ICHR04,23 ---- NmCl  << AjCl  ??      13     54  5..     |                 [HMH <Su>] [H-JWYRJM / W-/ JCBJ NV<JM W-GDRH <pa><cj><PC>]
- ICHR04,23 3pl- xQt0  << NmCl  ??      13     55  6..     |                     [<M H-MLK <Co>] [B-ML>KTW <Aj>] [JCBW <Pr>] [CM <Co>]
-                               =======                    +=======================================================================================/
  ICHR04,24 ---- NmCl  << NmCl  ?       1      56  0..   [BNJ CM<WN <Su>] [NMW>L W-JMJN JRJB ZRX C>WL <PC>]
  ICHR04,25 ---- NmCl  << NmCl  ?       1      57  4..        |   |   |  [CLM / BNW / MBFM / BNW / MCM< / BNW <ap><pa><ap><pa><ap><PC>]
  ICHR04,26 ---- NmCl  << NmCl  ?       1      58  5..        |   |   |      [W-<Cj>] [BNJ MCM< <Su>] [XMW>L / BNW / ZKWR / BNW / CM<J / BNW <ap><pa><ap><pa><ap><PC>]
@@ -79,19 +79,19 @@
  ICHR04,27 ---- NmCl  << NmCl  ?       1      60  7..        |   |   |              [W-<Cj>] [L->XJW <PC>] [>JN <NC>] [BNJM RBJM <Su>]
                                =======                       |   |+===============================================================================\
  ICHR04,27 3pl- WXQt  << NmCl  ??      14     61  3.#        |   || [W-<Cj>] [KL MCPXTM <Su>] [L> <Ng>] [HRBW <Pr>] [<D BNJ JHWDH <Co>]
+                               -------                       |   ||   +---------------------------------------------------------------------------\
+ ICHR04,28 3plM Way0  << WXQt  ?N      14     62  4..        |   ||   | [W-<Cj>] [JCBW <Pr>] [B-B>R CB< W-MWLDH W-XYR_CW<L <Co>]
+ ICHR04,29 ---- Ellp  << Way0  ?N      14     63  6l.        |   ||   |      |  [W-<Cj>] [B-BLHH W-B-<YM W-B-TWLD <Co>]
+ ICHR04,30 ---- Ellp  << Ellp  ?N      14     64  6l.        |   ||   |      |  [W-<Cj>] [B-BTW>L W-B-XRMH W-B-YJQLG <Co>]
+ ICHR04,31 ---- Ellp  << Ellp  ?N      14     65  6l.        |   ||   |      |  [W-<Cj>] [B-BJT_MRKBWT W-B-XYR_SWSJM W-B-BJT_BR>J W-B-C<RJM <Co>]
+ ICHR04,31 ---- NmCl  << Way0  ?N      14     66  5..        |   ||   |     [>LH <Su>] [<RJHM <PC>]
+ ICHR04,31 ---- InfC [adjunct] ?N      14     67  8..        |   ||   |          |   |  [<D MLK <Pr>] [DWJD <Su>]
+ ICHR04,32 ---- NmCl  << NmCl  ?N      14     68  7..        |   ||   |          |  [W-<Cj>] [XYRJHM <Su>] [<JVM W-<JN_RMWN W-TKN W-<CN <PC>] [<RJM XMC <Aj>]
+ ICHR04,33 ---- NmCl  << NmCl  ?N      14     69  8..        |   ||   |          |      [W-<Cj>] [KL XYRJHM <PC>]
+ ICHR04,33 ---- NmCl [attrib.] ?N      14     70  9..        |   ||   |          |          [>CR <Re>] [SBJBWT H-<RJM H->LH <PC>] [<D B<L <Aj>]
+ ICHR04,33 ---- NmCl  << NmCl  ?N      14     71  6..        |   ||   |         [Z>T <Su>] [MWCBTM <PC>]
+ ICHR04,33 ---- InfC  << NmCl  ?N      14     72  7..        |   ||   |             [W-<Cj>] [HTJXFM <PO>] [LHM <Co>]
                                =======                       |   |+===============================================================================/
- ICHR04,28 3plM Way0  << WXQt  ?N      14     62  4..        |   ||     [W-<Cj>] [JCBW <Pr>] [B-B>R CB< W-MWLDH W-XYR_CW<L <Co>]
- ICHR04,29 ---- Ellp  << Way0  ?N      14     63  6l.        |   ||          |  [W-<Cj>] [B-BLHH W-B-<YM W-B-TWLD <Co>]
- ICHR04,30 ---- Ellp  << Ellp  ?N      14     64  6l.        |   ||          |  [W-<Cj>] [B-BTW>L W-B-XRMH W-B-YJQLG <Co>]
- ICHR04,31 ---- Ellp  << Ellp  ?N      14     65  6l.        |   ||          |  [W-<Cj>] [B-BJT_MRKBWT W-B-XYR_SWSJM W-B-BJT_BR>J W-B-C<RJM <Co>]
- ICHR04,31 ---- NmCl  << Way0  ?N      14     66  5..        |   ||         [>LH <Su>] [<RJHM <PC>]
- ICHR04,31 ---- InfC [adjunct] ?N      14     67  8..        |   ||              |   |  [<D MLK <Pr>] [DWJD <Su>]
- ICHR04,32 ---- NmCl  << NmCl  ?N      14     68  7..        |   ||              |  [W-<Cj>] [XYRJHM <Su>] [<JVM W-<JN_RMWN W-TKN W-<CN <PC>] [<RJM XMC <Aj>]
- ICHR04,33 ---- NmCl  << NmCl  ?N      14     69  8..        |   ||              |      [W-<Cj>] [KL XYRJHM <PC>]
- ICHR04,33 ---- NmCl [attrib.] ?N      14     70  9..        |   ||              |          [>CR <Re>] [SBJBWT H-<RJM H->LH <PC>] [<D B<L <Aj>]
- ICHR04,33 ---- NmCl  << NmCl  ?N      14     71  6..        |   ||             [Z>T <Su>] [MWCBTM <PC>]
- ICHR04,33 ---- InfC  << NmCl  ?N      14     72  7..        |   ||                 [W-<Cj>] [HTJXFM <PO>] [LHM <Co>]
-                               -------                       |   |+-------------------------------------------------------------------------------/
  ICHR04,34 ---- NmCl  << NmCl  ?       1      73  2..        |  [W-<Cj>] [MCWBB W-JMLK W-JWCH / BN >MYJH <ap><PC>]
  ICHR04,35 ---- NmCl  << NmCl  ?       1      74  2..        |  [W-<Cj>] [JW>L W-JHW> / BN JWCBJH / BN FRJH / BN <FJ>L <ap><ap><ap><PC>]
  ICHR04,36 ---- NmCl  << NmCl  ?       1      75  2..        |  [W-<Cj>] [>LJW<JNJ W-J<QBH W-JCWXJH W-<FJH W-<DJ>L W-JFJM>L W-BNJH <PC>]
@@ -101,24 +101,24 @@
  ICHR04,38 ---- NmCl  << Defc  ?       1      79  6..        |           |   |  [NFJ>JM <PC>] [B-MCPXWTM <Co>]
                                =======                       |           |+=======================================================================\
  ICHR04,38 3pl- WXQt  << Defc  ??      15     80  5.#        |           || [W-<Cj>] [BJT >BWTJHM <Su>] [PRYW <Pr>] [L-RWB <Aj>]
-                               =======                 ==============================================================================================/
- ICHR04,39 3plM Way0  << Defc  N       1      81  4..        |          [W-<Cj>] [JLKW <Pr>] [L-MBW> GDR <Co>] [<D L-MZRX H-GJ> <Aj>]
- ICHR04,39 ---- InfC [adjunct] N       1      82  6..        |           ||  |  [L-BQC <Pr>] [MR<H <Ob>] [L-Y>NM <Co>]
- ICHR04,40 3plM Way0  << Way0  N       1      83  5..        |           || [W-<Cj>] [JMY>W <Pr>] [MR<H CMN W-VWB <Ob>]
- ICHR04,40 -sgF AjCl  << Way0  N       1      84  7..        |           ||      |  [W-<Cj>] [H->RY <Su>] [RXBT JDJM W-CQVT W-CLWH <PC>]
- ICHR04,40 ---- NmCl  << AjCl  N       1      85  8..        |           ||      |      [KJ <Cj>] [MN XM <Su>]
- ICHR04,40 -plM Ptcp [predic.] N       1      86  9..        |           ||      |          [H-<Re>] [JCBJM <PC>] [CM <Co>] [L-PNJM <Aj>]
- ICHR04,41 3plM WayX  << Way0  N       16     87  6.#        |           ||     [W-<Cj>] [JB>W <Pr>] [>LH <Su>]
- ICHR04,41 -plM Ptcp [attrib.] N       16     88  9..        |           ||          |   |  [H-<Re>] [KTWBJM <PC>] [B-CMWT <Co>]
- ICHR04,41 ---- Ellp  << WayX  N       16     89  8l.        |           ||          |  [B-JMJ JXZQJHW / MLK JHWDH <ap><Ti>]
- ICHR04,41 3plM Way0  << WayX  N       16     90  7..        |           ||         [W-<Cj>] [JKW <Pr>] [>T >HLJHM W->T H-M<JNJM <Ob>]
- ICHR04,41 3pl- xQt0 [attrib.] N       16     91  9..        |           ||              |  [>CR <Re>] [NMY>W <Pr>] [CMH <Co>]
- ICHR04,41 3plM Way0  << Way0  N       16     92  8..        |           ||             [W-<Cj>] [JXRJMM <PO>] [<D H-JWM H-ZH <Ti>]
- ICHR04,41 3plM Way0  << Way0  N       16     93  9..        |           ||                 [W-<Cj>] [JCBW <Pr>] [TXTJHM <Aj>]
- ICHR04,41 ---- NmCl  << Way0  N       16     94 10..        |           ||                     [KJ <Cj>] [MR<H / L-Y>NM <sp><Su>] [CM <PC>]
-                               =======                 ==============================================================================================/
- ICHR04,42 3pl- WXQt  << NmCl  ??      17     95  1.#       [W-<Cj>] [MHM / MN BNJ CM<WN <ap><Su>] [HLKW <Pr>] [L-HR F<JR <Co>] [>NCJM XMC M>WT <Aj>]
- ICHR04,42 ---- NmCl  << WXQt  ??      17     96  3..            |  [W-<Cj>] [PLVJH W-N<RJH W-RPJH W-<ZJ>L / BNJ JC<J <ap><Su>] [B-R>CM <PC>]
-                               =======                                    +=======================================================================/
- ICHR04,43 3plM Way0  << WXQt  ?N      17     97  2..           [W-<Cj>] [JKW <Pr>] [>T C>RJT H-PLVH / L-<MLQ <sp><Ob>]
- ICHR04,43 3plM Way0  << Way0  ?N      17     98  3..               [W-<Cj>] [JCBW <Pr>] [CM <Co>] [<D H-JWM H-ZH <Ti>]
+                               -------                       |        +------------------------------------------------------------------------------\
+ ICHR04,39 3plM Way0  << Defc  N       1      81  4..        |        | [W-<Cj>] [JLKW <Pr>] [L-MBW> GDR <Co>] [<D L-MZRX H-GJ> <Aj>]
+ ICHR04,39 ---- InfC [adjunct] N       1      82  6..        |        |      |  [L-BQC <Pr>] [MR<H <Ob>] [L-Y>NM <Co>]
+ ICHR04,40 3plM Way0  << Way0  N       1      83  5..        |        |     [W-<Cj>] [JMY>W <Pr>] [MR<H CMN W-VWB <Ob>]
+ ICHR04,40 -sgF AjCl  << Way0  N       1      84  7..        |        |          |  [W-<Cj>] [H->RY <Su>] [RXBT JDJM W-CQVT W-CLWH <PC>]
+ ICHR04,40 ---- NmCl  << AjCl  N       1      85  8..        |        |          |      [KJ <Cj>] [MN XM <Su>]
+ ICHR04,40 -plM Ptcp [predic.] N       1      86  9..        |        |          |          [H-<Re>] [JCBJM <PC>] [CM <Co>] [L-PNJM <Aj>]
+ ICHR04,41 3plM WayX  << Way0  N       16     87  6.#        |        |         [W-<Cj>] [JB>W <Pr>] [>LH <Su>]
+ ICHR04,41 -plM Ptcp [attrib.] N       16     88  9..        |        |              |   |  [H-<Re>] [KTWBJM <PC>] [B-CMWT <Co>]
+ ICHR04,41 ---- Ellp  << WayX  N       16     89  8l.        |        |              |  [B-JMJ JXZQJHW / MLK JHWDH <ap><Ti>]
+ ICHR04,41 3plM Way0  << WayX  N       16     90  7..        |        |             [W-<Cj>] [JKW <Pr>] [>T >HLJHM W->T H-M<JNJM <Ob>]
+ ICHR04,41 3pl- xQt0 [attrib.] N       16     91  9..        |        |                  |  [>CR <Re>] [NMY>W <Pr>] [CMH <Co>]
+ ICHR04,41 3plM Way0  << Way0  N       16     92  8..        |        |                 [W-<Cj>] [JXRJMM <PO>] [<D H-JWM H-ZH <Ti>]
+ ICHR04,41 3plM Way0  << Way0  N       16     93  9..        |        |                     [W-<Cj>] [JCBW <Pr>] [TXTJHM <Aj>]
+ ICHR04,41 ---- NmCl  << Way0  N       16     94 10..        |        |                         [KJ <Cj>] [MR<H / L-Y>NM <sp><Su>] [CM <PC>]
+                               =======                    +=======================================================================================\
+ ICHR04,42 3pl- WXQt  << NmCl  ??      17     95  1.#     | [W-<Cj>] [MHM / MN BNJ CM<WN <ap><Su>] [HLKW <Pr>] [L-HR F<JR <Co>] [>NCJM XMC M>WT <Aj>]
+ ICHR04,42 ---- NmCl  << WXQt  ??      17     96  3..     |      |  [W-<Cj>] [PLVJH W-N<RJH W-RPJH W-<ZJ>L / BNJ JC<J <ap><Su>] [B-R>CM <PC>]
+                               -------                    |   +-----------------------------------------------------------------------------------\
+ ICHR04,43 3plM Way0  << WXQt  ?N      17     97  2..     |   | [W-<Cj>] [JKW <Pr>] [>T C>RJT H-PLVH / L-<MLQ <sp><Ob>]
+ ICHR04,43 3plM Way0  << Way0  ?N      17     98  3..     |   |     [W-<Cj>] [JCBW <Pr>] [CM <Co>] [<D H-JWM H-ZH <Ti>]

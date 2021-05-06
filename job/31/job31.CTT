@@ -8,8 +8,8 @@
  IOB 31,04 3sgM WxY0 [coordin] Q       1       8  4..    |           |  [W-<Cj>] [KL Y<DJ <Ob>] [JSPWR <Pr>]
  IOB 31,05 1sg- xQt0  << XYqt  Q       1       9  3..    |          [>M <Cj>] [HLKTJ <Pr>] [<M CW> <Co>]
                                -------                   |               |   |+-------------------------------------------------------------------\
- IOB 31,05 3sgF WayX [coordin] QN      11     10  6.#    |               |    | [W-<Cj>] [TXC <Pr>] [<L MRMH <Co>] [RGLJ <Su>]
-                               -------                   |               |    +-------------------------------------------------------------------/
+ IOB 31,05 3sgF WayX [coordin] QN      11     10  6.#    |               |   || [W-<Cj>] [TXC <Pr>] [<L MRMH <Co>] [RGLJ <Su>]
+                               -------                   |               |   |+-------------------------------------------------------------------/
  IOB 31,06 3sgM ZYq0  << xQt0  Q       1      11  5..    |               |  [JCQLNJ <PO>] [B-M>ZNJ YDQ <Aj>]
  IOB 31,06 3sgM WYqX [coordin] Q       1      12  6..    |               |      [W-<Cj>] [JD< <Pr>] [>LWH <Su>] [TMTJ <Ob>]
  IOB 31,07 3sgF xYqX  << xQt0  Q       1      13  4..    |              [>M <Cj>] [TVH <Pr>] [>CRJ <Su>] [MNJ H-DRK <Co>]
@@ -35,7 +35,7 @@
  IOB 31,15 3sgM XQtl  << xYq0  Q       1      33  8..    |                           |  [H-<Qu>] [L> <Ng>] [B--BVN <Co>] [<FNJ <Su>] [<FHW <PO>]
                                -------                   |                           |    +-------------------------------------------------------\
  IOB 31,15 3sgM WayX [coordin] QN      1      34  9..    |                           |    | [W-<Cj>] [JKNNW <PO>] [B--RXM <Aj>] [>XD <Su>]
-                               -------                   |                                +-------------------------------------------------------/
+                               -------                   |                           |    +-------------------------------------------------------/
  IOB 31,16 1sg- xYq0  << xYq0  Q       1      35  7..    |                          [>M <Cj>] [>MN< <Pr>] [M-XPY DLJM <Co>]
  IOB 31,16 1sg- WxY0 [coordin] Q       1      36 13..    |                               |   |   |   |   |  [W-<Cj>] [<JNJ >LMNH <Ob>] [>KLH <Pr>]
  IOB 31,17 1sg- WYq0 [coordin] Q       1      37 12..    |                               |   |   |   |  [W-<Cj>] [>KL <Pr>] [PTJ <Ob>] [L-BDJ <Aj>]
@@ -66,7 +66,7 @@
                                -------                   |                                   |   |    +-------------------------------------------\
  IOB 31,27 3sgM WayX  << xYq0  QN      13     60 12.#    |                                   |   |    | [W-<Cj>] [JPT <Pr>] [B--STR <Aj>] [LBJ <Su>]
  IOB 31,27 3sgF WayX  << WayX  QN      14     61 12.#    |                                   |   |    | [W-<Cj>] [TCQ <Pr>] [JDJ <Su>] [L-PJ <Co>]
-                               -------                   |                                   |        +-------------------------------------------/
+                               -------                   |                                   |   |    +-------------------------------------------/
  IOB 31,28 ---- NmCl  << xQt0  Q       1      62 10..    |                                   |  [GM HW> <Su>] [<WN PLJLJ <PC>]
  IOB 31,28 1sg- xQt0  << NmCl  Q       1      63 11..    |                                   |      [KJ <Cj>] [KXCTJ <Pr>] [L-->L / M-M<L <sp><Co>]
  IOB 31,29 1sg- xYq0  << xQt0  Q       1      64  9..    |                                  [>M <Cj>] [>FMX <Pr>] [B-PJD MFN>J <Co>]
@@ -78,9 +78,9 @@
  IOB 31,30 ---- InfC [adjunct] Q       1      70 15..    |                                       |   |   |   |      [L-C>L <Pr>] [B->LH <Aj>] [NPCW <Ob>]
  IOB 31,31 3pl- xQtX  << xYq0  Q       1      71 13..    |                                       |   |   |  [>M <Cj>] [L> <Ng>] [>MRW <Pr>] [MTJ >HLJ <Su>]
                                =======                   |                                       |   |   |       |+===============================\
- IOB 31,31 3sgM XYqt  <<  [Q]  QQ      15     72 15.q    |                                       |   |   |        | [MJ <Su>] [JTN <Pr>]
- IOB 31,31 1pl- xYq0  << XYqt  QQ      15     73 16..    |                                       |   |   |        |     [M-BFRW <Co>] [L> <Ng>] [NFB< <Pr>]
-                               =======                   |                                       |   |   |        +===============================/
+ IOB 31,31 3sgM XYqt  <<  [Q]  QQ      15     72 15.q    |                                       |   |   |       || [MJ <Su>] [JTN <Pr>]
+ IOB 31,31 1pl- xYq0  << XYqt  QQ      15     73 16..    |                                       |   |   |       ||     [M-BFRW <Co>] [L> <Ng>] [NFB< <Pr>]
+                               =======                   |                                       |   |   |       |+===============================/
  IOB 31,32 3sgM xYqX  << xQtX  Q       1      74 14..    |                                       |   |   |      [B--XWY <Aj>] [L> <Ng>] [JLJN <Pr>] [GR <Su>]
  IOB 31,32 1sg- xYq0  << xYqX  Q       1      75 15..    |                                       |   |   |          [DLTJ <Ob>] [L-->RX <Co>] [>PTX <Pr>]
  IOB 31,33 1sg- xQt0  << xYq0  Q       1      76 12..    |                                       |   |  [>M <Cj>] [KSJTJ <Pr>] [K->DM <Aj>] [PC<J <Ob>]
@@ -88,8 +88,8 @@
  IOB 31,34 1sg- xYq0  << xQt0  Q       1      78 15..    |                                       |   |       |   |  [KJ <Cj>] [><RWY <Pr>] [HMWN <Ob>] [RBH <Mo>]
  IOB 31,34 3sgM WXYq [coordin] Q       1      79 16..    |                                       |   |       |   |      [W-<Cj>] [BWZ MCPXWT <Su>] [JXTNJ <PO>]
                                -------                   |                                       |   |       |+-----------------------------------\
- IOB 31,34 1sg- Way0 [coordin] QN      1      80 14..    |                                       |   |        | [W-<Cj>] [>DM <Pr>]
-                               -------                   |                                       |   |        +-----------------------------------/
+ IOB 31,34 1sg- Way0 [coordin] QN      1      80 14..    |                                       |   |       || [W-<Cj>] [>DM <Pr>]
+                               -------                   |                                       |   |       |+-----------------------------------/
  IOB 31,34 1sg- xYq0 [coordin] Q       1      81 13..    |                                       |   |      [L> <Ng>] [>Y> <Pr>] [PTX <Ob>]
  IOB 31,35 3sgM XYqt  << xYq0  Q       1      82 11..    |                                       |  [MJ <Su>] [JTN <Pr>] [LJ <Co>] [CM< / LJ <sp><Ob>]
  IOB 31,35 ---- NmCl  << XYqt  Q       1      83 12..    |                                       |      [HN <Ij>] [TWJ <PC>]

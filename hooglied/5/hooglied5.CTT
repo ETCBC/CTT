@@ -13,11 +13,11 @@
  CAN 05,02 ---- NmCl  << AjCl  Q       12     13  4..            |   |  [QWL DWDJ <PC>]
  CAN 05,02 -sgM Ptcp [attrib.] Q       12     14  8..            |   |       |   |   |  [DWPQ <PC>]
                                =======                           |   |       |   |+===============================================================\
- CAN 05,02 2sgF ZIm0  <<  [Q]  QQ      121    15  7.q            |   |       |    | [PTXJ <Pr>] [LJ <Co>]
- CAN 05,02 ---- Voct  << ZIm0  QQ      121    16  9v.            |   |       |    |      |  [>XTJ / R<JTJ / JWNTJ / TMTJ <sp><sp><sp><Vo>]
- CAN 05,02 -sgM Ptcp [adjunct] QQ      121    17  8..            |   |       |    |     [C-<Cj>] [R>CJ <Su>] [NML> <PC>] [VL <Co>]
- CAN 05,02 ---- NmCl [coordin] QQ      121    18  9..            |   |       |    |         [QWYWTJ <Su>] [RSJSJ LJLH <Co>]
-                               =======                           |   |       |    +===============================================================/
+ CAN 05,02 2sgF ZIm0  <<  [Q]  QQ      121    15  7.q            |   |       |   || [PTXJ <Pr>] [LJ <Co>]
+ CAN 05,02 ---- Voct  << ZIm0  QQ      121    16  9v.            |   |       |   ||      |  [>XTJ / R<JTJ / JWNTJ / TMTJ <sp><sp><sp><Vo>]
+ CAN 05,02 -sgM Ptcp [adjunct] QQ      121    17  8..            |   |       |   ||     [C-<Cj>] [R>CJ <Su>] [NML> <PC>] [VL <Co>]
+ CAN 05,02 ---- NmCl [coordin] QQ      121    18  9..            |   |       |   ||         [QWYWTJ <Su>] [RSJSJ LJLH <Co>]
+                               =======                           |   |       |   |+===============================================================/
  CAN 05,03 1sg- ZQt0  << NmCl  Q       122    19  6.#            |   |       |  [PCVTJ <Pr>] [>T KTNTJ <Ob>]
  CAN 05,03 1sg- xYq0  << ZQt0  Q       122    20  8..            |   |       |       |  [>JKKH <Qu>] [>LBCNH <PO>]
  CAN 05,03 1sg- ZQt0  << ZQt0  Q       122    21  7..            |   |       |      [RXYTJ <Pr>] [>T RGLJ <Ob>]
@@ -46,7 +46,7 @@
  CAN 05,08 ---- Voct  << ZQt0  Q       126    44  6v.                |   |   |  [BNWT JRWCLM <Vo>]
  CAN 05,08 2plM xYq0  << ZQt0  Q       126    45  5..                |   |  [>M <Cj>] [TMY>W <Pr>] [>T DWDJ <Ob>]
  CAN 05,08 2plM xYq0  << xYq0  Q       126    46  6..                |   |      [MH <Ob>] [TGJDW <Pr>] [LW <Co>]
- CAN 05,08 -sgF AjCl [attrib.] Q       126    47  7..                |   |          [C-<Re>] [XWLT >HBH <PC>] [>NJ <Su>]
+ CAN 05,08 ---- AjCl [attrib.] Q       126    47  7..                |   |          [C-<Re>] [XWLT >HBH <PC>] [>NJ <Su>]
  CAN 05,09 ---- NmCl  << ZQt0  Q       1261   48  4.#                |  [MH <PC>] [DWDK <Su>] [M-DWD <Co>]
  CAN 05,09 ---- Voct  << NmCl  Q       1261   49  5v.                |   |  [H-JPH / B--NCJM <sp><Vo>]
  CAN 05,09 ---- NmCl  << NmCl  Q       1261   50  4..                |  [MH <PC>] [DWDK <Su>] [M-DWD <Co>]

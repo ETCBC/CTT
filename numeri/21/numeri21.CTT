@@ -6,9 +6,9 @@
  NUM 21,02 3sgM WayX  << WayX  N       11      6  1.#    |  [W-<Cj>] [JDR <Pr>] [JFR>L <Su>] [NDR <Ob>] [L-JHWH <Co>]
  NUM 21,02 3sgM Way0  << WayX  N       11      7  2..    |   |  [W-<Cj>] [J>MR <Pr>]
                                =======                   |   |    +===============================================================================\
- NUM 21,02 2sgM xYq0  <<  [Q]  NQ      111     8  3.q    |   |   || [>M <Cj>] [NTN <Mo>] [TTN <Pr>] [>T H-<M H-ZH <Ob>] [B-JDJ <Co>]
- NUM 21,02 1sg- WQt0  << xYq0  NQ      111     9  4..    |   |   ||     [W-<Cj>] [HXRMTJ <Pr>] [>T <RJHM <Ob>]
-                               =======                   |        +===============================================================================/
+ NUM 21,02 2sgM xYq0  <<  [Q]  NQ      111     8  3.q    |   |    | [>M <Cj>] [NTN <Mo>] [TTN <Pr>] [>T H-<M H-ZH <Ob>] [B-JDJ <Co>]
+ NUM 21,02 1sg- WQt0  << xYq0  NQ      111     9  4..    |   |    |     [W-<Cj>] [HXRMTJ <Pr>] [>T <RJHM <Ob>]
+                               =======                   |   |    +===============================================================================/
  NUM 21,03 3sgM WayX  << WayX  N       12     10  1.#    |  [W-<Cj>] [JCM< <Pr>] [JHWH <Su>] [B-QWL JFR>L <Co>]
  NUM 21,03 3sgM Way0  << WayX  N       12     11  2..    |      [W-<Cj>] [JTN <Pr>] [>T H-KN<NJ <Ob>]
  NUM 21,03 3sgM Way0  << Way0  N       12     12  2..    |      [W-<Cj>] [JXRM <Pr>] [>THM W->T <RJHM <Ob>]
@@ -30,20 +30,20 @@
  NUM 21,07 3sgM WayX  << WayX  N       24     26  1.#    |  [W-<Cj>] [JB> <Pr>] [H-<M <Su>] [>L MCH <Co>]
  NUM 21,07 3plM Way0  << WayX  N       24     27  2..    |   |  [W-<Cj>] [J>MRW <Pr>]
                                =======                   |   |    +===============================================================================\
- NUM 21,07 1pl- ZQt0  <<  [Q]  NQ      241    28  3.q    |   |   || [XV>NW <Pr>]
- NUM 21,07 1pl- xQt0  << ZQt0  NQ      241    29  5..    |   |   ||      |  [KJ <Cj>] [DBRNW <Pr>] [B-JHWH W-BK <Co>]
- NUM 21,07 2sgM ZIm0  << ZQt0  NQ      241    30  4..    |   |   ||     [HTPLL <Pr>] [>L JHWH <Co>]
- NUM 21,07 3sgM WYq0  << ZIm0  NQ      241    31  5..    |   |   ||         [W-<Cj>] [JSR <Pr>] [M-<LJNW <Co>] [>T H-NXC <Ob>]
+ NUM 21,07 1pl- ZQt0  <<  [Q]  NQ      241    28  3.q    |   |    | [XV>NW <Pr>]
+ NUM 21,07 1pl- xQt0  << ZQt0  NQ      241    29  5..    |   |    |      |  [KJ <Cj>] [DBRNW <Pr>] [B-JHWH W-BK <Co>]
+ NUM 21,07 2sgM ZIm0  << ZQt0  NQ      241    30  4..    |   |    |     [HTPLL <Pr>] [>L JHWH <Co>]
+ NUM 21,07 3sgM WYq0  << ZIm0  NQ      241    31  5..    |   |    |         [W-<Cj>] [JSR <Pr>] [M-<LJNW <Co>] [>T H-NXC <Ob>]
                                =======                   |   |    +===============================================================================/
  NUM 21,07 3sgM WayX  << WayX  N       25     32  1.#    |  [W-<Cj>] [JTPLL <Pr>] [MCH <Su>] [B<D H-<M <Co>]
  NUM 21,08 3sgM WayX  << WayX  N       251    33  2.#    |   |  [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L MCH <Co>]
                                =======                   |   |    +===============================================================================\
- NUM 21,08 2sgM ZIm0  <<  [Q]  NQ      2511   34  3.q    |   |   || [<FH <Pr>] [LK <Co>] [FRP <Ob>]
- NUM 21,08 2sgM WIm0  << ZIm0  NQ      2511   35  5..    |   |   ||      |  [W-<Cj>] [FJM <Pr>] [>TW <Ob>] [<L NS <Co>]
- NUM 21,08 3sgM WQtX  << ZIm0  NQ      2511   36  4..    |   |   ||     [W-<Cj>] [HJH <Pr>] [KL H-NCWK <Su>]
- NUM 21,08 3sgM WQt0  << WQtX  NQ      2511   37  5..    |   |   ||         [W-<Cj>] [R>H <Pr>] [>TW <Ob>]
- NUM 21,08 3sgM WQt0  << WQt0  NQ      2511   38  6..    |   |   ||             [W-<Cj>] [XJ <Pr>]
-                               =======                   |        +===============================================================================/
+ NUM 21,08 2sgM ZIm0  <<  [Q]  NQ      2511   34  3.q    |   |    | [<FH <Pr>] [LK <Co>] [FRP <Ob>]
+ NUM 21,08 2sgM WIm0  << ZIm0  NQ      2511   35  5..    |   |    |      |  [W-<Cj>] [FJM <Pr>] [>TW <Ob>] [<L NS <Co>]
+ NUM 21,08 3sgM WQtX  << ZIm0  NQ      2511   36  4..    |   |    |     [W-<Cj>] [HJH <Pr>] [KL H-NCWK <Su>]
+ NUM 21,08 3sgM WQt0  << WQtX  NQ      2511   37  5..    |   |    |         [W-<Cj>] [R>H <Pr>] [>TW <Ob>]
+ NUM 21,08 3sgM WQt0  << WQt0  NQ      2511   38  6..    |   |    |             [W-<Cj>] [XJ <Pr>]
+                               =======                   |   |    +===============================================================================/
  NUM 21,09 3sgM WayX  << WayX  N       26     39  1.#    |  [W-<Cj>] [J<F <Pr>] [MCH <Su>] [NXC NXCT <Ob>]
  NUM 21,09 3sgM Way0  << WayX  N       26     40  2..    |      [W-<Cj>] [JFMHW <PO>] [<L H-NS <Co>]
  NUM 21,09 3sgM MSyn  << Way0  N       26     41  3m.    |          [W-<Cj>] [HJH <Pr>]
@@ -71,23 +71,23 @@
  NUM 21,15 3sgM xQt0 [attrib.] NDQ     31     61 10..    |           |        |   |             [>CR <Re>] [NVH <Pr>]
  NUM 21,15 ---- InfC [adjunct] NDQ     31     62 12..    |           |        |   |                  |  [L-CBT <Pr>] [<R <Co>]
  NUM 21,15 3sgM WQt0 [coordin] NDQ     31     63 11..    |           |        |   |                 [W-<Cj>] [NC<N <Pr>] [L-GBWL MW>B <Co>]
-                               -------                   |                    +-------------------------------------------------------------------/
+                               -------                   |           |        +-------------------------------------------------------------------/
  NUM 21,16 ---- Ellp  << xQt0  N       3      64  3l.    |          [W-<Cj>] [M-CM <Co>] [B>RH <Co>]
  NUM 21,16 ---- NmCl  << Ellp  N       3      65  5..    |               |  [HW> <Su>] [H-B>R <PC>]
  NUM 21,16 3sgM xQtX [attrib.] N       3      66  7..    |               |       |  [>CR <Re>] [>MR <Pr>] [JHWH <Su>] [L-MCH <Co>]
                                =======                   |               |       |    +===========================================================\
  NUM 21,16 2sgM ZIm0  <<  [Q]  NQ      32     67  8.q    |               |       |    | [>SP <Pr>] [>T H-<M <Ob>]
  NUM 21,16 1sg- WYq0  << ZIm0  NQ      32     68  9..    |               |       |    |     [W-<Cj>] [>TNH <Pr>] [LHM <Co>] [MJM <Ob>]
-                               =======                   |               |            +===========================================================/
- NUM 21,17 3sgM xYqX  << NmCl  ND      3      69  6..    |               |      [>Z <Ti>] [JCJR <Pr>] [JFR>L <Su>] [>T H-CJRH H-Z>T <Ob>]
-                               =======                   |               |         ============================================================\
- NUM 21,17 2sgF ZIm0  <<  [Q]  NDQ     33     70  7.q    |               |          [<LJ <Pr>]
- NUM 21,17 ---- Voct  << ZIm0  NDQ     33     71 10v.    |               |            |  |   |  [B>R <Vo>]
- NUM 21,17 2plM ZIm0  << ZIm0  NDQ     33     72  9..    |               |            |  |  [<NW <Pr>] [LH <Co>]
- NUM 21,18 ---- CPen  << ZIm0  NDQ     33     73  8c.    |               |            | [B>R <Fr>]
- NUM 21,18 3pl- ZQtX [resumpt] NDQ     33     74  9..    |               |            |     [XPRWH <PO>] [FRJM <Su>]
- NUM 21,18 3pl- ZQtX [coordin] NDQ     33     75 10..    |               |            |         [KRWH <PO>] [NDJBJ H-<M <Su>] [B-MXQQ <Aj>] [B-MC<NTM <Aj>]
-                               -------                   |               |            +-----------------------------------------------------------/
+                               -------                   |               |    +-------------------------------------------------------------------\
+ NUM 21,17 3sgM xYqX  << NmCl  ND      3      69  6..    |               |    | [>Z <Ti>] [JCJR <Pr>] [JFR>L <Su>] [>T H-CJRH H-Z>T <Ob>]
+                               =======                   |               |    |   +============================================================\
+ NUM 21,17 2sgF ZIm0  <<  [Q]  NDQ     33     70  7.q    |               |    |   | [<LJ <Pr>]
+ NUM 21,17 ---- Voct  << ZIm0  NDQ     33     71 10v.    |               |    |   |      |   |  [B>R <Vo>]
+ NUM 21,17 2plM ZIm0  << ZIm0  NDQ     33     72  9..    |               |    |   |      |  [<NW <Pr>] [LH <Co>]
+ NUM 21,18 ---- CPen  << ZIm0  NDQ     33     73  8c.    |               |    |   |     [B>R <Fr>]
+ NUM 21,18 3pl- ZQtX [resumpt] NDQ     33     74  9..    |               |    |   |         [XPRWH <PO>] [FRJM <Su>]
+ NUM 21,18 3pl- ZQtX [coordin] NDQ     33     75 10..    |               |    |   |             [KRWH <PO>] [NDJBJ H-<M <Su>] [B-MXQQ <Aj>] [B-MC<NTM <Aj>]
+                               -------                   |               |    +-------------------------------------------------------------------/
  NUM 21,18 ---- Ellp  << Ellp  N       3      76  4l.    |              [W-<Cj>] [M-MDBR <Co>] [MTNH <Co>]
  NUM 21,19 ---- Ellp  << Ellp  N       3      77  4l.    |              [W-<Cj>] [M-MTNH <Co>] [NXLJ>L <Co>]
  NUM 21,19 ---- Ellp  << Ellp  N       3      78  4l.    |              [W-<Cj>] [M-NXLJ>L <Co>] [BMWT <Co>]
@@ -98,12 +98,12 @@
  NUM 21,21 3sgM WayX  << WayX  N       4      83  0.#   [W-<Cj>] [JCLX <Pr>] [JFR>L <Su>] [ML>KJM <Ob>] [>L SJXN / MLK H->MRJ <ap><Co>]
  NUM 21,21 ---- InfC [adjunct] N       4      84  2..    |   |  [L->MR <Pr>]
                                =======                   |   |    +===============================================================================\
- NUM 21,22 1sg- ZYq0  <<  [Q]  NQ      41     85  3.q    |   |   || [><BRH <Pr>] [B->RYK <Co>]
- NUM 21,22 1pl- xYq0  << ZYq0  NQ      41     86  4..    |   |   ||     [L> <Ng>] [NVH <Pr>] [B-FDH W-B-KRM <Co>]
- NUM 21,22 1pl- xYq0  << xYq0  NQ      41     87  4..    |   |   ||     [L> <Ng>] [NCTH <Pr>] [MJ B>R <Ob>]
- NUM 21,22 1pl- xYq0  << xYq0  NQ      41     88  5..    |   |   ||         [B-DRK H-MLK <Co>] [NLK <Pr>]
- NUM 21,22 1pl- xYq0 [adjunct] NQ      41     89  6..    |   |   ||             [<D >CR <Cj>] [N<BR <Pr>] [GBLK <Ob>]
-                               =======                   |        +===============================================================================/
+ NUM 21,22 1sg- ZYq0  <<  [Q]  NQ      41     85  3.q    |   |    | [><BRH <Pr>] [B->RYK <Co>]
+ NUM 21,22 1pl- xYq0  << ZYq0  NQ      41     86  4..    |   |    |     [L> <Ng>] [NVH <Pr>] [B-FDH W-B-KRM <Co>]
+ NUM 21,22 1pl- xYq0  << xYq0  NQ      41     87  4..    |   |    |     [L> <Ng>] [NCTH <Pr>] [MJ B>R <Ob>]
+ NUM 21,22 1pl- xYq0  << xYq0  NQ      41     88  5..    |   |    |         [B-DRK H-MLK <Co>] [NLK <Pr>]
+ NUM 21,22 1pl- xYq0 [adjunct] NQ      41     89  6..    |   |    |             [<D >CR <Cj>] [N<BR <Pr>] [GBLK <Ob>]
+                               =======                   |   |    +===============================================================================/
  NUM 21,23 3sgM WxQX  << WayX  N       4      90  1..    |  [W-<Cj>] [L> <Ng>] [NTN <Pr>] [SJXN <Su>] [>T JFR>L <Ob>]
  NUM 21,23 ---- InfC [object ] N       4      91  3..    |       |  [<BR <Pr>] [B-GBLW <Co>]
  NUM 21,23 3sgM WayX  << WxQX  N       42     92  2.#    |      [W-<Cj>] [J>SP <Pr>] [SJXN <Su>] [>T KL <MW <Ob>]
@@ -142,7 +142,7 @@
  NUM 21,30 3sgM ZQtX  << Way0  NDQN    4232  122 13..    |               |    |   |               |      |  [>BD <Pr>] [XCBWN <Su>] [<D DJBWN <Aj>]
  NUM 21,30 1pl- Way0  << Way0  NDQN    4232  123 12..    |               |    |   |               |     [W-<Cj>] [NCJM <Pr>] [<D NPX <Aj>]
  NUM 21,30 ---- NmCl [attrib.] NDQN    4232  124 13..    |               |    |   |               |         [>CR <Re>] [<D MJDB> <PC>]
-                               -------                   |                    +-------------------------------------------------------------------/
+                               -------                   |               |    +-------------------------------------------------------------------/
  NUM 21,31 3sgM WayX  << WayX  N       424   125  4.#    |              [W-<Cj>] [JCB <Pr>] [JFR>L <Su>] [B->RY H->MRJ <Co>]
  NUM 21,32 3sgM WayX  << WayX  N       5     126  0.#   [W-<Cj>] [JCLX <Pr>] [MCH <Su>]
  NUM 21,32 ---- InfC [adjunct] N       5     127  2..        |  [L-RGL <Pr>] [>T J<ZR <Ob>]

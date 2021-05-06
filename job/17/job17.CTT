@@ -20,7 +20,7 @@
  IOB 17,07 3sgF WayX  << WQt0  QN      111    19  4.#        |       || [W-<Cj>] [TKH <Pr>] [M-K<F <Aj>] [<JNJ <Su>]
  IOB 17,07 ---- CPen  << WayX  QN      111    20  5c.        |       ||     [W-<Cj>] [JYRJ <Fr>]
  IOB 17,07 ---- NmCl [resumpt] QN      111    21  6..        |       ||         [K--YL <PC>] [KLM <Su>]
-                               -------                       |        +---------------------------------------------------------------------------/
+                               -------                       |       |+---------------------------------------------------------------------------/
  IOB 17,08 3plM ZYq0  << WQt0  Q       11     22  3..        |      [JCMW <Pr>] [JCRJM <Ob>] [<L Z>T <Aj>]
  IOB 17,08 3sgM WXYq  << ZYq0  Q       11     23  5..        |           |  [W-<Cj>] [NQJ <Su>] [<L XNP <Co>] [JT<RR <Pr>]
  IOB 17,09 3sgM WYqX  << ZYq0  Q       11     24  4..        |          [W-<Cj>] [J>XZ <Pr>] [YDJQ <Su>] [DRKW <Ob>]
@@ -38,10 +38,10 @@
  IOB 17,13 1sg- xQt0  << xYq0  Q       12     36  5..                    |  [B--XCK <Aj>] [RPDTJ <Pr>] [JYW<J <Ob>]
  IOB 17,14 1sg- xQt0  << xQt0  Q       12     37  6..                    |      [L--CXT <Co>] [QR>TJ <Pr>]
                                =======                                   |           |+===========================================================\
- IOB 17,14 ---- NmCl  <<  [Q]  QQ      121    38  8.q                    |            | [>BJ <PC>] [>TH <Su>]
+ IOB 17,14 ---- NmCl  <<  [Q]  QQ      121    38  8.q                    |           || [>BJ <PC>] [>TH <Su>]
                                =======                                   |           |+===========================================================/
  IOB 17,14 ---- NmCl  >> Ellp  Q       12     39  8.\                    |           |  [>MJ <PC>]
- IOB 17,14 ---- NmCl  << NmCl  Q       12     40  9..                    |           |      [W-<Cj>] [>XTJ <PC>]
+ IOB 17,14 ---- NmCl  << NmCl  Q       12     40  9..                    |           |   |  [W-<Cj>] [>XTJ <PC>]
  IOB 17,14 ---- Ellp  << xQt0  Q       12     41  7l.                    |          [L--RMH <Co>]
  IOB 17,15 ---- NmCl  << xYq0  Q       12     42  4..                   [W-<Cj>] [>JH <PC>] [>PW <Ij>] [TQWTJ <Su>]
  IOB 17,15 ---- CPen  << NmCl  Q       12     43  5c.                       [W-<Cj>] [TQWTJ <Fr>]

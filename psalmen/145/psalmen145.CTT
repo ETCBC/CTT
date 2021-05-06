@@ -1,5 +1,5 @@
  PS145,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [THLH / L-DWD <sp><PC>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PS145,001 1sg- ZYq0  << NmCl  Q       2       2  0.N   [>RWMMK <PO>]
  PS145,001 ---- Voct  << ZYq0  Q       2       3  3v.        |   |  [>LWHJ / H-MLK <ap><Vo>]
  PS145,001 1sg- WYq0  << ZYq0  Q       2       4  2..        |  [W-<Cj>] [>BRKH <Pr>] [CMK <Ob>] [L-<WLM W-<D <Ti>]
@@ -17,7 +17,7 @@
  PS145,007 3plM xYq0  << XYqt  Q       2      16  4..                |  [ZKR RB VWBK <Ob>] [JBJ<W <Pr>]
  PS145,007 3plM WxY0  << xYq0  Q       2      17  6..                |       |  [W-<Cj>] [YDQTK <Ob>] [JRNNW <Pr>]
  PS145,008 -sgM AjCl  << xYq0  Q       22     18  5.#                |      [XNWN W-RXWM <PC>] [JHWH <Su>]
- PS145,008 -sgM AjCl  << AjCl  Q       22     19  6..                |       |  [>RK >PJM W-GDL XSD <PC>]
+ PS145,008 ---- AjCl  << AjCl  Q       22     19  6..                |       |  [>RK >PJM W-GDL XSD <PC>]
  PS145,009 -sgM AjCl  << AjCl  Q       22     20  5..                |      [VWB <PC>] [JHWH <Su>] [L--KL <Co>]
  PS145,009 ---- NmCl  << AjCl  Q       22     21  6..                |          [W-<Cj>] [RXMJW <Su>] [<L KL M<FJW <PC>]
  PS145,010 3plM ZYq0  << XYqt  Q       2      22  3..               [JWDWK <PO>]

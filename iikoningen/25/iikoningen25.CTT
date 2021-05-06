@@ -43,8 +43,8 @@ IIKON25,13 3pl- ZQtX  << Defc  N       14     42 14..    |       |   |          
 IIKON25,13 3plM Way0  << ZQtX  N       14     43 15..    |       |   |           |   |                       |      [W-<Cj>] [JF>W <Pr>] [>T NXCTM <Ob>] [BBLH <Co>]
 IIKON25,14 ---- Defc  << Defc  N       14     44 13d.    |       |   |           |   |                      [W-<Cj>] [>T H-SJRT W->T H-J<JM W->T H-MZMRWT W->T H-KPWT W->T KL KLJ H-NXCT <Ob>]
                                -------                   |       |   |           |   |                       |   |+-------------------------------\
-IIKON25,14 3plM xYq0 [attrib.] ND      14     45 15.e    |       |   |           |   |                       |    | [>CR <Re>] [JCRTW <Pr>] [BM <Co>]
-                               -------                   |       |   |           |   |                       |    +-------------------------------/
+IIKON25,14 3plM xYq0 [attrib.] ND      14     45 15.e    |       |   |           |   |                       |   || [>CR <Re>] [JCRTW <Pr>] [BM <Co>]
+                               -------                   |       |   |           |   |                       |   |+-------------------------------/
 IIKON25,14 3pl- ZQt0  << Defc  N       14     46 14..    |       |   |           |   |                       |  [LQXW <Pr>]
 IIKON25,15 ---- Defc  << Defc  N       14     47 13d.    |       |   |           |   |                      [W-<Cj>] [>T H-MXTWT W->T H-MZRQWT <Ob>]
 IIKON25,15 ---- NmCl [attrib.] N       14     48 15..    |       |   |           |   |                           |  [>CR <Re>] [ZHB / ZHB <sp><PC>]
@@ -88,7 +88,7 @@ IIKON25,24 2plM xYq0  <<  [Q]  NQ      161    84  7.q    |       |              
 IIKON25,24 2plM ZIm0  << xYq0  NQ      161    85  8..    |       |                |     [CBW <Pr>] [B-->RY <Co>]
 IIKON25,24 2plM WIm0  << ZIm0  NQ      161    86 10..    |       |                |          |  [W-<Cj>] [<BDW <Pr>] [>T MLK BBL <Ob>]
 IIKON25,24 3sgM WYq0  << ZIm0  NQ      161    87  9..    |       |                |         [W-<Cj>] [JVB <Pr>] [LKM <Co>]
-                               =======                   |                        +===============================================================/
+                               =======                   |       |                +===============================================================/
 IIKON25,25 3sgM Way0  << xQtX  N       1      88  2..    |      [W-<Cj>] [JHJ <Pr>] [B--XDC H-CBJ<J <Ti>]
 IIKON25,25 3sgM ZQtX  << Way0  N       1      89  3..    |          [B> <Pr>] [JCM<>L / BN NTNJH / BN >LJCM< / M-ZR< H-MLWKH <sp><ap><ap><Su>]
 IIKON25,25 ---- NmCl  << ZQtX  N       1      90  6..    |               |   |  [W-<Cj>] [<FRH >NCJM <Su>] [>TW <PC>]

@@ -24,22 +24,22 @@ AMOS 09,04 1sg- xYq0  << WxY0  QNQ     11     21  8..    |   ||   |          |  
 AMOS 09,04 3sgF WQt0  << xYq0  QNQ     11     22  9..    |   ||   |          |              [W-<Cj>] [HRGTM <PO>]
 AMOS 09,04 1sg- WQt0  << xYqX  QNQ     11     23  5..    |   ||   |         [W-<Cj>] [FMTJ <Pr>] [<JNJ <Ob>] [<LJHM <Co>] [L-R<H <Co>]
 AMOS 09,04 ---- Ellp  << WQt0  QNQ     11     24  6l.    |   ||   |             [W-<Cj>] [L> <Ng>] [L-VWBH <Co>]
-                               -------                   |    +-----------------------------------------------------------------------------------/
+                               -------                   |   |+-----------------------------------------------------------------------------------/
 AMOS 09,05 ---- CPen  << ZQt0  Q       12     25  1c#    |  [W-<Cj>] [>DNJ JHWH H-YB>WT <Fr>]
 AMOS 09,05 -sgM Ptcp [attrib.] Q       12     26  3..    |       |  [H-<Re>] [NWG< <PC>] [B-->RY <Co>]
                                -------                   |       |   |+---------------------------------------------------------------------------\
-AMOS 09,05 3sgF Way0 [coordin] QN      12     27  4..    |       |    | [W-<Cj>] [TMWG <Pr>]
-AMOS 09,05 3pl- WQtX [coordin] QN      12     28  6..    |       |    |      |  [W-<Cj>] [>BLW <Pr>] [KL <Su>]
-AMOS 09,05 -plM Ptcp [reg/rec] QN      12     29  7..    |       |    |      |      [JWCBJ <PC>] [BH <Co>]
-AMOS 09,05 3sgF WQtX [coordin] QN      12     30  5..    |       |    |     [W-<Cj>] [<LTH <Pr>] [K--J>R <Aj>] [KLH <Su>]
-AMOS 09,05 3sgF WQt0 [coordin] QN      12     31  6..    |       |    |         [W-<Cj>] [CQ<H <Pr>] [K-J>R MYRJM <Aj>]
+AMOS 09,05 3sgF Way0 [coordin] QN      12     27  4..    |       |   || [W-<Cj>] [TMWG <Pr>]
+AMOS 09,05 3pl- WQtX [coordin] QN      12     28  6..    |       |   ||      |  [W-<Cj>] [>BLW <Pr>] [KL <Su>]
+AMOS 09,05 -plM Ptcp [reg/rec] QN      12     29  7..    |       |   ||      |      [JWCBJ <PC>] [BH <Co>]
+AMOS 09,05 3sgF WQtX [coordin] QN      12     30  5..    |       |   ||     [W-<Cj>] [<LTH <Pr>] [K--J>R <Aj>] [KLH <Su>]
+AMOS 09,05 3sgF WQt0 [coordin] QN      12     31  6..    |       |   ||         [W-<Cj>] [CQ<H <Pr>] [K-J>R MYRJM <Aj>]
                                -------                   |       |   |+---------------------------------------------------------------------------/
 AMOS 09,06 -sgM Ptcp [coordin] Q       12     32  3..    |       |  [H-<Re>] [BWNH <PC>] [B--CMJM <Co>] [M<LWTW <Ob>]
 AMOS 09,06 3sgM WxQ0 [coordin] Q       12     33  4..    |       |   |  [W-<Cj>] [>GDTW <Ob>] [<L >RY <Co>] [JSDH <PO>]
 AMOS 09,06 -sgM Ptcp [coordin] Q       12     34  3..    |       |  [H-<Re>] [QR> <PC>] [L-MJ H-JM <Co>]
                                -------                   |       |    +---------------------------------------------------------------------------\
 AMOS 09,06 3sgM Way0 [coordin] QN      12     35  4..    |       |    | [W-<Cj>] [JCPKM <PO>] [<L PNJ H->RY <Co>]
-                               -------                   |            +---------------------------------------------------------------------------/
+                               -------                   |       |    +---------------------------------------------------------------------------/
 AMOS 09,06 ---- NmCl [resumpt] Q       12     36  2..    |      [JHWH <PC>] [CMW <Su>]
 AMOS 09,07 ---- NmCl  << ZQt0  Q       2      37  0.#   [H-<Qu>] [LW> <Ng>] [K-BNJ KCJJM <PC>] [>TM <Su>] [LJ <Aj>]
 AMOS 09,07 ---- Voct  << NmCl  Q       2      38  4v.    |   |   |   |  [BNJ JFR>L <Vo>]
@@ -60,7 +60,7 @@ AMOS 09,10 -plM Ptcp [attrib.] Q       2      52  3..    |          [H-<Re>] [>M
                                =======                   |            +===========================================================================\
 AMOS 09,10 2sgM xYq0  <<  [Q]  QQ      21     53  4.q    |            | [L> <Ng>] [TGJC <Pr>]
 AMOS 09,10 2sgM WYq0  << xYq0  QQ      21     54  5..    |            |     [W-<Cj>] [TQDJM <Pr>] [B<DJNW <Aj>] [H-R<H <Ob>]
-                               =======                                +===========================================================================/
+                               =======                   |            +===========================================================================/
 AMOS 09,11 1sg- xYq0  << NmCl  Q       3      55  0.#   [B--JWM H-HW> <Ti>] [>QJM <Pr>] [>T SKT DWJD <Ob>]
 AMOS 09,11 -sgF Ptcp [attrib.] Q       3      56  6..        |   |   |   |   |  [H-<Re>] [NPLT <PC>]
 AMOS 09,11 1sg- WQt0  << xYq0  Q       3      57  5..        |   |   |   |  [W-<Cj>] [GDRTJ <Pr>] [>T PRYJHN <Ob>]

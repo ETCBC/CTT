@@ -28,14 +28,14 @@
  DAN 05,07 -sgM Ptcp  << Ptcp  ?       1      28  7..            |           |      [W-<Cj>] [>MR <PC>] [L-XKJMJ BBL <Co>]
  DAN 05,07 ---- Defc  << Ptcp  ?       1      29  8d.            |           |          [DJ <Cj>] [KL >NC <Su>]
  DAN 05,07 3sgM xYq0 [attrib.] ?       1      30 12..            |           |               |   |   |  [DJ <Re>] [JQRH <Pr>] [KTBH DNH <Ob>]
-                               =======                 ==============================================================================================/
- DAN 05,07 3sgM WxY0 [coordin] Q       1      31 13.e            |           |               |   |   |      [W-<Cj>] [PCRH <Ob>] [JXWNNJ <PO>]
-                               =======                 ==============================================================================================/
+                               =======                           |           |               |   |   |    +==========================================\
+ DAN 05,07 3sgM WxY0 [coordin] Q       1      31 13.e            |           |               |   |   |    | [W-<Cj>] [PCRH <Ob>] [JXWNNJ <PO>]
+                               =======                           |           |               |   |   |    +==========================================/
  DAN 05,07 3sgM xYq0  << Defc  ?       1      32 11..            |           |               |   |  [>RGWN> <Ob>] [JLBC <Pr>]
  DAN 05,07 ---- NmCl  << Defc  ?       1      33 10..            |           |               |  [W-<Cj>] [HMWNK> / DJ DHB> <sp><Su>] [<L YW>RH <PC>]
-                               =======                 ==============================================================================================/
- DAN 05,07 3sgM WxY0  << Defc  Q       1      34  9..            |           |              [W-<Cj>] [TLTJ <Pj>] [B-MLKWT> <Co>] [JCLV <Pr>]
-                               =======                 ==============================================================================================/
+                               =======                           |           |            +==========================================================\
+ DAN 05,07 3sgM WxY0  << Defc  Q       1      34  9..            |           |            | [W-<Cj>] [TLTJ <Pj>] [B-MLKWT> <Co>] [JCLV <Pr>]
+                               =======                           |           |            +==========================================================/
  DAN 05,08 -plM Ptcp  << Ptcp  ?       1      35  5..            |          [>DJN <Ti>] [<LLJN <PC>] [KL XKJMJ MLK> <Su>]
  DAN 05,08 -plM Ptcp  << Ptcp  ?       1      36  9..            |               |   |   |  [W-<Cj>] [L> <Ng>] [KHLJN <PC>]
  DAN 05,08 ---- InfC [object ] ?       1      37 10..            |               |   |   |      [KTB> <Ob>] [L-MQR> <Pr>]
@@ -64,7 +64,7 @@
  DAN 05,12 3sgM XQtl [attrib.] ?Q      11     59 15..            |               |            |              |      [DJ <Re>] [MLK> <Su>] [FM <Pr>] [CMH <Ob>] [BLVC>YR <Ob>]
  DAN 05,12 3sgM XYqt  << Defc  ?Q      11     60 13..            |               |            |             [K<N <Ti>] [DNJ>L <Su>] [JTQRJ <Pr>]
  DAN 05,12 3sgM WxY0  << XYqt  ?Q      11     61 14..            |               |            |                 [W-<Cj>] [PCRH <Ob>] [JHXWH <Pr>]
-                               =======                           |                            +===================================================/
+                               =======                           |               |            +===================================================/
  DAN 05,13 3sgM XQtl  << Ptcp  ?       1      62  6..            |              [B->DJN <Ti>] [DNJ>L <Su>] [H<L <Pr>] [QDM MLK> <Co>]
  DAN 05,13 -sgM Ptcp  << XQtl  ?       1      63  9..            |                   |   |  [<NH <PC>] [MLK> <Su>]
  DAN 05,13 -sgM Ptcp  << Ptcp  ?       1      64 10..            |                   |   |      [W-<Cj>] [>MR <PC>] [L-DNJ>L <Co>]
@@ -91,7 +91,7 @@
  DAN 05,16 2sgM xYq0  << Defc  ?Q      122    84 15..            |                   |   |        |              |  [>RGWN> <Ob>] [TLBC <Pr>]
  DAN 05,16 ---- NmCl  << Defc  ?Q      122    85 14..            |                   |   |        |             [W-<Cj>] [HMWNK> / DJ DHB> <sp><Su>] [<L YW>RK <PC>]
  DAN 05,16 2sgM WxY0  << NmCl  ?Q      122    86 15..            |                   |   |        |                 [W-<Cj>] [TLT> / B-MLKWT> <sp><Aj>] [TCLV <Pr>]
-                               =======                           |                   |            +===============================================/
+                               =======                           |                   |   |        +===============================================/
  DAN 05,17 -sgM Ptcp  << XQtl  ?       1      87  8..            |                   |  [B->DJN <Ti>] [<NH <PC>] [DNJ>L <Su>]
  DAN 05,17 -sgM Ptcp  << Ptcp  ?       1      88  9..            |                   |      [W-<Cj>] [>MR <PC>] [QDM MLK> <Co>]
                                =======                           |                   |        +===================================================\
@@ -105,7 +105,7 @@
  DAN 05,19 ---- Defc  << XQtl  ?Q      13     96 15d.            |                   |        |          |       |  [W-<Cj>] [MN RBWT> <Aj>]
  DAN 05,19 3sgM xQt0 [attrib.] ?Q      13     97 18.e            |                   |        |          |       |       |   |  [DJ <Re>] [JHB <Pr>] [LH <Co>]
  DAN 05,19 3plM XQtl  << Defc  ?Q      13     98 17..            |                   |        |          |       |       |  [KL <MMJ> >MJ> W-LCNJ> <Su>] [HWW <Pr>] [Z><JN <PC>]
- DAN 05,19 -plM Ptcp [coordin] ?Q      13     99 18..            |                   |        |          |       |       |   |  [W-<Cj>] [DXLJN <PC>] [MN QDMWHJ <Co>]
+ DAN 05,19 -plM Ptcp [coordin] ?Q      13     99 18..            |                   |        |          |       |       |      [W-<Cj>] [DXLJN <PC>] [MN QDMWHJ <Co>]
  DAN 05,19 3sgM xQt0 [object ] ?Q      13    100 17.\            |                   |        |          |       |       |  [DJ <Re>] [HWH <Pr>] [YB> <PC>]
  DAN 05,19 3sgM ZQt0  << Defc  ?Q      13    101 16..            |                   |        |          |       |      [HW> <Pr>] [QVL <PC>]
  DAN 05,19 ---- Defc  << ZQt0  ?Q      13    102 17d.            |                   |        |          |       |          [W-<Cj>]
@@ -150,26 +150,26 @@
  DAN 05,24 3sgM WXQt  << xQtX  ?Q      132   141 19.#            |                   |        |                                     [W-<Cj>] [KTB> DNH <Su>] [RCJM <Pr>]
  DAN 05,25 ---- NmCl  << WXQt  ?Q      132   142 21..            |                   |        |                                          |  [W-<Cj>] [DNH <Su>] [KTB> <PC>]
  DAN 05,25 3sgM xQt0 [attrib.] ?Q      132   143 22..            |                   |        |                                          |      [DJ <Re>] [RCJM <Pr>]
-                               =======                           |                   |        |                                          |        +\
- DAN 05,25 ---- NmCl  <<  [Q]  ?QQ     1321  144 23.q            |                   |        |                                          |       || [MN> MN> TQL W-PRSJN <PC>]
-                               =======                           |                   |        |                                                   +/
+                               =======                           |                   |        |                                          |        +====\
+ DAN 05,25 ---- NmCl  <<  [Q]  ?QQ     1321  144 23.q            |                   |        |                                          |        | [MN> MN> TQL W-PRSJN <PC>]
+                               =======                           |                   |        |                                          |        +====/
  DAN 05,26 ---- NmCl  << WXQt  ?Q      132   145 20..            |                   |        |                                         [DNH <Su>] [PCR MLT> <PC>]
-                               =======                           |                   |        |                                              |+\
+                               =======                           |                   |        |                                              |+====\
  DAN 05,26 ---- NmCl  <<  [Q]  ?QQ     1322  146 22.q            |                   |        |                                              || [MN> <PC>]
-                               =======                           |                   |        |                                               +/
+                               =======                           |                   |        |                                              |+====/
  DAN 05,26 3sgM ZQtX  << NmCl  ?Q      132   147 21..            |                   |        |                                             [MNH <Pr>] [>LH> <Su>] [MLKWTK <Ob>]
  DAN 05,26 3sgM WQt0  << ZQtX  ?Q      132   148 23..            |                   |        |                                                  |  [W-<Cj>] [HCLMH <PO>]
-                               =======                           |                   |        |                                                  |    +\
- DAN 05,27 ---- NmCl  <<  [Q]  ?QQ     1323  149 24.q            |                   |        |                                                  |   || [TQL <PC>]
-                               =======                           |                   |        |                                                       +/
+                               =======                           |                   |        |                                                  |    +====\
+ DAN 05,27 ---- NmCl  <<  [Q]  ?QQ     1323  149 24.q            |                   |        |                                                  |    | [TQL <PC>]
+                               =======                           |                   |        |                                                  |    +====/
  DAN 05,27 2sgM ZQt0  << ZQtX  ?Q      132   150 22..            |                   |        |                                                 [TQJLTH <Pr>] [B-M>ZNJ> <Co>]
  DAN 05,27 2sgM WQt0  << ZQt0  ?Q      132   151 24..            |                   |        |                                                      |  [W-<Cj>] [HCTKXT <Pr>] [XSJR <Pj>]
-                               =======                           |                   |        |                                                      |    +\
- DAN 05,28 ---- NmCl  <<  [Q]  ?QQ     1324  152 25.q            |                   |        |                                                      |   || [PRS <PC>]
-                               =======                           |                   |        |                                                           +/
+                               =======                           |                   |        |                                                      |    +====\
+ DAN 05,28 ---- NmCl  <<  [Q]  ?QQ     1324  152 25.q            |                   |        |                                                      |    | [PRS <PC>]
+                               =======                           |                   |        |                                                      |    +====/
  DAN 05,28 3sgF ZQtX  << ZQt0  ?Q      132   153 23..            |                   |        |                                                     [PRJST <Pr>] [MLKWTK <Su>]
  DAN 05,28 3sgF WQt0  << ZQtX  ?Q      132   154 24..            |                   |        |                                                         [W-<Cj>] [JHJBT <Pr>] [L-MDJ W-PRS <Co>]
-                               =======                           |                            +===================================================/
+                               =======                           |                   |        +===================================================/
  DAN 05,29 3sgM xQtX  << XQtl  ?       1     155  7..            |                  [B->DJN <Ti>] [>MR <Pr>] [BLC>YR <Su>]
  DAN 05,29 3plM WQt0  << xQtX  ?       1     156  8..            |                      [W-<Cj>] [HLBJCW <Pr>] [L-DNJ>L <Co>] [>RGWN> <Ob>]
  DAN 05,29 ---- NmCl  << WQt0  ?       1     157 10..            |                           |  [W-<Cj>] [HMWNK> / DJ DHB> <sp><Su>] [<L YW>RH <Co>]

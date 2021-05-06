@@ -18,7 +18,7 @@
  IOB 34,05 3sgM WXQt  << ZQt0  NQQ     111    16 11..         |      |   |       |        |      |  [W-<Cj>] [>L <Su>] [HSJR <Pr>] [MCPVJ <Ob>]
  IOB 34,06 1sg- xYq0  << ZQt0  NQQ     111    17 10..         |      |   |       |        |     [<L MCPVJ <Aj>] [>KZB <Pr>]
  IOB 34,06 -sgM AjCl  << xYq0  NQQ     111    18 11..         |      |   |       |        |         [>NWC <PC>] [XYJ <Su>] [BLJ PC< <Aj>]
-                               =======                        |      |   |                +====================================================/
+                               =======                        |      |   |       |        +====================================================/
  IOB 34,07 ---- NmCl  << xYq0  NQ      11     19  6..         |      |   |      [MJ <Su>] [GBR / K->JWB <sp><PC>]
  IOB 34,07 3sgM ZYq0 [attrib.] NQ      11     20  8..         |      |   |           |  [JCTH <Pr>] [L<G <Ob>] [K--MJM <Aj>]
  IOB 34,08 3sgM WQt0 [coordin] NQ      11     21  9..         |      |   |           |      [W-<Cj>] [>RX <Pr>] [L-XBRH / <M P<LJ >WN <sp><Co>]
@@ -27,7 +27,7 @@
                                =======                        |      |   |            +========================================================\
  IOB 34,09 3sgM xYqX  <<  [Q]  NQQ     112    24  8.q         |      |   |            | [L> <Ng>] [JSKN <Pr>] [GBR <Su>]
  IOB 34,09 ---- InfC [adjunct] NQQ     112    25  9..         |      |   |            |     [B-RYTW <PO>] [<M >LHJM <Co>]
-                               =======                        |      |                +========================================================/
+                               =======                        |      |   |            +========================================================/
  IOB 34,10 ---- Defc  << ZIm0  NQ      11     26  4d.         |      |  [LKN <Mo>]
  IOB 34,10 ---- Voct  << Defc  NQ      11     27  7ve         |      |       |   |  [>NCJ LBB <Vo>]
  IOB 34,10 2plM ZIm0  << Defc  NQ      11     28  6..         |      |       |  [CM<W <Pr>] [LJ <Co>]
@@ -50,9 +50,9 @@
  IOB 34,17 2sgM WxY0  << XYqt  NQ      11     45  9..         |          |               |  [W-<Cj>] [>M <Cj>] [YDJQ KBJR <Ob>] [TRCJ< <Pr>]
  IOB 34,18 ---- InfC  << WxY0  NQ      11     46 11..         |          |               |       |  [H-<Qu>] [>MR <Pr>] [L-MLK <Co>]
                                =======                        |          |               |       |       |+====================================\
- IOB 34,18 ---- Voct  <<  [Q]  NQQ     113    47 13vq         |          |               |       |        | [BLJ<L <Vo>]
- IOB 34,18 ---- Voct  << Voct  NQQ     113    48 13v.         |          |               |       |        | [RC< <Vo>]
-                               =======                        |          |               |       |        +====================================/
+ IOB 34,18 ---- Voct  <<  [Q]  NQQ     113    47 13vq         |          |               |       |       || [BLJ<L <Vo>]
+ IOB 34,18 ---- Voct  << Voct  NQQ     113    48 13v.         |          |               |       |       || [RC< <Vo>]
+                               =======                        |          |               |       |       |+====================================/
  IOB 34,18 ---- NmCl  << InfC  NQ      11     49 12..         |          |               |       |      [>L NDJBJM <Co>]
  IOB 34,19 3sgM xQt0 [attrib.] NQ      11     50 10..         |          |               |      [>CR <Re>] [L> <Ng>] [NF> <Pr>] [PNJ FRJM <Ob>]
  IOB 34,19 3sgM WxQ0 [coordin] NQ      11     51 11..         |          |               |          [W-<Cj>] [L> <Ng>] [NKR <Pr>] [CW< <Ob>] [L-PNJ DL <Aj>]
@@ -72,7 +72,7 @@
  IOB 34,24 3sgM ZYq0 [coordin] NQ      11     65 12..         |          |                       |   |  [JR< <Pr>] [KBJRJM <Ob>] [L> XQR <Mo>]
                                -------                        |          |                       |   |    +------------------------------------\
  IOB 34,24 3sgM Way0 [coordin] NQN     11     66 13..         |          |                       |   |    | [W-<Cj>] [J<MD <Pr>] [>XRJM <Ob>] [TXTM <Aj>]
-                               -------                        |          |                       |        +------------------------------------/
+                               -------                        |          |                       |   |    +------------------------------------/
  IOB 34,25 3sgM xYq0  << NmCl  NQ      11     67 11..         |          |                       |  [LKN <Mo>] [JKJR <Pr>] [M<BDJHM <Ob>]
  IOB 34,25 3sgM WQt0  << xYq0  NQ      11     68 13..         |          |                       |       |  [W-<Cj>] [HPK <Pr>] [LJLH <Ti>]
  IOB 34,25 3plM WYq0  << WQt0  NQ      11     69 14..         |          |                       |       |      [W-<Cj>] [JDK>W <Pr>]
@@ -95,7 +95,7 @@
  IOB 34,32 2sgM XImp  << ZQt0  NQQ     114    85 14..         |          |                            |      |  [>TH <Su>] [HRNJ <PO>]
  IOB 34,32 1sg- xQt0  << ZQt0  NQQ     114    86 13..         |          |                            |     [>M <Cj>] [<WL <Ob>] [P<LTJ <Pr>]
  IOB 34,32 1sg- xYq0  << xQt0  NQQ     114    87 14..         |          |                            |         [L> <Ng>] [>SJP <Pr>]
-                               =======                        |                                       +========================================/
+                               =======                        |          |                            +========================================/
  IOB 34,33 3sgM xYq0  << NmCl  NQ      11     88  4..         |         [H-<Qu>] [M-<MK <Aj>] [JCLMNH <PO>]
  IOB 34,33 2sgM xQt0  << xYq0  NQ      11     89  9..         |              |   |   |   |  [KJ <Cj>] [M>ST <Pr>]
  IOB 34,33 2sgM XYqt  << xYq0  NQ      11     90  8..         |              |   |   |  [KJ <Cj>] [>TH <Su>] [TBXR <Pr>]
@@ -110,7 +110,7 @@
  IOB 34,35 3sgM XYqt  <<  [Q]  NQQ     115    98  7.q         |              |    | [>JWB <Su>] [L> <Ng>] [B-D<T <Aj>] [JDBR <Pr>]
  IOB 34,35 ---- NmCl  << XYqt  NQQ     115    99  8..         |              |    |     [W-<Cj>] [DBRJW <Su>] [L> <Ng>]
  IOB 34,35 ---- InfA [predic.] NQQ     115   100  9..         |              |    |         [B-HFKJL <Pr>]
-                               =======                        |                   +============================================================/
+                               =======                        |              |    +============================================================/
  IOB 34,36 ---- Voct  << xYq0  NQ      11    101  5v.         |             [>BJ <Vo>]
  IOB 34,36 3sgM ZYqX  << Voct  NQ      11    102  6..         |                 [JBXN <Pr>] [>JWB <Su>] [<D NYX <Aj>] [<L TCBT / B->NCJ >WN <sp><Aj>]
  IOB 34,37 3sgM xYq0  << ZYqX  NQ      11    103  7..         |                     [KJ <Cj>] [JSJP <Pr>] [<L XV>TW <Co>] [PC< <Ob>]

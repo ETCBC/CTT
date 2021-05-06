@@ -7,8 +7,8 @@ IICHR04,02 ---- NmCl  << Way0  N       1       6  3..    |   |   |  [<FR / B-->M
 IICHR04,02 -sgM AjCl  << NmCl  N       1       7  6..    |   |   |       |   |  [<GWL <PC>] [SBJB <Mo>]
 IICHR04,02 ---- NmCl  << NmCl  N       1       8  5..    |   |   |       |  [W-<Cj>] [XMC / B-->MH <sp><PC>] [QWMTW <Su>]
                                -------                   |   |   |    +---------------------------------------------------------------------------\
-IICHR04,02 3sgM WXYq  << NmCl  ND      1       9  4..    |   |   |   || [W-<Cj>] [QW / CLCJM / B-->MH <sp><sp><Su>] [JSB <Pr>] [>TW <Ob>] [SBJB <Mo>]
-                               -------                   |   |        +---------------------------------------------------------------------------/
+IICHR04,02 3sgM WXYq  << NmCl  ND      1       9  4..    |   |   |    | [W-<Cj>] [QW / CLCJM / B-->MH <sp><sp><Su>] [JSB <Pr>] [>TW <Ob>] [SBJB <Mo>]
+                               -------                   |   |   |    +---------------------------------------------------------------------------/
 IICHR04,03 ---- NmCl  << Way0  N       1      10  2..    |   |  [W-<Cj>] [DMWT BQRJM <Su>] [TXT LW <PC>] [SBJB <Mo>]
 IICHR04,03 -plM Ptcp  << NmCl  N       1      11  4..    |   |       |  [SBJB <Mo>] [SWBBJM <PC>] [>TW <Ob>]
 IICHR04,03 -plM Ptcp  << Ptcp  N       1      12  5..    |   |       |      [<FR / B-->MH <sp><Su>] [MQJPJM <PC>] [>T H-JM <Ob>] [SBJB <Mo>]
@@ -25,16 +25,16 @@ IICHR04,05 ---- NmCl  << NmCl  N       1      22  3..    |       |  [W-<Cj>] [FP
 IICHR04,05 -sgM Ptcp  << NmCl  N       1      23  4..    |       |      [PRX CWCNH <Ob>] [MXZJQ <PC>]
                                -------                   |    +-----------------------------------------------------------------------------------\
 IICHR04,05 3sgM xYq0  << NmCl  ND      1      24  2..    |    | [BTJM CLCT >LPJM <Ob>] [JKJL <Pr>]
-                               -------                        +-----------------------------------------------------------------------------------/
+                               -------                   |    +-----------------------------------------------------------------------------------/
 IICHR04,06 3sgM Way0  << Way0  N       1      25  0..   [W-<Cj>] [J<F <Pr>] [KJWRJM <FRH <Ob>]
 IICHR04,06 3sgM Way0  << Way0  N       1      26  3..    |   |   |  [W-<Cj>] [JTN <Pr>] [XMCH <Ob>] [M-JMJN <Co>]
 IICHR04,06 ---- Ellp  << Way0  N       1      27  4l.    |   |   |      [W-<Cj>] [XMCH <Ob>] [M-FM>WL <Co>]
 IICHR04,06 ---- InfC [adjunct] N       1      28  2..    |   |  [L-RXYH <Pr>] [BHM <Co>]
                                -------                   |+---------------------------------------------------------------------------------------\
-IICHR04,06 3plM xYq0  << Way0  ND      1      29  1..     | [>T M<FH H-<WLH <Ob>] [JDJXW <Pr>] [BM <Co>]
-IICHR04,06 ---- NmCl  << xYq0  ND      1      30  2..     |     [W-<Cj>] [H-JM <Su>]
-IICHR04,06 ---- InfC [predic.] ND      1      31  3..     |         [L-RXYH <Pr>] [L--KHNJM <Aj>] [BW <Co>]
-                               -------                    +---------------------------------------------------------------------------------------/
+IICHR04,06 3plM xYq0  << Way0  ND      1      29  1..    || [>T M<FH H-<WLH <Ob>] [JDJXW <Pr>] [BM <Co>]
+IICHR04,06 ---- NmCl  << xYq0  ND      1      30  2..    ||     [W-<Cj>] [H-JM <Su>]
+IICHR04,06 ---- InfC [predic.] ND      1      31  3..    ||         [L-RXYH <Pr>] [L--KHNJM <Aj>] [BW <Co>]
+                               -------                   |+---------------------------------------------------------------------------------------/
 IICHR04,07 3sgM Way0  << Way0  N       1      32  0..   [W-<Cj>] [J<F <Pr>] [>T MNRWT H-ZHB <Ob>] [<FR <Ob>] [K-MCPVM <Aj>]
 IICHR04,07 3sgM Way0  << Way0  N       1      33  1..    |  [W-<Cj>] [JTN <Pr>] [B--HJKL <Lo>] [XMC <Ob>] [M-JMJN <Co>]
 IICHR04,07 ---- Ellp  << Way0  N       1      34  2l.    |      [W-<Cj>] [XMC <Ob>] [M-FM>WL <Co>]

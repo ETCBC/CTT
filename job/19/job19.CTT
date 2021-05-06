@@ -15,8 +15,8 @@
  IOB 19,06 3sgM WXQt [coordin] NQ      11     14 10..         |                      |   |      [W-<Cj>] [MYWDW <Su>] [<LJ <Co>] [HQJP <Pr>]
  IOB 19,07 1sg- xYq0  << ZIm0  NQ      11     15  8..         |                      |  [HN <Ij>] [>Y<Q <Pr>]
                                =======                        |                      |       |   |   |+========================================\
- IOB 19,07 ---- NmCl  <<  [Q]  NQQ     111    16 12.q         |                      |       |   |    | [XMS <PC>]
-                               =======                        |                      |       |   |    +========================================/
+ IOB 19,07 ---- NmCl  <<  [Q]  NQQ     111    16 12.q         |                      |       |   |   || [XMS <PC>]
+                               =======                        |                      |       |   |   |+========================================/
  IOB 19,07 1sg- WxY0  << xYq0  NQ      11     17 11..         |                      |       |   |  [W-<Cj>] [L> <Ng>] [><NH <Pr>]
  IOB 19,07 1sg- ZYq0  << xYq0  NQ      11     18 10..         |                      |       |  [>CW< <Pr>]
  IOB 19,07 ---- NmCl  << ZYq0  NQ      11     19 11..         |                      |       |      [W-<Cj>] [>JN <NC>] [MCPV <Su>]
@@ -25,26 +25,26 @@
  IOB 19,08 3sgM WxY0  << xQt0  NQ      11     22 11..         |                      |           |  [W-<Cj>] [<L NTJBWTJ <Co>] [XCK <Ob>] [JFJM <Pr>]
  IOB 19,09 3sgM xQt0  << xQt0  NQ      11     23 10..         |                      |          [KBWDJ <Ob>] [M-<LJ <Co>] [HPCJV <Pr>]
                                -------                        |                      |           |   |+----------------------------------------\
- IOB 19,09 3sgM Way0  << xQt0  NQN     11     24 12..         |                      |           |    | [W-<Cj>] [JSR <Pr>] [<VRT R>CJ <Ob>]
+ IOB 19,09 3sgM Way0  << xQt0  NQN     11     24 12..         |                      |           |   || [W-<Cj>] [JSR <Pr>] [<VRT R>CJ <Ob>]
                                -------                        |                      |           |   ||  |   |+-----------------------------\
- IOB 19,10 3sgM ZYq0  << Way0  NQND    11     25 14..         |                      |           |    |  |    | [JTYNJ <PO>] [SBJB <Lo>]
-                               -------                        |                      |           |   ||  |    +-----------------------------/
- IOB 19,10 1sg- Way0  << Way0  NQN     11     26 13..         |                      |           |    |  |  [W-<Cj>] [>LK <Pr>]
- IOB 19,10 3sgM Way0  << Way0  NQN     11     27 12..         |                      |           |    | [W-<Cj>] [JS< <Pr>] [K--<Y <Aj>] [TQWTJ <Ob>]
- IOB 19,11 3sgM Way0  << Way0  NQN     11     28 12..         |                      |           |    | [W-<Cj>] [JXR <Pr>] [<LJ <Co>] [>PW <Ob>]
- IOB 19,11 3sgM Way0  << Way0  NQN     11     29 13..         |                      |           |    |     [W-<Cj>] [JXCBNJ <PO>] [LW <sc>] [K-YRJW <Co>]
-                               -------                        |                      |           |    +----------------------------------------/
+ IOB 19,10 3sgM ZYq0  << Way0  NQND    11     25 14..         |                      |           |   ||  |   || [JTYNJ <PO>] [SBJB <Lo>]
+                               -------                        |                      |           |   ||  |   |+-----------------------------/
+ IOB 19,10 1sg- Way0  << Way0  NQN     11     26 13..         |                      |           |   ||  |  [W-<Cj>] [>LK <Pr>]
+ IOB 19,10 3sgM Way0  << Way0  NQN     11     27 12..         |                      |           |   || [W-<Cj>] [JS< <Pr>] [K--<Y <Aj>] [TQWTJ <Ob>]
+ IOB 19,11 3sgM Way0  << Way0  NQN     11     28 12..         |                      |           |   || [W-<Cj>] [JXR <Pr>] [<LJ <Co>] [>PW <Ob>]
+ IOB 19,11 3sgM Way0  << Way0  NQN     11     29 13..         |                      |           |   ||     [W-<Cj>] [JXCBNJ <PO>] [LW <sc>] [K-YRJW <Co>]
+                               -------                        |                      |           |   |+----------------------------------------/
  IOB 19,12 3plM xYqX  << xQt0  NQ      11     30 11..         |                      |           |  [JXD <Mo>] [JB>W <Pr>] [GDWDJW <Su>]
                                -------                        |                      |           |    +----------------------------------------\
  IOB 19,12 3plM Way0  << xYqX  NQN     11     31 12..         |                      |           |    | [W-<Cj>] [JSLW <Pr>] [<LJ <Co>] [DRKM <Ob>]
  IOB 19,12 3plM Way0  << Way0  NQN     11     32 12..         |                      |           |    | [W-<Cj>] [JXNW <Pr>] [SBJB <Mo>] [L->HLJ <Lo>]
-                               -------                        |                      |                +----------------------------------------/
+                               -------                        |                      |           |    +----------------------------------------/
  IOB 19,13 3sgM xQt0  << xQt0  NQ      11     33 10..         |                      |          [>XJ <Ob>] [M-<LJ <Co>] [HRXJQ <Pr>]
  IOB 19,13 3pl- WXQt  << xQt0  NQ      11     34 13..         |                      |               |   |  [W-<Cj>] [JD<J <Su>] [>K <Mo>] [ZRW <Pr>] [MMNJ <Co>]
  IOB 19,14 3pl- ZQtX  << xQt0  NQ      11     35 12..         |                      |               |  [XDLW <Pr>] [QRWBJ <Su>]
  IOB 19,14 3pl- WXQt  << ZQtX  NQ      112    36 13.#         |                      |               |      [W-<Cj>] [MJD<J <Su>] [CKXWNJ <PO>]
  IOB 19,15 3plF XYqt  << xQt0  NQ      11     37 11..         |                      |              [GRJ BJTJ W->MHTJ <Su>] [L-ZR <Co>] [TXCBNJ <PO>]
- IOB 19,15 1sg- xQt0  << XYqt  NQ      11     38 14..         |                      |                   |   |  [NKRJ <PC>] [HJJTJ <Pr>] [B-<JNJHM <Aj>]
+ IOB 19,15 1sgM xQt0  << XYqt  NQ      11     38 14..         |                      |                   |   |  [NKRJ <PC>] [HJJTJ <Pr>] [B-<JNJHM <Aj>]
  IOB 19,16 1sg- xQt0  << XYqt  NQ      11     39 13..         |                      |                   |  [L-<BDJ <Co>] [QR>TJ <Pr>]
  IOB 19,16 3sgM WxY0  << xQt0  NQ      11     40 15..         |                      |                   |       |  [W-<Cj>] [L> <Ng>] [J<NH <Pr>]
  IOB 19,16 1sg- xYq0  << xQt0  NQ      11     41 14..         |                      |                   |      [BMW PJ <Aj>] [>TXNN <Pr>] [LW <Co>]
@@ -54,7 +54,7 @@
  IOB 19,18 1sg- ZYq0  << XQtl  NQ      11     45 16..         |                      |                       |       |  [>QWMH <Pr>]
                                -------                        |                      |                       |       |    +--------------------\
  IOB 19,18 3plM Way0  << ZYq0  NQN     11     46 17..         |                      |                       |       |    | [W-<Cj>] [JDBRW <Pr>] [BJ <Co>]
-                               -------                        |                      |                       |            +--------------------/
+                               -------                        |                      |                       |       |    +--------------------/
  IOB 19,19 3pl- ZQtX  << XQtl  NQ      11     47 15..         |                      |                       |      [T<BWNJ <PO>] [KL MTJ SWDJ <Su>]
  IOB 19,19 1sg- WxQ0  << ZQtX  NQ      11     48 17..         |                      |                       |           |  [W-<Cj>] [ZH <Ob>] [>HBTJ <Pr>]
  IOB 19,19 3pl- ZQt0  << ZQtX  NQ      11     49 16..         |                      |                       |          [NHPKW <Pr>] [BJ <Co>]
@@ -84,8 +84,8 @@
  IOB 19,27 3pl- ZQtX  << WXQt  NQ      113    71 10..         |                          |      [KLW <Pr>] [KLJTJ <Su>] [B-XQJ <Aj>]
  IOB 19,28 2plM xYq0  << ZIm0  NQ      11     72  8..         |                         [KJ <Cj>] [T>MRW <Pr>]
                                =======                        |                              |   |+============================================\
- IOB 19,28 1pl- xYq0  <<  [Q]  NQQ     114    73 11.q         |                              |    | [MH <Qu>] [NRDP <Pr>] [LW <Co>]
-                               =======                        |                              |    +============================================/
+ IOB 19,28 1pl- xYq0  <<  [Q]  NQQ     114    73 11.q         |                              |   || [MH <Qu>] [NRDP <Pr>] [LW <Co>]
+                               =======                        |                              |   |+============================================/
  IOB 19,28 3sgM WXQt  << xYq0  NQ      115    74 10.#         |                              |  [W-<Cj>] [CRC DBR <Su>] [NMY> <Pr>] [BJ <Co>]
  IOB 19,29 2plM ZIm0  << xYq0  NQ      11     75  9..         |                             [GWRW <Pr>] [LKM <Aj>] [M-PNJ XRB <Co>]
  IOB 19,29 ---- NmCl  << ZIm0  NQ      11     76 11..         |                                  |  [KJ <Cj>] [XMH <Su>] [<WNWT XRB <PC>]

@@ -42,7 +42,7 @@
  IOB 39,15 3sgF XYqt [object ] QN      1      41 11..                    |       |   |        |     [KJ <Cj>] [RGL <Su>] [TZWRH <PO>]
                                -------                                   |       |   |        |       +----------------------------------------\
  IOB 39,15 3sgF WXYq [coordin] QND     1      42 12..                    |       |   |        |       | [W-<Cj>] [XJT H-FDH <Su>] [TDWCH <PO>]
-                               -------                                   |       |            +---------------------------------------------------/
+                               -------                                   |       |   |        +---------------------------------------------------/
  IOB 39,16 3sgM ZQt0  << XQtl  Q       1      43  7..                    |       |  [HQCJX <Pr>] [BNJH <Ob>]
  IOB 39,16 ---- NmCl  << ZQt0  Q       1      44  9..                    |       |       |  [L-<Cj>] [L> <Ng>] [LH <PC>]
  IOB 39,16 ---- NmCl  << ZQt0  Q       1      45  8..                    |       |      [L-RJQ <PC>] [JGJ<H / BLJ PXD <sp><Su>]
@@ -68,8 +68,8 @@
  IOB 39,24 ---- NmCl [object ] Q       1      65 11..                        |               |      [KJ <Cj>] [QWL CWPR <PC>]
  IOB 39,25 3sgM xYq0  << xYq0  Q       1      66  9..                        |              [B-DJ CPR <Aj>] [J>MR <Pr>]
                                =======                                       |                   |+===============================================\
- IOB 39,25 ---- NmCl  <<  [Q]  QQ      11     67 11.q                        |                    | [H>X <Ij>]
-                               =======                                       |                    +===============================================/
+ IOB 39,25 ---- NmCl  <<  [Q]  QQ      11     67 11.q                        |                   || [H>X <Ij>]
+                               =======                                       |                   |+===============================================/
  IOB 39,25 3sgM WxY0  << xYq0  Q       1      68 10..                        |                  [W-<Cj>] [M-RXWQ <Aj>] [JRJX <Pr>] [MLXMH R<M FRJM W-TRW<H <Ob>]
  IOB 39,26 3sgM xYqX  << xYq0  Q       1      69  5..                       [H-<Qu>] [M-BJNTK <Aj>] [J>BR <Pr>] [NY <Su>]
  IOB 39,26 3sgM ZYq0 [coordin] Q       1      70  8..                            |   |  [JPRF <Pr>] [KNPW <Ob>] [L-TJMN <Co>]

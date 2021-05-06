@@ -2,17 +2,17 @@ IICHR19,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JCB <Pr>] [JHW
 IICHR19,02 3sgM WayX  << WayX  N       11      2  2.#        |  [W-<Cj>] [JY> <Pr>] [>L PNJW <Co>] [JHW> / BN XNNJ / H-XZH <ap><ap><Su>]
 IICHR19,02 3sgM Way0  << WayX  N       11      3  3..        |      [W-<Cj>] [J>MR <Pr>] [>L H-MLK / JHWCPV <ap><Co>]
                                =======                       |        +===========================================================================\
-IICHR19,02 ---- XPos  >> InfC  NQ      111     4  5x\        |       ||  |  [H-<Qu>] [L--RC< <Co>]
-IICHR19,02 ---- InfC  <<  [Q]  NQ      111     5  4.q        |       || [L-<ZR <Pr>]
-IICHR19,02 ---- Defc [coordin] NQ      111     6  6d.        |       ||      |  [W-<Cj>]
-IICHR19,02 -plM Ptcp [complm.] NQ      111     7  8.\        |       ||      |       |  [L-FN>J <PC>] [JHWH <Ob>]
-IICHR19,02 2sgM ZYq0  << Defc  NQ      111     8  7..        |       ||      |      [T>HB <Pr>]
-IICHR19,02 ---- NmCl  << InfC  NQ      111     9  5..        |       ||     [W-<Cj>] [B-Z>T <Aj>] [<LJK <PC>] [QYP / M-L-PNJ JHWH <sp><Su>]
-IICHR19,03 3pl- XQtl  << NmCl  NQ      111    10  6..        |       ||         [>BL <Ij>] [DBRJM VWBJM <Su>] [NMY>W <Pr>] [<MK <Co>]
-IICHR19,03 2sgM xQt0  << XQtl  NQ      111    11  7..        |       ||             [KJ <Cj>] [B<RT <Pr>] [H->CRWT <Ob>] [MN H->RY <Co>]
-IICHR19,03 2sgM WQt0  << xQt0  NQ      111    12  8..        |       ||                 [W-<Cj>] [HKJNWT <Pr>] [LBBK <Ob>]
-IICHR19,03 ---- InfC [adjunct] NQ      111    13  9..        |       ||                     [L-DRC <Pr>] [H->LHJM <Ob>]
-                               =======                                +===========================================================================/
+IICHR19,02 ---- XPos  >> InfC  NQ      111     4  5x\        |        |  |  [H-<Qu>] [L--RC< <Co>]
+IICHR19,02 ---- InfC  <<  [Q]  NQ      111     5  4.q        |        | [L-<ZR <Pr>]
+IICHR19,02 ---- Defc [coordin] NQ      111     6  6d.        |        |      |  [W-<Cj>]
+IICHR19,02 -plM Ptcp [complm.] NQ      111     7  8.\        |        |      |       |  [L-FN>J <PC>] [JHWH <Ob>]
+IICHR19,02 2sgM ZYq0  << Defc  NQ      111     8  7..        |        |      |      [T>HB <Pr>]
+IICHR19,02 ---- NmCl  << InfC  NQ      111     9  5..        |        |     [W-<Cj>] [B-Z>T <Aj>] [<LJK <PC>] [QYP / M-L-PNJ JHWH <sp><Su>]
+IICHR19,03 3pl- XQtl  << NmCl  NQ      111    10  6..        |        |         [>BL <Ij>] [DBRJM VWBJM <Su>] [NMY>W <Pr>] [<MK <Co>]
+IICHR19,03 2sgM xQt0  << XQtl  NQ      111    11  7..        |        |             [KJ <Cj>] [B<RT <Pr>] [H->CRWT <Ob>] [MN H->RY <Co>]
+IICHR19,03 2sgM WQt0  << xQt0  NQ      111    12  8..        |        |                 [W-<Cj>] [HKJNWT <Pr>] [LBBK <Ob>]
+IICHR19,03 ---- InfC [adjunct] NQ      111    13  9..        |        |                     [L-DRC <Pr>] [H->LHJM <Ob>]
+                               =======                       |        +===========================================================================/
 IICHR19,04 3sgM WayX  << WayX  N       12     14  1.#       [W-<Cj>] [JCB <Pr>] [JHWCPV <Su>] [B-JRWCLM <Co>]
 IICHR19,04 3sgM Way0  << WayX  N       12     15  3..            |  [W-<Cj>] [JCB <Pr>]
 IICHR19,04 3sgM Way0  << Way0  N       12     16  5..            |       |  [W-<Cj>] [JY> <Pr>] [B--<M <Aj>] [M-B>R CB< <Co>] [<D HR >PRJM <Co>]
@@ -30,7 +30,7 @@ IICHR19,07 3sgM ZYqX  << MSyn  NQ      121    26  8..                |    |     
 IICHR19,07 2plM ZIm0  << MSyn  NQ      121    27  7..                |    |         [CMRW <Pr>]
 IICHR19,07 2plM WIm0  << ZIm0  NQ      121    28  8..                |    |             [W-<Cj>] [<FW <Pr>]
 IICHR19,07 ---- NmCl  << WIm0  NQ      121    29  9..                |    |                 [KJ <Cj>] [>JN <NC>] [<M JHWH / >LHJNW <ap><PC>] [<WLH W-MF> PNJM W-MQX CXD <Su>]
-                               =======                                    +=======================================================================/
+                               =======                               |    +=======================================================================/
 IICHR19,08 3sgM WxQX  << Way0  N       12     30  3..               [W-<Cj>] [GM B-JRWCLM <Co>] [H<MJD <Pr>] [JHWCPV <Su>] [MN H-LWJM W-H-KHNJM W-M-R>CJ H->BWT / L-JFR>L <sp><Ob>] [L-MCPV JHWH W-L--RJB <Aj>]
 IICHR19,08 3plM Way0  << WxQX  N       12     31  5..                    |  [W-<Cj>] [JCBW <Pr>] [JRWCLM <Co>]
 IICHR19,09 3sgM Way0  << WxQX  N       12     32  4..                   [W-<Cj>] [JYW <Pr>] [<LJHM <Co>]

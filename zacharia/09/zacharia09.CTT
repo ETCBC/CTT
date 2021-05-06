@@ -8,10 +8,10 @@
  ZACH09,02 ---- Ellp  << Ellp  D       1       8  5l.    |                  [YR W-YJDWN <Su>]
  ZACH09,02 3sgF xQt0  << Ellp  D       1       9  8..    |                       |   |  [KJ <Cj>] [XKMH <Pr>] [M>D <Mo>]
                                -------                   |                       |+---------------------------------------------------------------\
- ZACH09,03 3sgF WayX  << Ellp  DN      11     10  7.#    |                        | [W-<Cj>] [TBN <Pr>] [YR <Su>] [MYWR <Ob>] [LH <Co>]
- ZACH09,03 3sgF Way0  << WayX  DN      11     11  8..    |                        |     [W-<Cj>] [TYBR <Pr>] [KSP <Ob>] [K--<PR <Aj>]
- ZACH09,03 ---- Ellp  << Way0  DN      11     12  9l.    |                        |         [W-<Cj>] [XRWY <Ob>] [K-VJV XWYWT <Aj>]
-                               -------                   |                        +---------------------------------------------------------------/
+ ZACH09,03 3sgF WayX  << Ellp  DN      11     10  7.#    |                       || [W-<Cj>] [TBN <Pr>] [YR <Su>] [MYWR <Ob>] [LH <Co>]
+ ZACH09,03 3sgF Way0  << WayX  DN      11     11  8..    |                       ||     [W-<Cj>] [TYBR <Pr>] [KSP <Ob>] [K--<PR <Aj>]
+ ZACH09,03 ---- Ellp  << Way0  DN      11     12  9l.    |                       ||         [W-<Cj>] [XRWY <Ob>] [K-VJV XWYWT <Aj>]
+                               -------                   |                       |+---------------------------------------------------------------/
  ZACH09,04 3sgM XYqt  << Ellp  D       12     13  6.#    |                      [HNH <Ij>] [>DNJ <Su>] [JWRCNH <PO>]
  ZACH09,04 3sgM WQt0  << XYqt  D       12     14  9..    |                           |   |  [W-<Cj>] [HKH <Pr>] [B--JM <Co>] [XJLH <Ob>]
  ZACH09,04 3sgF WXYq  << WQt0  D       12     15 10..    |                           |   |      [W-<Cj>] [HJ> <Su>] [B-->C <Co>] [T>KL <Pr>]
@@ -29,14 +29,14 @@
  ZACH09,07 1sg- WQt0  << WQt0  DQ      121    26  7..    |                        | [W-<Cj>] [HSRTJ <Pr>] [DMJW <Ob>] [M-PJW <Co>]
  ZACH09,07 ---- Ellp  << WQt0  DQ      121    27  9l.    |                        |  |   |  [W-<Cj>] [CQYJW <Ob>] [M-BJN CNJW <Co>]
                                =======                   |                        |  |+========================================================\
- ZACH09,07 3sgM WQtX  <<  [Q]  DQQ     1211   28  8.q    |                        |   | [W-<Cj>] [NC>R <Pr>] [GM HW> <Su>] [L->LHJNW <Co>]
- ZACH09,07 3sgM WQt0  << WQtX  DQQ     1211   29  9..    |                        |   |     [W-<Cj>] [HJH <Pr>] [K->LP / B-JHWDH <sp><Aj>]
- ZACH09,07 ---- Ellp  << WQt0  DQQ     1211   30 10l.    |                        |   |         [W-<Cj>] [<QRWN <Su>] [K-JBWSJ <Aj>]
-                               =======                   |                        |   +========================================================/
+ ZACH09,07 3sgM WQtX  <<  [Q]  DQQ     1211   28  8.q    |                        |  || [W-<Cj>] [NC>R <Pr>] [GM HW> <Su>] [L->LHJNW <Co>]
+ ZACH09,07 3sgM WQt0  << WQtX  DQQ     1211   29  9..    |                        |  ||     [W-<Cj>] [HJH <Pr>] [K->LP / B-JHWDH <sp><Aj>]
+ ZACH09,07 ---- Ellp  << WQt0  DQQ     1211   30 10l.    |                        |  ||         [W-<Cj>] [<QRWN <Su>] [K-JBWSJ <Aj>]
+                               =======                   |                        |  |+========================================================/
  ZACH09,08 1sg- WQt0  << WQt0  DQ      121    31  7..    |                        | [W-<Cj>] [XNJTJ <Pr>] [L-BJTJ <Co>] [M-YBH <Aj>] [M-<BR W-M-CB <Aj>]
  ZACH09,08 3sgM WxYX  << WQt0  DQ      121    32  9..    |                        |      |  [W-<Cj>] [L> <Ng>] [J<BR <Pr>] [<LJHM <Co>] [<WD <Mo>] [NGF <Su>]
  ZACH09,08 1sg- xQt0  << WQt0  DQ      121    33  8..    |                        |     [KJ <Cj>] [<TH <Ti>] [R>JTJ <Pr>] [B-<JNJ <Co>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  ZACH09,09 2sgF ZIm0  << NmCl  Q       2      34  0.N   [GJLJ <Pr>] [M>D <Mo>]
  ZACH09,09 ---- Voct  << ZIm0  Q       2      35  3v.    |   |   |  [BT YJWN <Vo>]
  ZACH09,09 2sgF ZIm0  << ZIm0  Q       2      36  2..    |   |  [HRJ<J <Pr>]
@@ -50,14 +50,14 @@
  ZACH09,10 3sgF WQtX  << WQt0  Q       2      44  4..    |       |      [W-<Cj>] [NKRTH <Pr>] [QCT MLXMH <Su>]
  ZACH09,10 3sgM WQt0  << WQtX  Q       2      45  5..    |       |          [W-<Cj>] [DBR <Pr>] [CLWM <Ob>] [L--GWJM <Co>]
  ZACH09,10 ---- NmCl  << WQt0  Q       2      46  6..    |       |              [W-<Cj>] [MCLW <Su>] [M-JM / <D JM <sp><PC>]
- ZACH09,10 ---- NmCl [coordin] Q       2      47  7..    |       |                | [W-<Cj>] [M-NHR / <D >PSJ >RY <sp><PC>]
+ ZACH09,10 ---- NmCl [coordin] Q       2      47  7..    |       |                  [W-<Cj>] [M-NHR / <D >PSJ >RY <sp><PC>]
  ZACH09,11 ---- CPen  << XYqt  Q       2      48  2c.    |      [GM >T <Fr>]
  ZACH09,11 1sg- xQt0 [resumpt] Q       2      49  3..    |          [B-DM BRJTK <Aj>] [CLXTJ <Pr>] [>SJRJK <Ob>] [M-BWR <Co>]
- ZACH09,11 ---- NmCl [attrib.] Q       2      50  7..    |               |   |    | [>JN <NC>] [MJM <Su>] [BW <PC>]
+ ZACH09,11 ---- NmCl [attrib.] Q       2      50  7..    |               |   |   |  [>JN <NC>] [MJM <Su>] [BW <PC>]
                                =======                   |               |   |+===================================================================\
- ZACH09,12 2plM ZIm0  <<  [Q]  QQ      21     51  6.q    |               |    | [CWBW <Pr>] [L-BYRWN <Co>]
- ZACH09,12 ---- Voct  << ZIm0  QQ      21     52  7v.    |               |    |     [>SJRJ H-TQWH <Vo>]
-                               =======                   |               |    +===================================================================/
+ ZACH09,12 2plM ZIm0  <<  [Q]  QQ      21     51  6.q    |               |   || [CWBW <Pr>] [L-BYRWN <Co>]
+ ZACH09,12 ---- Voct  << ZIm0  QQ      21     52  7v.    |               |   ||     [>SJRJ H-TQWH <Vo>]
+                               =======                   |               |   |+===================================================================/
  ZACH09,12 -sgM Ptcp  << xQt0  Q       2      53  5..    |               |  [GM H-JWM <Ti>] [MGJD <PC>]
  ZACH09,12 1sg- xYq0 [object ] Q       2      54  6..    |               |      [MCNH <Ob>] [>CJB <Pr>] [LK <Co>]
  ZACH09,13 1sg- xQt0  << xQt0  Q       2      55  4..    |              [KJ <Cj>] [DRKTJ <Pr>] [LJ <Co>] [JHWDH <Ob>]
@@ -67,7 +67,7 @@
  ZACH09,13 ---- Defc  << WQt0  Q       2      59  7d.    |                       |  [<L BNJK <Co>]
  ZACH09,13 ---- Voct  << Defc  Q       2      60  8v.    |                       |      [JWN <Vo>]
  ZACH09,13 1sg- WQt0  << WQt0  Q       2      61  6..    |                      [W-<Cj>] [FMTJK <PO>] [K-XRB GBWR <Aj>]
-                               =======                 ==============================================================================================/
+                               -------                +----------------------------------------------------------------------------------------------\
  ZACH09,14 3sgM WXYq  << ZIm0  D       3      62  0.N   [W-<Cj>] [JHWH <Su>] [<LJHM <Co>] [JR>H <Pr>]
  ZACH09,14 3sgM WQtX  << WXYq  D       3      63  3..        |   |  [W-<Cj>] [JY> <Pr>] [K--BRQ <Aj>] [XYW <Su>]
  ZACH09,14 3sgM WXYq  << WXYq  D       3      64  2..        |  [W-<Cj>] [>DNJ JHWH <Su>] [B--CWPR <Co>] [JTQ< <Pr>]

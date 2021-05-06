@@ -20,8 +20,8 @@
  DEUT29,05 2plM xQt0  << xQtX  NQN     11     18 11..         |      |   |   |    |      |       |  [LXM <Ob>] [L> <Ng>] [>KLTM <Pr>]
  DEUT29,05 2plM WxQ0  << xQt0  NQN     11     19 12..         |      |   |   |    |      |       |      [W-<Cj>] [JJN W-CKR <Ob>] [L> <Ng>] [CTJTM <Pr>]
                                -------                        |      |   |   |    |      |    +---------------------------------------------\
- DEUT29,05 2plM xYq0  << xQtX  NQND    11     20 10..         |      |   |   |    |      |   || [LM<N <Cj>] [TD<W <Pr>]
- DEUT29,05 ---- NmCl [object ] NQND    11     21 11..         |      |   |   |    |      |   ||     [KJ <Cj>] [>NJ <Su>] [JHWH / >LHJKM <ap><PC>]
+ DEUT29,05 2plM xYq0  << xQtX  NQND    11     20 10..         |      |   |   |    |      |    | [LM<N <Cj>] [TD<W <Pr>]
+ DEUT29,05 ---- NmCl [object ] NQND    11     21 11..         |      |   |   |    |      |    |     [KJ <Cj>] [>NJ <Su>] [JHWH / >LHJKM <ap><PC>]
                                -------                        |      |   |   |    |      |    +---------------------------------------------/
  DEUT29,06 2plM Way0  << Way0  NQN     11     22  8..         |      |   |   |    |     [W-<Cj>] [TB>W <Pr>] [>L H-MQWM H-ZH <Co>]
  DEUT29,06 3sgM WayX  << Way0  NQN     111    23  8.#         |      |   |   |    |     [W-<Cj>] [JY> <Pr>] [SJXN / MLK XCBWN / W-/ <WG / MLK H-BCN <ap><pa><cj><ap><Su>]
@@ -30,7 +30,7 @@
  DEUT29,06 1pl- Way0  << WayX  NQN     111    26  9..         |      |   |   |    |         [W-<Cj>] [NKM <PO>]
  DEUT29,07 1pl- Way0  << Way0  NQN     111    27 10..         |      |   |   |    |             [W-<Cj>] [NQX <Pr>] [>T >RYM <Ob>]
  DEUT29,07 1pl- Way0  << Way0  NQN     111    28 11..         |      |   |   |    |                 [W-<Cj>] [NTNH <PO>] [L-NXLH <Pj>] [L--R>WBNJ W-L--GDJ W-L-XYJ CBV H-MNCJ <Co>]
-                               -------                        |      |   |        +------------------------------------------------------------/
+                               -------                        |      |   |   |    +------------------------------------------------------------/
  DEUT29,08 2plM WQt0  << XQtl  NQ      11     29  5..         |      |   |  [W-<Cj>] [CMRTM <Pr>] [>T DBRJ H-BRJT H-Z>T <Ob>]
  DEUT29,08 2plM WQt0  << WQt0  NQ      11     30  6..         |      |   |      [W-<Cj>] [<FJTM <Pr>] [>TM <Ob>]
  DEUT29,08 2plM xYq0  << WQt0  NQ      11     31  7..         |      |   |          [LM<N <Cj>] [TFKJLW <Pr>] [>T KL <Ob>]
@@ -57,7 +57,7 @@
                                -------                        |      |       |    +------------------------------------------------------------\
  DEUT29,16 2plM Way0  << XQtl  NQN     11     52  7..         |      |       |    | [W-<Cj>] [TR>W <Pr>] [>T CQWYJHM W->T GLLJHM / <Y W->BN KSP W-ZHB <sp><Ob>]
  DEUT29,16 ---- NmCl [attrib.] NQN     11     53  8..         |      |       |    |     [>CR <Re>] [<MHM <PC>]
-                               -------                        |      |            +------------------------------------------------------------/
+                               -------                        |      |       |    +------------------------------------------------------------/
  DEUT29,17 ---- NmCl  << Ptcp  NQ      11     54  5..         |      |      [PN <Cj>] [JC <eX>] [BKM <PC>] [>JC >W >CH >W MCPXH >W CBV <Su>]
  DEUT29,17 -sgM Ptcp [attrib.] NQ      11     55  9..         |      |           |   |   |  [>CR <Re>] [LBBW <Su>] [PNH <PC>] [H-JWM <Ti>] [M-<M JHWH / >LHJNW <ap><Co>]
  DEUT29,17 ---- InfC [adjunct] NQ      11     56 10..         |      |           |   |   |      [L-LKT <Pr>]
@@ -72,7 +72,7 @@
  DEUT29,18 3sgM XYqt  <<  [Q]  NQQ     112    64 11.q         |      |           |       |        | [CLWM <Su>] [JHJH <Pr>] [LJ <PC>]
  DEUT29,18 1sg- xYq0  << XYqt  NQQ     112    65 12..         |      |           |       |        |     [KJ <Cj>] [B-CRRWT LBJ <Co>] [>LK <Pr>]
  DEUT29,18 ---- InfC [adjunct] NQQ     112    66 13..         |      |           |       |        |         [LM<N SPWT <Pr>] [H-RWH <Su>] [>T H-YM>H <Ob>]
-                               =======                        |      |           |                +============================================/
+                               =======                        |      |           |       |        +============================================/
  DEUT29,19 3sgM xYqX  << WQt0  NQ      11     67  8..         |      |           |      [L> <Ng>] [J>BH <Pr>] [JHWH <Su>]
  DEUT29,19 ---- InfC [object ] NQ      11     68 10..         |      |           |           |  [SLX <Pr>] [LW <Co>]
  DEUT29,19 3sgM xYqX  << xYqX  NQ      11     69  9..         |      |           |          [KJ <Cj>] [>Z <Ti>] [J<CN <Pr>] [>P JHWH W-QN>TW <Su>] [B-->JC H-HW> <Co>]
@@ -96,9 +96,9 @@
  DEUT29,22 3sgM xQtX [attrib.] NQ      11     87 14..         |      |               |                          [>CR <Re>] [HPK <Pr>] [JHWH <Su>] [B->PW W-B-XMTW <Co>]
  DEUT29,23 3pl- WQtX  << WQtX  NQ      11     88  7..         |      |              [W-<Cj>] [>MRW <Pr>] [KL H-GWJM <Su>]
                                =======                        |      |                   |+====================================================\
- DEUT29,23 3sgM xQtX  <<  [Q]  NQQ     113    89  9.q         |      |                    | [<L MH <Aj>] [<FH <Pr>] [JHWH <Su>] [KKH <Mo>] [L-->RY H-Z>T <Co>]
- DEUT29,23 ---- NmCl  << xQtX  NQQ     113    90 10..         |      |                    |     [MH <PC>] [XRJ H->P H-GDWL H-ZH <Su>]
-                               =======                        |      |                    +====================================================/
+ DEUT29,23 3sgM xQtX  <<  [Q]  NQQ     113    89  9.q         |      |                   || [<L MH <Aj>] [<FH <Pr>] [JHWH <Su>] [KKH <Mo>] [L-->RY H-Z>T <Co>]
+ DEUT29,23 ---- NmCl  << xQtX  NQQ     113    90 10..         |      |                   ||     [MH <PC>] [XRJ H->P H-GDWL H-ZH <Su>]
+                               =======                        |      |                   |+====================================================/
  DEUT29,24 3pl- WQt0  << WQtX  NQ      11     91  8..         |      |                  [W-<Cj>] [>MRW <Pr>]
                                =======                        |      |                    +====================================================\
  DEUT29,24 3pl- xQt0  <<  [Q]  NQQ     114    92  9.q         |      |                    | [<L >CR <Cj>] [<ZBW <Pr>] [>T BRJT JHWH / >LHJ >BTM <ap><Ob>]
@@ -111,13 +111,14 @@
  DEUT29,25 ---- Defc  << Way0  NQQN    114    98 12d.         |      |                    |      ||     [>LHJM <sp>]
  DEUT29,25 3pl- xQt0 [attrib.] NQQN    114    99 13..         |      |                    |      ||         [>CR <Re>] [L> <Ng>] [JD<WM <PO>]
  DEUT29,25 3sgM WxQ0 [coordin] NQQN    114   100 14..         |      |                    |      ||             [W-<Cj>] [L> <Ng>] [XLQ <Pr>] [LHM <Co>]
- DEUT29,26 3sgM WayX  << xQt0  NQQN    1141  101 10.#         |      |                    |     [W-<Cj>] [JXR <Pr>] [>P JHWH <Su>] [B-->RY H-HW> <Co>]
- DEUT29,26 ---- InfC [adjunct] NQQN    1141  102 11..         |      |                    |      || [L-HBJ> <Pr>] [<LJH <Co>] [>T KL H-QLLH <Ob>]
- DEUT29,26 -sgF Ptcp [attrib.] NQQN    1141  103 12..         |      |                    |      ||     [H-<Re>] [KTWBH <PC>] [B--SPR H-ZH <Co>]
- DEUT29,27 3sgM WayX  << WayX  NQQN    1142  104 10.#         |      |                    |     [W-<Cj>] [JTCM <PO>] [JHWH <Su>] [M-<L >DMTM <Co>] [B->P W-B-XMH W-B-QYP GDWL <Aj>]
- DEUT29,27 3sgM Way0  << WayX  NQQN    1142  105 11..         |      |                    |      || [W-<Cj>] [JCLKM <PO>] [>L >RY >XRT <Co>]
- DEUT29,27 ---- NmCl  << Way0  NQQN    1142  106 12..         |      |                    |      ||     [K--JWM H-ZH <Aj>]
-                               =======                        |                           +====================================================/
+                               -------                        |      |                    |   +---------------------------------------------\
+ DEUT29,26 3sgM WayX  << xQt0  NQQN    1141  101 10.#         |      |                    |   | [W-<Cj>] [JXR <Pr>] [>P JHWH <Su>] [B-->RY H-HW> <Co>]
+ DEUT29,26 ---- InfC [adjunct] NQQN    1141  102 11..         |      |                    |   |  |  [L-HBJ> <Pr>] [<LJH <Co>] [>T KL H-QLLH <Ob>]
+ DEUT29,26 -sgF Ptcp [attrib.] NQQN    1141  103 12..         |      |                    |   |  |      [H-<Re>] [KTWBH <PC>] [B--SPR H-ZH <Co>]
+ DEUT29,27 3sgM WayX  << WayX  NQQN    1142  104 10.#         |      |                    |   | [W-<Cj>] [JTCM <PO>] [JHWH <Su>] [M-<L >DMTM <Co>] [B->P W-B-XMH W-B-QYP GDWL <Aj>]
+ DEUT29,27 3sgM Way0  << WayX  NQQN    1142  105 11..         |      |                    |   |     [W-<Cj>] [JCLKM <PO>] [>L >RY >XRT <Co>]
+ DEUT29,27 ---- NmCl  << Way0  NQQN    1142  106 12..         |      |                    |   |         [K--JWM H-ZH <Aj>]
+                               =======                        |      |                    +====================================================/
  DEUT29,28 ---- NmCl  << XQtl  NQ      11    107  3..         |     [H-NSTRT <Su>] [L-JHWH / >LHJNW <ap><PC>]
  DEUT29,28 ---- NmCl  << NmCl  NQ      11    108  4..         |         [W-<Cj>] [H-NGLT <Su>] [LNW W-L-BNJNW <PC>] [<D <WLM <Ti>]
  DEUT29,28 ---- InfC [adjunct] NQ      11    109  5..         |             [L-<FWT <Pr>] [>T KL DBRJ H-TWRH H-Z>T <Ob>]

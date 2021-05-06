@@ -4,7 +4,7 @@
  JOZ 03,01 3plM Way0  << WayX  N       12      4  3..    |       |  [W-<Cj>] [JLNW <Pr>] [CM <Lo>]
                                -------                   |       |    +---------------------------------------------------------------------------\
  JOZ 03,01 3plM xYq0  << Way0  ND      12      5  4..    |       |    | [VRM <Cj>] [J<BRW <Pr>]
-                               -------                   |            +---------------------------------------------------------------------------/
+                               -------                   |       |    +---------------------------------------------------------------------------/
  JOZ 03,02 3sgM Way0  << WayX  N       121     6  2.#    |      [W-<Cj>] [JHJ <Pr>] [M-QYH CLCT JMJM <Ti>]
  JOZ 03,02 3plM WayX  << Way0  N       1211    7  3.#    |          [W-<Cj>] [J<BRW <Pr>] [H-CVRJM <Su>] [B-QRB H-MXNH <Co>]
  JOZ 03,03 3plM Way0  << WayX  N       1211    8  4..    |              [W-<Cj>] [JYWW <Pr>] [>T H-<M <Ob>]
@@ -19,17 +19,17 @@
  JOZ 03,04 2plM xYq0 [adjunct] NQ      12111  16 11..    |                    |              |      [LM<N >CR <Cj>] [TD<W <Pr>] [>T H-DRK <Ob>]
  JOZ 03,04 2plM xYq0 [attrib.] NQ      12111  17 12..    |                    |              |          [>CR <Re>] [TLKW <Pr>] [BH <Co>]
  JOZ 03,04 2plM xQt0  << xYq0  NQ      12111  18  9..    |                    |             [KJ <Cj>] [L> <Ng>] [<BRTM <Pr>] [B--DRK <Co>] [M-TMWL CLCWM <Ti>]
-                               =======                                        +===================================================================/
+                               =======                   |                    +===================================================================/
  JOZ 03,05 3sgM WayX  << WayX  N       2      19  0.#   [W-<Cj>] [J>MR <Pr>] [JHWC< <Su>] [>L H-<M <Co>]
                                =======                   |+=======================================================================================\
- JOZ 03,05 2plM ZIm0  <<  [Q]  NQ      21     20  1.q     | [HTQDCW <Pr>]
- JOZ 03,05 3sgM xYqX  << ZIm0  NQ      21     21  2..     |     [KJ <Cj>] [MXR <Ti>] [J<FH <Pr>] [JHWH <Su>] [B-QRBKM <Lo>] [NPL>WT <Ob>]
-                               =======                    +=======================================================================================/
+ JOZ 03,05 2plM ZIm0  <<  [Q]  NQ      21     20  1.q    || [HTQDCW <Pr>]
+ JOZ 03,05 3sgM xYqX  << ZIm0  NQ      21     21  2..    ||     [KJ <Cj>] [MXR <Ti>] [J<FH <Pr>] [JHWH <Su>] [B-QRBKM <Lo>] [NPL>WT <Ob>]
+                               =======                   |+=======================================================================================/
  JOZ 03,06 3sgM WayX  << WayX  N       3      22  0.#   [W-<Cj>] [J>MR <Pr>] [JHWC< <Su>] [>L H-KHNJM <Co>]
  JOZ 03,06 ---- InfC [adjunct] N       3      23  3..        |   |  [L->MR <Pr>]
                                =======                       |   |    +===========================================================================\
- JOZ 03,06 2plM ZIm0  <<  [Q]  NQ      31     24  4.q        |   |   || [F>W <Pr>] [>T >RWN H-BRJT <Ob>]
- JOZ 03,06 2plM WIm0  << ZIm0  NQ      31     25  5..        |   |   ||     [W-<Cj>] [<BRW <Pr>] [L-PNJ H-<M <Co>]
+ JOZ 03,06 2plM ZIm0  <<  [Q]  NQ      31     24  4.q        |   |    | [F>W <Pr>] [>T >RWN H-BRJT <Ob>]
+ JOZ 03,06 2plM WIm0  << ZIm0  NQ      31     25  5..        |   |    |     [W-<Cj>] [<BRW <Pr>] [L-PNJ H-<M <Co>]
                                =======                       |   |    +===========================================================================/
  JOZ 03,06 3plM Way0  << WayX  N       3      26  2..        |  [W-<Cj>] [JF>W <Pr>] [>T >RWN H-BRJT <Ob>]
  JOZ 03,06 3plM Way0  << Way0  N       3      27  2..        |  [W-<Cj>] [JLKW <Pr>] [L-PNJ H-<M <Co>]
@@ -44,29 +44,29 @@
  JOZ 03,08 2sgM WXYq  << xYq0  NQ      321    35  4..        |   ||     [W-<Cj>] [>TH <Su>] [TYWH <Pr>] [>T H-KHNJM / NF>J >RWN H-BRJT <ap><Ob>]
  JOZ 03,08 ---- InfC [adjunct] NQ      321    36  5..        |   ||         [L->MR <Pr>]
                                =======                       |   ||           +================================================================\
- JOZ 03,08 ---- InfC [adjunct] NQQ     3211   37  7.\        |   ||          ||  |  [K-B>KM <Ps>] [<D QYH MJ H-JRDN <Co>]
- JOZ 03,08 2plM xYq0  <<  [Q]  NQQ     3211   38  6.q        |   ||          || [B--JRDN <Co>] [T<MDW <Pr>]
+ JOZ 03,08 ---- InfC [adjunct] NQQ     3211   37  7.\        |   ||           |  |  [K-B>KM <Ps>] [<D QYH MJ H-JRDN <Co>]
+ JOZ 03,08 2plM xYq0  <<  [Q]  NQQ     3211   38  6.q        |   ||           | [B--JRDN <Co>] [T<MDW <Pr>]
                                =======                       |   |+===============================================================================/
  JOZ 03,09 3sgM WayX  << WayX  N       322    39  2.#        |  [W-<Cj>] [J>MR <Pr>] [JHWC< <Su>] [>L BNJ JFR>L <Co>]
                                =======                       |   |+===============================================================================\
  JOZ 03,09 2plM ZIm0  <<  [Q]  NQ      3221   40  3.q        |   || [GCW <Pr>] [HNH <Lo>]
  JOZ 03,09 2plM WIm0  << ZIm0  NQ      3221   41  4..        |   ||     [W-<Cj>] [CM<W <Pr>] [>T DBRJ JHWH / >LHJKM <ap><Ob>]
-                               =======                       |    +===============================================================================/
+                               =======                       |   |+===============================================================================/
  JOZ 03,10 3sgM WayX  << WayX  N       323    42  2.#        |  [W-<Cj>] [J>MR <Pr>] [JHWC< <Su>]
                                =======                       |    +===============================================================================\
- JOZ 03,10 2plM xYq0  <<  [Q]  NQ      3231   43  3.q        |   || [B-Z>T <Aj>] [TD<WN <Pr>]
- JOZ 03,10 ---- NmCl [object ] NQ      3231   44  6..        |   ||      |   |  [KJ <Cj>] [>L XJ <Su>] [B-QRBKM <PC>]
- JOZ 03,10 3sgM WxY0 [coordin] NQ      3231   45  7..        |   ||      |   |      [W-<Cj>] [HWRC <Mo>] [JWRJC <Pr>] [M-PNJKM <Co>] [>T H-KN<NJ W->T H-XTJ W->T H-XWJ W->T H-PRZJ W->T H-GRGCJ W-H->MRJ W-H-JBWSJ <Ob>]
- JOZ 03,11 -sgM Ptcp  << xYq0  NQ      3231   46  5..        |   ||      |  [HNH <Ij>] [>RWN H-BRJT >DWN KL H->RY <Su>] [<BR <PC>] [L-PNJKM <Co>] [B--JRDN <Co>]
- JOZ 03,12 ---- MSyn  << xYq0  NQ      3231   47  4m.        |   ||     [W-<Cj>] [<TH <Ti>]
- JOZ 03,12 2plM ZIm0  << MSyn  NQ      3231   48  5..        |   ||         [QXW <Pr>] [LKM <sc>] [CNJ <FR >JC <Ob>] [M-CBVJ JFR>L <Co>]
- JOZ 03,12 ---- Ellp  << ZIm0  NQ      3231   49  7l.        |   ||              |  [>JC >XD >JC >XD <Ob>] [L--CBV <Aj>]
- JOZ 03,13 3sgM MSyn  << ZIm0  NQ      3231   50  6m.        |   ||             [W-<Cj>] [HJH <Pr>]
- JOZ 03,13 ---- InfA [adjunct] NQ      3231   51  8.\        |   ||                  |  [K-NWX <Pr>] [KPWT RGLJ H-KHNJM / NF>J >RWN JHWH / >DWN KL H->RY <ap><ap><Su>] [B-MJ H-JRDN <Co>]
- JOZ 03,13 3plM XYqt  << MSyn  NQ      3231   52  7..        |   ||                 [MJ H-JRDN <Su>] [JKRTWN <Pr>]
- JOZ 03,13 ---- CPen  << XYqt  NQ      3231   53  8c.        |   ||                     [H-MJM <Fr>]
- JOZ 03,13 -plM Ptcp [attrib.] NQ      3231   54 10..        |   ||                          |  [H-<Re>] [JRDJM <PC>] [M-L-M<LH <Co>]
- JOZ 03,13 3plM WYq0 [resumpt] NQ      3231   55  9..        |   ||                         [W-<Cj>] [J<MDW <Pr>] [ND >XD <Mo>]
+ JOZ 03,10 2plM xYq0  <<  [Q]  NQ      3231   43  3.q        |    | [B-Z>T <Aj>] [TD<WN <Pr>]
+ JOZ 03,10 ---- NmCl [object ] NQ      3231   44  6..        |    |      |   |  [KJ <Cj>] [>L XJ <Su>] [B-QRBKM <PC>]
+ JOZ 03,10 3sgM WxY0 [coordin] NQ      3231   45  7..        |    |      |   |      [W-<Cj>] [HWRC <Mo>] [JWRJC <Pr>] [M-PNJKM <Co>] [>T H-KN<NJ W->T H-XTJ W->T H-XWJ W->T H-PRZJ W->T H-GRGCJ W-H->MRJ W-H-JBWSJ <Ob>]
+ JOZ 03,11 -sgM Ptcp  << xYq0  NQ      3231   46  5..        |    |      |  [HNH <Ij>] [>RWN H-BRJT >DWN KL H->RY <Su>] [<BR <PC>] [L-PNJKM <Co>] [B--JRDN <Co>]
+ JOZ 03,12 ---- MSyn  << xYq0  NQ      3231   47  4m.        |    |     [W-<Cj>] [<TH <Ti>]
+ JOZ 03,12 2plM ZIm0  << MSyn  NQ      3231   48  5..        |    |         [QXW <Pr>] [LKM <sc>] [CNJ <FR >JC <Ob>] [M-CBVJ JFR>L <Co>]
+ JOZ 03,12 ---- Ellp  << ZIm0  NQ      3231   49  7l.        |    |              |  [>JC >XD >JC >XD <Ob>] [L--CBV <Aj>]
+ JOZ 03,13 3sgM MSyn  << ZIm0  NQ      3231   50  6m.        |    |             [W-<Cj>] [HJH <Pr>]
+ JOZ 03,13 ---- InfA [adjunct] NQ      3231   51  8.\        |    |                  |  [K-NWX <Pr>] [KPWT RGLJ H-KHNJM / NF>J >RWN JHWH / >DWN KL H->RY <ap><ap><Su>] [B-MJ H-JRDN <Co>]
+ JOZ 03,13 3plM XYqt  << MSyn  NQ      3231   52  7..        |    |                 [MJ H-JRDN <Su>] [JKRTWN <Pr>]
+ JOZ 03,13 ---- CPen  << XYqt  NQ      3231   53  8c.        |    |                     [H-MJM <Fr>]
+ JOZ 03,13 -plM Ptcp [attrib.] NQ      3231   54 10..        |    |                          |  [H-<Re>] [JRDJM <PC>] [M-L-M<LH <Co>]
+ JOZ 03,13 3plM WYq0 [resumpt] NQ      3231   55  9..        |    |                         [W-<Cj>] [J<MDW <Pr>] [ND >XD <Mo>]
                                =======                       |    +===============================================================================/
  JOZ 03,14 3sgM Way0  << WayX  N       33     56  1.#       [W-<Cj>] [JHJ <Pr>]
  JOZ 03,14 ---- InfC [adjunct] N       33     57  2..        |  [B-NS< <Pr>] [H-<M <Su>] [M->HLJHM <Co>]

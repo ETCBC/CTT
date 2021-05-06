@@ -27,30 +27,30 @@
  EZE 01,09 ---- Ellp [adjunct] N       1      27 17le            |                   |   |   |               |   |       |  [>CH <Su>] [>L >XWTH <Co>]
  EZE 01,09 ---- Defc  << Ptcp  N       1      28 16d.            |                   |   |   |               |   |      [KNPJHM <Su>]
                                -------                           |                   |   |   |               |+-----------------------------------\
- EZE 01,09 3plM xYq0  << NmCl  ND      1      29 14..            |                   |   |   |                | [L> <Ng>] [JSBW <Pr>]
- EZE 01,09 ---- InfC [adjunct] ND      1      30 17..            |                   |   |   |                |      |   |  [B-LKTN <Ps>]
- EZE 01,09 ---- Ellp [adjunct] ND      1      31 17l\            |                   |   |   |                |      |   |  [>JC <Su>] [>L <BR PNJW <Co>]
- EZE 01,09 3plM ZYq0  << xYq0  ND      1      32 16..            |                   |   |   |                |      |  [JLKW <Pr>]
- EZE 01,10 ---- NmCl  << xYq0  ND      1      33 15..            |                   |   |   |                |     [W-<Cj>] [DMWT PNJHM <Su>] [PNJ >DM <PC>]
- EZE 01,10 ---- NmCl  << NmCl  ND      1      34 17..            |                   |   |   |                |          |  [W-<Cj>] [PNJ >RJH <Su>] [>L H-JMJN <PC>] [L->RB<TM <Aj>]
- EZE 01,10 ---- NmCl  << NmCl  ND      1      35 18..            |                   |   |   |                |          |      [W-<Cj>] [PNJ CWR <Su>] [M-H-FM>WL <PC>] [L->RB<TN <Aj>]
- EZE 01,10 ---- NmCl  << NmCl  ND      1      36 19..            |                   |   |   |                |          |          [W-<Cj>] [PNJ NCR <Su>] [L->RB<TN <PC>]
- EZE 01,11 ---- NmCl  << NmCl  ND      1      37 16..            |                   |   |   |                |         [W-<Cj>] [PNJHM <PC>]
-                               -------                           |                   |   |   |                +-----------------------------------/
+ EZE 01,09 3plM xYq0  << NmCl  ND      1      29 14..            |                   |   |   |               || [L> <Ng>] [JSBW <Pr>]
+ EZE 01,09 ---- InfC [adjunct] ND      1      30 17..            |                   |   |   |               ||      |   |  [B-LKTN <Ps>]
+ EZE 01,09 ---- Ellp [adjunct] ND      1      31 17l\            |                   |   |   |               ||      |   |  [>JC <Su>] [>L <BR PNJW <Co>]
+ EZE 01,09 3plM ZYq0  << xYq0  ND      1      32 16..            |                   |   |   |               ||      |  [JLKW <Pr>]
+ EZE 01,10 ---- NmCl  << xYq0  ND      1      33 15..            |                   |   |   |               ||     [W-<Cj>] [DMWT PNJHM <Su>] [PNJ >DM <PC>]
+ EZE 01,10 ---- NmCl  << NmCl  ND      1      34 17..            |                   |   |   |               ||          |  [W-<Cj>] [PNJ >RJH <Su>] [>L H-JMJN <PC>] [L->RB<TM <Aj>]
+ EZE 01,10 ---- NmCl  << NmCl  ND      1      35 18..            |                   |   |   |               ||          |      [W-<Cj>] [PNJ CWR <Su>] [M-H-FM>WL <PC>] [L->RB<TN <Aj>]
+ EZE 01,10 ---- NmCl  << NmCl  ND      1      36 19..            |                   |   |   |               ||          |          [W-<Cj>] [PNJ NCR <Su>] [L->RB<TN <PC>]
+ EZE 01,11 ---- NmCl  << NmCl  ND      1      37 16..            |                   |   |   |               ||         [W-<Cj>] [PNJHM <PC>]
+                               -------                           |                   |   |   |               |+-----------------------------------/
  EZE 01,11 -plF Ptcp  << NmCl  N       1      38 13..            |                   |   |   |              [W-<Cj>] [KNPJHM <Su>] [PRDWT <PC>] [M-L-M<LH <Co>]
  EZE 01,11 ---- NmCl  << Ptcp  N       1      39 14..            |                   |   |   |                  [L->JC <PC>] [CTJM <Su>]
  EZE 01,11 -plF Ptcp [attrib.] N       1      40 16..            |                   |   |   |                       |  [XBRWT <PC>] [>JC <Aj>]
  EZE 01,11 -plF Ptcp  << NmCl  N       1      41 15..            |                   |   |   |                      [W-<Cj>] [CTJM <Su>] [MKSWT <PC>] [>T GWJTJHNH <Ob>]
                                -------                           |                   |   |+-------------------------------------------------------\
- EZE 01,12 ---- Defc  << NmCl  ND      1      42  9d.            |                   |    | [W-<Cj>]
- EZE 01,12 ---- Ellp [adjunct] ND      1      43 12l\            |                   |    |      |   |  [>JC <Su>] [>L <BR PNJW <Co>]
- EZE 01,12 3plM ZYq0  << Defc  ND      1      44 11..            |                   |    |      |  [JLKW <Pr>]
- EZE 01,12 3sgM xYqX [complm.] ND      1      45 11.\            |                   |    |      |  [>L >CR <Re>] [JHJH <Pr>] [CMH <Mo>] [H-RWX <Su>]
- EZE 01,12 ---- InfC [adjunct] ND      1      46 12..            |                   |    |      |      [L-LKT <Pr>]
- EZE 01,12 3plM ZYq0  << Defc  ND      1      47 10..            |                   |    |     [JLKW <Pr>]
- EZE 01,12 3plM xYq0  << ZYq0  ND      1      48 11..            |                   |    |         [L> <Ng>] [JSBW <Pr>]
- EZE 01,12 ---- InfC [adjunct] ND      1      49 12..            |                   |    |             [B-LKTN <Ps>]
-                               -------                           |                   |    +-------------------------------------------------------/
+ EZE 01,12 ---- Defc  << NmCl  ND      1      42  9d.            |                   |   || [W-<Cj>]
+ EZE 01,12 ---- Ellp [adjunct] ND      1      43 12l\            |                   |   ||      |   |  [>JC <Su>] [>L <BR PNJW <Co>]
+ EZE 01,12 3plM ZYq0  << Defc  ND      1      44 11..            |                   |   ||      |  [JLKW <Pr>]
+ EZE 01,12 3sgM xYqX [complm.] ND      1      45 11.\            |                   |   ||      |  [>L >CR <Re>] [JHJH <Pr>] [CMH <Mo>] [H-RWX <Su>]
+ EZE 01,12 ---- InfC [adjunct] ND      1      46 12..            |                   |   ||      |   |  [L-LKT <Pr>]
+ EZE 01,12 3plM ZYq0  << Defc  ND      1      47 10..            |                   |   ||     [JLKW <Pr>]
+ EZE 01,12 3plM xYq0  << ZYq0  ND      1      48 11..            |                   |   ||         [L> <Ng>] [JSBW <Pr>]
+ EZE 01,12 ---- InfC [adjunct] ND      1      49 12..            |                   |   ||             [B-LKTN <Ps>]
+                               -------                           |                   |   |+-------------------------------------------------------/
  EZE 01,13 ---- NmCl  << NmCl  N       1      50  8..            |                   |  [W-<Cj>] [DMWT H-XJWT <Su>]
  EZE 01,13 ---- NmCl  << NmCl  N       1      51  9..            |                   |      [MR>JHM <Su>] [K-GXLJ >C <PC>]
  EZE 01,13 -plF Ptcp [attrib.] N       1      52 11..            |                   |           |  [B<RWT <PC>] [K-MR>H H-LPDJM <Aj>]
@@ -68,40 +68,42 @@
  EZE 01,16 ---- NmCl  << NmCl  N       1      64 10..            |       |   |   |   |   |      [W-<Cj>] [MR>JHM W-M<FJHM <Su>]
                                -------                           |       |   |   |   |   |        +-----------------------------------------------\
  EZE 01,16 3sgM xYqX  << NmCl  ND      1      65 11..            |       |   |   |   |   |        | [K->CR <Cj>] [JHJH <Pr>] [H->WPN <Su>] [B-TWK H->WPN <PC>]
- EZE 01,17 ---- Defc  << NmCl  ND      1      66  8d.            |       |   |   |   |  [<L >RB<T RB<JHN <Co>]
- EZE 01,17 ---- InfC [adjunct] ND      1      67 11.e            |       |   |   |   |       |    | [B-LKTM <Ps>]
- EZE 01,17 3plM ZYq0  << Defc  ND      1      68 10..            |       |   |   |   |       |  [JLKW <Pr>]
- EZE 01,17 3plM xYq0  << Defc  ND      1      69  9..            |       |   |   |   |      [L> <Ng>] [JSBW <Pr>]
- EZE 01,17 ---- InfC [adjunct] ND      1      70 10..            |       |   |   |   |          [B-LKTN <Ps>]
-                               -------                           |       |   |   |                +-----------------------------------------------/
+                               -------                           |       |   |   |   |+-----------------------------------------------------------\
+ EZE 01,17 ---- Defc  << NmCl  ND      1      66  8d.            |       |   |   |   || [<L >RB<T RB<JHN <Co>]
+ EZE 01,17 ---- InfC [adjunct] ND      1      67 11.e            |       |   |   |   ||      |   |  [B-LKTM <Ps>]
+ EZE 01,17 3plM ZYq0  << Defc  ND      1      68 10..            |       |   |   |   ||      |  [JLKW <Pr>]
+ EZE 01,17 3plM xYq0  << Defc  ND      1      69  9..            |       |   |   |   ||     [L> <Ng>] [JSBW <Pr>]
+ EZE 01,17 ---- InfC [adjunct] ND      1      70 10..            |       |   |   |   ||         [B-LKTN <Ps>]
+                               -------                           |       |   |   |   |+-----------------------------------------------------------/
  EZE 01,18 ---- NmCl  << NmCl  N       1      71  7..            |       |   |   |  [W-<Cj>] [GBJHN <Su>]
  EZE 01,18 ---- NmCl  << NmCl  N       1      72  9..            |       |   |   |       |  [W-<Cj>] [GBH <Su>] [LHM <PC>]
  EZE 01,18 ---- NmCl  << NmCl  N       1      73  9..            |       |   |   |       |  [W-<Cj>] [JR>H <Su>] [LHM <PC>]
  EZE 01,18 -plF Ptcp  << NmCl  N       1      74  8..            |       |   |   |      [W-<Cj>] [GBTM <Su>] [ML>T <PC>] [<JNJM <Ob>] [SBJB <Mo>] [L->RB<TN <Aj>]
  EZE 01,19 ---- InfC  << NmCl  N       1      75  6..            |       |   |  [W-<Cj>] [B-LKT <Pr>] [H-XJWT <Su>]
                                -------                           |       |   |       |+-----------------------------------------------------------\
- EZE 01,19 3plM ZYqX  << InfC  ND      1      76  8..            |       |   |        | [JLKW <Pr>] [H->WPNJM <Su>] [>YLM <Aj>]
-                               -------                           |       |   |        +-----------------------------------------------------------/
+ EZE 01,19 3plM ZYqX  << InfC  ND      1      76  8..            |       |   |       || [JLKW <Pr>] [H->WPNJM <Su>] [>YLM <Aj>]
+                               -------                           |       |   |       |+-----------------------------------------------------------/
  EZE 01,19 ---- InfC  << InfC  N       1      77  7..            |       |   |      [W-<Cj>] [B-HNF> <Pr>] [H-XJWT <Su>] [M-<L H->RY <Co>]
                                -------                           |       |   |           |+-------------------------------------------------------\
- EZE 01,19 3plM ZYqX  << InfC  ND      1      78  9..            |       |   |            | [JNF>W <Pr>] [H->WPNJM <Su>]
- EZE 01,20 3sgM xYqX [complm.] ND      1      79  9.\            |       |   |            | [<L >CR <Re>] [JHJH <Pr>] [CM <Mo>] [H-RWX <Su>]
- EZE 01,20 ---- InfC [adjunct] ND      1      80 10..            |       |   |            |     [L-LKT <Pr>]
- EZE 01,20 3plM ZYq0  << InfC  ND      1      81  8..            |       |   |          [JLKW <Pr>]
- EZE 01,20 ---- NmCl  << ZYq0  ND      1      82 11..            |       |   |            |  |   |  [CMH <PC>] [H-RWX <Su>]
- EZE 01,20 ---- InfC [adjunct] ND      1      83 12..            |       |   |            |  |   |      [L-LKT <Pr>]
- EZE 01,20 3plM WXYq  << ZYq0  ND      1      84 10..            |       |   |            |  |  [W-<Cj>] [H->WPNJM <Su>] [JNF>W <Pr>] [L-<MTM <Co>]
- EZE 01,20 ---- NmCl  << ZYq0  ND      1      85  9..            |       |   |            | [KJ <Cj>] [RWX H-XJH <Su>] [B-->WPNJM <PC>]
- EZE 01,21 ---- InfC [adjunct] ND      1      86  9.\            |       |   |            | [B-LKTM <Ps>]
- EZE 01,21 3plM ZYq0  << ZYq0  ND      1      87  8..            |       |   |          [JLKW <Pr>]
- EZE 01,21 ---- Defc  << ZYq0  ND      1      88 10d.            |       |   |            |  |  [W-<Cj>]
- EZE 01,21 ---- InfC [adjunct] ND      1      89 12.\            |       |   |            |  |   |   |  [B-<MDM <Ps>]
- EZE 01,21 3plM ZYq0  << Defc  ND      1      90 11..            |       |   |            |  |   |  [J<MDW <Pr>]
- EZE 01,21 ---- Defc  << Defc  ND      1      91 10d.            |       |   |            |  |  [W-<Cj>]
- EZE 01,21 ---- InfC [adjunct] ND      1      92 12.\            |       |   |            |  |       |  [B-HNF>M <Ps>] [M-<L H->RY <Co>]
- EZE 01,21 3plM ZYqX  << Defc  ND      1      93 11..            |       |   |            |  |      [JNF>W <Pr>] [H->WPNJM <Su>] [L-<MTM <Co>]
- EZE 01,21 ---- NmCl  << ZYq0  ND      1      94  9..            |       |   |            | [KJ <Cj>] [RWX H-XJH <Su>] [B-->WPNJM <PC>]
-                               -------                           |       |                +-------------------------------------------------------/
+ EZE 01,19 3plM ZYqX  << InfC  ND      1      78  9..            |       |   |           || [JNF>W <Pr>] [H->WPNJM <Su>]
+                               -------                           |       |   |        +-----------------------------------------------------------\
+ EZE 01,20 3sgM xYqX [complm.] ND      1      79  9.\            |       |   |        |  |  [<L >CR <Re>] [JHJH <Pr>] [CM <Mo>] [H-RWX <Su>]
+ EZE 01,20 ---- InfC [adjunct] ND      1      80 10..            |       |   |        |  |   |  [L-LKT <Pr>]
+ EZE 01,20 3plM ZYq0  << InfC  ND      1      81  8..            |       |   |        | [JLKW <Pr>]
+ EZE 01,20 ---- NmCl  << ZYq0  ND      1      82 11..            |       |   |        |  |   |   |  [CMH <PC>] [H-RWX <Su>]
+ EZE 01,20 ---- InfC [adjunct] ND      1      83 12..            |       |   |        |  |   |   |      [L-LKT <Pr>]
+ EZE 01,20 3plM WXYq  << ZYq0  ND      1      84 10..            |       |   |        |  |   |  [W-<Cj>] [H->WPNJM <Su>] [JNF>W <Pr>] [L-<MTM <Co>]
+ EZE 01,20 ---- NmCl  << ZYq0  ND      1      85  9..            |       |   |        |  |  [KJ <Cj>] [RWX H-XJH <Su>] [B-->WPNJM <PC>]
+ EZE 01,21 ---- InfC [adjunct] ND      1      86  9.\            |       |   |        |  |  [B-LKTM <Ps>]
+ EZE 01,21 3plM ZYq0  << ZYq0  ND      1      87  8..            |       |   |        | [JLKW <Pr>]
+ EZE 01,21 ---- Defc  << ZYq0  ND      1      88 10d.            |       |   |        |      |  [W-<Cj>]
+ EZE 01,21 ---- InfC [adjunct] ND      1      89 12.\            |       |   |        |      |   |   |  [B-<MDM <Ps>]
+ EZE 01,21 3plM ZYq0  << Defc  ND      1      90 11..            |       |   |        |      |   |  [J<MDW <Pr>]
+ EZE 01,21 ---- Defc  << Defc  ND      1      91 10d.            |       |   |        |      |  [W-<Cj>]
+ EZE 01,21 ---- InfC [adjunct] ND      1      92 12.\            |       |   |        |      |       |  [B-HNF>M <Ps>] [M-<L H->RY <Co>]
+ EZE 01,21 3plM ZYqX  << Defc  ND      1      93 11..            |       |   |        |      |      [JNF>W <Pr>] [H->WPNJM <Su>] [L-<MTM <Co>]
+ EZE 01,21 ---- NmCl  << ZYq0  ND      1      94  9..            |       |   |        |     [KJ <Cj>] [RWX H-XJH <Su>] [B-->WPNJM <PC>]
+                               -------                           |       |   |        +-----------------------------------------------------------/
  EZE 01,22 ---- NmCl  << NmCl  N       1      95  5..            |       |  [W-<Cj>] [DMWT <Su>] [<L R>CJ H-XJH <Aj>] [RQJ< <PC>] [K-<JN H-QRX H-NWR> <Co>]
  EZE 01,22 -sgM Ptcp [attrib.] N       1      96  6..            |       |      [NVWJ <PC>] [<L R>CJHM <Aj>] [M-L-M<LH <Co>]
  EZE 01,23 -plF AjCl  << NmCl  N       1      97  4..            |      [W-<Cj>] [TXT H-RQJ< <Lo>] [KNPJHM <Su>] [JCRWT <PC>]
@@ -112,15 +114,15 @@
  EZE 01,24 ---- InfC [adjunct] N       1     102  6..            |   |   |   |  [B-LKTM <Ps>]
  EZE 01,24 ---- NmCl  << Way0  N       1     103  5..            |   |   |  [QWL HMLH <Su>] [K-QWL MXNH <PC>]
                                -------                           |   |+---------------------------------------------------------------------------\
- EZE 01,24 ---- InfC [adjunct] ND      1     104  5.\            |    |  |  [B-<MDM <Ps>]
- EZE 01,24 3plF ZYq0  << Way0  ND      1     105  4..            |    | [TRPJNH <Pr>] [KNPJHN <Ob>]
-                               -------                           |    +---------------------------------------------------------------------------/
+ EZE 01,24 ---- InfC [adjunct] ND      1     104  5.\            |   ||  |  [B-<MDM <Ps>]
+ EZE 01,24 3plF ZYq0  << Way0  ND      1     105  4..            |   || [TRPJNH <Pr>] [KNPJHN <Ob>]
+                               -------                           |   |+---------------------------------------------------------------------------/
  EZE 01,25 3sgM WayX  << Way0  N       12    106  3.#            |  [W-<Cj>] [JHJ <Pr>] [QWL <Su>] [M-<L L--RQJ< <PC>]
  EZE 01,25 ---- NmCl [attrib.] N       12    107  6..            |       |   |  [>CR <Re>] [<L R>CM <PC>]
                                -------                           |       |+-----------------------------------------------------------------------\
- EZE 01,25 ---- InfC [adjunct] ND      12    108  6.\            |        |  |  [B-<MDM <Ps>]
- EZE 01,25 3plF ZYq0  << WayX  ND      12    109  5..            |        | [TRPJNH <Pr>] [KNPJHN <Ob>]
-                               -------                           |        +-----------------------------------------------------------------------/
+ EZE 01,25 ---- InfC [adjunct] ND      12    108  6.\            |       ||  |  [B-<MDM <Ps>]
+ EZE 01,25 3plF ZYq0  << WayX  ND      12    109  5..            |       || [TRPJNH <Pr>] [KNPJHN <Ob>]
+                               -------                           |       |+-----------------------------------------------------------------------/
  EZE 01,26 ---- Defc  << WayX  N       12    110  4d.            |      [W-<Cj>] [M-M<L / L--RQJ< <sp><Aj>]
  EZE 01,26 ---- NmCl [attrib.] N       12    111  7.e            |           |   |  [>CR <Re>] [<L R>CM <PC>]
  EZE 01,26 ---- NmCl  << Defc  N       12    112  6..            |           |  [K-MR>H >BN SPJR <PC>] [DMWT KS> <Su>]
@@ -134,8 +136,8 @@
  EZE 01,27 ---- NmCl  << ZQt0  N       1     120  7..            |   |   |          [W-<Cj>] [NGH <Su>] [LW <PC>] [SBJB <Mo>]
  EZE 01,28 ---- CPen  << Way0  N       1     121  4c.            |   |  [K-MR>H H-QCT <Fr>]
                                -------                           |   |       |+-------------------------------------------------------------------\
- EZE 01,28 3sgM xYq0 [attrib.] ND      1     122  6..            |   |        | [>CR <Re>] [JHJH <Pr>] [B--<NN <PC>] [B-JWM H-GCM <Ti>]
-                               -------                           |   |        +-------------------------------------------------------------------/
+ EZE 01,28 3sgM xYq0 [attrib.] ND      1     122  6..            |   |       || [>CR <Re>] [JHJH <Pr>] [B--<NN <PC>] [B-JWM H-GCM <Ti>]
+                               -------                           |   |       |+-------------------------------------------------------------------/
  EZE 01,28 ---- NmCl [resumpt] N       1     123  5..            |   |      [KN <Mo>] [MR>H H-NGH <Su>] [SBJB <Mo>]
  EZE 01,28 ---- NmCl  << Way0  N       1     124  3..            |  [HW> <Su>] [MR>H DMWT KBWD JHWH <PC>]
  EZE 01,28 1sg- Way0  << Way0  N       1     125  2..           [W-<Cj>] [>R>H <Pr>]

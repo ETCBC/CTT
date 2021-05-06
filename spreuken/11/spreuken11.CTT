@@ -3,7 +3,7 @@
  PRO 11,02 -sgM Ptcp  << NmCl  D       1       3  3..        |   |  [B> <PC>] [ZDWN <Su>]
                                -------                       |   |       |+-----------------------------------------------------------------------\
  PRO 11,02 3sgM WayX  << Ptcp  DN      11      4  5.#        |   |       || [W-<Cj>] [JB> <Pr>] [QLWN <Su>]
-                               -------                       |   |        +-----------------------------------------------------------------------/
+                               -------                       |   |       |+-----------------------------------------------------------------------/
  PRO 11,02 ---- NmCl  << Ptcp  D       1       5  4..        |   |      [W-<Cj>] [>T YNW<JM <PC>] [XKMH <Su>]
  PRO 11,03 3sgF XYqt  << NmCl  D       1       6  2..        |  [TMT JCRJM <Su>] [TNXM <PO>]
  PRO 11,03 3sgM WXYq  << XYqt  D       1       7  5..        |       |   |  [W-<Cj>] [SLP BWGDJM <Su>] [WCDM <PO>]
@@ -18,7 +18,7 @@
  PRO 11,08 -sgM Ptcp  << XYqt  D       1      16  6..        |               |  [YDJQ <Su>] [M-YRH <Co>] [NXLY <PC>]
                                -------                       |               |       |   |   |+---------------------------------------------------\
  PRO 11,08 3sgM WayX  << Ptcp  DN      13     17 10.#        |               |       |   |   || [W-<Cj>] [JB> <Pr>] [RC< <Su>] [TXTJW <Co>]
-                               -------                       |               |       |   |    +---------------------------------------------------/
+                               -------                       |               |       |   |   |+---------------------------------------------------/
  PRO 11,09 3sgM XYqt  << Ptcp  D       1      18  9..        |               |       |   |  [B-PH <Aj>] [XNP <Su>] [JCXT <Pr>] [R<HW <Ob>]
  PRO 11,09 3plM WXYq  << XYqt  D       1      19 10..        |               |       |   |      [W-<Cj>] [B-D<T <Aj>] [YDJQJM <Su>] [JXLYW <Pr>]
  PRO 11,10 3sgF xYqX  << Ptcp  D       1      20  8..        |               |       |  [B-VWB YDJQJM <Co>] [T<LY <Pr>] [QRJH <Su>]
@@ -65,8 +65,8 @@
  PRO 11,25 ---- CPen  << XYqt  D       1      61  7c.                |       |   |  [W-<Cj>] [MRWH <Fr>]
  PRO 11,25 3sgM XYqt [resumpt] D       1      62  8..                |       |   |      [GM HW> <Su>] [JWR> <Pr>]
  PRO 11,26 -sgM CPen  << XYqt  D       1      63  6c.                |       |  [MN< <PC>] [BR <Ob>]
- PRO 11,26 3plM ZYqX [resumpt] D       1      64  8..                |       |   |   |  [JQBHW <PO>] [L>WM <Su>]
- PRO 11,26 ---- NmCl  << CPen  D       1      65  7..                |       |   |  [W-<Cj>] [BRKH <Su>] [L-R>C MCBJR <PC>]
+ PRO 11,26 3plM ZYqX [resumpt] D       1      64  8..                |       |       |  [JQBHW <PO>] [L>WM <Su>]
+ PRO 11,26 ---- NmCl  << CPen  D       1      65  7..                |       |      [W-<Cj>] [BRKH <Su>] [L-R>C MCBJR <PC>]
  PRO 11,27 -sgM Ptcp [subject] D       1      66  6.\                |       |  [CXR <PC>] [VWB <Ob>]
  PRO 11,27 3sgM ZYq0  << XYqt  D       1      67  5..                |      [JBQC <Pr>] [RYWN <Ob>]
  PRO 11,27 -sgM CPen  << ZYq0  D       1      68  7c.                |           |  [W-<Cj>] [DRC <PC>] [R<H <Ob>]

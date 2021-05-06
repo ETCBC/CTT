@@ -1,89 +1,89 @@
- EZE 09,01 3sgM Way0  <<  [R]  N       1       1  0.N   [W-<Cj>] [JQR> <Pr>] [B->ZNJ <Co>] [QWL GDWL <Mo>]
- EZE 09,01 ---- InfC [adjunct] N       1       2  2..        |  [L->MR <Pr>]
-                               =======                       |    +===============================================================================\
- EZE 09,01 2plM ZIm0  <<  [Q]  NQ      11      3  3.q        |   || [QRBW <Pr>]
- EZE 09,01 ---- Voct  << ZIm0  NQ      11      4  5v.        |   ||      |  [PQDWT H-<JR <Vo>]
- EZE 09,01 ---- CPen  << ZIm0  NQ      11      5  4c.        |   ||     [W-<Cj>] [>JC <Fr>]
- EZE 09,01 ---- NmCl [resumpt] NQ      11      6  5..        |   ||         [KLJ MCXTW <Su>] [B-JDW <PC>]
-                               =======                            +===============================================================================/
- EZE 09,02 ---- NmCl  << Way0  N       1       7  1..       [W-<Cj>] [HNH <Ij>]
- EZE 09,02 -plM Ptcp  << NmCl  N       1       8  2..           [CCH >NCJM <Su>] [B>JM <PC>] [M-DRK C<R H-<LJWN <Co>]
- EZE 09,02 -sgM Ptcp [attrib.] N       1       9  7..                |   |   |   |  [>CR <Re>] [MPNH <PC>] [YPWNH <Co>]
- EZE 09,02 ---- CPen  << Ptcp  N       1      10  6c.                |   |   |  [W-<Cj>] [>JC <Fr>]
- EZE 09,02 ---- NmCl [resumpt] N       1      11  7..                |   |   |      [KLJ MPYW <Su>] [B-JDW <PC>]
- EZE 09,02 -sgM AjCl  << Ptcp  N       1      12  5..                |   |  [W-<Cj>] [>JC >XD / B-TWKM <sp><Su>] [LBC <PC>] [BDJM <Co>]
- EZE 09,02 ---- NmCl  << AjCl  N       1      13  6..                |   |      [W-<Cj>] [QST H-SPR <Su>] [B-MTNJW <PC>]
- EZE 09,02 3plM Way0  << Ptcp  N       1      14  4..                |  [W-<Cj>] [JB>W <Pr>]
- EZE 09,02 3plM Way0  << Way0  N       1      15  4..                |  [W-<Cj>] [J<MDW <Pr>] [>YL MZBX H-NXCT <Co>]
- EZE 09,03 3sgM WXQt  << Ptcp  N       12     16  3.#               [W-<Cj>] [KBWD >LHJ JFR>L <Su>] [N<LH <Pr>] [M-<L H-KRWB <Co>]
- EZE 09,03 3sgM xQt0 [attrib.] N       12     17  6.e                    |   |  [>CR <Re>] [HJH <Pr>] [<LJW <Co>]
- EZE 09,03 ---- Defc  << WXQt  N       12     18  5d.                    |  [>L MPTN H-BJT <Co>]
- EZE 09,03 3sgM Way0  << WXQt  N       12     19  4..                   [W-<Cj>] [JQR> <Pr>] [>L H->JC <Co>]
- EZE 09,03 -sgM AjCl [attrib.] N       12     20  7..                        |   |  [H-<Re>] [LBC <PC>] [H-BDJM <Co>]
- EZE 09,03 ---- NmCl [attrib.] N       12     21  6..                        |  [>CR <Re>] [QST H-SPR <Su>] [B-MTNJW <PC>]
- EZE 09,04 3sgM WayX  << Way0  N       121    22  5.#                       [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>LW <Co>]
-                               =======                                           |+===============================================================\
- EZE 09,04 2sgM ZIm0  <<  [Q]  NQ      1211   23  7.q                             | [<BR <Pr>] [B-TWK H-<JR / B-TWK JRWCLM <sp><Co>]
- EZE 09,04 2sgM WQt0  << ZIm0  NQ      1211   24  8..                             |     [W-<Cj>] [HTWJT <Pr>] [TW <Ob>] [<L MYXWT H->NCJM <Co>]
- EZE 09,04 -plM Ptcp [attrib.] NQ      1211   25  9..                             |         [H-<Re>] [N>NXJM <PC>]
- EZE 09,04 -plM Ptcp [coordin] NQ      1211   26 10..                             |             [W-<Cj>] [H-<Re>] [N>NQJM <PC>] [<L KL H-TW<BWT <Co>]
- EZE 09,04 -plF Ptcp [attrib.] NQ      1211   27 11..                             |                 [H-<Re>] [N<FWT <PC>] [B-TWKH <Lo>]
-                               =======                                            +===============================================================/
- EZE 09,05 3sgM WxQ0  << WayX  N       121    28  6..                           [W-<Cj>] [L->LH <Co>] [>MR <Pr>] [B->ZNJ <Aj>]
-                               =======                                               |   |   |+===================================================\
- EZE 09,05 2plM ZIm0  <<  [Q]  NQ      1212   29 10.q                                |   |    | [<BRW <Pr>] [B--<JR <Co>] [>XRJW <Co>]
- EZE 09,05 2plM WIm0  << ZIm0  NQ      1212   30 13..                                |   |    |      |   |  [W-<Cj>] [HKW <Pr>]
- EZE 09,05 3sgF xYqX  << ZIm0  NQ      1212   31 12..                                |   |    |      |  [<L <Ng>] [TXS <Pr>] [<JNJKM <Su>]
- EZE 09,05 2plM WxY0  << xYqX  NQ      1212   32 13..                                |   |    |      |      [W-<Cj>] [>L <Ng>] [TXMLW <Pr>]
- EZE 09,06 2plM xYq0  << ZIm0  NQ      1212   33 11..                                |   |    |     [ZQN BXWR W-BTWLH W-VP W-NCJM <Ob>] [THRGW <Pr>] [L-MCXJT <Aj>]
- EZE 09,06 ---- Defc  << xYq0  NQ      1212   34 13d.                                |   |    |          |  [W-<Cj>] [<L KL >JC <Co>]
- EZE 09,06 ---- NmCl [attrib.] NQ      1212   35 15.e                                |   |    |          |       |  [>CR <Re>] [<LJW <PC>] [H-TW <Su>]
- EZE 09,06 2plM xYq0  << Defc  NQ      1212   36 14..                                |   |    |          |      [>L <Ng>] [TGCW <Pr>]
- EZE 09,06 2plM WxY0  << xYq0  NQ      1212   37 12..                                |   |    |         [W-<Cj>] [M-MQDCJ <Co>] [TXLW <Pr>]
-                               =======                                               |   |    +===================================================/
- EZE 09,06 3plM Way0  << WxQ0  N       121    38  9..                                |   |  [W-<Cj>] [JXLW <Pr>] [B-->NCJM H-ZQNJM <Co>]
- EZE 09,06 ---- NmCl [attrib.] N       121    39 10..                                |   |      [>CR <Re>] [L-PNJ H-BJT <PC>]
- EZE 09,07 3sgM Way0  << WxQ0  N       1213   40  8.#                                |  [W-<Cj>] [J>MR <Pr>] [>LJHM <Co>]
-                               =======                                               |       |+===================================================\
- EZE 09,07 2plM ZIm0  <<  [Q]  NQ      12131  41 10.q                                |        | [VM>W <Pr>] [>T H-BJT <Ob>]
- EZE 09,07 2plM WIm0  << ZIm0  NQ      12131  42 11..                                |        |  |  [W-<Cj>] [ML>W <Pr>] [>T H-XYRWT <Ob>] [XLLJM <Ob>]
- EZE 09,07 2plM ZIm0  << ZIm0  NQ      12131  43 10..                                |        | [Y>W <Pr>]
-                               =======                                               |        +===================================================/
- EZE 09,07 3pl- WQt0  << Way0  N       1213   44  9..                                |      [W-<Cj>] [JY>W <Pr>]
- EZE 09,07 3pl- WQt0  << WQt0  N       1213   45 10..                                |          [W-<Cj>] [HKW <Pr>] [B--<JR <Lo>]
- EZE 09,08 3sgM Way0  << WxQ0  N       121    46  7..                               [W-<Cj>] [JHJ <Pr>]
- EZE 09,08 ---- InfC [adjunct] N       121    47  9..                                    |  [K-HKWTM <Ps>]
- EZE 09,08 -sgM Ptcp  << Way0  N       121    48  8..                                   [W-<Cj>] [N>C>R <PC>] [>NJ <Su>]
- EZE 09,08 1sg- Way0  << Ptcp  N       121    49  9..                                       [W-<Cj>] [>PLH <Pr>] [<L PNJ <Co>]
- EZE 09,08 1sg- Way0  << Way0  N       121    50  9..                                       [W-<Cj>] [>Z<Q <Pr>]
- EZE 09,08 1sg- Way0  << Way0  N       121    51  9..                                       [W-<Cj>] [>MR <Pr>]
-                               =======                                                           |+===============================================\
- EZE 09,08 ---- Voct  <<  [Q]  NQ      1214   52 11vq                                             | [>HH <Ij>] [>DNJ JHWH <Vo>]
- EZE 09,08 -sgM Ptcp [ref.Voc] NQ      1214   53 12..                                             |     [H-<Qu>] [MCXJT <PC>] [>TH <Su>] [>T KL C>RJT JFR>L <Ob>]
- EZE 09,08 ---- InfC [adjunct] NQ      1214   54 13..                                             |         [B-CPKK <Ps>] [>T XMTK <Ob>] [<L JRWCLM <Co>]
-                               =======                                                            +===============================================/
- EZE 09,09 3sgM Way0  << Way0  N       121    55 10..                                           [W-<Cj>] [J>MR <Pr>] [>LJ <Co>]
-                               =======                                                               |+===========================================\
- EZE 09,09 -sgM AjCl  <<  [Q]  NQ      1215   56 12.q                                                 | [<WN BJT JFR>L W-JHWDH <Su>] [GDWL <PC>] [B-M>D M>D <Aj>]
-                               -------                                                               ||      |   |+----------------------------\
- EZE 09,09 3sgF WayX  << AjCl  NQN     12151  57 15.#                                                 |      |    | [W-<Cj>] [TML> <Pr>] [H->RY <Su>] [DMJM <Ob>]
- EZE 09,09 3sgF WXQt  << WayX  NQN     121511 58 16.#                                                 |      |    |     [W-<Cj>] [H-<JR <Su>] [ML>H <Pr>] [MVH <Ob>]
-                               -------                                                               ||      |    +----------------------------/
- EZE 09,09 3pl- xQt0  << AjCl  NQ      1215   59 14..                                                 |      |  [KJ <Cj>] [>MRW <Pr>]
-                               =======                                                               ||      |    +============================\
- EZE 09,09 3sgM ZQtX  <<  [Q]  NQQ     12152  60 15.q                                                 |      |    | [<ZB <Pr>] [JHWH <Su>] [>T H->RY <Ob>]
- EZE 09,09 -sgM Ptcp  << ZQtX  NQQ     12152  61 16..                                                 |      |    |     [W-<Cj>] [>JN <NC>] [JHWH <Su>] [R>H <PC>]
-                               =======                                                               ||           +============================/
- EZE 09,10 ---- CPen  << AjCl  NQ      1215   62 13c.                                                 |     [W-<Cj>] [GM >NJ <Fr>]
- EZE 09,10 3sgF xYqX [resumpt] NQ      1215   63 15..                                                 |          |  [L> <Ng>] [TXWS <Pr>] [<JNJ <Su>]
- EZE 09,10 1sg- WxY0 [coordin] NQ      1215   64 16..                                                 |          |      [W-<Cj>] [L> <Ng>] [>XML <Pr>]
- EZE 09,10 1sg- xQt0  << CPen  NQ      1215   65 14..                                                 |         [DRKM <Ob>] [B-R>CM <Co>] [NTTJ <Pr>]
-                               =======                                                                +===========================================/
- EZE 09,11 ---- MSyn  << Way0  N       121    66 11m.                                               [W-<Cj>] [HNH <Ij>]
- EZE 09,11 ---- Defc  << MSyn  N       121    67 12d.                                                   [H->JC LBC H-BDJM <Su>]
- EZE 09,11 ---- NmCl [attrib.] N       121    68 14.e                                                        |  [>CR <Re>] [H-QST <Su>] [B-MTNJW <PC>]
- EZE 09,11 -sgM Ptcp  << Defc  N       121    69 13..                                                       [MCJB <PC>] [DBR <Ob>]
- EZE 09,11 ---- InfC [adjunct] N       121    70 14..                                                           [L->MR <Pr>]
-                               =======                                                                            +===============================\
- EZE 09,11 1sg- ZQt0  <<  [Q]  NQ      1216   71 15.q                                                             | [<FJTJ <Pr>] [K--<Co>]
- EZE 09,11 2sgM xQt0 [reg/rec] NQ      1216   72 16..                                                             |     [>CR <Re>] [YWJTNJ <PO>]
+ EZE 09,01 3sgM Way0  <<  [R]  N       1        1  0.N   [W-<Cj>] [JQR> <Pr>] [B->ZNJ <Co>] [QWL GDWL <Mo>]
+ EZE 09,01 ---- InfC [adjunct] N       1        2  2..        |  [L->MR <Pr>]
+                               =======                        |    +===============================================================================\
+ EZE 09,01 2plM ZIm0  <<  [Q]  NQ      11       3  3.q        |    | [QRBW <Pr>]
+ EZE 09,01 ---- Voct  << ZIm0  NQ      11       4  5v.        |    |      |  [PQDWT H-<JR <Vo>]
+ EZE 09,01 ---- CPen  << ZIm0  NQ      11       5  4c.        |    |     [W-<Cj>] [>JC <Fr>]
+ EZE 09,01 ---- NmCl [resumpt] NQ      11       6  5..        |    |         [KLJ MCXTW <Su>] [B-JDW <PC>]
+                               =======                        |    +===============================================================================/
+ EZE 09,02 ---- NmCl  << Way0  N       1        7  1..       [W-<Cj>] [HNH <Ij>]
+ EZE 09,02 -plM Ptcp  << NmCl  N       1        8  2..           [CCH >NCJM <Su>] [B>JM <PC>] [M-DRK C<R H-<LJWN <Co>]
+ EZE 09,02 -sgM Ptcp [attrib.] N       1        9  7..                |   |   |   |  [>CR <Re>] [MPNH <PC>] [YPWNH <Co>]
+ EZE 09,02 ---- CPen  << Ptcp  N       1       10  6c.                |   |   |  [W-<Cj>] [>JC <Fr>]
+ EZE 09,02 ---- NmCl [resumpt] N       1       11  7..                |   |   |      [KLJ MPYW <Su>] [B-JDW <PC>]
+ EZE 09,02 -sgM AjCl  << Ptcp  N       1       12  5..                |   |  [W-<Cj>] [>JC >XD / B-TWKM <sp><Su>] [LBC <PC>] [BDJM <Co>]
+ EZE 09,02 ---- NmCl  << AjCl  N       1       13  6..                |   |      [W-<Cj>] [QST H-SPR <Su>] [B-MTNJW <PC>]
+ EZE 09,02 3plM Way0  << Ptcp  N       1       14  4..                |  [W-<Cj>] [JB>W <Pr>]
+ EZE 09,02 3plM Way0  << Way0  N       1       15  4..                |  [W-<Cj>] [J<MDW <Pr>] [>YL MZBX H-NXCT <Co>]
+ EZE 09,03 3sgM WXQt  << Ptcp  N       12      16  3.#               [W-<Cj>] [KBWD >LHJ JFR>L <Su>] [N<LH <Pr>] [M-<L H-KRWB <Co>]
+ EZE 09,03 3sgM xQt0 [attrib.] N       12      17  6.e                    |   |  [>CR <Re>] [HJH <Pr>] [<LJW <Co>]
+ EZE 09,03 ---- Defc  << WXQt  N       12      18  5d.                    |  [>L MPTN H-BJT <Co>]
+ EZE 09,03 3sgM Way0  << WXQt  N       12      19  4..                   [W-<Cj>] [JQR> <Pr>] [>L H->JC <Co>]
+ EZE 09,03 -sgM AjCl [attrib.] N       12      20  7..                        |   |  [H-<Re>] [LBC <PC>] [H-BDJM <Co>]
+ EZE 09,03 ---- NmCl [attrib.] N       12      21  6..                        |  [>CR <Re>] [QST H-SPR <Su>] [B-MTNJW <PC>]
+ EZE 09,04 3sgM WayX  << Way0  N       121     22  5.#                       [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>LW <Co>]
+                               =======                                            |+===============================================================\
+ EZE 09,04 2sgM ZIm0  <<  [Q]  NQ      1211    23  7.q                            || [<BR <Pr>] [B-TWK H-<JR / B-TWK JRWCLM <sp><Co>]
+ EZE 09,04 2sgM WQt0  << ZIm0  NQ      1211    24  8..                            ||     [W-<Cj>] [HTWJT <Pr>] [TW <Ob>] [<L MYXWT H->NCJM <Co>]
+ EZE 09,04 -plM Ptcp [attrib.] NQ      1211    25  9..                            ||         [H-<Re>] [N>NXJM <PC>]
+ EZE 09,04 -plM Ptcp [coordin] NQ      1211    26 10..                            ||             [W-<Cj>] [H-<Re>] [N>NQJM <PC>] [<L KL H-TW<BWT <Co>]
+ EZE 09,04 -plF Ptcp [attrib.] NQ      1211    27 11..                            ||                 [H-<Re>] [N<FWT <PC>] [B-TWKH <Lo>]
+                               =======                                            |+===============================================================/
+ EZE 09,05 3sgM WxQ0  << WayX  N       121     28  6..                           [W-<Cj>] [L->LH <Co>] [>MR <Pr>] [B->ZNJ <Aj>]
+                               =======                                                |   |   |+===================================================\
+ EZE 09,05 2plM ZIm0  <<  [Q]  NQ      1212    29 10.q                                |   |   || [<BRW <Pr>] [B--<JR <Co>] [>XRJW <Co>]
+ EZE 09,05 2plM WIm0  << ZIm0  NQ      1212    30 13..                                |   |   ||      |   |  [W-<Cj>] [HKW <Pr>]
+ EZE 09,05 3sgF xYqX  << ZIm0  NQ      1212    31 12..                                |   |   ||      |  [<L <Ng>] [TXS <Pr>] [<JNJKM <Su>]
+ EZE 09,05 2plM WxY0  << xYqX  NQ      1212    32 13..                                |   |   ||      |      [W-<Cj>] [>L <Ng>] [TXMLW <Pr>]
+ EZE 09,06 2plM xYq0  << ZIm0  NQ      1212    33 11..                                |   |   ||     [ZQN BXWR W-BTWLH W-VP W-NCJM <Ob>] [THRGW <Pr>] [L-MCXJT <Aj>]
+ EZE 09,06 ---- Defc  << xYq0  NQ      1212    34 13d.                                |   |   ||          |  [W-<Cj>] [<L KL >JC <Co>]
+ EZE 09,06 ---- NmCl [attrib.] NQ      1212    35 15.e                                |   |   ||          |       |  [>CR <Re>] [<LJW <PC>] [H-TW <Su>]
+ EZE 09,06 2plM xYq0  << Defc  NQ      1212    36 14..                                |   |   ||          |      [>L <Ng>] [TGCW <Pr>]
+ EZE 09,06 2plM WxY0  << xYq0  NQ      1212    37 12..                                |   |   ||         [W-<Cj>] [M-MQDCJ <Co>] [TXLW <Pr>]
+                               =======                                                |   |   |+===================================================/
+ EZE 09,06 3plM Way0  << WxQ0  N       121     38  9..                                |   |  [W-<Cj>] [JXLW <Pr>] [B-->NCJM H-ZQNJM <Co>]
+ EZE 09,06 ---- NmCl [attrib.] N       121     39 10..                                |   |      [>CR <Re>] [L-PNJ H-BJT <PC>]
+ EZE 09,07 3sgM Way0  << WxQ0  N       1213    40  8.#                                |  [W-<Cj>] [J>MR <Pr>] [>LJHM <Co>]
+                               =======                                                |       |+===================================================\
+ EZE 09,07 2plM ZIm0  <<  [Q]  NQ      12131   41 10.q                                |       || [VM>W <Pr>] [>T H-BJT <Ob>]
+ EZE 09,07 2plM WIm0  << ZIm0  NQ      12131   42 11..                                |       ||  |  [W-<Cj>] [ML>W <Pr>] [>T H-XYRWT <Ob>] [XLLJM <Ob>]
+ EZE 09,07 2plM ZIm0  << ZIm0  NQ      12131   43 10..                                |       || [Y>W <Pr>]
+                               =======                                                |       |+===================================================/
+ EZE 09,07 3pl- WQt0  << Way0  N       1213    44  9..                                |      [W-<Cj>] [JY>W <Pr>]
+ EZE 09,07 3pl- WQt0  << WQt0  N       1213    45 10..                                |          [W-<Cj>] [HKW <Pr>] [B--<JR <Lo>]
+ EZE 09,08 3sgM Way0  << WxQ0  N       121     46  7..                               [W-<Cj>] [JHJ <Pr>]
+ EZE 09,08 ---- InfC [adjunct] N       121     47  9..                                    |  [K-HKWTM <Ps>]
+ EZE 09,08 -sgM Ptcp  << Way0  N       121     48  8..                                   [W-<Cj>] [N>C>R <PC>] [>NJ <Su>]
+ EZE 09,08 1sg- Way0  << Ptcp  N       121     49  9..                                       [W-<Cj>] [>PLH <Pr>] [<L PNJ <Co>]
+ EZE 09,08 1sg- Way0  << Way0  N       121     50  9..                                       [W-<Cj>] [>Z<Q <Pr>]
+ EZE 09,08 1sg- Way0  << Way0  N       121     51  9..                                       [W-<Cj>] [>MR <Pr>]
+                               =======                                                            |+===============================================\
+ EZE 09,08 ---- Voct  <<  [Q]  NQ      1214    52 11vq                                            || [>HH <Ij>] [>DNJ JHWH <Vo>]
+ EZE 09,08 -sgM Ptcp [ref.Voc] NQ      1214    53 12..                                            ||     [H-<Qu>] [MCXJT <PC>] [>TH <Su>] [>T KL C>RJT JFR>L <Ob>]
+ EZE 09,08 ---- InfC [adjunct] NQ      1214    54 13..                                            ||         [B-CPKK <Ps>] [>T XMTK <Ob>] [<L JRWCLM <Co>]
+                               =======                                                            |+===============================================/
+ EZE 09,09 3sgM Way0  << Way0  N       121     55 10..                                           [W-<Cj>] [J>MR <Pr>] [>LJ <Co>]
+                               =======                                                                |+===========================================\
+ EZE 09,09 -sgM AjCl  <<  [Q]  NQ      1215    56 12.q                                                || [<WN BJT JFR>L W-JHWDH <Su>] [GDWL <PC>] [B-M>D M>D <Aj>]
+                               -------                                                                ||      |   |+----------------------------\
+ EZE 09,09 3sgF WayX  << AjCl  NQN     12151   57 15.#                                                ||      |   || [W-<Cj>] [TML> <Pr>] [H->RY <Su>] [DMJM <Ob>]
+ EZE 09,09 3sgF WXQt  << WayX  NQN     121511  58 16.#                                                ||      |   ||     [W-<Cj>] [H-<JR <Su>] [ML>H <Pr>] [MVH <Ob>]
+                               -------                                                                ||      |   |+----------------------------/
+ EZE 09,09 3pl- xQt0  << AjCl  NQ      1215    59 14..                                                ||      |  [KJ <Cj>] [>MRW <Pr>]
+                               =======                                                                ||      |    +============================\
+ EZE 09,09 3sgM ZQtX  <<  [Q]  NQQ     12152   60 15.q                                                ||      |    | [<ZB <Pr>] [JHWH <Su>] [>T H->RY <Ob>]
+ EZE 09,09 -sgM Ptcp  << ZQtX  NQQ     12152   61 16..                                                ||      |    |     [W-<Cj>] [>JN <NC>] [JHWH <Su>] [R>H <PC>]
+                               =======                                                                ||      |    +============================/
+ EZE 09,10 ---- CPen  << AjCl  NQ      1215    62 13c.                                                ||     [W-<Cj>] [GM >NJ <Fr>]
+ EZE 09,10 3sgF xYqX [resumpt] NQ      1215    63 15..                                                ||          |  [L> <Ng>] [TXWS <Pr>] [<JNJ <Su>]
+ EZE 09,10 1sg- WxY0 [coordin] NQ      1215    64 16..                                                ||          |      [W-<Cj>] [L> <Ng>] [>XML <Pr>]
+ EZE 09,10 1sg- xQt0  << CPen  NQ      1215    65 14..                                                ||         [DRKM <Ob>] [B-R>CM <Co>] [NTTJ <Pr>]
+                               =======                                                                |+===========================================/
+ EZE 09,11 ---- MSyn  << Way0  N       121     66 11m.                                               [W-<Cj>] [HNH <Ij>]
+ EZE 09,11 ---- Defc  << MSyn  N       121     67 12d.                                                   [H->JC LBC H-BDJM <Su>]
+ EZE 09,11 ---- NmCl [attrib.] N       121     68 14.e                                                        |  [>CR <Re>] [H-QST <Su>] [B-MTNJW <PC>]
+ EZE 09,11 -sgM Ptcp  << Defc  N       121     69 13..                                                       [MCJB <PC>] [DBR <Ob>]
+ EZE 09,11 ---- InfC [adjunct] N       121     70 14..                                                           [L->MR <Pr>]
+                               =======                                                                             +===============================\
+ EZE 09,11 1sg- ZQt0  <<  [Q]  NQ      1216    71 15.q                                                             | [<FJTJ <Pr>] [K--<Co>]
+ EZE 09,11 2sgM xQt0 [reg/rec] NQ      1216    72 16..                                                             |     [>CR <Re>] [YWJTNJ <PO>]

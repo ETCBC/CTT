@@ -1,5 +1,5 @@
  PS025,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [L-DWD <PC>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PS025,001 ---- Defc  << NmCl  Q       2       2  0dN   [>LJK <Co>]
  PS025,001 ---- Voct  << Defc  Q       2       3  4ve        |   |   |  [JHWH <Vo>]
  PS025,001 1sg- xYq0  << Defc  Q       2       4  3..        |   |  [NPCJ <Ob>] [>F> <Pr>]
@@ -36,7 +36,7 @@
  PS025,011 2sgM WQt0  << xImX  Q       2      35  7..                |   |          [W-<Cj>] [SLXT <Pr>] [L-<WNJ <Co>]
  PS025,011 -sgM AjCl  << WQt0  Q       2      36  8..                |   |              [KJ <Cj>] [RB <PC>] [HW> <Su>]
  PS025,012 ---- NmCl  << ZIm0  Q       2      37  4..                |  [MJ ZH <PC>] [H->JC <Su>]
- PS025,012 -sgM AjCl [attrib.] Q       2      38  9..                |       |   |   |   |  [JR> JHWH <PC>]
+ PS025,012 ---- AjCl [attrib.] Q       2      38  9..                |       |   |   |   |  [JR> JHWH <PC>]
  PS025,012 3sgM ZYq0  << NmCl  Q       2      39  8..                |       |   |   |  [JWRNW <PO>] [B-DRK <Co>]
  PS025,012 3sgM ZYq0 [attrib.] Q       2      40  9..                |       |   |   |      [JBXR <Pr>]
  PS025,013 3sgF XYqt  << NmCl  Q       2      41  7..                |       |   |  [NPCW <Su>] [B-VWB <Aj>] [TLJN <Pr>]

@@ -33,15 +33,15 @@
  NEH 03,13 ---- Ellp  << xQtX  N       1      33  7l.    |               |          [W-<Cj>] [>LP >MH / B--XWMH <sp><Ob>] [<D C<R H-CPWT <Aj>]
  NEH 03,14 3sgM WxQX  << WxQX  N       1      34  4..    |              [W-<Cj>] [>T C<R H->CPWT <Ob>] [HXZJQ <Pr>] [MLKJH / BN RKB / FR PLK BJT_HKRM <ap><ap><Su>]
                                -------                   |               |+-----------------------------------------------------------------------\
- NEH 03,14 3sgM XYqt  << WxQX  ND      1      35  5..    |                | [HW> <Su>] [JBNNW <PO>]
- NEH 03,14 3sgM WYq0  << XYqt  ND      1      36  6..    |                |     [W-<Cj>] [J<MJD <Pr>] [DLTTJW MN<LJW W-BRJXJW <Ob>]
-                               -------                   |                +-----------------------------------------------------------------------/
+ NEH 03,14 3sgM XYqt  << WxQX  ND      1      35  5..    |               || [HW> <Su>] [JBNNW <PO>]
+ NEH 03,14 3sgM WYq0  << XYqt  ND      1      36  6..    |               ||     [W-<Cj>] [J<MJD <Pr>] [DLTTJW MN<LJW W-BRJXJW <Ob>]
+                               -------                   |               |+-----------------------------------------------------------------------/
  NEH 03,15 3sgM WxQX  << WxQX  N       1      37  4..    |              [W-<Cj>] [>T C<R H-<JN <Ob>] [HXZJQ <Pr>] [CLWN / BN KL_XZH / FR PLK H-MYPH <ap><ap><Su>]
                                -------                   |                   |   |+---------------------------------------------------------------\
- NEH 03,15 3sgM XYqt  << WxQX  ND      1      38  7..    |                   |    | [HW> <Su>] [JBNNW <PO>]
- NEH 03,15 3sgM WYq0  << XYqt  ND      1      39  8..    |                   |    |     [W-<Cj>] [JVLLNW <PO>]
- NEH 03,15 3sgM WYq0  << WYq0  ND      1      40  9..    |                   |    |         [W-<Cj>] [J<MJDW <Pr>] [DLTTJW MN<LJW W-BRJXJW <Ob>]
-                               -------                   |                   |    +---------------------------------------------------------------/
+ NEH 03,15 3sgM XYqt  << WxQX  ND      1      38  7..    |                   |   || [HW> <Su>] [JBNNW <PO>]
+ NEH 03,15 3sgM WYq0  << XYqt  ND      1      39  8..    |                   |   ||     [W-<Cj>] [JVLLNW <PO>]
+ NEH 03,15 3sgM WYq0  << WYq0  ND      1      40  9..    |                   |   ||         [W-<Cj>] [J<MJDW <Pr>] [DLTTJW MN<LJW W-BRJXJW <Ob>]
+                               -------                   |                   |   |+---------------------------------------------------------------/
  NEH 03,15 ---- Ellp  << WxQX  N       1      41  6l.    |                   |  [W-<Cj>] [>T XWMT BRKT H-CLX <Ob>] [L-GN H-MLK / W-/ <D H-M<LWT <pa><cj><Aj>]
  NEH 03,15 -plF Ptcp [attrib.] N       1      42  7..    |                   |      [H-<Re>] [JWRDWT <PC>] [M-<JR DWJD <Co>]
  NEH 03,16 3sgM xQtX  << WxQX  N       1      43  5..    |                  [>XRJW <Ti>] [HXZJQ <Pr>] [NXMJH / BN <ZBWQ / FR XYJ PLK BJT_YWR <ap><ap><Su>] [<D NGD QBRJ DWJD W-<D H-BRKH <Aj>]
@@ -64,7 +64,7 @@
  NEH 03,25 ---- Defc  << Ellp  N       1      60 12d.    |                                   |   |      [H-<LJWN <sp>]
  NEH 03,25 ---- NmCl [attrib.] N       1      61 13..    |                                   |   |          [>CR <Re>] [L-XYR H-MVRH <PC>]
  NEH 03,25 ---- Ellp  << xQtX  N       1      62 10l.    |                                   |  [>XRJW <Ti>] [PDJH / BN PR<C <ap><Su>]
- NEH 03,26 3pl- WXQt  << Ellp  N       1      63 12.e    |                                   |       |  [W-<Cj>] [H-NTJNJM <Su>] [HJW <Pr>] [JCBJM <PC>] [B--<PL <Co>]
+ NEH 03,26 3plM WXQt  << Ellp  N       1      63 12.e    |                                   |       |  [W-<Cj>] [H-NTJNJM <Su>] [HJW <Pr>] [JCBJM <PC>] [B--<PL <Co>]
  NEH 03,26 ---- Defc  << Ellp  N       1      64 11d.    |                                   |      [<D NGD C<R H-MJM <Aj>] [L--MZRX / W-/ H-MGDL <pa><cj><Aj>]
  NEH 03,26 -sgM Ptcp [attrib.] N       1      65 12..    |                                   |          [H-<Re>] [JWY> <PC>]
  NEH 03,27 3pl- xQtX  << xQtX  N       1      66  9..    |                                  [>XRJW <Ti>] [HXZJQW <Pr>] [H-TQ<JM <Su>] [MDH CNJT <Ob>] [M-NGD H-MGDL H-GDWL <Aj>]
@@ -93,22 +93,23 @@
  NEH 03,34 3plM xYq0  << xYq0  NQ      21     88  5..    |   |       ||     [H-<Qu>] [JKLW <Pr>] [B--JWM <Ti>]
  NEH 03,34 3plM xYq0  << xYq0  NQ      21     89  5..    |   |       ||     [H-<Qu>] [JXJW <Pr>] [>T H->BNJM <Ob>] [M-<RMWT H-<PR <Co>]
  NEH 03,34 -plF Ptcp  << xYq0  NQ      21     90  6..    |   |       ||         [W-<Cj>] [HMH <Su>] [FRWPWT <PC>]
-                               =======                   |   |        +===========================================================================/
+                               =======                   |   |       |+===========================================================================/
  NEH 03,35 ---- NmCl  << Way0  N       2      91  3..    |   |      [W-<Cj>] [VWBJH / H-<MNJ <ap><Su>] [>YLW <PC>]
  NEH 03,35 3sgM Way0  << NmCl  N       2      92  4..    |   |          [W-<Cj>] [J>MR <Pr>]
                                =======                   |   |            +=======================================================================\
- NEH 03,35 -plM Ptcp  <<  [Q]  NQ      22     93  5.q    |   |           || [GM <Mo>] [>CR <Re>] [HM <Su>] [BWNJM <PC>]
- NEH 03,35 3sgM xYqX  << Ptcp  NQ      22     94  6..    |   |           ||     [>M <Cj>] [J<LH <Pr>] [CW<L <Su>]
- NEH 03,35 3sgM WQt0  << xYqX  NQ      22     95  7..    |   |           ||         [W-<Cj>] [PRY <Pr>] [XWMT >BNJHM <Ob>]
- NEH 03,36 2sgM ZIm0  <<  [Q]  NQ      23     96  1.q    |  [CM< <Pr>]
- NEH 03,36 ---- Voct  << ZIm0  NQ      23     97  5v.    |       |   |    | [>LHJNW <Vo>]
- NEH 03,36 1pl- xQt0  << ZIm0  NQ      23     98  4..    |       |   |  [KJ <Cj>] [HJJNW <Pr>] [BWZH <PC>]
- NEH 03,36 2sgM WIm0  << ZIm0  NQ      23     99  3..    |       |  [W-<Cj>] [HCB <Pr>] [XRPTM <Ob>] [>L R>CM <Co>]
- NEH 03,36 2sgM WIm0  << WIm0  NQ      23    100  5..    |       |        | [W-<Cj>] [TNM <PO>] [L-BZH <Co>] [B->RY CBJH <Lo>]
- NEH 03,37 2sgM WxY0  << WIm0  NQ      23    101  4..    |       |      [W-<Cj>] [>L <Ng>] [TKS <Pr>] [<L <WNM <Co>]
- NEH 03,37 2sgM WxY0  << WxY0  NQ      23    102  5..    |       |        | [W-<Cj>] [XV>TM <Ob>] [M-L-PNJK <Co>] [>L <Ng>] [TMXH <Pr>]
- NEH 03,37 3pl- xQt0  << ZIm0  NQ      23    103  2..    |      [KJ <Cj>] [HK<JSW <Pr>] [L-NGD H-BWNJM <Aj>]
-                               =======                                    +=======================================================================/
+ NEH 03,35 -plM Ptcp  <<  [Q]  NQ      22     93  5.q    |   |            | [GM <Mo>] [>CR <Re>] [HM <Su>] [BWNJM <PC>]
+ NEH 03,35 3sgM xYqX  << Ptcp  NQ      22     94  6..    |   |            |     [>M <Cj>] [J<LH <Pr>] [CW<L <Su>]
+ NEH 03,35 3sgM WQt0  << xYqX  NQ      22     95  7..    |   |            |         [W-<Cj>] [PRY <Pr>] [XWMT >BNJHM <Ob>]
+                               =======                   |+=======================================================================================\
+ NEH 03,36 2sgM ZIm0  <<  [Q]  NQ      23     96  1.q    || [CM< <Pr>]
+ NEH 03,36 ---- Voct  << ZIm0  NQ      23     97  5v.    ||      |   |   |  [>LHJNW <Vo>]
+ NEH 03,36 1pl- xQt0  << ZIm0  NQ      23     98  4..    ||      |   |  [KJ <Cj>] [HJJNW <Pr>] [BWZH <PC>]
+ NEH 03,36 2sgM WIm0  << ZIm0  NQ      23     99  3..    ||      |  [W-<Cj>] [HCB <Pr>] [XRPTM <Ob>] [>L R>CM <Co>]
+ NEH 03,36 2sgM WIm0  << WIm0  NQ      23    100  5..    ||      |       |  [W-<Cj>] [TNM <PO>] [L-BZH <Co>] [B->RY CBJH <Lo>]
+ NEH 03,37 2sgM WxY0  << WIm0  NQ      23    101  4..    ||      |      [W-<Cj>] [>L <Ng>] [TKS <Pr>] [<L <WNM <Co>]
+ NEH 03,37 2sgM WxY0  << WxY0  NQ      23    102  5..    ||      |          [W-<Cj>] [XV>TM <Ob>] [M-L-PNJK <Co>] [>L <Ng>] [TMXH <Pr>]
+ NEH 03,37 3pl- xQt0  << ZIm0  NQ      23    103  2..    ||     [KJ <Cj>] [HK<JSW <Pr>] [L-NGD H-BWNJM <Aj>]
+                               =======                   |+=======================================================================================/
  NEH 03,38 1pl- Way0  << Way0  N       3     104  0.#   [W-<Cj>] [NBNH <Pr>] [>T H-XWMH <Ob>]
  NEH 03,38 3sgF WayX  << Way0  N       31    105  2.#        |  [W-<Cj>] [TQCR <Pr>] [KL H-XWMH <Su>] [<D XYJH <Aj>]
  NEH 03,38 3sgM WayX  << Way0  N       32    106  1.#       [W-<Cj>] [JHJ <Pr>] [LB <Su>] [L--<M <Co>]

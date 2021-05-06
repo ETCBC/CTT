@@ -1,20 +1,22 @@
  DEUT13,01 ---- CPen  <<  [R]  ?       1       1  0cN   [>T KL H-DBR <Fr>]
-                               =======                 ==============================================================================================/
- DEUT13,01 -sgM Ptcp [attrib.] Q       1       2  2..    |   |  [>CR <Re>] [>NKJ <Su>] [MYWH <PC>] [>TKM <Ob>]
- DEUT13,01 2plM xYq0 [resumpt] Q       1       3  1..    |  [>TW <Ob>] [TCMRW <Pr>]
- DEUT13,01 ---- InfC [adjunct] Q       1       4  3..    |       |  [L-<FWT <Pr>]
- DEUT13,01 2sgM xYq0  << xYq0  Q       1       5  2..    |      [L> <Ng>] [TSP <Pr>] [<LJW <Co>]
- DEUT13,01 2sgM WxY0  << xYq0  Q       1       6  3..    |          [W-<Cj>] [L> <Ng>] [TGR< <Pr>] [MMNW <Co>]
+                               =======                   |   |+======================================================================================\
+ DEUT13,01 -sgM Ptcp [attrib.] Q       1       2  2..    |   || [>CR <Re>] [>NKJ <Su>] [MYWH <PC>] [>TKM <Ob>]
+                               =======                   |+==========================================================================================\
+ DEUT13,01 2plM xYq0 [resumpt] Q       1       3  1..    || [>TW <Ob>] [TCMRW <Pr>]
+ DEUT13,01 ---- InfC [adjunct] Q       1       4  3..    ||      |  [L-<FWT <Pr>]
+ DEUT13,01 2sgM xYq0  << xYq0  Q       1       5  2..    ||     [L> <Ng>] [TSP <Pr>] [<LJW <Co>]
+ DEUT13,01 2sgM WxY0  << xYq0  Q       1       6  3..    ||         [W-<Cj>] [L> <Ng>] [TGR< <Pr>] [MMNW <Co>]
+                               =======                +==============================================================================================\
  DEUT13,02 3sgM xYqX  << CPen  Q       2       7  0.#   [KJ <Cj>] [JQWM <Pr>] [B-QRBK <Co>] [NBJ> >W XLM XLWM <Su>]
  DEUT13,02 3sgM WQt0  << xYqX  Q       2       8  2..    |   |  [W-<Cj>] [NTN <Pr>] [>LJK <Co>] [>WT >W MWPT <Ob>]
  DEUT13,03 3sgM WQtX  << WQt0  Q       2       9  3..    |   |      [W-<Cj>] [B> <Pr>] [H->WT W-H-MWPT <Su>]
  DEUT13,03 3sgM xQt0 [attrib.] Q       2      10  4..    |   |          [>CR <Re>] [DBR <Pr>] [>LJK <Co>]
  DEUT13,03 ---- InfC [adjunct] Q       2      11  5..    |   |              [L->MR <Pr>]
                                =======                   |   |                +===================================================================\
- DEUT13,03 1pl- ZYq0  <<  [Q]  QQ      21     12  6.q    |   |               || [NLKH <Pr>] [>XRJ >LHJM >XRJM <Co>]
- DEUT13,03 2sgM xQt0 [attrib.] QQ      21     13  8..    |   |               ||      |  [>CR <Re>] [L> <Ng>] [JD<TM <PO>]
- DEUT13,03 1pl- WYq0  << ZYq0  QQ      21     14  7..    |   |               ||     [W-<Cj>] [N<BDM <PO>]
-                               =======                   |                    +===================================================================/
+ DEUT13,03 1pl- ZYq0  <<  [Q]  QQ      21     12  6.q    |   |                | [NLKH <Pr>] [>XRJ >LHJM >XRJM <Co>]
+ DEUT13,03 2sgM xQt0 [attrib.] QQ      21     13  8..    |   |                |      |  [>CR <Re>] [L> <Ng>] [JD<TM <PO>]
+ DEUT13,03 1pl- WYq0  << ZYq0  QQ      21     14  7..    |   |                |     [W-<Cj>] [N<BDM <PO>]
+                               =======                   |   |                +===================================================================/
  DEUT13,04 2sgM xYq0  << xYqX  Q       2      15  1..    |  [L> <Ng>] [TCM< <Pr>] [>L DBRJ H-NBJ> H-HW> >W >L XWLM H-XLWM H-HW> <Co>]
  DEUT13,04 -sgM Ptcp  << xYq0  Q       2      16  4..    |       |   |  [KJ <Cj>] [MNSH <PC>] [JHWH / >LHJKM <ap><Su>] [>TKM <Ob>]
  DEUT13,04 ---- InfC [adjunct] Q       2      17  5..    |       |   |      [L-D<T <Pr>]
@@ -38,15 +40,15 @@
  DEUT13,07 ---- Defc  << xYqX  Q       3      35  2d.    |   |  [B--STR <Aj>]
  DEUT13,07 ---- InfC [adjunct] Q       3      36  3..    |   |      [L->MR <Pr>]
                                =======                   |   |        +===========================================================================\
- DEUT13,07 1pl- ZYq0  <<  [Q]  QQ      31     37  4.q    |   |       || [NLKH <Pr>]
- DEUT13,07 1pl- WYq0  << ZYq0  QQ      31     38  5..    |   |       ||     [W-<Cj>] [N<BDH <Pr>] [>LHJM >XRJM <Ob>]
- DEUT13,07 2sgM xQtX [attrib.] QQ      31     39  7.e    |   |       ||          |  [>CR <Re>] [L> <Ng>] [JD<T <Pr>] [>TH W->BTJK <Su>]
- DEUT13,08 ---- Defc  << WYq0  QQ      31     40  6d.    |   |       ||         [M->LHJ H-<MJM <Aj>]
- DEUT13,08 ---- NmCl [attrib.] QQ      31     41  9..    |   |       ||              |   |  [>CR <Re>] [SBJBTJKM <PC>]
- DEUT13,08 -plM AjCl [attrib.] QQ      31     42  8..    |   |       ||              |  [H-<Re>] [QRBJM <PC>] [>LJK <Co>]
- DEUT13,08 -plM AjCl [coordin] QQ      31     43  9.e    |   |       ||              |      [>W <Cj>] [H-<Re>] [RXQJM <PC>] [MMK <Co>]
- DEUT13,08 ---- Defc  << Defc  QQ      31     44  7d.    |   |       ||             [M-QYH H->RY / W-/ <D QYH H->RY <pa><cj><sp>]
-                               =======                   |            +===========================================================================/
+ DEUT13,07 1pl- ZYq0  <<  [Q]  QQ      31     37  4.q    |   |        | [NLKH <Pr>]
+ DEUT13,07 1pl- WYq0  << ZYq0  QQ      31     38  5..    |   |        |     [W-<Cj>] [N<BDH <Pr>] [>LHJM >XRJM <Ob>]
+ DEUT13,07 2sgM xQtX [attrib.] QQ      31     39  7.e    |   |        |          |  [>CR <Re>] [L> <Ng>] [JD<T <Pr>] [>TH W->BTJK <Su>]
+ DEUT13,08 ---- Defc  << WYq0  QQ      31     40  6d.    |   |        |         [M->LHJ H-<MJM <Aj>]
+ DEUT13,08 ---- NmCl [attrib.] QQ      31     41  9..    |   |        |              |   |  [>CR <Re>] [SBJBTJKM <PC>]
+ DEUT13,08 -plM AjCl [attrib.] QQ      31     42  8..    |   |        |              |  [H-<Re>] [QRBJM <PC>] [>LJK <Co>]
+ DEUT13,08 -plM AjCl [coordin] QQ      31     43  9.e    |   |        |              |      [>W <Cj>] [H-<Re>] [RXQJM <PC>] [MMK <Co>]
+ DEUT13,08 ---- Defc  << Defc  QQ      31     44  7d.    |   |        |             [M-QYH H->RY / W-/ <D QYH H->RY <pa><cj><sp>]
+                               =======                   |   |        +===========================================================================/
  DEUT13,09 2sgM xYq0  << xYqX  Q       3      45  1..    |  [L> <Ng>] [T>BH <Pr>] [LW <Co>]
  DEUT13,09 2sgM WxY0  << xYq0  Q       3      46  5..    |       |   |   |  [W-<Cj>] [L> <Ng>] [TCM< <Pr>] [>LJW <Co>]
  DEUT13,09 3sgF WxYX  << xYq0  Q       3      47  4..    |       |   |  [W-<Cj>] [L> <Ng>] [TXWS <Pr>] [<JNK <Su>] [<LJW <Co>]
@@ -70,14 +72,14 @@
  DEUT13,13 ---- InfC [adjunct] Q       4      65  5..        |   |   |      [L-CBT <Pr>] [CM <Co>]
  DEUT13,13 ---- InfC [adjunct] Q       4      66  3..        |   |  [L->MR <Pr>]
                                =======                       |   |    +===========================================================================\
- DEUT13,14 3pl- ZQtX  <<  [Q]  QQ      41     67  4.q        |   |   || [JY>W <Pr>] [>NCJM / BNJ BLJ<L <ap><Su>] [M-QRBK <Co>]
+ DEUT13,14 3pl- ZQtX  <<  [Q]  QQ      41     67  4.q        |   |    | [JY>W <Pr>] [>NCJM / BNJ BLJ<L <ap><Su>] [M-QRBK <Co>]
                                -------                       |   |    |   +--------------------------------------------------------------------\
- DEUT13,14 3plM Way0  << ZQtX  QQN     41     68  5..        |   |   ||  || [W-<Cj>] [JDJXW <Pr>] [>T JCBJ <JRM <Ob>]
- DEUT13,14 ---- InfC [adjunct] QQN     41     69  6..        |   |   ||  ||     [L->MR <Pr>]
+ DEUT13,14 3plM Way0  << ZQtX  QQN     41     68  5..        |   |    |   | [W-<Cj>] [JDJXW <Pr>] [>T JCBJ <JRM <Ob>]
+ DEUT13,14 ---- InfC [adjunct] QQN     41     69  6..        |   |    |   |     [L->MR <Pr>]
                                =======                       |   |    |   |       +=========================================================\
- DEUT13,14 1pl- ZYq0  <<  [Q]  QQNQ    411    70  7.q        |   |   ||  ||       | [NLKH <Pr>]
- DEUT13,14 1pl- WYq0  << ZYq0  QQNQ    411    71  8..        |   |   ||  ||       |     [W-<Cj>] [N<BDH <Pr>] [>LHJM >XRJM <Ob>]
- DEUT13,14 2plM xQt0 [attrib.] QQNQ    411    72  9..        |   |   ||  ||       |         [>CR <Re>] [L> <Ng>] [JD<TM <Pr>]
+ DEUT13,14 1pl- ZYq0  <<  [Q]  QQNQ    411    70  7.q        |   |    |   |       | [NLKH <Pr>]
+ DEUT13,14 1pl- WYq0  << ZYq0  QQNQ    411    71  8..        |   |    |   |       |     [W-<Cj>] [N<BDH <Pr>] [>LHJM >XRJM <Ob>]
+ DEUT13,14 2plM xQt0 [attrib.] QQNQ    411    72  9..        |   |    |   |       |         [>CR <Re>] [L> <Ng>] [JD<TM <Pr>]
                                =======                       |   |    +===========================================================================/
  DEUT13,15 2sgM WQt0  << xYq0  Q       4      73  2..        |  [W-<Cj>] [DRCT <Pr>]
  DEUT13,15 2sgM WQt0  << WQt0  Q       4      74  2..        |  [W-<Cj>] [XQRT <Pr>]

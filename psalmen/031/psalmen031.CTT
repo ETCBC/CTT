@@ -1,6 +1,6 @@
  PS031,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [L--MNYX <PC>]
  PS031,001 ---- NmCl  << NmCl  ?       1       2  1..    |  [MZMWR / L-DWD <sp><PC>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PS031,002 ---- Defc  << NmCl  Q       2       3  0dN   [BK <Co>]
  PS031,002 ---- Voct  << Defc  Q       2       4  4ve        |   |   |  [JHWH <Vo>]
  PS031,002 1sg- ZQt0  << Defc  Q       2       5  3..        |   |  [XSJTJ <Pr>]
@@ -39,7 +39,7 @@
  PS031,011 3pl- WXQt [coordin] Q       2      38 11..        |                   |   |              [W-<Cj>] [<YMJ <Su>] [<CCW <Pr>]
  PS031,012 1sg- xQt0  << ZIm0  Q       2      39  7..        |                   |  [M-KL YRRJ <Aj>] [HJJTJ <Pr>] [XRPH <PC>]
  PS031,012 ---- Ellp  << xQt0  Q       2      40 10l.        |                   |       |   |  [W-<Cj>] [L-CKNJ <Aj>] [M>D <Mo>]
- PS031,012 ---- NmCl [coordin] Q       2      41 11..        |                   |       |   |   |  [W-<Cj>] [PXD <PC>] [L-MJD<J <Co>]
+ PS031,012 ---- NmCl [coordin] Q       2      41 11..        |                   |       |   |      [W-<Cj>] [PXD <PC>] [L-MJD<J <Co>]
  PS031,012 -plM Ptcp [subject] Q       2      42 10.\        |                   |       |   |  [R>J <po>] [B--XWY <Aj>]
  PS031,012 3pl- ZQt0  << xQt0  Q       2      43  9..        |                   |       |  [NDDW <Pr>] [MMNJ <Co>]
  PS031,013 1sg- ZQt0  << xQt0  Q       2      44  8..        |                   |      [NCKXTJ <Pr>] [K-MT <Aj>] [M-LB <Aj>]
@@ -53,8 +53,8 @@
  PS031,015 ---- Voct  << WXQt  Q       2      52  9v.        |                       |   |  [JHWH <Vo>]
  PS031,015 1sg- ZQt0  << WXQt  Q       2      53  8..        |                       |  [>MRTJ <Pr>]
                                =======                       |                       |    +=======================================================\
- PS031,015 ---- NmCl  <<  [Q]  QQ      21     54  9.q        |                       |   || [>LHJ <PC>] [>TH <Su>]
- PS031,016 ---- NmCl  << NmCl  QQ      21     55 10..        |                       |   ||     [B-JDK <PC>] [<TTJ <Su>]
+ PS031,015 ---- NmCl  <<  [Q]  QQ      21     54  9.q        |                       |    | [>LHJ <PC>] [>TH <Su>]
+ PS031,016 ---- NmCl  << NmCl  QQ      21     55 10..        |                       |    |     [B-JDK <PC>] [<TTJ <Su>]
                                =======                       |                       |    +=======================================================/
  PS031,016 2sgM ZIm0  << WXQt  Q       2      56  7..        |                      [HYJLNJ <PO>] [M-JD >WJBJ W-M-RDPJ <Co>]
  PS031,017 2sgM ZIm0  << ZIm0  Q       2      57  8..        |                       |  [H>JRH <Pr>] [PNJK <Ob>] [<L <BDK <Co>]
@@ -78,7 +78,7 @@
  PS031,023 1sg- WXQt  << ZYq0  Q       2      75 10..        |                                  [W-<Cj>] [>NJ <Su>] [>MRTJ <Pr>] [B-XPZJ <Aj>]
                                =======                       |                                       |+===========================================\
  PS031,023 1sg- ZQt0  <<  [Q]  QQ      23     76 12.q        |                                       || [NGRZTJ <Pr>] [M-NGD <JNJK <Co>]
-                               =======                       |                                        +===========================================/
+                               =======                       |                                       |+===========================================/
  PS031,023 2sgM xQt0  << WXQt  Q       2      77 11..        |                                      [>KN <Ij>] [CM<T <Pr>] [QWL TXNWNJ <Ob>]
  PS031,023 ---- InfC [adjunct] Q       2      78 12..        |                                          [B-CW<J <Ps>] [>LJK <Co>]
  PS031,024 2plM ZIm0  << Defc  Q       24     79  1.#       [>HBW <Pr>] [>T JHWH <Ob>]

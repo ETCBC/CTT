@@ -40,8 +40,8 @@
  DEUT24,07 2sgM WQt0  << WQtX  D       2      40  4..            |      [W-<Cj>] [B<RT <Pr>] [H-R< <Ob>] [M-QRBK <Co>]
  DEUT24,08 2sgM ZIm0  << xYqX  D       21     41  2.#           [HCMR <Pr>] [B-NG< H-YR<T <Co>]
  DEUT24,08 ---- InfC [adjunct] D       21     42  5..            |   |   |  [L-CMR <Pr>] [M>D <Mo>]
- DEUT24,08 ---- InfC [coordin] D       21     43  6..            |   |   |   |  [W-<Cj>] [L-<FWT <Pr>] [K-KL <Aj>]
- DEUT24,08 3plM xYqX [reg/rec] D       21     44  7..            |   |   |   |      [>CR <Re>] [JWRW <Pr>] [>TKM <Ob>] [H-KHNJM H-LWJM <Su>]
+ DEUT24,08 ---- InfC [coordin] D       21     43  6..            |   |   |      [W-<Cj>] [L-<FWT <Pr>] [K-KL <Aj>]
+ DEUT24,08 3plM xYqX [reg/rec] D       21     44  7..            |   |   |          [>CR <Re>] [JWRW <Pr>] [>TKM <Ob>] [H-KHNJM H-LWJM <Su>]
  DEUT24,08 1sg- xQt0 [adjunct] D       21     45  5.\            |   |   |  [K->CR <Cj>] [YWJTM <PO>]
  DEUT24,08 2plM ZYq0  << ZIm0  D       21     46  4..            |   |  [TCMRW <Pr>]
  DEUT24,08 ---- InfC [adjunct] D       21     47  5..            |   |      [L-<FWT <Pr>]
@@ -80,7 +80,7 @@
  DEUT24,18 2sgM xQt0 [object ] D       25     80  6..                |       |  [KJ <Cj>] [<BD <PC>] [HJJT <Pr>] [B-MYRJM <Lo>]
                                -------                               |       |    +---------------------------------------------------------------\
  DEUT24,18 3sgM WayX [coordin] DN      251    81  7.#                |       |    | [W-<Cj>] [JPDK <PO>] [JHWH / >LHJK <ap><Su>] [M-CM <Co>]
-                               -------                               |            +---------------------------------------------------------------/
+                               -------                               |       |    +---------------------------------------------------------------/
  DEUT24,18 -sgM Ptcp  << WQt0  D       25     82  5..                |      [<L KN <Aj>] [>NKJ <Su>] [MYWK <po>]
  DEUT24,18 ---- InfC [adjunct] D       25     83  6..                |          [L-<FWT <Pr>] [>T H-DBR H-ZH <Ob>]
  DEUT24,19 2sgM xYq0  << xYq0  D       252    84  3.#               [KJ <Cj>] [TQYR <Pr>] [QYJRK <Ob>] [B-FDK <Lo>]

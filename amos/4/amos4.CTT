@@ -5,9 +5,9 @@ AMOS 04,01 -plF Ptcp [attrib.] Q       1       4  3..    |   |      [H-<Re>] [<C
 AMOS 04,01 -plF Ptcp [coordin] Q       1       5  3..    |   |      [H-<Re>] [RYYWT <PC>] [>BJWNJM <Ob>]
 AMOS 04,01 -plF Ptcp [coordin] Q       1       6  3..    |   |      [H-<Re>] [>MRT <PC>] [L->DNJHM <Co>]
                                =======                   |   |        +===========================================================================\
-AMOS 04,01 2sgM ZIm0  <<  [Q]  QQ      11      7  4.q    |   |       || [HBJ>H <Pr>]
-AMOS 04,01 1pl- WYq0  << ZIm0  QQ      11      8  5..    |   |       ||     [W-<Cj>] [NCTH <Pr>]
-                               =======                   |            +===========================================================================/
+AMOS 04,01 2sgM ZIm0  <<  [Q]  QQ      11      7  4.q    |   |        | [HBJ>H <Pr>]
+AMOS 04,01 1pl- WYq0  << ZIm0  QQ      11      8  5..    |   |        |     [W-<Cj>] [NCTH <Pr>]
+                               =======                   |   |        +===========================================================================/
 AMOS 04,02 3sgM ZQtX  << ZIm0  Q       1       9  1..    |  [NCB< <Pr>] [>DNJ JHWH <Su>] [B-QDCW <Co>]
 AMOS 04,02 -plM Ptcp [object ] Q       1      10  2..    |      [KJ <Cj>] [HNH <Ij>] [JMJM <Su>] [B>JM <PC>] [<LJKM <Co>]
 AMOS 04,02 3sgM WQt0 [coordin] Q       1      11  3..    |          [W-<Cj>] [NF> <Pr>] [>TKM <Ob>] [B-YNWT <Co>]
@@ -55,14 +55,14 @@ AMOS 04,10 ---- Ellp  << ZQt0  Q       21     52  8l.            |       |   |  
                                -------                           |       |   |    +---------------------------------------------------------------\
 AMOS 04,10 1sg- Way0  << ZQt0  QN      21     53  7..            |       |   |    | [W-<Cj>] [><LH <Pr>] [B>C MXNJKM <Ob>]
 AMOS 04,10 ---- Ellp  << Way0  QN      21     54  8l.            |       |   |    |     [W-<Cj>] [B->PKM <Aj>]
-                               -------                           |       |        +---------------------------------------------------------------/
+                               -------                           |       |   |    +---------------------------------------------------------------/
 AMOS 04,10 2plM WxQ0  << ZQt0  Q       21     55  5..            |       |  [W-<Cj>] [L> <Ng>] [CBTM <Pr>] [<DJ <Co>]
 AMOS 04,10 ---- MSyn  << WxQ0  Q       21     56  6m.            |       |      [N>M JHWH <PC>]
 AMOS 04,11 1sg- ZQt0  << ZQt0  Q       21     57  4..            |      [HPKTJ <Pr>] [BKM <Co>] [K-MHPKT >LHJM / >T SDM W->T <MRH <sp><Aj>]
                                -------                           |           |+-------------------------------------------------------------------\
-AMOS 04,11 2plM Way0  << ZQt0  QN      21     58  6..            |            | [W-<Cj>] [THJW <Pr>] [K->WD <Aj>]
-AMOS 04,11 -sgM Ptcp [attrib.] QN      21     59  7..            |            |     [MYL <PC>] [M-FRPH <Co>]
-                               -------                           |            +-------------------------------------------------------------------/
+AMOS 04,11 2plM Way0  << ZQt0  QN      21     58  6..            |           || [W-<Cj>] [THJW <Pr>] [K->WD <Aj>]
+AMOS 04,11 -sgM Ptcp [attrib.] QN      21     59  7..            |           ||     [MYL <PC>] [M-FRPH <Co>]
+                               -------                           |           |+-------------------------------------------------------------------/
 AMOS 04,11 2plM WxQ0  << ZQt0  Q       21     60  5..            |          [W-<Cj>] [L> <Ng>] [CBTM <Pr>] [<DJ <Co>]
 AMOS 04,11 ---- MSyn  << WxQ0  Q       21     61  6m.            |              [N>M JHWH <PC>]
 AMOS 04,12 ---- MSyn  << WXQt  Q       21     62  2m.           [LKN <Mo>]

@@ -13,19 +13,19 @@
  IOB 04,04 2sgM WxY0  << xYqX  NQ      11     12  9..         |          |   |   |          [W-<Cj>] [BRKJM KR<WT <Ob>] [T>MY <Pr>]
  IOB 04,05 3sgF xYq0  << MSyn  NQ      11     13  6..         |          |   |  [KJ <Cj>] [<TH <Ti>] [TBW> <Pr>] [>LJK <Co>]
                                -------                        |          |   |       |   |+----------------------------------------------------\
- IOB 04,05 2sgM Way0  << xYq0  NQN     11     14  9..         |          |   |       |    | [W-<Cj>] [TL> <Pr>]
-                               -------                        |          |   |       |    +----------------------------------------------------/
+ IOB 04,05 2sgM Way0  << xYq0  NQN     11     14  9..         |          |   |       |   || [W-<Cj>] [TL> <Pr>]
+                               -------                        |          |   |       |   |+----------------------------------------------------/
  IOB 04,05 3sgF ZYq0  << xYq0  NQ      11     15  8..         |          |   |       |  [TG< <Pr>] [<DJK <Co>]
                                -------                        |          |   |       |    +----------------------------------------------------\
  IOB 04,05 2sgM Way0  << ZYq0  NQN     11     16  9..         |          |   |       |    | [W-<Cj>] [TBHL <Pr>]
-                               -------                        |          |   |            +----------------------------------------------------/
+                               -------                        |          |   |       |    +----------------------------------------------------/
  IOB 04,06 ---- NmCl  << xYq0  NQ      11     17  7..         |          |   |      [H-<Qu>] [L> <Ng>] [JR>TK <Su>] [KSLTK <PC>]
  IOB 04,06 ---- NmCl  << NmCl  NQ      11     18  8..         |          |   |          [TQWTK W-TM DRKJK <PC>]
  IOB 04,07 2sgM ZIm0  << MSyn  NQ      11     19  5..         |          |  [ZKR <Pr>] [N> <Ij>]
  IOB 04,07 ---- Defc  << ZIm0  NQ      11     20  7d.         |          |       |  [MJ <Su>]
- IOB 04,07 -sgM AjCl  << Defc  NQ      11     21 10.e         |          |       |   |   |   |  [HW> <Su>] [NQJ <PC>]
- IOB 04,07 3sgM ZQt0  << Defc  NQ      11     22  9..         |          |       |   |   |  [>BD <Pr>]
- IOB 04,07 3pl- WXQt  << Defc  NQ      11     23  8..         |          |       |   |  [W-<Cj>] [>JPH <Qu>] [JCRJM <Su>] [NKXDW <Pr>]
+ IOB 04,07 -sgM AjCl  << Defc  NQ      11     21 10.e         |          |       |       |   |  [HW> <Su>] [NQJ <PC>]
+ IOB 04,07 3sgM ZQt0  << Defc  NQ      11     22  9..         |          |       |       |  [>BD <Pr>]
+ IOB 04,07 3pl- WXQt  << Defc  NQ      11     23  8..         |          |       |      [W-<Cj>] [>JPH <Qu>] [JCRJM <Su>] [NKXDW <Pr>]
  IOB 04,08 1sg- xQt0 [adjunct] NQ      11     24  7.\         |          |       |  [K->CR <Cj>] [R>JTJ <Pr>]
  IOB 04,08 3plM XYqt  << ZIm0  NQ      11     25  6..         |          |      [XRCJ >WN W-ZR<J <ML <Su>] [JQYRHW <PO>]
  IOB 04,09 3plM xYq0  << XYqt  NQ      11     26  7..         |          |          [M-NCMT >LWH <Co>] [J>BDW <Pr>]
@@ -35,8 +35,8 @@
  IOB 04,11 3plM WXYq  << Ptcp  NQ      11     30 10..         |          |                      [W-<Cj>] [BNJ LBJ> <Su>] [JTPRDW <Pr>]
  IOB 04,12 3sgM WXYq  << MSyn  NQ      11     31  4..         |         [W-<Cj>] [>LJ <Co>] [DBR <Su>] [JGNB <Pr>]
                                -------                        |              |+----------------------------------------------------------------\
- IOB 04,12 3sgF WayX  << WXYq  NQN     111    32  6.#         |               | [W-<Cj>] [TQX <Pr>] [>ZNJ <Su>] [CMY <Ob>] [MNHW <Co>]
-                               -------                        |               +----------------------------------------------------------------/
+ IOB 04,12 3sgF WayX  << WXYq  NQN     111    32  6.#         |              || [W-<Cj>] [TQX <Pr>] [>ZNJ <Su>] [CMY <Ob>] [MNHW <Co>]
+                               -------                        |              |+----------------------------------------------------------------/
  IOB 04,13 ---- Defc  << WXYq  NQ      11     33  5d.         |             [B-F<PJM / M-XZJNWT LJLH <sp><Aj>]
  IOB 04,13 ---- InfC [coordin] NQ      11     34  7.e         |                  |  [B-NPL <Pr>] [TRDMH <Su>] [<L >NCJM <Co>]
  IOB 04,14 3sgM XQtl  << Defc  NQ      11     35  6..         |                 [PXD <Su>] [QR>NJ <PO>]

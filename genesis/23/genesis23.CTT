@@ -13,7 +13,7 @@
  GEN 23,04 ---- NmCl  <<  [Q]  NQ      41     12  4.q    |       |    | [GR W-TWCB <PC>] [>NKJ <Su>] [<MKM <Co>]
  GEN 23,04 2plM ZIm0  << NmCl  NQ      41     13  5..    |       |    |     [TNW <Pr>] [LJ <Co>] [>XZT QBR <Ob>] [<MKM <Aj>]
  GEN 23,04 1sg- WYq0  << ZIm0  NQ      41     14  6..    |       |    |         [W-<Cj>] [>QBRH <Pr>] [MTJ <Ob>] [M-L-PNJ <Co>]
-                               =======                   |            +===========================================================================/
+                               =======                   |       |    +===========================================================================/
  GEN 23,05 3plM WayX  << Way0  N       42     15  2.#    |      [W-<Cj>] [J<NW <Pr>] [BNJ XT <Su>] [>T >BRHM <Ob>]
  GEN 23,05 ---- InfC [adjunct] N       42     16  3..    |          [L->MR <Pr>] [LW <Co>]
                                =======                   |            +===========================================================================\
@@ -24,7 +24,7 @@
  GEN 23,06 ---- CPen  << xIm0  NQ      421    21  6c.    |            |         [>JC / MMNW <sp><Fr>]
  GEN 23,06 3sgM xYq0 [resumpt] NQ      421    22  7..    |            |             [>T QBRW <Ob>] [L> <Ng>] [JKLH <Pr>] [MMK <Co>]
  GEN 23,06 ---- InfC [adjunct] NQ      421    23  8..    |            |                 [M-QBR <Pr>] [MTK <Ob>]
-                               =======                                +===========================================================================/
+                               =======                   |            +===========================================================================/
  GEN 23,07 3sgM WayX  << WayX  N       5      24  0.#   [W-<Cj>] [JQM <Pr>] [>BRHM <Su>]
  GEN 23,07 3sgM Way0  << WayX  N       5      25  1..    |  [W-<Cj>] [JCTXW <Pr>] [L-<M H->RY / L-BNJ XT <sp><Co>]
  GEN 23,08 3sgM Way0  << Way0  N       5      26  3..    |       |  [W-<Cj>] [JDBR <Pr>] [>TM <Co>]
@@ -38,7 +38,7 @@
  GEN 23,09 ---- NmCl [attrib.] NQ      51     33 11..    |       |        |                  |   |  [>CR <Re>] [LW <PC>]
  GEN 23,09 ---- NmCl [attrib.] NQ      51     34 10..    |       |        |                  |  [>CR <Re>] [B-QYH FDHW <PC>]
  GEN 23,09 3sgM xYq0  << WYq0  NQ      51     35  9..    |       |        |                 [B-KSP ML> <Aj>] [JTNNH <PO>] [LJ <Co>] [B-TWKKM <Lo>] [L->XZT QBR <Pj>]
-                               =======                   |                +=======================================================================/
+                               =======                   |       |        +=======================================================================/
  GEN 23,10 -sgM Ptcp  << Way0  N       5      36  2..    |      [W-<Cj>] [<PRWN <Su>] [JCB <PC>] [B-TWK BNJ XT <Co>]
  GEN 23,10 3sgM WayX  << Ptcp  N       52     37  3.#    |          [W-<Cj>] [J<N <Pr>] [<PRWN / H-XTJ <ap><Su>] [>T >BRHM <Ob>] [B->ZNJ BNJ XT <Co>] [L-KL B>J C<R <JRW <Aj>]
  GEN 23,10 ---- InfC [adjunct] N       52     38  4..    |              [L->MR <Pr>]
@@ -52,7 +52,7 @@
  GEN 23,11 1sg- xQt0 [resumpt] NQ      521    45 11..    |                |          |       |      [LK <Co>] [NTTJH <PO>]
  GEN 23,11 1sg- xQt0  << xQt0  NQ      521    46  9..    |                |          |      [L-<JNJ BNJ <MJ <Aj>] [NTTJH <PO>] [LK <Co>]
  GEN 23,11 2sgM ZIm0  << ZIm0  NQ      521    47  7..    |                |         [QBR <Pr>] [MTK <Ob>]
-                               =======                                    +=======================================================================/
+                               =======                   |                +=======================================================================/
  GEN 23,12 3sgM WayX  << WayX  N       6      48  0.#   [W-<Cj>] [JCTXW <Pr>] [>BRHM <Su>] [L-PNJ <M H->RY <Co>]
  GEN 23,13 3sgM Way0  << WayX  N       6      49  1..    |  [W-<Cj>] [JDBR <Pr>] [>L <PRWN <Co>] [B->ZNJ <M H->RY <Aj>]
  GEN 23,13 ---- InfC [adjunct] N       6      50  3..    |       |  [L->MR <Pr>]

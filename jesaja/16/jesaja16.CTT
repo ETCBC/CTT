@@ -17,7 +17,7 @@
  JES 16,05 3sgM WQt0  << WQtX  Q       1      17  9..        |   |                          [W-<Cj>] [JCB <Pr>] [<LJW <Co>] [B->MT <Aj>] [B->HL DWD <Lo>]
  JES 16,05 -sgM Ptcp [subject] Q       1      18 10..        |   |                              [CPV <PC>]
  JES 16,05 -sgM Ptcp [coordin] Q       1      19 11..        |   |                                  [W-<Cj>] [DRC <PC>] [MCPV <Ob>]
- JES 16,05 -sgM AjCl [coordin] Q       1      20 12..        |   |                                      [W-<Cj>] [MHR YDQ <PC>]
+ JES 16,05 ---- AjCl [coordin] Q       1      20 12..        |   |                                      [W-<Cj>] [MHR YDQ <PC>]
  JES 16,06 1pl- ZQt0  << ZIm0  Q       1      21  2..        |  [CM<NW <Pr>] [G>WN MW>B <Ob>]
  JES 16,06 -sgM AjCl [attrib.] Q       1      22  7.e        |       |   |   |   |  [G> <PC>] [M>D <Mo>]
  JES 16,06 ---- Defc  << ZQt0  Q       1      23  6d.        |       |   |   |  [G>WTW W-G>WNW W-<BRTW <pa>]

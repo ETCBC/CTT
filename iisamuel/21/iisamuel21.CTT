@@ -2,8 +2,8 @@ IISA 21,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JHJ <Pr>] [R<B
 IISA 21,01 3sgM WayX  << WayX  N       11      2  1.#    |  [W-<Cj>] [JBQC <Pr>] [DWD <Su>] [>T PNJ JHWH <Ob>]
 IISA 21,01 3sgM WayX  << WayX  N       111     3  2.#    |   |  [W-<Cj>] [J>MR <Pr>] [JHWH <Su>]
                                =======                   |   |    +===============================================================================\
-IISA 21,01 ---- NmCl  <<  [Q]  NQ      1111    4  3.q    |   |   || [>L C>WL W->L BJT H-DMJM <PC>]
-IISA 21,01 3sgM xQt0 [adjunct] NQ      1111    5  4..    |   |   ||     [<L >CR <Cj>] [HMJT <Pr>] [>T H-GB<NJM <Ob>]
+IISA 21,01 ---- NmCl  <<  [Q]  NQ      1111    4  3.q    |   |    | [>L C>WL W->L BJT H-DMJM <PC>]
+IISA 21,01 3sgM xQt0 [adjunct] NQ      1111    5  4..    |   |    |     [<L >CR <Cj>] [HMJT <Pr>] [>T H-GB<NJM <Ob>]
                                =======                   |   |    +===============================================================================/
 IISA 21,02 3sgM WayX  << WayX  N       12      6  1.#    |  [W-<Cj>] [JQR> <Pr>] [H-MLK <Su>] [L--GB<NJM <Co>]
 IISA 21,02 3sgM Way0  << WayX  N       12      7  3..    |   |   |  [W-<Cj>] [J>MR <Pr>] [>LJHM <Co>]
@@ -19,14 +19,14 @@ IISA 21,03 3sgM WayX  << WayX  N       13     15  1.#    |  [W-<Cj>] [J>MR <Pr>]
 IISA 21,03 1sg- xYq0  <<  [Q]  NQ      131    16  4.q    |   |   |   || [MH <Ob>] [><FH <Pr>] [LKM <Co>]
 IISA 21,03 1sg- WxY0  << xYq0  NQ      131    17  5..    |   |   |   ||     [W-<Cj>] [B-MH <Co>] [>KPR <Pr>]
 IISA 21,03 2plM WIm0  << WxY0  NQ      131    18  6..    |   |   |   ||         [W-<Cj>] [BRKW <Pr>] [>T NXLT JHWH <Ob>]
-                               =======                   |   |   |    +===========================================================================/
+                               =======                   |   |   |   |+===========================================================================/
 IISA 21,04 3plM WayX  << WayX  N       132    19  3.#    |   |   |  [W-<Cj>] [J>MRW <Pr>] [LW <Co>] [H-GB<NJM <Su>]
                                =======                   |   |   |       |+=======================================================================\
 IISA 21,04 ---- NmCl  <<  [Q]  NQ      1321   20  5.q    |   |   |       || [>JN <NC>] [LJ <PC>] [KSP W-ZHB / <M C>WL W-<M BJTW <sp><Su>]
 IISA 21,04 ---- NmCl  << NmCl  NQ      1321   21  6..    |   |   |       ||     [W-<Cj>] [>JN <NC>] [LNW <PC>] [>JC <Su>]
 IISA 21,04 ---- InfC [adjunct] NQ      1321   22  8.e    |   |   |       ||          |  [L-HMJT <Pr>]
 IISA 21,04 ---- Defc  << NmCl  NQ      1321   23  7d.    |   |   |       ||         [B-JFR>L <sp>]
-                               =======                   |   |   |        +=======================================================================/
+                               =======                   |   |   |       |+=======================================================================/
 IISA 21,04 3sgM Way0  << WayX  N       132    24  4..    |   |   |      [W-<Cj>] [J>MR <Pr>]
                                =======                   |   |   |           |+===================================================================\
 IISA 21,04 ---- Defc  <<  [Q]  NQ      1322   25  6dq    |   |   |           || [MH <Ob>]
@@ -93,9 +93,9 @@ IISA 21,17 3sgM Way0  << Way0  N       2111   80  8..        |   |           |  
 IISA 21,17 3pl- xQtX  << WayX  N       211    81  5..        |   |          [>Z <Ti>] [NCB<W <Pr>] [>NCJ DWD <Su>] [LW <Co>]
 IISA 21,17 ---- InfC [adjunct] N       211    82  6..        |   |              [L->MR <Pr>]
                                =======                       |   |                +===============================================================\
-IISA 21,17 2sgM xYq0  <<  [Q]  NQ      2112   83  7.q        |   |               || [L> <Ng>] [TY> <Pr>] [<WD <Mo>] [>TNW <Aj>] [L--MLXMH <Co>]
-IISA 21,17 2sgM WxY0  << xYq0  NQ      2112   84  8..        |   |               ||     [W-<Cj>] [L> <Ng>] [TKBH <Pr>] [>T NR JFR>L <Ob>]
-                               =======                       |                    +===============================================================/
+IISA 21,17 2sgM xYq0  <<  [Q]  NQ      2112   83  7.q        |   |                | [L> <Ng>] [TY> <Pr>] [<WD <Mo>] [>TNW <Aj>] [L--MLXMH <Co>]
+IISA 21,17 2sgM WxY0  << xYq0  NQ      2112   84  8..        |   |                |     [W-<Cj>] [L> <Ng>] [TKBH <Pr>] [>T NR JFR>L <Ob>]
+                               =======                       |   |                +===============================================================/
 IISA 21,18 3sgM Way0  << WayX  N       2      85  2..        |  [W-<Cj>] [JHJ <Pr>] [>XRJ KN <Ti>]
 IISA 21,18 3sgF WayX  << Way0  N       22     86  3.#        |      [W-<Cj>] [THJ <Pr>] [<WD <Mo>] [H-MLXMH <Su>] [B-GWB / <M PLCTJM <sp><PC>]
 IISA 21,18 3sgM xQtX  << WayX  N       22     87  4..        |       |  [>Z <Ti>] [HKH <Pr>] [SBKJ / H-XCTJ <ap><Su>] [>T SP <Ob>]

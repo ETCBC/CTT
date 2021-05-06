@@ -2,30 +2,31 @@ IICHR07,01 ---- InfC  <<  [R]  ?       1       1  0.N   [W-<Cj>] [K-KLWT <Pr>] [
 IICHR07,01 ---- InfC [object ] ?       1       2  3..        |   |  [L-HTPLL <Pr>]
                                =======                       |+===================================================================================\
 IICHR07,01 3sgF WXQt  << InfC  ??      11      3  2.#        || [W-<Cj>] [H->C <Su>] [JRDH <Pr>] [M-H-CMJM <Co>]
-                               =======                       |+===================================================================================/
-IICHR07,01 3sgF Way0  << WXQt  ?N      11      4  5..        ||      |   |  [W-<Cj>] [T>KL <Pr>] [H-<LH W-H-ZBXJM <Ob>]
-                               =======                       |+===================================================================================/
-IICHR07,01 3sgM WXQt  << WXQt  ???     111     5  4.#        ||      |  [W-<Cj>] [KBWD JHWH <Su>] [ML> <Pr>] [>T H-BJT <Ob>]
-                               =======                 ========================================================================================/
+                               -------                       ||      |   |+-----------------------------------------------------------------------\
+IICHR07,01 3sgF Way0  << WXQt  ?N      11      4  5..        ||      |   || [W-<Cj>] [T>KL <Pr>] [H-<LH W-H-ZBXJM <Ob>]
+                               =======                       ||      |+========================================================================\
+IICHR07,01 3sgM WXQt  << WXQt  ???     111     5  4.#        ||      || [W-<Cj>] [KBWD JHWH <Su>] [ML> <Pr>] [>T H-BJT <Ob>]
+                               =======                       ||      |+========================================================================/
 IICHR07,02 3pl- WxQX  << WXQt  ??      11      6  3..        ||     [W-<Cj>] [L> <Ng>] [JKLW <Pr>] [H-KHNJM <Su>]
 IICHR07,02 ---- InfC [object ] ??      11      7  6..        ||          |   |  [L-BW> <Pr>] [>L BJT JHWH <Co>]
 IICHR07,02 3sgM xQtX  << WxQX  ??      11      8  5..        ||          |  [KJ <Cj>] [ML> <Pr>] [KBWD JHWH <Su>] [>T BJT JHWH <Ob>]
 IICHR07,03 -plM Ptcp  << WxQX  ??      11      9  4..        ||         [W-<Cj>] [KL BNJ JFR>L <Su>] [R>JM <PC>]
 IICHR07,03 ---- InfC [object ] ??      11     10  6..        ||              |  [B-RDT <Pr>] [H->C W-KBWD JHWH <Su>] [<L H-BJT <Co>]
+                               -------                       ||           +-----------------------------------------------------------------------\
+IICHR07,03 3plM Way0  << Ptcp  ?N      11     11  5..        ||           | [W-<Cj>] [JKR<W <Pr>]
+IICHR07,03 ---- NmCl [adjunct] ?N      11     12  7.e        ||           |  |   |  [>PJM <Su>] [>RYH <PC>]
+IICHR07,03 ---- Defc  << Way0  ?N      11     13  6d.        ||           |  |  [<L H-RYPH <Lo>]
+IICHR07,03 3plM Way0  << Way0  ?N      11     14  5..        ||           | [W-<Cj>] [JCTXWW <Pr>]
+IICHR07,03 ---- InfC  << Way0  ?N      11     15  6..        ||           |     [W-<Cj>] [HWDWT <Pr>] [L-JHWH <Co>]
+IICHR07,03 -sgM AjCl  << InfC  ?N      11     16  8..        ||           |          |  [KJ <Cj>] [VWB <PC>]
+IICHR07,03 ---- NmCl  << InfC  ?N      11     17  7..        ||           |         [KJ <Cj>] [L-<WLM <PC>] [XSDW <Su>]
                                =======                       |+===================================================================================/
-IICHR07,03 3plM Way0  << Ptcp  ?N      11     11  5..        ||             [W-<Cj>] [JKR<W <Pr>]
-IICHR07,03 ---- NmCl [adjunct] ?N      11     12  7.e        ||              |   |  [>PJM <Su>] [>RYH <PC>]
-IICHR07,03 ---- Defc  << Way0  ?N      11     13  6d.        ||              |  [<L H-RYPH <Lo>]
-IICHR07,03 3plM Way0  << Way0  ?N      11     14  5..        ||             [W-<Cj>] [JCTXWW <Pr>]
-IICHR07,03 ---- InfC  << Way0  ?N      11     15  6..        ||                 [W-<Cj>] [HWDWT <Pr>] [L-JHWH <Co>]
-IICHR07,03 -sgM AjCl  << InfC  ?N      11     16  8..        ||                      |  [KJ <Cj>] [VWB <PC>]
-IICHR07,03 ---- NmCl  << InfC  ?N      11     17  7..        ||                     [KJ <Cj>] [L-<WLM <PC>] [XSDW <Su>]
-                               -------                        +-----------------------------------------------------------------------------------/
 IICHR07,04 -plM Ptcp  << InfC  ?       1      18  1..       [W-<Cj>] [H-MLK W-KL H-<M <Su>] [ZBXJM <PC>] [ZBX <Ob>] [L-PNJ JHWH <Aj>]
                                -------                           |   |   |+-----------------------------------------------------------------------\
-IICHR07,05 3sgM WayX  << Ptcp  ?N      12     19  5.#            |   |    | [W-<Cj>] [JZBX <Pr>] [H-MLK / CLMH <ap><Su>] [>T ZBX H-BQR / <FRJM W-CNJM >LP / W-/ Y>N / M>H W-<FRJM >LP <sp><pa><cj><sp><Ob>]
-IICHR07,05 3plM WayX  << Ptcp  ?N      13     20  4.#            |   |  [W-<Cj>] [JXNKW <Pr>] [>T BJT H->LHJM <Ob>] [H-MLK W-KL H-<M <Su>]
-                               -------                           |        +-----------------------------------------------------------------------/
+IICHR07,05 3sgM WayX  << Ptcp  ?N      12     19  5.#            |   |   || [W-<Cj>] [JZBX <Pr>] [H-MLK / CLMH <ap><Su>] [>T ZBX H-BQR / <FRJM W-CNJM >LP / W-/ Y>N / M>H W-<FRJM >LP <sp><pa><cj><sp><Ob>]
+                               -------                           |   |+---------------------------------------------------------------------------\
+IICHR07,05 3plM WayX  << Ptcp  ?N      13     20  4.#            |   || [W-<Cj>] [JXNKW <Pr>] [>T BJT H->LHJM <Ob>] [H-MLK W-KL H-<M <Su>]
+                               -------                           |   |+---------------------------------------------------------------------------/
 IICHR07,06 -plM Ptcp  << Ptcp  ?       1      21  3..            |  [W-<Cj>] [H-KHNJM <Su>] [<L MCMRWTM <Co>] [<MDJM <PC>]
 IICHR07,06 ---- NmCl  << Ptcp  ?       1      22  5..            |       |  [W-<Cj>] [H-LWJM <Su>] [B-KLJ CJR JHWH <PC>]
 IICHR07,06 3sgM xQtX [attrib.] ?       1      23  6..            |       |      [>CR <Re>] [<FH <Pr>] [DWJD / H-MLK <ap><Su>]
@@ -93,7 +94,7 @@ IICHR07,18 ---- InfC [adjunct] ?NQ     171    82 10..         |       |         
                                =======                        |       |              |            +=========================================\
 IICHR07,18 3sgM xYqX  <<  [Q]  ?NQQ    1711   83 11.q         |       |              |            | [L> <Ng>] [JKRT <Pr>] [LK <Co>] [>JC <Su>]
 IICHR07,18 -sgM Ptcp [attrib.] ?NQQ    1711   84 12..         |       |              |            |     [MWCL <PC>] [B-JFR>L <Co>]
-                               =======                        |       |                           +=========================================/
+                               =======                        |       |              |            +=========================================/
 IICHR07,19 2plM WxYX  << xYq0  ?NQ     171    85  7..         |       |             [W-<Cj>] [>M <Cj>] [TCWBWN <Pr>] [>TM <Su>]
 IICHR07,19 2plM WQt0  << WxYX  ?NQ     171    86  9..         |       |                  |  [W-<Cj>] [<ZBTM <Pr>] [XQWTJ W-MYWTJ <Ob>]
 IICHR07,19 1sg- xQt0 [attrib.] ?NQ     171    87 11..         |       |                  |       |  [>CR <Re>] [NTTJ <Pr>] [L-PNJKM <Co>]
@@ -112,15 +113,15 @@ IICHR07,21 -sgM Ptcp [reg/rec] ?NQ     171    99 14.e         |       |         
 IICHR07,21 3sgM ZYq0  << Defc  ?NQ     171   100 12..         |       |                              |  [JCM <Pr>]
 IICHR07,21 3sgM WQt0  << Defc  ?NQ     171   101 11..         |       |                             [W-<Cj>] [>MR <Pr>]
                                =======                        |       |                                  |+=================================\
-IICHR07,21 3sgM xQtX  <<  [Q]  ?NQQ    1712  102 13.q         |       |                                   | [B-MH <Aj>] [<FH <Pr>] [JHWH <Su>] [KKH <Mo>] [L-->RY H-Z>T W-L--BJT H-ZH <Aj>]
-                               =======                        |       |                                   +=================================/
+IICHR07,21 3sgM xQtX  <<  [Q]  ?NQQ    1712  102 13.q         |       |                                  || [B-MH <Aj>] [<FH <Pr>] [JHWH <Su>] [KKH <Mo>] [L-->RY H-Z>T W-L--BJT H-ZH <Aj>]
+                               =======                        |       |                                  |+=================================/
 IICHR07,22 3pl- WQt0  << WQt0  ?NQ     171   103 12..         |       |                                 [W-<Cj>] [>MRW <Pr>]
                                =======                        |       |                                   +=================================\
 IICHR07,22 3pl- xQt0  <<  [Q]  ?NQQ    1713  104 13.q         |       |                                   | [<L >CR <Cj>] [<ZBW <Pr>] [>T JHWH / >LHJ >BTJHM <ap><Ob>]
 IICHR07,22 3sgM xQt0 [attrib.] ?NQQ    1713  105 16..         |       |                                   |      |   |  [>CR <Re>] [HWYJ>M <PO>] [M->RY MYRJM <Co>]
                                -------                        |       |                                   |      |+----------------------\
-IICHR07,22 3plM Way0  << xQt0  ?NQQN   1713  106 15..         |       |                                   |       | [W-<Cj>] [JXZJQW <Pr>] [B->LHJM >XRJM <Co>]
-IICHR07,22 3plM Way0  << Way0  ?NQQN   1713  107 15..         |       |                                   |       | [W-<Cj>] [JCTXWW <Pr>] [LHM <Co>]
-IICHR07,22 3plM Way0  << Way0  ?NQQN   1713  108 16..         |       |                                   |       |     [W-<Cj>] [J<BDWM <PO>]
-                               -------                        |       |                                   |       +----------------------/
+IICHR07,22 3plM Way0  << xQt0  ?NQQN   1713  106 15..         |       |                                   |      || [W-<Cj>] [JXZJQW <Pr>] [B->LHJM >XRJM <Co>]
+IICHR07,22 3plM Way0  << Way0  ?NQQN   1713  107 15..         |       |                                   |      || [W-<Cj>] [JCTXWW <Pr>] [LHM <Co>]
+IICHR07,22 3plM Way0  << Way0  ?NQQN   1713  108 16..         |       |                                   |      ||     [W-<Cj>] [J<BDWM <PO>]
+                               -------                        |       |                                   |      |+----------------------/
 IICHR07,22 3sgM xQt0  << xQt0  ?NQQ    1713  109 14..         |       |                                   |     [<L KN <Aj>] [HBJ> <Pr>] [<LJHM <Co>] [>T KL H-R<H H-Z>T <Ob>]

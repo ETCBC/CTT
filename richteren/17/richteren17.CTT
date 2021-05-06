@@ -8,19 +8,19 @@ RICHT17,02 2sgF WXQt [coordin] NQ      111     6  6.#    |   |   ||      |      
 RICHT17,02 2sgF WxQ0 [coordin] NQ      111     7  7..    |   |   ||      |          [W-<Cj>] [GM <Mo>] [>MRT <Pr>] [B->ZNJ <Aj>]
 RICHT17,02 ---- NmCl [resumpt] NQ      11      8  4..    |   |   ||     [HNH <Ij>] [H-KSP <Su>] [>TJ <PC>]
 RICHT17,02 1sg- XQtl  << NmCl  NQ      11      9  5..    |   |   ||         [>NJ <Su>] [LQXTJW <PO>]
-                               =======                   |   |    +===============================================================================/
+                               =======                   |   |   |+===============================================================================/
 RICHT17,02 3sgF WayX  << Way0  N       12     10  2.#    |   |  [W-<Cj>] [T>MR <Pr>] [>MW <Su>]
                                =======                   |   |    +===============================================================================\
-RICHT17,02 -sgM Ptcp  <<  [Q]  NQ      121    11  3.q    |   |   || [BRWK <PC>] [BNJ <Su>] [L-JHWH <Co>]
+RICHT17,02 -sgM Ptcp  <<  [Q]  NQ      121    11  3.q    |   |    | [BRWK <PC>] [BNJ <Su>] [L-JHWH <Co>]
                                =======                   |   |    +===============================================================================/
 RICHT17,03 3sgM Way0  << Way0  N       1      12  1..    |  [W-<Cj>] [JCB <Pr>] [>T >LP W-M>H H-KSP <Ob>] [L->MW <Co>]
 RICHT17,03 3sgF WayX  << Way0  N       13     13  2.#    |   |  [W-<Cj>] [T>MR <Pr>] [>MW <Su>]
                                =======                   |   |    +===============================================================================\
-RICHT17,03 1sg- xQt0  <<  [Q]  NQ      131    14  3.q    |   |   || [HQDC <Mo>] [HQDCTJ <Pr>] [>T H-KSP <Ob>] [L-JHWH <Co>] [M-JDJ / L-BNJ <sp><Aj>]
-RICHT17,03 ---- InfC [adjunct] NQ      131    15  5..    |   |   ||      |  [L-<FWT <Pr>] [PSL W-MSKH <Ob>]
-RICHT17,03 ---- MSyn  << xQt0  NQ      131    16  4m.    |   |   ||     [W-<Cj>] [<TH <Ti>]
-RICHT17,03 1sg- ZYq0  << MSyn  NQ      131    17  5..    |   |   ||         [>CJBNW <PO>] [LK <Co>]
-                               =======                   |        +===============================================================================/
+RICHT17,03 1sg- xQt0  <<  [Q]  NQ      131    14  3.q    |   |    | [HQDC <Mo>] [HQDCTJ <Pr>] [>T H-KSP <Ob>] [L-JHWH <Co>] [M-JDJ / L-BNJ <sp><Aj>]
+RICHT17,03 ---- InfC [adjunct] NQ      131    15  5..    |   |    |      |  [L-<FWT <Pr>] [PSL W-MSKH <Ob>]
+RICHT17,03 ---- MSyn  << xQt0  NQ      131    16  4m.    |   |    |     [W-<Cj>] [<TH <Ti>]
+RICHT17,03 1sg- ZYq0  << MSyn  NQ      131    17  5..    |   |    |         [>CJBNW <PO>] [LK <Co>]
+                               =======                   |   |    +===============================================================================/
 RICHT17,04 3sgM Way0  << Way0  N       1      18  1..    |  [W-<Cj>] [JCB <Pr>] [>T H-KSP <Ob>] [L->MW <Co>]
 RICHT17,04 3sgF WayX  << Way0  N       14     19  2.#    |      [W-<Cj>] [TQX <Pr>] [>MW <Su>] [M>TJM KSP <Ob>]
 RICHT17,04 3sgF Way0  << WayX  N       14     20  3..    |          [W-<Cj>] [TTNHW <PO>] [L--YWRP <Co>]
@@ -36,7 +36,7 @@ RICHT17,06 ---- NmCl  << CPen  N       14     28  7..    |                      
 RICHT17,06 ---- Defc  << NmCl  ND      14     29  8d.    |                            | [>JC <Su>]
 RICHT17,06 -sgM AjCl [object ] ND      14     30 10.\    |                            |      |  [H-<Re>] [JCR <PC>] [B-<JNJW <Co>]
 RICHT17,06 3sgM ZYq0  << Defc  ND      14     31  9..    |                            |     [J<FH <Pr>]
-                               -------                                                +-----------------------------------------------------------/
+                               -------                   |                            +-----------------------------------------------------------/
 RICHT17,07 3sgM WayX  << WayX  N       2      32  0.#   [W-<Cj>] [JHJ <Pr>] [N<R / M-BJT_LXM JHWDH / M-MCPXT JHWDH <sp><sp><Su>]
 RICHT17,07 ---- NmCl  << WayX  N       2      33  2..        |  [W-<Cj>] [HW> <Su>] [LWJ <PC>]
 RICHT17,07 -sgM Ptcp  << NmCl  N       2      34  3..        |      [W-<Cj>] [HW> <Su>] [GR <PC>] [CM <Co>]
@@ -47,20 +47,20 @@ RICHT17,08 3sgM Way0  << WayX  N       21     38  2..        |  [W-<Cj>] [JB> <P
 RICHT17,08 ---- InfC [adjunct] N       21     39  4..        |   |   |  [L-<FWT <Pr>] [DRKW <Ob>]
 RICHT17,09 3sgM WayX  << Way0  N       211    40  3.#        |   |  [W-<Cj>] [J>MR <Pr>] [LW <Co>] [MJKH <Su>]
                                =======                       |   |    +===========================================================================\
-RICHT17,09 2sgM xYq0  <<  [Q]  NQ      2111   41  4.q        |   |   || [M->JN <Co>] [TBW> <Pr>]
-                               =======                       |        +===========================================================================/
+RICHT17,09 2sgM xYq0  <<  [Q]  NQ      2111   41  4.q        |   |    | [M->JN <Co>] [TBW> <Pr>]
+                               =======                       |   |    +===========================================================================/
 RICHT17,09 3sgM Way0  << Way0  N       21     42  2..        |  [W-<Cj>] [J>MR <Pr>] [>LJW <Co>]
                                =======                       |       |+===========================================================================\
 RICHT17,09 ---- NmCl  <<  [Q]  NQ      212    43  4.q        |       || [LWJ <PC>] [>NKJ <Su>] [M-BJT_LXM JHWDH <Lo>]
 RICHT17,09 -sgM Ptcp  << NmCl  NQ      212    44  5..        |       ||     [W-<Cj>] [>NKJ <Su>] [HLK <PC>]
 RICHT17,09 ---- InfC [adjunct] NQ      212    45  6..        |       ||         [L-GWR <Pr>]
 RICHT17,09 1sg- xYq0 [adjunct] NQ      212    46  7..        |       ||             [B->CR <Re>] [>MY> <Pr>]
-                               =======                       |        +===========================================================================/
+                               =======                       |       |+===========================================================================/
 RICHT17,10 3sgM WayX  << Way0  N       213    47  3.#        |      [W-<Cj>] [J>MR <Pr>] [LW <Co>] [MJKH <Su>]
                                =======                       |        +===========================================================================\
-RICHT17,10 2sgM ZIm0  <<  [Q]  NQ      2131   48  4.q        |       || [CBH <Pr>] [<MDJ <Co>]
-RICHT17,10 2sgM WIm0  << ZIm0  NQ      2131   49  6..        |       ||      |  [W-<Cj>] [HJH <Pr>] [LJ <Co>] [L->B W-L-KHN <PC>]
-RICHT17,10 1sg- WXYq  << ZIm0  NQ      2131   50  5..        |       ||     [W-<Cj>] [>NKJ <Su>] [>TN <Pr>] [LK <Co>] [<FRT KSP <Ob>] [L--JMJM / W-/ <RK BGDJM W-MXJTK <pa><cj><Aj>]
+RICHT17,10 2sgM ZIm0  <<  [Q]  NQ      2131   48  4.q        |        | [CBH <Pr>] [<MDJ <Co>]
+RICHT17,10 2sgM WIm0  << ZIm0  NQ      2131   49  6..        |        |      |  [W-<Cj>] [HJH <Pr>] [LJ <Co>] [L->B W-L-KHN <PC>]
+RICHT17,10 1sg- WXYq  << ZIm0  NQ      2131   50  5..        |        |     [W-<Cj>] [>NKJ <Su>] [>TN <Pr>] [LK <Co>] [<FRT KSP <Ob>] [L--JMJM / W-/ <RK BGDJM W-MXJTK <pa><cj><Aj>]
                                =======                       |        +===========================================================================/
 RICHT17,10 3sgM WayX  << WayX  N       22     51  1.#       [W-<Cj>] [JLK <Pr>] [H-LWJ <Su>]
 RICHT17,11 3sgM WayX  << WayX  N       23     52  1.#       [W-<Cj>] [JW>L <Pr>] [H-LWJ <Su>]

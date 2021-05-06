@@ -3,12 +3,12 @@
                                =======                   |    +===================================================================================\
  NUM 26,02 2plM ZIm0  <<  [Q]  NQ      11      3  2.q    |    | [F>W <Pr>] [>T R>C KL <DT BNJ JFR>L / M-BN <FRJM CNH / W-/ M<LH / L-BJT >BTM / KL <sp><sp><pa><cj><sp><Ob>]
  NUM 26,02 -sgM Ptcp [reg/rec] NQ      11      4  3..    |    |     [JY> <PC>] [YB> <Ob>] [B-JFR>L <Aj>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  NUM 26,03 3sgM WayX  << WayX  N       2       5  0.#   [W-<Cj>] [JDBR <Pr>] [MCH W->L<ZR / H-KHN <ap><Su>] [>TM <Ob>] [B-<RBT MW>B / <L JRDN JRXW <sp><Lo>]
  NUM 26,03 ---- InfC [adjunct] N       2       6  3..    |   |   |  [L->MR <Pr>]
                                =======                   |   |   |    +===========================================================================\
- NUM 26,04 ---- NmCl  <<  [Q]  NQ      21      7  4.q    |   |   |   || [M-BN <FRJM CNH / W-/ M<LH <pa><cj><Aj>]
-                               =======                   |   |        +===========================================================================/
+ NUM 26,04 ---- NmCl  <<  [Q]  NQ      21      7  4.q    |   |   |    | [M-BN <FRJM CNH / W-/ M<LH <pa><cj><Aj>]
+                               =======                   |   |   |    +===========================================================================/
  NUM 26,04 3sgM xQtX [adjunct] N       2       8  2..    |   |  [K->CR <Cj>] [YWH <Pr>] [JHWH <Su>] [>T MCH W-BNJ JFR>L <Ob>]
  NUM 26,04 -plM Ptcp [attrib.] N       2       9  3..    |   |      [H-<Re>] [JY>JM <PC>] [M->RY MYRJM <Co>]
  NUM 26,05 ---- NmCl  << WayX  N       2      10  1..    |  [R>WBN <Su>] [BKWR JFR>L <PC>]
@@ -125,14 +125,14 @@
  NUM 26,52 3sgM WayX  << WayX  N       3     121  0.#   [W-<Cj>] [JDBR <Pr>] [JHWH <Su>] [>L MCH <Co>]
  NUM 26,52 ---- InfC [adjunct] N       3     122  2..        |  [L->MR <Pr>]
                                =======                       |    +===============================================================================\
- NUM 26,53 3sgF xYqX  <<  [Q]  NQ      31    123  3.q        |   || [L->LH <Co>] [TXLQ <Pr>] [H->RY <Su>] [B-NXLH <Aj>] [B-MSPR CMWT <Aj>]
- NUM 26,54 2sgM xYq0  << xYqX  NQ      31    124  5..        |   ||      |  [L--RB <Co>] [TRBH <Pr>] [NXLTW <Ob>]
- NUM 26,54 2sgM WxY0  << xYq0  NQ      31    125  7..        |   ||      |       |  [W-<Cj>] [L--M<V <Co>] [TM<JV <Pr>] [NXLTW <Ob>]
- NUM 26,54 3sgM XYqt  << xYq0  NQ      31    126  6..        |   ||      |      [>JC <Su>] [L-PJ PQDJW <Aj>] [JTN <Pr>] [NXLTW <Ob>]
- NUM 26,55 3sgM xYqX  << xYqX  NQ      31    127  4..        |   ||     [>K B-GWRL <Aj>] [JXLQ <Pr>] [>T H->RY <Su>]
- NUM 26,55 3plM xYq0  << xYqX  NQ      31    128  6..        |   ||          |  [L-CMWT MVWT >BTM <Aj>] [JNXLW <Pr>]
- NUM 26,56 3sgF xYqX  << xYqX  NQ      31    129  5..        |   ||         [<L PJ H-GWRL <Aj>] [TXLQ <Pr>] [NXLTW <Su>] [BJN RB / L-M<V <sp><Aj>]
-                               =======                            +===============================================================================/
+ NUM 26,53 3sgF xYqX  <<  [Q]  NQ      31    123  3.q        |    | [L->LH <Co>] [TXLQ <Pr>] [H->RY <Su>] [B-NXLH <Aj>] [B-MSPR CMWT <Aj>]
+ NUM 26,54 2sgM xYq0  << xYqX  NQ      31    124  5..        |    |      |  [L--RB <Co>] [TRBH <Pr>] [NXLTW <Ob>]
+ NUM 26,54 2sgM WxY0  << xYq0  NQ      31    125  7..        |    |      |       |  [W-<Cj>] [L--M<V <Co>] [TM<JV <Pr>] [NXLTW <Ob>]
+ NUM 26,54 3sgM XYqt  << xYq0  NQ      31    126  6..        |    |      |      [>JC <Su>] [L-PJ PQDJW <Aj>] [JTN <Pr>] [NXLTW <Ob>]
+ NUM 26,55 3sgM xYqX  << xYqX  NQ      31    127  4..        |    |     [>K B-GWRL <Aj>] [JXLQ <Pr>] [>T H->RY <Su>]
+ NUM 26,55 3plM xYq0  << xYqX  NQ      31    128  6..        |    |          |  [L-CMWT MVWT >BTM <Aj>] [JNXLW <Pr>]
+ NUM 26,56 3sgF xYqX  << xYqX  NQ      31    129  5..        |    |         [<L PJ H-GWRL <Aj>] [TXLQ <Pr>] [NXLTW <Su>] [BJN RB / L-M<V <sp><Aj>]
+                               =======                       |    +===============================================================================/
  NUM 26,57 ---- NmCl  << WayX  N       3     130  1..       [W-<Cj>] [>LH <Su>] [PQWDJ H-LWJ / L-MCPXTM <sp><PC>]
  NUM 26,57 ---- NmCl  << NmCl  N       3     131  3..            |  [L-GRCWN / MCPXT H-GRCNJ <sp><PC>]
  NUM 26,57 ---- NmCl  << NmCl  N       3     132  3..            |  [L-QHT / MCPXT H-QHTJ <sp><PC>]

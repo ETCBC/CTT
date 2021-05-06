@@ -11,17 +11,17 @@
  CAN 02,04 ---- NmCl  << ZQt0  Q       1      11  7..        |   |               |  [W-<Cj>] [DGLW / <LJ <sp><Su>] [>HBH <PC>]
  CAN 02,05 2plM ZIm0  << ZQt0  Q       1      12  6..        |   |              [SMKWNJ <PO>] [B-->CJCWT <Co>]
  CAN 02,05 2plM ZIm0  << ZIm0  Q       1      13  6..        |   |              [RPDWNJ <PO>] [B--TPWXJM <Co>]
- CAN 02,05 -sgF AjCl  << ZIm0  Q       1      14  8..        |   |                   |  [KJ <Cj>] [XWLT >HBH <PC>] [>NJ <Su>]
+ CAN 02,05 ---- AjCl  << ZIm0  Q       1      14  8..        |   |                   |  [KJ <Cj>] [XWLT >HBH <PC>] [>NJ <Su>]
  CAN 02,06 ---- NmCl  << ZIm0  Q       1      15  7..        |   |                  [FM>LW <Su>] [TXT L-R>CJ <PC>]
  CAN 02,06 3sgF WXYq  << NmCl  Q       1      16  8..        |   |                      [W-<Cj>] [JMJNW <Su>] [TXBQNJ <PO>]
  CAN 02,07 1sg- ZQt0  << NmCl  Q       11     17  2.#        |  [HCB<TJ <Pr>] [>TKM <Ob>]
  CAN 02,07 ---- Voct  << ZQt0  Q       11     18  5ve        |       |   |  [BNWT JRWCLM <Vo>]
  CAN 02,07 ---- Defc  << ZQt0  Q       11     19  4d.        |       |  [B-YB>WT >W B->JLWT H-FDH <Co>]
                                =======                       |    +===============================================================================\
- CAN 02,07 2plM xYq0  <<  [Q]  QQ      111    20  3.q        |   || [>M <Cj>] [T<JRW <Pr>]
- CAN 02,07 2plM WxY0 [coordin] QQ      111    21  5..        |   ||      |  [W-<Cj>] [>M <Cj>] [T<WRRW <Pr>] [>T H->HBH <Ob>]
- CAN 02,07 3sgF xYq0 [adjunct] QQ      111    22  4..        |   ||     [<D C-<Cj>] [TXPY <Pr>]
-                               =======                            +===============================================================================/
+ CAN 02,07 2plM xYq0  <<  [Q]  QQ      111    20  3.q        |    | [>M <Cj>] [T<JRW <Pr>]
+ CAN 02,07 2plM WxY0 [coordin] QQ      111    21  5..        |    |      |  [W-<Cj>] [>M <Cj>] [T<WRRW <Pr>] [>T H->HBH <Ob>]
+ CAN 02,07 3sgF xYq0 [adjunct] QQ      111    22  4..        |    |     [<D C-<Cj>] [TXPY <Pr>]
+                               =======                       |    +===============================================================================/
  CAN 02,08 ---- NmCl  << NmCl  Q       12     23  1.#       [QWL DWDJ <PC>]
  CAN 02,08 -sgM Ptcp  << NmCl  Q       12     24  5..            |   |   |  [HNH <Ij>] [ZH <Su>] [B> <PC>]
  CAN 02,08 -sgM Ptcp [attrib.] Q       12     25  6..            |   |   |      [MDLG <PC>] [<L H-HRJM <Co>]
@@ -52,7 +52,7 @@
  CAN 02,14 2sgF ZIm0 [coordin] QQ      121    49  8..            |       |    |         [HCMJ<JNJ <PO>] [>T QWLK <Ob>]
  CAN 02,14 -sgM AjCl  << ZIm0  QQ      121    50  9..            |       |    |             [KJ <Cj>] [QWLK <Su>] [<RB <PC>]
  CAN 02,14 -sgM AjCl  << AjCl  QQ      121    51 10..            |       |    |                 [W-<Cj>] [MR>JK <Su>] [N>WH <PC>]
-                               =======                           |            +===================================================================/
+                               =======                           |       |    +===================================================================/
  CAN 02,15 2plM ZIm0  << ZQtX  Q       122    52  4.#            |      [>XZW <Pr>] [LNW <Co>] [CW<LJM / CW<LJM QVNJM <sp><Ob>]
  CAN 02,15 -plM Ptcp [attrib.] Q       122    53  6..            |           |  [MXBLJM <PC>] [KRMJM <Ob>]
  CAN 02,15 ---- NmCl  << ZIm0  Q       122    54  5..            |          [W-<Cj>] [KRMJNW <Su>] [SMDR <PC>]

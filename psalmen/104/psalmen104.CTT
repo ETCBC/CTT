@@ -65,7 +65,7 @@
  PS104,024 2sgM xQt0  << xQtX  Q       11     65 12..    |   |                               |   |   |  [KLM <Ob>] [B-XKMH <Aj>] [<FJT <Pr>]
  PS104,024 3sgF ZQtX  << xQt0  Q       11     66 13..    |   |                               |   |   |      [ML>H <Pr>] [H->RY <Su>] [QNJNK <Ob>]
  PS104,025 ---- NmCl  << xQtX  Q       11     67 11..    |   |                               |   |  [ZH <Su>] [H-JM <PC>]
- PS104,025 -du- AjCl [attrib.] Q       11     68 14..    |   |                               |   |       |   |  [GDWL W-RXB JDJM <PC>]
+ PS104,025 ---- AjCl [attrib.] Q       11     68 14..    |   |                               |   |       |   |  [GDWL W-RXB JDJM <PC>]
  PS104,025 ---- NmCl  << NmCl  Q       11     69 13..    |   |                               |   |       |  [CM <PC>] [RMF <Su>]
  PS104,025 ---- NmCl  << NmCl  Q       11     70 16..    |   |                               |   |       |       |   |  [W-<Cj>] [>JN <NC>] [MSPR <PC>]
  PS104,025 ---- Ellp  << NmCl  Q       11     71 15l.    |   |                               |   |       |       |  [XJWT QVNWT / <M GDLWT <sp><Su>]
@@ -91,8 +91,8 @@
  PS104,031 3sgM ZYqX  << ZYqX  Q       11     91  9..    |   |                              [JFMX <Pr>] [JHWH <Su>] [B-M<FJW <Co>]
  PS104,032 -sgM Ptcp [attrib.] Q       11     92 11..    |   |                                   |  [H-<Re>] [MBJV <PC>] [L-->RY <Co>]
                                -------                   |   |                                   |    +-------------------------------------------\
- PS104,032 3sgF Way0 [coordin] QN      11     93 12..    |   |                                   |   || [W-<Cj>] [TR<D <Pr>]
-                               -------                   |   |                                        +-------------------------------------------/
+ PS104,032 3sgF Way0 [coordin] QN      11     93 12..    |   |                                   |    | [W-<Cj>] [TR<D <Pr>]
+                               -------                   |   |                                   |    +-------------------------------------------/
  PS104,032 3sgM ZYq0  << ZYqX  Q       11     94 10..    |   |                                  [JG< <Pr>] [B--HRJM <Co>]
  PS104,032 3plM WYq0  << ZYq0  Q       11     95 11..    |   |                                      [W-<Cj>] [J<CNW <Pr>]
  PS104,033 1sg- ZYq0  << ZIm0  Q       1      96  1..    |  [>CJRH <Pr>] [L-JHWH <Co>] [B-XJJ <Ti>]

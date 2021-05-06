@@ -29,14 +29,14 @@
  DEUT21,07 3pl- WQt0  << Defc  D       1      29  6..    |   |                  [W-<Cj>] [<NW <Pr>]
  DEUT21,07 3pl- WQt0  << WQt0  D       1      30  6..    |   |                  [W-<Cj>] [>MRW <Pr>]
                                =======                   |   |                    +===============================================================\
- DEUT21,07 3pl- XQtl  <<  [Q]  DQ      11     31  7.q    |   |                   || [JDJNW <Su>] [L> <Ng>] [CPKH <Pr>] [>T H-DM H-ZH <Ob>]
- DEUT21,07 3pl- WXQt  << XQtl  DQ      11     32  9..    |   |                   ||      |  [W-<Cj>] [<JNJNW <Su>] [L> <Ng>] [R>W <Pr>]
- DEUT21,08 2sgM ZIm0  << XQtl  DQ      11     33  8..    |   |                   ||     [KPR <Pr>] [L-<MK / JFR>L <ap><Co>]
- DEUT21,08 2sgM xQt0 [attrib.] DQ      11     34 11..    |   |                   ||          |   |  [>CR <Re>] [PDJT <Pr>]
- DEUT21,08 ---- Voct  << ZIm0  DQ      11     35 10v.    |   |                   ||          |  [JHWH <Vo>]
- DEUT21,08 2sgM WxY0  << ZIm0  DQ      11     36  9..    |   |                   ||         [W-<Cj>] [>L <Ng>] [TTN <Pr>] [DM NQJ <Ob>] [B-QRB <MK / JFR>L <ap><Co>]
- DEUT21,08 3sgM WQtX  << WxY0  DQ      11     37 10..    |   |                   ||             [W-<Cj>] [NKPR <Pr>] [LHM <Co>] [H-DM <Su>]
-                               =======                   |                        +===============================================================/
+ DEUT21,07 3pl- XQtl  <<  [Q]  DQ      11     31  7.q    |   |                    | [JDJNW <Su>] [L> <Ng>] [CPKH <Pr>] [>T H-DM H-ZH <Ob>]
+ DEUT21,07 3pl- WXQt  << XQtl  DQ      11     32  9..    |   |                    |      |  [W-<Cj>] [<JNJNW <Su>] [L> <Ng>] [R>W <Pr>]
+ DEUT21,08 2sgM ZIm0  << XQtl  DQ      11     33  8..    |   |                    |     [KPR <Pr>] [L-<MK / JFR>L <ap><Co>]
+ DEUT21,08 2sgM xQt0 [attrib.] DQ      11     34 11..    |   |                    |          |   |  [>CR <Re>] [PDJT <Pr>]
+ DEUT21,08 ---- Voct  << ZIm0  DQ      11     35 10v.    |   |                    |          |  [JHWH <Vo>]
+ DEUT21,08 2sgM WxY0  << ZIm0  DQ      11     36  9..    |   |                    |         [W-<Cj>] [>L <Ng>] [TTN <Pr>] [DM NQJ <Ob>] [B-QRB <MK / JFR>L <ap><Co>]
+ DEUT21,08 3sgM WQtX  << WxY0  DQ      11     37 10..    |   |                    |             [W-<Cj>] [NKPR <Pr>] [LHM <Co>] [H-DM <Su>]
+                               =======                   |   |                    +===============================================================/
  DEUT21,09 2sgM WXYq  << xYqX  D       1      38  1..    |  [W-<Cj>] [>TH <Su>] [TB<R <Pr>] [H-DM H-NQJ <Ob>] [M-QRBK <Co>]
  DEUT21,09 2sgM xYq0  << WXYq  D       1      39  2..    |      [KJ <Cj>] [T<FH <Pr>]
  DEUT21,09 -sgM AjCl [object ] D       1      40  3..    |          [H-<Re>] [JCR <PC>] [B-<JNJ JHWH <Co>]
@@ -85,10 +85,10 @@
  DEUT21,19 3pl- WQt0  << WQtX  D       4      83  4..        |       |  [W-<Cj>] [HWYJ>W <Pr>] [>TW <Ob>] [>L ZQNJ <JRW W->L C<R MQMW <Co>]
  DEUT21,20 3pl- WQt0  << WQt0  D       4      84  4..        |       |  [W-<Cj>] [>MRW <Pr>] [>L ZQNJ <JRW <Co>]
                                =======                       |       |    +=======================================================================\
- DEUT21,20 -sgM AjCl  <<  [Q]  DQ      41     85  5.q        |       |   || [BNNW ZH <Su>] [SWRR W-MRH <PC>]
- DEUT21,20 -sgM Ptcp  << AjCl  DQ      41     86  7..        |       |   ||      |  [>JNNW <Ns>] [CM< <PC>] [B-QLNW <Co>]
- DEUT21,20 -sgM AjCl [coordin] DQ      41     87  6..        |       |   ||     [ZWLL W-SB> <PC>]
-                               =======                       |            +=======================================================================/
+ DEUT21,20 -sgM AjCl  <<  [Q]  DQ      41     85  5.q        |       |    | [BNNW ZH <Su>] [SWRR W-MRH <PC>]
+ DEUT21,20 -sgM Ptcp  << AjCl  DQ      41     86  7..        |       |    |      |  [>JNNW <Ns>] [CM< <PC>] [B-QLNW <Co>]
+ DEUT21,20 -sgM AjCl [coordin] DQ      41     87  6..        |       |    |     [ZWLL W-SB> <PC>]
+                               =======                       |       |    +=======================================================================/
  DEUT21,21 3pl- WQtX  << WQtX  D       4      88  3..        |      [W-<Cj>] [RGMHW <PO>] [KL >NCJ <JRW <Su>] [B-->BNJM <Co>]
  DEUT21,21 3sgM WQt0  << WQtX  D       4      89  5..        |           |  [W-<Cj>] [MT <Pr>]
  DEUT21,21 2sgM WQt0  << WQtX  D       4      90  4..        |          [W-<Cj>] [B<RT <Pr>] [H-R< <Ob>] [M-QRBK <Co>]

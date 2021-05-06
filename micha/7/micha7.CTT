@@ -16,8 +16,8 @@
  MICH07,03 ---- CPen  << Ptcp  Q       11     16 10c.    |   |   |   |           |           |  [W-<Cj>] [H-GDWL <Fr>]
  MICH07,03 -sgM Ptcp [resumpt] Q       11     17 11..    |   |   |   |           |           |      [DBR <PC>] [HWT NPCW <Ob>] [HW> <Su>]
                                -------                   |   |   |   |           |        +-------------------------------------------------------\
- MICH07,03 3plM Way0  << Ptcp  QN      11     18  9..    |   |   |   |           |       || [W-<Cj>] [J<BTWH <PO>]
-                               -------                   |   |   |   |                    +-------------------------------------------------------/
+ MICH07,03 3plM Way0  << Ptcp  QN      11     18  9..    |   |   |   |           |        | [W-<Cj>] [J<BTWH <PO>]
+                               -------                   |   |   |   |           |        +-------------------------------------------------------/
  MICH07,04 ---- NmCl  << XYqt  Q       11     19  6..    |   |   |   |          [VWBM <Su>] [K-XDQ <PC>]
  MICH07,04 ---- NmCl  << NmCl  Q       11     20  7..    |   |   |   |              [JCR <Su>] [M-MSWKH <PC>]
  MICH07,04 3sgF XQtl  << NmCl  Q       1      21  3..    |   |   |  [JWM MYPJK <Ti>] [PQDTK <Su>] [B>H <Pr>]
@@ -42,7 +42,7 @@
  MICH07,09 1sg- xYq0  << WXYq  Q       121    40  2.#    |      [Z<P JHWH <Ob>] [>F> <Pr>]
  MICH07,09 1sg- xQt0  << xYq0  Q       121    41  4..    |           |  [KJ <Cj>] [XV>TJ <Pr>] [LW <Co>]
  MICH07,09 3sgM xYq0 [adjunct] Q       121    42  4.\    |           |  [<D >CR <Cj>] [JRJB <Pr>] [RJBJ <Ob>]
- MICH07,09 3sgM WQt0 [coordin] Q       121    43  5..    |           |      [W-<Cj>] [<FH <Pr>] [MCPVJ <Ob>]
+ MICH07,09 3sgM WQt0 [coordin] Q       121    43  5..    |           |   |  [W-<Cj>] [<FH <Pr>] [MCPVJ <Ob>]
  MICH07,09 3sgM ZYq0  << xYq0  Q       121    44  3..    |          [JWYJ>NJ <PO>] [L-->WR <Co>]
  MICH07,09 1sg- ZYq0  << ZYq0  Q       121    45  5..    |               |  [>R>H <Pr>] [B-YDQTW <Co>]
  MICH07,10 3sgF WYqX  << ZYq0  Q       121    46  4..    |              [W-<Cj>] [TR> <Pr>] [>JBTJ <Su>]
@@ -50,7 +50,7 @@
  MICH07,10 -sgF Ptcp [attrib.] Q       121    48  6..    |                   |  [H-<Re>] [>MRH <PC>] [>LJ <Co>]
                                =======                   |                   |    +===============================================================\
  MICH07,10 ---- NmCl  <<  [Q]  QQ      1211   49  7.q    |                   |    | [>JW / JHWH / >LHJK <ap><ss><PS>]
-                               =======                   |                        +===============================================================/
+                               =======                   |                   |    +===============================================================/
  MICH07,10 3plF XYqt  << WYqX  Q       121    50  5..    |                  [<JNJ <Su>] [TR>JNH <Pr>] [BH <Co>]
  MICH07,10 3sgF xYq0  << XYqt  Q       121    51  6..    |                      [<TH <Ti>] [THJH <Pr>] [L-MRMS <Co>]
  MICH07,10 ---- Ellp  << xYq0  Q       121    52  7l.    |                          [K-VJV XWYWT <Co>]

@@ -75,26 +75,26 @@
  DEUT06,20 3sgM xYqX  << ZIm0  Q       3      75  0.#   [KJ <Cj>] [JC>LK <PO>] [BNK <Su>] [MXR <Ti>]
  DEUT06,20 ---- InfC [adjunct] Q       3      76  2..        |  [L->MR <Pr>]
                                =======                       |    +===============================================================================\
- DEUT06,20 ---- NmCl  <<  [Q]  QQ      31     77  3.q        |   || [MH <PC>] [H-<DT W-H-XQJM W-H-MCPVJM <Su>]
- DEUT06,20 3sgM xQtX [attrib.] QQ      31     78  4..        |   ||     [>CR <Re>] [YWH <Pr>] [JHWH / >LHJNW <ap><Su>] [>TKM <Ob>]
-                               =======                            +===============================================================================/
+ DEUT06,20 ---- NmCl  <<  [Q]  QQ      31     77  3.q        |    | [MH <PC>] [H-<DT W-H-XQJM W-H-MCPVJM <Su>]
+ DEUT06,20 3sgM xQtX [attrib.] QQ      31     78  4..        |    |     [>CR <Re>] [YWH <Pr>] [JHWH / >LHJNW <ap><Su>] [>TKM <Ob>]
+                               =======                       |    +===============================================================================/
  DEUT06,21 2sgM WQt0  << xYqX  Q       3      79  1..       [W-<Cj>] [>MRT <Pr>] [L-BNK <Co>]
                                =======                        +===================================================================================\
  DEUT06,21 1pl- xQt0  <<  [Q]  QQ      32     80  2.q         | [<BDJM <PC>] [HJJNW <Pr>] [L-PR<H <Co>] [B-MYRJM <Lo>]
                                -------                        |      |+------------------------------------------------------------------------\
- DEUT06,21 3sgM WayX  << xQt0  QQN     321    81  4.#         |       | [W-<Cj>] [JWYJ>NW <PO>] [JHWH <Su>] [M-MYRJM <Co>] [B-JD XZQH <Aj>]
- DEUT06,22 3sgM WayX  << WayX  QQN     322    82  4.#         |       | [W-<Cj>] [JTN <Pr>] [JHWH <Su>] [>WTT W-MPTJM GDLJM W-R<JM <Ob>] [B-MYRJM / B-PR<H W-B-KL BJTW <sp><Co>] [L-<JNJNW <Aj>]
- DEUT06,23 3sgM WxQ0  << WayX  QQN     322    83  5..         |       |  |  [W-<Cj>] [>WTNW <Ob>] [HWYJ> <Pr>] [M-CM <Co>]
- DEUT06,23 ---- InfC [adjunct] QQN     322    84  6..         |       |  |      [LM<N HBJ> <Pr>] [>TNW <Ob>]
- DEUT06,23 ---- InfC [adjunct] QQN     322    85  7..         |       |  |          [L-TT <Pr>] [LNW <Co>] [>T H->RY <Ob>]
- DEUT06,23 3sgM xQt0 [attrib.] QQN     3221   86  8.#         |       |  |              [>CR <Re>] [NCB< <Pr>] [L->BTJNW <Co>]
- DEUT06,24 3sgM WayX  << WayX  QQN     323    87  4.#         |       | [W-<Cj>] [JYWNW <PO>] [JHWH <Su>]
- DEUT06,24 ---- InfC [adjunct] QQN     323    88  6..         |       |      |  [L-<FWT <Pr>] [>T KL H-XQJM H->LH <Ob>]
- DEUT06,24 ---- InfC [adjunct] QQN     323    89  7..         |       |      |      [L-JR>H <Pr>] [>T JHWH / >LHJNW <ap><Ob>]
- DEUT06,24 ---- InfC [adjunct] QQN     323    90  5..         |       |     [L-VWB <Pr>] [LNW <Co>] [KL H-JMJM <Ti>]
- DEUT06,24 ---- InfC [adjunct] QQN     323    91  6..         |       |         [L-XJTNW <PO>]
- DEUT06,24 ---- NmCl  << InfC  QQN     323    92  7..         |       |             [K-H-JWM H-ZH <PC>]
-                               -------                        |       +------------------------------------------------------------------------/
+ DEUT06,21 3sgM WayX  << xQt0  QQN     321    81  4.#         |      || [W-<Cj>] [JWYJ>NW <PO>] [JHWH <Su>] [M-MYRJM <Co>] [B-JD XZQH <Aj>]
+ DEUT06,22 3sgM WayX  << WayX  QQN     322    82  4.#         |      || [W-<Cj>] [JTN <Pr>] [JHWH <Su>] [>WTT W-MPTJM GDLJM W-R<JM <Ob>] [B-MYRJM / B-PR<H W-B-KL BJTW <sp><Co>] [L-<JNJNW <Aj>]
+ DEUT06,23 3sgM WxQ0  << WayX  QQN     322    83  5..         |      ||  |  [W-<Cj>] [>WTNW <Ob>] [HWYJ> <Pr>] [M-CM <Co>]
+ DEUT06,23 ---- InfC [adjunct] QQN     322    84  6..         |      ||  |      [LM<N HBJ> <Pr>] [>TNW <Ob>]
+ DEUT06,23 ---- InfC [adjunct] QQN     322    85  7..         |      ||  |          [L-TT <Pr>] [LNW <Co>] [>T H->RY <Ob>]
+ DEUT06,23 3sgM xQt0 [attrib.] QQN     3221   86  8.#         |      ||  |              [>CR <Re>] [NCB< <Pr>] [L->BTJNW <Co>]
+ DEUT06,24 3sgM WayX  << WayX  QQN     323    87  4.#         |      || [W-<Cj>] [JYWNW <PO>] [JHWH <Su>]
+ DEUT06,24 ---- InfC [adjunct] QQN     323    88  6..         |      ||      |  [L-<FWT <Pr>] [>T KL H-XQJM H->LH <Ob>]
+ DEUT06,24 ---- InfC [adjunct] QQN     323    89  7..         |      ||      |      [L-JR>H <Pr>] [>T JHWH / >LHJNW <ap><Ob>]
+ DEUT06,24 ---- InfC [adjunct] QQN     323    90  5..         |      ||     [L-VWB <Pr>] [LNW <Co>] [KL H-JMJM <Ti>]
+ DEUT06,24 ---- InfC [adjunct] QQN     323    91  6..         |      ||         [L-XJTNW <PO>]
+ DEUT06,24 ---- NmCl  << InfC  QQN     323    92  7..         |      ||             [K-H-JWM H-ZH <PC>]
+                               -------                        |      |+------------------------------------------------------------------------/
  DEUT06,25 3sgF WXYq  << xQt0  QQ      32     93  3..         |     [W-<Cj>] [YDQH <Su>] [THJH <Pr>] [LNW <PC>]
  DEUT06,25 1pl- xYq0  << WXYq  QQ      32     94  4..         |         [KJ <Cj>] [NCMR <Pr>]
  DEUT06,25 ---- InfC [adjunct] QQ      32     95  5..         |             [L-<FWT <Pr>] [>T KL H-MYWH H-Z>T <Ob>] [L-PNJ JHWH / >LHJNW <ap><Aj>]

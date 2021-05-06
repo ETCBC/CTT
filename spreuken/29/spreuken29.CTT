@@ -46,7 +46,7 @@
  PRO 29,16 ---- InfC [adjunct] ?       6      46  2.\    |   |  [B-RBWT <Pr>] [RC<JM <Su>]
  PRO 29,16 3sgM ZYqX  << XYqt  ?       6      47  1..    |  [JRBH <Pr>] [PC< <Su>]
  PRO 29,16 3plM WXYq  << ZYqX  ?       6      48  2..    |      [W-<Cj>] [YDJQJM <Su>] [B-MPLTM <Co>] [JR>W <Pr>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PRO 29,17 2sgM ZIm0  << XYqt  Q       7      49  0.#   [JSR <Pr>] [BNK <Ob>]
  PRO 29,17 3sgM WYq0  << ZIm0  Q       7      50  3..    |   |   |  [W-<Cj>] [JNJXK <PO>]
  PRO 29,17 3sgM WYq0  << WYq0  Q       7      51  4..    |   |   |      [W-<Cj>] [JTN <Pr>] [M<DNJM <Ob>] [L-NPCK <Co>]
@@ -62,7 +62,7 @@
  PRO 29,21 -sgM Ptcp  << ZQt0  Q       7      61  2..    |      [MPNQ <PC>] [M-N<R <Aj>] [<BDW <Ob>]
  PRO 29,21 3sgM WXYq  << Ptcp  Q       7      62  3..    |          [W-<Cj>] [>XRJTW <Su>] [JHJH <Pr>] [MNWN <PC>]
  PRO 29,22 3sgM XYqt  << ZIm0  Q       8      63  0.#   [>JC >P <Su>] [JGRH <Pr>] [MDWN <Ob>]
- PRO 29,22 -sgM AjCl  << XYqt  Q       8      64  1..    |  [W-<Cj>] [B<L XMH <Su>] [RB PC< <PC>]
+ PRO 29,22 ---- AjCl  << XYqt  Q       8      64  1..    |  [W-<Cj>] [B<L XMH <Su>] [RB PC< <PC>]
  PRO 29,23 3sgF XYqt  << XYqt  Q       9      65  0.#   [G>WT >DM <Su>] [TCPJLNW <PO>]
  PRO 29,23 3sgM WXYq  << XYqt  Q       9      66  2..    |   |  [W-<Cj>] [CPL RWX <Su>] [JTMK <Pr>] [KBWD <Ob>]
  PRO 29,24 -sgM Ptcp [subject] Q       9      67  2.\    |   |  [XWLQ <PC>] [<M GNB <Co>]

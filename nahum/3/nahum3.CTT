@@ -1,10 +1,10 @@
  NAH 03,01 ---- NmCl  <<  [R]  ?       1       1  0.N   [HWJ <Ij>]
-                               =======                 ==============================================================================================/
- NAH 03,01 ---- Voct  << NmCl  Q       1       2  3v.        |   |  [<JR DMJM <Vo>]
- NAH 03,01 ---- NmCl [attrib.] Q       1       3  4..        |   |      [KLH <Su>] [KXC <PC>]
- NAH 03,01 -sgF Ptcp [coordin] Q       1       4  5..        |   |          [PRQ <Ob>] [ML>H <PC>]
- NAH 03,01 3sgM xYqX  << Ptcp  Q       1       5  6..        |   |              [L> <Ng>] [JMJC <Pr>] [VRP <Su>]
-                               =======                 ==============================================================================================/
+                               =======                       |   |+==================================================================================\
+ NAH 03,01 ---- Voct  << NmCl  Q       1       2  3v.        |   || [<JR DMJM <Vo>]
+ NAH 03,01 ---- NmCl [attrib.] Q       1       3  4..        |   ||     [KLH <Su>] [KXC <PC>]
+ NAH 03,01 -sgF Ptcp [coordin] Q       1       4  5..        |   ||         [PRQ <Ob>] [ML>H <PC>]
+ NAH 03,01 3sgM xYqX  << Ptcp  Q       1       5  6..        |   ||             [L> <Ng>] [JMJC <Pr>] [VRP <Su>]
+                               =======                       |   |+==================================================================================/
  NAH 03,02 ---- NmCl  << NmCl  ?       1       6  2..        |  [QWL CWV <PC>]
  NAH 03,02 ---- NmCl  << NmCl  ?       1       7  3..        |   |  [W-<Cj>] [QWL R<C >WPN <PC>]
  NAH 03,02 ---- NmCl  << NmCl  ?       1       8  3..        |   |  [W-<Cj>] [SWS DHR <PC>]
@@ -13,7 +13,7 @@
  NAH 03,03 ---- NmCl  << NmCl  ?       1      11  4..        |       |  [W-<Cj>] [LHB XRB W-BRQ XNJT W-RB XLL W-KBD PGR <PC>]
  NAH 03,03 ---- NmCl  << NmCl  ?       1      12  5..        |       |      [W-<Cj>] [>JN <NC>] [QYH <PC>] [L--GWJH <Aj>]
  NAH 03,03 3pl- WQt0  << NmCl  ?       1      13  6..        |       |          [J-<Cj>] [KCLW <Pr>] [B-GWJTM <Co>]
- NAH 03,04 -sgM AjCl  << NmCl  ?       1      14  3..        |      [M-RB ZNWNJ ZWNH <Aj>] [VWBT XN <PC>] [B<LT KCPJM <Su>]
+ NAH 03,04 ---- AjCl  << NmCl  ?       1      14  3..        |      [M-RB ZNWNJ ZWNH <Aj>] [VWBT XN <PC>] [B<LT KCPJM <Su>]
  NAH 03,04 -sgF Ptcp [attrib.] ?       1      15  4..        |          [H-<Re>] [MKRT <PC>] [GWJM <Ob>] [B-ZNWNJH <Co>]
  NAH 03,04 ---- Ellp  << Ptcp  ?       1      16  5l.        |              [W-<Cj>] [MCPXWT <Ob>] [B-KCPJH <Co>]
                                =======                    +=======================================================================================\
@@ -29,10 +29,10 @@
  NAH 03,07 3sgM XYqt  << WQt0  ?Q      11     26  6..     |      |              [KL R>JK <Su>] [JDWD <Pr>] [MMK <Co>]
  NAH 03,07 3sgM WQt0  << XYqt  ?Q      11     27  7..     |      |                  [W-<Cj>] [>MR <Pr>]
                                =======                    |      |                    +========================================================\
- NAH 03,07 3sgF ZQtX  <<  [Q]  ?QQ     111    28  8.q     |      |                   || [CDDH <Pr>] [NJNWH <Su>]
- NAH 03,07 3sgM XYqt  << ZQtX  ?QQ     111    29  9..     |      |                   ||     [MJ <Su>] [JNWD <Pr>] [LH <Co>]
- NAH 03,07 1sg- xYq0  << XYqt  ?QQ     111    30 10..     |      |                   ||         [M->JN <Aj>] [>BQC <Pr>] [MNXMJM <Ob>] [LK <Co>]
-                               =======                    |                           +========================================================/
+ NAH 03,07 3sgF ZQtX  <<  [Q]  ?QQ     111    28  8.q     |      |                    | [CDDH <Pr>] [NJNWH <Su>]
+ NAH 03,07 3sgM XYqt  << ZQtX  ?QQ     111    29  9..     |      |                    |     [MJ <Su>] [JNWD <Pr>] [LH <Co>]
+ NAH 03,07 1sg- xYq0  << XYqt  ?QQ     111    30 10..     |      |                    |         [M->JN <Aj>] [>BQC <Pr>] [MNXMJM <Ob>] [LK <Co>]
+                               =======                    |      |                    +========================================================/
  NAH 03,08 2sgF xYq0  << NmCl  ?Q      112    31  2.#     |     [H-<Qu>] [TJVBJ <Pr>] [M-N>_>MWN <Co>]
  NAH 03,08 -sgF Ptcp [attrib.] ?Q      112    32  5..     |          |   |  [H-<Re>] [JCBH <PC>] [B--J>RJM <Co>]
  NAH 03,08 ---- NmCl  << xYq0  ?Q      112    33  4..     |          |  [MJM <Su>] [SBJB <PC>] [LH <Aj>]
@@ -69,7 +69,7 @@
  NAH 03,16 3sgM xQt0  << ZQt0  ?Q      112    64 10..     |                                  |  [JLQ <Ob>] [PCV <Pr>]
                                -------                    |                                  |    +--------------------------------------------\
  NAH 03,16 3sgM Way0  << xQt0  ?QN     112    65 11..     |                                  |    | [W-<Cj>] [J<P <Pr>]
-                               -------                    |                                       +--------------------------------------------/
+                               -------                    |                                  |    +--------------------------------------------/
  NAH 03,17 ---- NmCl  << ZQt0  ?Q      112    66  9..     |                                 [MNZRJK <Su>] [K-->RBH <PC>]
  NAH 03,17 ---- NmCl  << NmCl  ?Q      112    67 12..     |                                      |   |  [W-<Cj>] [VPSRJK <Su>] [K-GWB GBJ <PC>]
  NAH 03,17 -plM Ptcp [attrib.] ?Q      112    68 13..     |                                      |   |      [H-<Re>] [XWNJM <PC>] [B--GDRWT <Co>] [B-JWM QRH <Ti>]

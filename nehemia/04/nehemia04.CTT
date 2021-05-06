@@ -16,7 +16,7 @@
  NEH 04,04 ---- InfA  << ZQtX  NQ      131    15  4..    |   ||      |  [W-<Cj>] [H-<PR <Su>] [HRBH <Pr>]
  NEH 04,04 1pl- WXYq  << ZQtX  NQ      131    16  3..    |   ||     [W-<Cj>] [>NXNW <Su>] [L> <Ng>] [NWKL <Pr>]
  NEH 04,04 ---- InfC [complm.] NQ      131    17  4..    |   ||         [L-BNWT <Pr>] [B--XWMH <Co>]
-                               =======                   |    +===================================================================================/
+                               =======                   |   |+===================================================================================/
  NEH 04,05 3plM WayX  << WayX  N       14     18  1.#    |  [W-<Cj>] [J>MRW <Pr>] [YRJNW <Su>]
                                =======                   |    +===================================================================================\
  NEH 04,05 3plM xYq0  <<  [Q]  NQ      141    19  2.q    |    | [L> <Ng>] [JD<W <Pr>]
@@ -24,14 +24,14 @@
  NEH 04,05 1pl- xYq0 [adjunct] NQ      141    21  3..    |    |     [<D >CR <Cj>] [NBW> <Pr>] [>L TWKM <Co>]
  NEH 04,05 1pl- WQt0 [coordin] NQ      141    22  4..    |    |         [W-<Cj>] [HRGNWM <PO>]
  NEH 04,05 1pl- WQt0 [coordin] NQ      141    23  5..    |    |             [W-<Cj>] [HCBTNW <Pr>] [>T H-ML>KH <Ob>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  NEH 04,06 3sgM Way0  << Way0  N       2      24  0.#   [W-<Cj>] [JHJ <Pr>]
  NEH 04,06 3pl- xQtX [adjunct] N       2      25  2..    |   |  [K->CR <Cj>] [B>W <Pr>] [H-JHWDJM <Su>]
  NEH 04,06 -plM Ptcp [attrib.] N       2      26  4..    |   |       |  [H-<Re>] [JCBJM <PC>] [>YLM <Co>]
  NEH 04,06 3plM Way0  << xQtX  N       2      27  3..    |   |      [W-<Cj>] [J>MRW <Pr>] [LNW <Co>] [<FR P<MJM <Mo>]
                                =======                   |   |        +===========================================================================\
- NEH 04,06 ---- NmCl  <<  [Q]  NQ      21     28  4.q    |   |       || [M-KL H-MQMWT <Aj>]
- NEH 04,06 2plM xYq0 [attrib.] NQ      21     29  5..    |   |       ||     [>CR <Re>] [TCWBW <Pr>] [<LJNW <Co>]
+ NEH 04,06 ---- NmCl  <<  [Q]  NQ      21     28  4.q    |   |        | [M-KL H-MQMWT <Aj>]
+ NEH 04,06 2plM xYq0 [attrib.] NQ      21     29  5..    |   |        |     [>CR <Re>] [TCWBW <Pr>] [<LJNW <Co>]
                                =======                   |   |        +===========================================================================/
  NEH 04,07 1sg- Way0  << Way0  N       2      30  1..    |  [W-<Cj>] [><MJD <Pr>] [M-TXTJWT / L--MQWM / M->XRJ / L--XWMH <sp><sp><sp><Lo>] [B--YXXJJM <Aj>]
  NEH 04,07 1sg- Way0  << Way0  N       2      31  1..    |  [W-<Cj>] [><MJD <Pr>] [>T H-<M / L-MCPXWT <sp><Ob>] [<M XRBTJHM RMXJHM W-QCTTJHM <Aj>]
@@ -42,7 +42,7 @@
  NEH 04,08 2plM xYq0  <<  [Q]  NQ      22     35  2.q    |    | [>L <Ng>] [TJR>W <Pr>] [M-PNJHM <Co>]
  NEH 04,08 2plM xIm0  << xYq0  NQ      22     36  3..    |    |     [>T >DNJ H-GDWL W-H-NWR> <Ob>] [ZKRW <Pr>]
  NEH 04,08 2plM WIm0  << xIm0  NQ      22     37  4..    |    |         [W-<Cj>] [HLXMW <Pr>] [<L >XJKM BNJKM W-BNTJKM NCJKM W-BTJKM <Co>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  NEH 04,09 3sgM Way0  << Way0  N       3      38  0.#   [W-<Cj>] [JHJ <Pr>]
  NEH 04,09 3pl- xQtX [adjunct] N       3      39  2..    |   |  [K->CR <Cj>] [CM<W <Pr>] [>WJBJNW <Su>]
  NEH 04,09 3sgM xQt0 [object ] N       3      40  3..    |   |      [KJ <Cj>] [NWD< <Pr>] [LNW <Co>]
@@ -72,17 +72,17 @@
  NEH 04,14 2plM xYq0 [attrib.] NQ      411    63  9..        |           ||      |       |  [>CR <Re>] [TCM<W <Pr>] [>T QWL H-CWPR <Ob>]
  NEH 04,14 2plM xYq0 [resumpt] NQ      411    64  8..        |           ||      |      [CMH <Lo>] [TQBYW <Pr>] [>LJNW <Co>]
  NEH 04,14 3sgM XYqt  << InfA  NQ      411    65  6..        |           ||     [>LHJNW <Su>] [JLXM <Pr>] [LNW <Co>]
-                               =======                       |            +=======================================================================/
+                               =======                       |           |+=======================================================================/
  NEH 04,15 -plM Ptcp  << Way0  N       41     66  4..        |          [W-<Cj>] [>NXNW <Su>] [<FJM <PC>] [B--ML>KH <Co>]
  NEH 04,15 -plM Ptcp  << Ptcp  N       41     67  5..        |              [W-<Cj>] [XYJM <Su>] [MXZJQJM <PC>] [B--RMXJM <Co>]
  NEH 04,15 ---- InfC [adjunct] N       41     68  6..        |                  [M-<LWT <Pr>] [H-CXR <Su>]
  NEH 04,15 ---- InfC [coordin] N       41     69  7..        |                      [<D Y>T <Pr>] [H-KWKBJM <Su>]
  NEH 04,16 1sg- xQt0  << Way0  N       42     70  1.#       [GM B--<T H-HJ> <Ti>] [>MRTJ <Pr>] [L--<M <Co>]
                                =======                           |+===============================================================================\
- NEH 04,16 3plM XYqt  <<  [Q]  NQ      421    71  3.q             | [>JC W-N<RW <Su>] [JLJNW <Pr>] [B-TWK JRWCLM <Co>]
- NEH 04,16 3pl- WQt0  << XYqt  NQ      421    72  4..             |     [W-<Cj>] [HJW <Pr>] [LNW <Co>] [H-LJLH <Ti>] [MCMR <PC>]
- NEH 04,16 ---- NmCl [coordin] NQ      421    73  5..             |         [W-<Cj>] [H-JWM <Ti>] [ML>KH <PC>]
-                               =======                            +===============================================================================/
+ NEH 04,16 3plM XYqt  <<  [Q]  NQ      421    71  3.q            || [>JC W-N<RW <Su>] [JLJNW <Pr>] [B-TWK JRWCLM <Co>]
+ NEH 04,16 3pl- WQt0  << XYqt  NQ      421    72  4..            ||     [W-<Cj>] [HJW <Pr>] [LNW <Co>] [H-LJLH <Ti>] [MCMR <PC>]
+ NEH 04,16 ---- NmCl [coordin] NQ      421    73  5..            ||         [W-<Cj>] [H-JWM <Ti>] [ML>KH <PC>]
+                               =======                           |+===============================================================================/
  NEH 04,17 ---- CPen  << xQt0  N       42     74  2c.           [W-<Cj>] [>JN <NC>] [>NJ W->XJ W-N<RJ W->NCJ H-MCMR <Fr>]
  NEH 04,17 ---- NmCl [attrib.] N       42     75  4..                |  [>CR <Re>] [>XRJ <PC>]
  NEH 04,17 -plM Ptcp [resumpt] N       42     76  3..               [>JN <NC>] [>NXNW <Su>] [PCVJM <PC>] [BGDJNW <Ob>]

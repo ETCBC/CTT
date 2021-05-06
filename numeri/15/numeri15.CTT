@@ -44,7 +44,7 @@
  NUM 15,15 3sgM xYq0 [coordin] NQQ     111    42  9..    |    |       |                     [KKM <Aj>] [K--GR <PC>] [JHJH <Pr>] [L-PNJ JHWH <Co>]
  NUM 15,16 3sgM XYqt  << xYq0  NQQ     111    43 10..    |    |       |                         [TWRH >XT W-MCPV >XD <Su>] [JHJH <Pr>] [LKM W-L--GR <PC>]
  NUM 15,16 -sgM Ptcp [attrib.] NQQ     111    44 11..    |    |       |                             [H-<Re>] [GR <PC>] [>TKM <Co>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  NUM 15,17 3sgM WayX  << WayX  N       2      45  0.#   [W-<Cj>] [JDBR <Pr>] [JHWH <Su>] [>L MCH <Co>]
  NUM 15,17 ---- InfC [adjunct] N       2      46  1..    |  [L->MR <Pr>]
                                =======                   |    +===================================================================================\
@@ -98,7 +98,7 @@
  NUM 15,31 3sgM WxQ0  << xQt0  NQQ     211    93 14..    |    |       |                              |          [W-<Cj>] [>T MYWTW <Ob>] [HPR <Pr>]
  NUM 15,31 3sgF xYqX  << Ptcp  NQQ     211    94 11..    |    |       |                             [HKRT <Mo>] [TKRT <Pr>] [H-NPC H-HW> <Su>]
  NUM 15,31 ---- NmCl  << xYqX  NQQ     211    95 12..    |    |       |                                 [<WNH <Su>] [BH <PC>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  NUM 15,32 3plM WayX  << WayX  N       3      96  0.#   [W-<Cj>] [JHJW <Pr>] [BNJ JFR>L <Su>] [B--MDBR <PC>]
  NUM 15,32 3plM Way0  << WayX  N       3      97  1..       [W-<Cj>] [JMY>W <Pr>] [>JC <Ob>]
  NUM 15,32 -sgM Ptcp [attrib.] N       3      98  2..        |  [MQCC <PC>] [<YJM <Ob>] [B-JWM H-CBT <Ti>]
@@ -111,9 +111,9 @@
  NUM 15,34 3sgM XYqt [subject] N       3     105  4..            |      [MH <Su>] [J<FH <Pr>] [LW <Co>]
  NUM 15,35 3sgM WayX  << Way0  N       31    106  2.#           [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L MCH <Co>]
                                =======                           |   |+===========================================================================\
- NUM 15,35 3sgM xYqX  <<  [Q]  NQ      311   107  4.q            |    | [MWT <Mo>] [JWMT <Pr>] [H->JC <Su>]
- NUM 15,35 ---- InfA  << xYqX  NQ      311   108  5..            |    |     [RGWM <Pr>] [>TW <Ob>] [B-->BNJM <Co>] [KL H-<DH <Su>] [M-XWY / L--MXNH <sp><Lo>]
-                               =======                           |    +===========================================================================/
+ NUM 15,35 3sgM xYqX  <<  [Q]  NQ      311   107  4.q            |   || [MWT <Mo>] [JWMT <Pr>] [H->JC <Su>]
+ NUM 15,35 ---- InfA  << xYqX  NQ      311   108  5..            |   ||     [RGWM <Pr>] [>TW <Ob>] [B-->BNJM <Co>] [KL H-<DH <Su>] [M-XWY / L--MXNH <sp><Lo>]
+                               =======                           |   |+===========================================================================/
  NUM 15,36 3plM WayX  << WayX  N       312   109  3.#            |  [W-<Cj>] [JYJ>W <Pr>] [>TW <Ob>] [KL H-<DH <Su>] [>L M-XWY / L--MXNH <sp><Co>]
  NUM 15,36 3plM Way0  << WayX  N       312   110  4..            |      [W-<Cj>] [JRGMW <Pr>] [>TW <Ob>] [B-->BNJM <Co>]
  NUM 15,36 3sgM Way0  << Way0  N       3121  111  6.#            |           |  [W-<Cj>] [JMT <Pr>]

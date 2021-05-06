@@ -11,11 +11,11 @@
  JES 32,05 3sgM xYq0  << WxYX  D       1      11  4..        |          [L> <Ng>] [JQR> <Pr>] [<WD <Mo>] [L-NBL <Co>]
                                =======                       |               |   |+===============================================================\
  JES 32,05 -sgM AjCl [subject] DQ      11     12  7.q        |               |   || [NDJB <PC>]
-                               =======                       |               |    +===============================================================/
+                               =======                       |               |   |+===============================================================/
  JES 32,05 3sgM WxY0  << xYq0  D       1      13  6..        |               |  [W-<Cj>] [L-KJLJ <Co>] [L> <Ng>] [J>MR <Pr>]
                                =======                       |               |    +===============================================================\
- JES 32,05 ---- NmCl [subject] DQ      12     14  7.q        |               |   || [CW< <PC>]
-                               =======                       |                    +===============================================================/
+ JES 32,05 ---- NmCl [subject] DQ      12     14  7.q        |               |    | [CW< <PC>]
+                               =======                       |               |    +===============================================================/
  JES 32,06 3sgM XYqt  << xYq0  D       1      15  5..        |              [KJ <Cj>] [NBL <Su>] [NBLH <Ob>] [JDBR <Pr>]
  JES 32,06 3sgM WXYq  << XYqt  D       1      16  7..        |                   |  [W-<Cj>] [LBW <Su>] [J<FH <Pr>] [>WN <Ob>]
  JES 32,06 ---- InfC [adjunct] D       1      17  8..        |                   |      [L-<FWT <Pr>] [XNP <Ob>]
@@ -30,9 +30,9 @@
  JES 32,08 3sgM WXQt  << XQtl  D       1      26  8..        |                          [W-<Cj>] [NDJB <Su>] [NDJBWT <Ob>] [J<Y <Pr>]
  JES 32,08 3sgM WXYq  << WXQt  D       1      27  9..        |                              [W-<Cj>] [HW> <Su>] [<L NDJBWT <Co>] [JQWM <Pr>]
                                =======                    +=======================================================================================\
- JES 32,09 ---- Voct  << xYqX  DQ      13     28  1v#    || [NCJM C>NNWT <Vo>]
- JES 32,09 2plF ZIm0 [ref.Voc] DQ      13     29  2..    ||  |  [QMNH <Pr>]
- JES 32,09 2plF ZIm0 [coordin] DQ      13     30  3..    ||  |      [CM<NH <Pr>] [QWLJ <Ob>]
+ JES 32,09 ---- Voct  << xYqX  DQ      13     28  1v#     | [NCJM C>NNWT <Vo>]
+ JES 32,09 2plF ZIm0 [ref.Voc] DQ      13     29  2..     |  |  [QMNH <Pr>]
+ JES 32,09 2plF ZIm0 [coordin] DQ      13     30  3..     |  |      [CM<NH <Pr>] [QWLJ <Ob>]
  JES 32,09 ---- Voct  << Voct  DQ      13     31  1v.     | [BNWT BVXWT <Vo>]
  JES 32,09 2plF ZIm0 [ref.Voc] DQ      13     32  2..     |     [H>ZNH <Pr>] [>MRTJ <Ob>]
  JES 32,10 2plF xYq0  << ZIm0  DQ      13     33  4..     |          |  [JMJM / <L CNH <sp><Ti>] [TRGZNH <Pr>]

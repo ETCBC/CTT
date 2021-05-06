@@ -17,7 +17,7 @@
  HOS 12,05 3sgM Way0  << Way0  QN      11     16 10..        |                       ||      |  [W-<Cj>] [JKL <Pr>]
  HOS 12,05 3sgM ZQt0  << Way0  QN      11     17  9..        |                       ||     [BKH <Pr>]
  HOS 12,05 3sgM Way0  << ZQt0  QN      11     18 10..        |                       ||         [W-<Cj>] [JTXNN <Pr>] [LW <Co>]
-                               -------                       |                        +-----------------------------------------------------------/
+                               -------                       |                       |+-----------------------------------------------------------/
  HOS 12,05 3sgM xYq0  << WxQ0  Q       11     19  7..        |                      [BJT_>L <Lo>] [JMY>NW <PO>]
  HOS 12,05 3sgM WxY0  << xYq0  Q       11     20  9..        |                           |  [W-<Cj>] [CM <Mo>] [JDBR <Pr>] [<MNW <Co>]
  HOS 12,06 ---- CPen  << xYq0  Q       11     21  8c.        |                          [W-<Cj>] [JHWH / >LHJ H-YB>WT <ap><Fr>]
@@ -33,12 +33,12 @@
                                -------                           |   |   |        +---------------------------------------------------------------\
  HOS 12,09 3sgM WayX  << ZQt0  QN      121    31  7.#            |   |   |        | [W-<Cj>] [J>MR <Pr>] [>PRJM <Su>]
                                =======                           |   |   |        |   +========================================================\
- HOS 12,09 1sg- xQt0  <<  [Q]  QNQ     1211   32  8.q            |   |   |        |  || [>K <Mo>] [<CRTJ <Pr>]
- HOS 12,09 1sg- ZQt0  << xQt0  QNQ     1211   33  9..            |   |   |        |  ||     [MY>TJ <Pr>] [>WN <Ob>] [LJ <Co>]
- HOS 12,09 ---- CPen  << ZQt0  QNQ     1211   34 10c.            |   |   |        |  ||         [KL JGJ<J <Fr>]
- HOS 12,09 3plM xYq0 [resumpt] QNQ     1211   35 11..            |   |   |        |  ||             [L> <Ng>] [JMY>W <Pr>] [LJ <Co>] [<WN <Ob>]
- HOS 12,09 ---- NmCl [attrib.] QNQ     1211   36 12..            |   |   |        |  ||                 [>CR <Re>] [XV> <PC>]
-                               -------                           |   |            +---------------------------------------------------------------/
+ HOS 12,09 1sg- xQt0  <<  [Q]  QNQ     1211   32  8.q            |   |   |        |   | [>K <Mo>] [<CRTJ <Pr>]
+ HOS 12,09 1sg- ZQt0  << xQt0  QNQ     1211   33  9..            |   |   |        |   |     [MY>TJ <Pr>] [>WN <Ob>] [LJ <Co>]
+ HOS 12,09 ---- CPen  << ZQt0  QNQ     1211   34 10c.            |   |   |        |   |         [KL JGJ<J <Fr>]
+ HOS 12,09 3plM xYq0 [resumpt] QNQ     1211   35 11..            |   |   |        |   |             [L> <Ng>] [JMY>W <Pr>] [LJ <Co>] [<WN <Ob>]
+ HOS 12,09 ---- NmCl [attrib.] QNQ     1211   36 12..            |   |   |        |   |                 [>CR <Re>] [XV> <PC>]
+                               -------                           |   |   |        +---------------------------------------------------------------/
  HOS 12,10 ---- NmCl  << CPen  Q       122    37  4.#            |   |  [W-<Cj>] [>NKJ <Su>] [JHWH / >LHJK <ap><PC>] [M->RY MYRJM <Aj>]
  HOS 12,10 1sg- xYq0  << NmCl  Q       122    38  5..            |   |      [<D <Mo>] [>WCJBK <PO>] [B->HLJM <Co>] [K-JMJ MW<D <Aj>]
  HOS 12,11 1sg- WQt0  << xYq0  Q       122    39  7..            |   |           |  [W-<Cj>] [DBRTJ <Pr>] [<L H-NBJ>JM <Co>]
@@ -49,12 +49,12 @@
  HOS 12,12 3pl- xQt0  << NmCl  Q       122    44  8..            |   |                  [B--GLGL <Lo>] [CWRJM <Ob>] [ZBXW <Pr>]
  HOS 12,12 ---- NmCl  << xQt0  Q       122    45  9..            |   |                      [GM MZBXWTM <Su>] [K-GLJM <Aj>] [<L TLMJ FDJ <PC>]
                                -------                           |+-------------------------------------------------------------------------------\
- HOS 12,13 3sgM WayX  << CPen  QN      123    46  3.#             | [W-<Cj>] [JBRX <Pr>] [J<QB <Su>] [FDH >RM <Co>]
- HOS 12,13 3sgM WayX  << WayX  QN      1231   47  5.#             |      |  [W-<Cj>] [J<BD <Pr>] [JFR>L <Su>] [B->CH <Aj>]
- HOS 12,13 3sgM WxQ0  << WayX  QN      1231   48  6..             |      |      [W-<Cj>] [B->CH <Aj>] [CMR <Pr>]
- HOS 12,14 3sgM WxQX  << WayX  QN      123    49  4..             |     [W-<Cj>] [B-NBJ> <Aj>] [H<LH <Pr>] [JHWH <Su>] [>T JFR>L <Ob>] [M-MYRJM <Co>]
- HOS 12,14 3sgM WxQ0  << WxQX  QN      123    50  5..             |         [W-<Cj>] [B-NBJ> <Aj>] [NCMR <Pr>]
-                               -------                            +-------------------------------------------------------------------------------/
+ HOS 12,13 3sgM WayX  << CPen  QN      123    46  3.#            || [W-<Cj>] [JBRX <Pr>] [J<QB <Su>] [FDH >RM <Co>]
+ HOS 12,13 3sgM WayX  << WayX  QN      1231   47  5.#            ||      |  [W-<Cj>] [J<BD <Pr>] [JFR>L <Su>] [B->CH <Aj>]
+ HOS 12,13 3sgM WxQ0  << WayX  QN      1231   48  6..            ||      |      [W-<Cj>] [B->CH <Aj>] [CMR <Pr>]
+ HOS 12,14 3sgM WxQX  << WayX  QN      123    49  4..            ||     [W-<Cj>] [B-NBJ> <Aj>] [H<LH <Pr>] [JHWH <Su>] [>T JFR>L <Ob>] [M-MYRJM <Co>]
+ HOS 12,14 3sgM WxQ0  << WxQX  QN      123    50  5..            ||         [W-<Cj>] [B-NBJ> <Aj>] [NCMR <Pr>]
+                               -------                           |+-------------------------------------------------------------------------------/
  HOS 12,15 3sgM ZQtX  << CPen  Q       124    51  2.#           [HK<JS <Pr>] [>PRJM <Su>] [TMRWRJM <Ob>]
  HOS 12,15 3sgM WxY0  << ZQtX  Q       124    52  3..               [W-<Cj>] [DMJW <Ob>] [<LJW <Co>] [JVWC <Pr>]
  HOS 12,15 3sgM WxYX  << WxY0  Q       124    53  4..                   [W-<Cj>] [XRPTW <Ob>] [JCJB <Pr>] [LW <Co>] [>DNJW <Su>]

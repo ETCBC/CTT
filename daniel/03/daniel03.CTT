@@ -13,19 +13,19 @@
  DAN 03,03 3sgM xQtX [attrib.] ??      11     12  9..        ||      |           |   |      [DJ <Re>] [HQJM <Pr>] [NBWKDNYR <Su>]
  DAN 03,04 -sgM Ptcp  << Ptcp  ??      11     13  7..        ||      |           |  [W-<Cj>] [KRWZ> <Su>] [QR> <PC>] [B-XJL <Aj>]
                                =======                       ||      |           |       |+====================================================\
- DAN 03,04 -plM Ptcp  <<  [Q]  ??Q     111    14  9.q        ||      |           |        | [LKWN <Co>] [>MRJN <PC>]
- DAN 03,04 ---- Voct  << Ptcp  ??Q     111    15 11v.        ||      |           |        |      |  [<MMJ> >MJ> W-LCNJ> <Vo>]
+ DAN 03,04 -plM Ptcp  <<  [Q]  ??Q     111    14  9.q        ||      |           |       || [LKWN <Co>] [>MRJN <PC>]
+ DAN 03,04 ---- Voct  << Ptcp  ??Q     111    15 11v.        ||      |           |       ||      |  [<MMJ> >MJ> W-LCNJ> <Vo>]
                                =======                       ||      |           |       ||   +=============================================\
- DAN 03,05 ---- Defc  <<  [Q]  ??QQ    1111   16 10dq        ||      |           |        |  || [B-<DN> <Ti>]
- DAN 03,05 2plM xYq0 [attrib.] ??QQ    1111   17 14.e        ||      |           |        |  ||      |   |   |  [DJ <Re>] [TCM<WN <Pr>] [QL QRN> MCRWQJT> QJTRWS SBK> PSNTRJN SWMPNJH W-KL ZNJ ZMR> <Ob>]
- DAN 03,05 2plM ZYq0  << Defc  ??QQ    1111   18 13..        ||      |           |        |  ||      |   |  [TPLWN <Pr>]
- DAN 03,05 2plM WYq0  << Defc  ??QQ    1111   19 12..        ||      |           |        |  ||      |  [W-<Cj>] [TSGDWN <Pr>] [L-YLM DHB> <Co>]
- DAN 03,05 3sgM xQtX [attrib.] ??QQ    1111   20 13..        ||      |           |        |  ||      |      [DJ <Re>] [HQJM <Pr>] [NBWKDNYR / MLK> <ap><Su>]
- DAN 03,06 ---- CPen  << Defc  ??QQ    1111   21 11c.        ||      |           |        |  ||     [W-<Cj>] [MN <Fr>]
- DAN 03,06 3sgM xYq0 [attrib.] ??QQ    1111   22 13..        ||      |           |        |  ||          |  [DJ <Re>] [L> <Ng>] [JPL <Pr>]
- DAN 03,06 3sgM WYq0 [coordin] ??QQ    1111   23 14..        ||      |           |        |  ||          |      [W-<Cj>] [JSGD <Pr>]
- DAN 03,06 3sgM xYq0 [resumpt] ??QQ    1111   24 12..        ||      |           |        |  ||         [BH / C<T> <ss><Ti>] [JTRM> <Pr>] [L-GW> >TWN NWR> JQDT> <Co>]
-                               =======                       ||      |           |        +====================================================/
+ DAN 03,05 ---- Defc  <<  [Q]  ??QQ    1111   16 10dq        ||      |           |       ||   | [B-<DN> <Ti>]
+ DAN 03,05 2plM xYq0 [attrib.] ??QQ    1111   17 14.e        ||      |           |       ||   |      |   |   |  [DJ <Re>] [TCM<WN <Pr>] [QL QRN> MCRWQJT> QJTRWS SBK> PSNTRJN SWMPNJH W-KL ZNJ ZMR> <Ob>]
+ DAN 03,05 2plM ZYq0  << Defc  ??QQ    1111   18 13..        ||      |           |       ||   |      |   |  [TPLWN <Pr>]
+ DAN 03,05 2plM WYq0  << Defc  ??QQ    1111   19 12..        ||      |           |       ||   |      |  [W-<Cj>] [TSGDWN <Pr>] [L-YLM DHB> <Co>]
+ DAN 03,05 3sgM xQtX [attrib.] ??QQ    1111   20 13..        ||      |           |       ||   |      |      [DJ <Re>] [HQJM <Pr>] [NBWKDNYR / MLK> <ap><Su>]
+ DAN 03,06 ---- CPen  << Defc  ??QQ    1111   21 11c.        ||      |           |       ||   |     [W-<Cj>] [MN <Fr>]
+ DAN 03,06 3sgM xYq0 [attrib.] ??QQ    1111   22 13..        ||      |           |       ||   |          |  [DJ <Re>] [L> <Ng>] [JPL <Pr>]
+ DAN 03,06 3sgM WYq0 [coordin] ??QQ    1111   23 14..        ||      |           |       ||   |          |      [W-<Cj>] [JSGD <Pr>]
+ DAN 03,06 3sgM xYq0 [resumpt] ??QQ    1111   24 12..        ||      |           |       ||   |         [BH / C<T> <ss><Ti>] [JTRM> <Pr>] [L-GW> >TWN NWR> JQDT> <Co>]
+                               =======                       ||      |           |       |+====================================================/
  DAN 03,07 ---- Defc  << Ptcp  ??      11     25  8d.        ||      |           |      [K-L QBL DNH <Aj>] [BH / ZMN> <ss><Ti>]
  DAN 03,07 -plM Ptcp  << Defc  ??      11     26 11.e        ||      |           |           |   |  [K-DJ <Cj>] [CM<JN <PC>] [KL <MMJ> <Su>] [QL QRN> MCRWQJT> QJTRS FBK> PSNVRJN W-KL ZNJ ZMR> <Ob>]
  DAN 03,07 -plM Ptcp  << Defc  ??      11     27 10..        ||      |           |           |  [NPLJN <PC>] [KL <MMJ> >MJ> W-LCNJ> <Su>]
@@ -59,7 +59,7 @@
  DAN 03,12 ---- Defc  << Ptcp  ??Q     112    54 14d.        ||      |                    |                     [W-<Cj>] [L-YLM DHB> <Co>]
  DAN 03,12 2sgM xQt0 [attrib.] ??Q     112    55 16.e        ||      |                    |                          |  [DJ <Re>] [HQJMT <Pr>]
  DAN 03,12 -plM Ptcp  << Defc  ??Q     112    56 15..        ||      |                    |                         [L> <Ng>] [SGDJN <PC>]
-                               =======                       ||                           +====================================================/
+                               =======                       ||      |                    +====================================================/
  DAN 03,13 3sgM XQtl  << WXQt  ??      11     57  3..        ||     [B->DJN <Ti>] [NBWKDNYR <Su>] [B-RGZ W-XMH <Aj>] [>MR <Pr>]
  DAN 03,13 ---- InfC [object ] ??      11     58  7..        ||          |   |   |  [L-HJTJH <Pr>] [L-CDRK MJCK W-<BD_NGW <Co>]
  DAN 03,13 3plM XQtl  << XQtl  ??      11     59  6..        ||          |   |  [B->DJN <Ti>] [GBRJ> >LK <Su>] [HJTJW <Pr>] [QDM MLK> <Co>]
@@ -83,7 +83,7 @@
  DAN 03,15 2plM xYq0  << WxY0  ??Q     113    76 12..        ||          |       |    |                 [BH / C<TH <ss><Ti>] [TTRMWN <Pr>] [L-GW> >TWN NWR> JQDT> <Co>]
  DAN 03,15 ---- NmCl  << xYq0  ??Q     113    77 13..        ||          |       |    |                     [W-<Cj>] [MN <Su>] [HW> <Ep>] [>LH <PC>]
  DAN 03,15 3sgM xYq0 [attrib.] ??Q     113    78 14..        ||          |       |    |                         [DJ <Re>] [JCJZBNKWN <PO>] [MN JDJ <Co>]
-                               =======                       ||          |            +========================================================/
+                               =======                       ||          |       |    +========================================================/
  DAN 03,16 3plM ZQtX  << Ptcp  ??      11     79  6..        ||          |      [<NW <Pr>] [CDRK MJCK W-<BD_NGW <Su>]
  DAN 03,16 -plM Ptcp  << ZQtX  ??      11     80  7..        ||          |          [W-<Cj>] [>MRJN <PC>] [L-MLK> / NBWKDNYR <ap><Co>]
                                =======                       ||          |            +========================================================\
@@ -103,11 +103,11 @@
  DAN 03,18 ---- Defc [coordin] ??Q     114    94 13d.        ||          |            |                     [W-<Cj>] [L-YLM DHB> <Co>]
  DAN 03,18 2sgM xQt0 [attrib.] ??Q     114    95 15.e        ||          |            |                          |  [DJ <Re>] [HQJMT <Pr>]
  DAN 03,18 1pl- xYq0  << Defc  ??Q     114    96 14..        ||          |            |                         [L> <Ng>] [NSGD <Pr>]
-                               =======                       ||                       +========================================================/
+                               =======                       ||          |            +========================================================/
  DAN 03,19 3sgM XQtl  << XQtl  ??      11     97  4..        ||         [B->DJN <Ti>] [NBWKDNYR <Su>] [HTMLJ <Pr>] [XM> <Ob>]
                                =======                       ||              |   |+============================================================\
- DAN 03,19 3sgM WXQt  << XQtl  ???     115    98  7.#        ||              |    | [W-<Cj>] [YLM >NPWHJ <Su>] [>CTNW <Pr>] [<L CDRK MJCK W-<BD_NGW <Co>]
-                               =======                       ||              |    +============================================================/
+ DAN 03,19 3sgM WXQt  << XQtl  ???     115    98  7.#        ||              |   || [W-<Cj>] [YLM >NPWHJ <Su>] [>CTNW <Pr>] [<L CDRK MJCK W-<BD_NGW <Co>]
+                               =======                       ||              |   |+============================================================/
  DAN 03,19 -sgM Ptcp  << XQtl  ??      11     99  6..        ||              |  [<NH <PC>]
  DAN 03,19 -sgM Ptcp  << Ptcp  ??      11    100  7..        ||              |      [W-<Cj>] [>MR <PC>]
  DAN 03,19 ---- InfC [object ] ??      11    101 10..        ||              |           |   |  [L-MZ> <Pr>] [L->TWN> <Co>] [XD / CB<H <sp><Aj>]
@@ -129,7 +129,7 @@
                                =======                       ||              |            +====================================================\
  DAN 03,23 3plM WXQt  << MSyn  ???     116   117  9.#        ||              |            | [W-<Cj>] [GBRJ> >LK TLTHWN / CDRK MJCK W-<BD_NGW <ap><Su>] [NPLW <Pr>] [L-GW> >TWN NWR> JQDT> <Co>]
  DAN 03,23 -plM Ptcp [adjunct] ???     116   118 10..        ||              |            |     [MKPTJN <PC>]
-                               =======                       ||                           +====================================================/
+                               =======                       ||              |            +====================================================/
  DAN 03,24 3sgM XQtl  << XQtl  ??      11    119  5..        ||             [>DJN <Ti>] [NBWKDNYR / MLK> <ap><Su>] [TWH <Pr>]
  DAN 03,24 3sgM WQt0  << XQtl  ??      11    120  9..        ||                  |   |   |  [W-<Cj>] [QM <Pr>]
  DAN 03,24 ---- InfC [adjunct] ??      11    121 10..        ||                  |   |   |      [B-HTBHLH <Pr>]
@@ -138,13 +138,13 @@
                                =======                       ||                  |   |   |   |    +============================================\
  DAN 03,24 1pl- xQt0  <<  [Q]  ??Q     117   124 11.q        ||                  |   |   |   |    | [H-<Qu>] [L> <Ng>] [GBRJN TLT> <Ob>] [RMJN> <Pr>] [L-GW> NWR> <Co>]
  DAN 03,24 -plM Ptcp [adjunct] ??Q     117   125 12..        ||                  |   |   |   |    |     [MKPTJN <PC>]
-                               =======                       ||                  |   |   |        +============================================/
+                               =======                       ||                  |   |   |   |    +============================================/
  DAN 03,24 -plM Ptcp  << Ptcp  ??      11    126  9..        ||                  |   |   |  [<NJN <PC>]
  DAN 03,24 -plM Ptcp  << Ptcp  ??      11    127 10..        ||                  |   |   |      [W-<Cj>] [>MRJN <PC>] [L-MLK> <Co>]
                                =======                       ||                  |   |   |        +============================================\
  DAN 03,24 -sgF AjCl  <<  [Q]  ??Q     118   128 11.q        ||                  |   |   |        | [JYJB> <PC>]
  DAN 03,24 ---- Voct  << AjCl  ??Q     118   129 12v.        ||                  |   |   |        |     [MLK> <Vo>]
-                               =======                       ||                  |   |            +============================================/
+                               =======                       ||                  |   |   |        +============================================/
  DAN 03,25 -sgM Ptcp  << Ptcp  ??      11    130  8..        ||                  |   |  [<NH <PC>]
  DAN 03,25 -sgM Ptcp  << Ptcp  ??      11    131  9..        ||                  |   |      [W-<Cj>] [>MR <PC>]
                                =======                       ||                  |   |        +================================================\
@@ -153,7 +153,7 @@
  DAN 03,25 -plM Ptcp [adjunct] ??Q     119   134 14..        ||                  |   |        |      |   |      [MHLKJN <PC>] [B-GW> NWR> <Co>]
  DAN 03,25 ---- NmCl  << Ptcp  ??Q     119   135 12..        ||                  |   |        |      |  [W-<Cj>] [XBL <Su>] [L> <Ng>] [>JTJ <eX>] [BHWN <PC>]
  DAN 03,25 -sgM Ptcp  << Ptcp  ??Q     119   136 11..        ||                  |   |        |     [W-<Cj>] [RWH / DJ RBJ<J> <sp><Su>] [DMH <PC>] [L-BR >LHJN <Co>]
-                               =======                       ||                  |            +================================================/
+                               =======                       ||                  |   |        +================================================/
  DAN 03,26 3sgM xQtX  << XQtl  ??      11    137  7..        ||                  |  [B->DJN <Ti>] [QRB <Pr>] [NBWKDNYR <Su>] [L-TR< >TWN NWR> JQDT> <Co>]
  DAN 03,26 -sgM Ptcp  << xQtX  ??      11    138 10..        ||                  |       |   |  [<NH <PC>]
  DAN 03,26 -sgM Ptcp  << Ptcp  ??      11    139 11..        ||                  |       |   |      [W-<Cj>] [>MR <PC>]
@@ -161,7 +161,7 @@
  DAN 03,26 ---- Voct  <<  [Q]  ??Q     1110  140 12vq        ||                  |       |   |        | [CDRK MJCK W-<BD_NGW / <BDWHJ / DJ >LH> <LJ> <sp><ap><Vo>]
  DAN 03,26 2plM ZIm0 [ref.Voc] ??Q     1110  141 13..        ||                  |       |   |        |     [PQW <Pr>]
  DAN 03,26 2plM WIm0  << ZIm0  ??Q     1110  142 14..        ||                  |       |   |        |         [W-<Cj>] [>TW <Pr>]
-                               =======                       ||                  |       |            +========================================/
+                               =======                       ||                  |       |   |        +========================================/
  DAN 03,26 -plM Ptcp  << xQtX  ??      11    143  9..        ||                  |       |  [B->DJN <Ti>] [NPQJN <PC>] [CDRK MJCK W-<BD_NGW <Su>] [MN GW> NWR> <Co>]
  DAN 03,27 -plM Ptcp  << Ptcp  ??      11    144 10..        ||                  |       |      [W-<Cj>] [MTKNCJN <PC>] [>XCDRPNJ> SGNJ> W-PXWT> W-HDBRJ MLK> <Su>]
  DAN 03,27 -plM Ptcp  << Ptcp  ??      11    145 11..        ||                  |       |          [XZJN <PC>] [L-GBRJ> >LK <Co>]
@@ -189,9 +189,9 @@
  DAN 03,29 ---- NmCl  << AjCl  ??Q     1111  166 11..        ||                  |            |     [K-L QBL DJ <Cj>] [L> <Ng>] [>JTJ <eX>] [>LH >XRN <Su>]
  DAN 03,29 3sgM xYq0 [attrib.] ??Q     1111  167 12..        ||                  |            |         [DJ <Re>] [JKL <Pr>]
  DAN 03,29 ---- InfC [complm.] ??Q     1111  168 13..        ||                  |            |             [L-HYLH <Pr>] [K-DNH <Aj>]
-                               =======                       ||                               +================================================/
+                               =======                       ||                  |            +================================================/
  DAN 03,30 3sgM XQtl  << XQtl  ??      11    169  6..        ||                 [B->DJN <Ti>] [MLK> <Su>] [HYLX <Pr>] [L-CDRK MJCK W-<BD_NGW <Co>] [B-MDJNT BBL <Lo>]
-                               =======                        +===================================================================================/
+                               =======                       |+===================================================================================/
  DAN 03,31 ---- NmCl  << XQtl  ?       1     170  1..       [NBWKDNYR / MLK> <ap><Su>] [L-KL <MMJ> >MJ> W-LCNJ> <Co>]
  DAN 03,31 -plM Ptcp [attrib.] ?       1     171  2..           [DJ <Re>] [D>RJN <PC>] [B-KL >R<> <Co>]
                                =======                            +===============================================================================\

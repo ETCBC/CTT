@@ -14,9 +14,9 @@
  IKON04,07 -plM Ptcp [attrib.] N       1      14  6..        |       |   |   |  [NYBJM <PC>] [<L KL JFR>L <Co>]
  IKON04,07 3pl- WQt0  << NmCl  N       1      15  5..        |       |   |  [W-<Cj>] [KLKLW <Pr>] [>T H-MLK W->T BJTW <Ob>]
                                -------                       |       |   |    +-------------------------------------------------------------------\
- IKON04,07 3sgM XYqt  << WQt0  ND      1      16  6..        |       |   |   || [XDC / B--CNH <sp><Su>] [JHJH <Pr>] [<L ->XD <PC>]
- IKON04,07 ---- InfC [adjunct] ND      1      17  7..        |       |   |   ||     [L-KLKL <Pr>]
-                               -------                       |       |        +-------------------------------------------------------------------/
+ IKON04,07 3sgM XYqt  << WQt0  ND      1      16  6..        |       |   |    | [XDC / B--CNH <sp><Su>] [JHJH <Pr>] [<L ->XD <PC>]
+ IKON04,07 ---- InfC [adjunct] ND      1      17  7..        |       |   |    |     [L-KLKL <Pr>]
+                               -------                       |       |   |    +-------------------------------------------------------------------/
  IKON04,08 ---- NmCl  << NmCl  N       1      18  4..        |       |  [W-<Cj>] [>LH <Su>] [CMWTM <PC>]
  IKON04,08 ---- NmCl  << NmCl  N       1      19  5..        |       |      [BN XWR <Su>] [B-HR >PRJM <PC>]
  IKON04,09 ---- NmCl  << NmCl  N       1      20  5..        |       |      [BN DQR <Su>] [B-MQY W-B-C<LBJM W-BJT_CMC W->JLWN BJT_XNN <PC>]

@@ -24,7 +24,7 @@
  JOZ 13,06 1sg- xQt0 [adjunct] ?NQ     111    22 11..        ||   |      |                          [K->CR <Cj>] [YWJTJK <PO>]
  JOZ 13,07 ---- MSyn  << XQtl  ?NQ     111    23  4m.        ||   |     [W-<Cj>] [<TH <Ti>]
  JOZ 13,07 2sgM ZIm0  << MSyn  ?NQ     111    24  5..        ||   |         [XLQ <Pr>] [>T H->RY H-Z>T <Ob>] [B-NXLH <Aj>] [L-TC<T H-CBVJM W-XYJ H-CBV / H-MNCH <ap><Co>]
-                               -------                        +-----------------------------------------------------------------------------------/
+                               -------                       |+-----------------------------------------------------------------------------------/
  JOZ 13,08 3pl- XQtl  << WXQt  ?       1      25  1..       [<MW <Aj>] [H-R>WBNJ W-H-GDJ <Su>] [LQXW <Pr>] [NXLTM <Ob>]
  JOZ 13,08 3sgM xQtX [attrib.] ?       1      26  6.e            |   |   |   |  [>CR <Re>] [NTN <Pr>] [LHM <Co>] [MCH <Su>]
  JOZ 13,08 ---- Defc  << XQtl  ?       1      27  5d.            |   |   |  [B-<BR H-JRDN / MZRXH <sp><Lo>]
@@ -82,7 +82,7 @@
  JOZ 13,30 ---- Defc  << WayX  ?N      151    78 14d.            |                                |          |  [CCJM <JR <Aj>]
  JOZ 13,31 ---- NmCl  << WayX  ?N      151    79 13..            |                                |         [W-<Cj>] [XYJ H-GL<D W-<CTRWT W->DR<J / <RJ MMLKWT <WG / B--BCN <sp><ap><Su>] [L-BNJ MKJR / BN MNCH <ap><PC>]
  JOZ 13,31 ---- NmCl  << NmCl  ?N      151    80 14..            |                                |             [L-XYJ BNJ MKJR <PC>] [L-MCPXWTM <Aj>]
-                               -------                                                            +-----------------------------------------------/
+                               -------                           |                                +-----------------------------------------------/
  JOZ 13,32 ---- NmCl  << XQtl  ?       1      81  2..           [>LH <Su>]
  JOZ 13,32 3sgM xQtX [predic.] ?       1      82  4..                |  [>CR <Re>] [NXL <Pr>] [MCH <Su>] [B-<RBWT MW>B / M-<BR / L-JRDN / JRJXW / MZRXH <sp><sp><sp><sp><Lo>]
  JOZ 13,33 3sgM WxQX  << NmCl  ?       1      83  3..               [W-<Cj>] [L-CBV H-LWJ <Co>] [L> <Ng>] [NTN <Pr>] [MCH <Su>] [NXLH <Ob>]

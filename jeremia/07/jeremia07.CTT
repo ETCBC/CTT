@@ -17,8 +17,8 @@
  JER 07,04 2plM xYq0  << ZIm0  ?QQQ    1111   14 11..             |      |    |       |      |   |  [>L <Ng>] [TBVXW <Pr>] [LKM <sc>] [>L DBRJ H-CQR <Co>]
  JER 07,04 ---- InfC [adjunct] ?QQQ    1111   15 12..             |      |    |       |      |   |      [L->MR <Pr>]
                                =======                            |      |    |       |      |   |        +==============================\
- JER 07,04 ---- NmCl  <<  [Q]  ?QQQQ   11111  16 13.q             |      |    |       |      |   |       || [HJKL JHWH / HJKL JHWH / HJKL JHWH <pa><pa><PC>] [HMH <Su>]
-                               =======                            |      |    |       |      |            +==============================/
+ JER 07,04 ---- NmCl  <<  [Q]  ?QQQQ   11111  16 13.q             |      |    |       |      |   |        | [HJKL JHWH / HJKL JHWH / HJKL JHWH <pa><pa><PC>] [HMH <Su>]
+                               =======                            |      |    |       |      |   |        +==============================/
  JER 07,05 2plM xYq0  << ZIm0  ?QQQ    1111   17 10..             |      |    |       |      |  [KJ >M <Cj>] [HJVJB <Mo>] [TJVJBW <Pr>] [>T DRKJKM W->T M<LLJKM <Ob>]
  JER 07,05 2plM xYq0  << xYq0  ?QQQ    1111   18 12..             |      |    |       |      |       |  [>M <Cj>] [<FW <Mo>] [T<FW <Pr>] [MCPV / BJN >JC W-BJN R<HW <sp><Ob>]
  JER 07,06 2plM xYq0  << xYq0  ?QQQ    1111   19 13..             |      |    |       |      |       |      [GR JTWM W->LMNH <Ob>] [L> <Ng>] [T<CQW <Pr>]
@@ -41,7 +41,7 @@
  JER 07,10 2plM WQt0  << WQt0  ?QQQ    1111   36 12..             |      |    |       |          |   |  [W-<Cj>] [>MRTM <Pr>]
                                =======                            |      |    |       |          |   |       |   |+======================\
  JER 07,10 1pl- ZQt0  <<  [Q]  ?QQQQ   11112  37 15.q             |      |    |       |          |   |       |   || [NYLNW <Pr>]
-                               =======                            |      |    |       |          |   |       |    +======================/
+                               =======                            |      |    |       |          |   |       |   |+======================/
  JER 07,10 ---- InfC [adjunct] ?QQQ    1111   38 14..             |      |    |       |          |   |       |  [LM<N <FWT <Pr>] [>T KL H-TW<BWT H->LH <Ob>]
  JER 07,11 3sgM xQtX  << WQt0  ?QQQ    1111   39 13..             |      |    |       |          |   |      [H-<Qu>] [M<RT PRYJM <PC>] [HJH <Pr>] [H-BJT H-ZH <Su>]
  JER 07,11 3sgM xQtX [attrib.] ?QQQ    1111   40 15.e             |      |    |       |          |   |           |  [>CR <Re>] [NQR> <Pr>] [CMJ <Su>] [<LJW <Co>]
@@ -73,7 +73,7 @@
  JER 07,14 1sg- xQt0 [adjunct] ?QQQ    1111   64 13..             |      |    |       |                  |  [K->CR <Cj>] [<FJTJ <Pr>] [L-CLW <Co>]
  JER 07,15 1sg- WQt0  << WQt0  ?QQQ    1111   65 12..             |      |    |       |                 [W-<Cj>] [HCLKTJ <Pr>] [>TKM <Ob>] [M-<L PNJ <Co>]
  JER 07,15 1sg- xQt0 [adjunct] ?QQQ    1111   66 13..             |      |    |       |                     [K->CR <Cj>] [HCLKTJ <Pr>] [>T KL >XJKM / >T KL ZR< >PRJM <ap><Ob>]
-                               =======                            |           +================================================================/
+                               =======                            |      |    +================================================================/
  JER 07,16 ---- NmCl  << ZIm0  ?Q      11     67  4..             |     [W-<Cj>] [>TH <Su>]
  JER 07,16 2sgM xYq0  << NmCl  ?Q      11     68  7..             |          |   |  [>L <Ng>] [TTPLL <Pr>] [B<D H-<M H-ZH <Co>]
  JER 07,16 2sgM WxY0  << xYq0  ?Q      11     69  9..             |          |   |       |  [W-<Cj>] [>L <Ng>] [TF> <Pr>] [B<DM <Co>] [RNH W-TPLH <Ob>]
@@ -93,10 +93,10 @@
  JER 07,20 ---- MSyn  << Ptcp  ?Q      11     83  7m.             |          |      [LKN <Mo>]
  JER 07,20 3sgM xQtX  << MSyn  ?Q      11     84  8..             |          |          [KH <Mo>] [>MR <Pr>] [>DNJ JHWH <Su>]
                                =======                            |          |           |+====================================================\
- JER 07,20 -sgF Ptcp  <<  [Q]  ?QQ     112    85  9.q             |          |            | [HNH <Ij>] [>PJ W-XMTJ <Su>] [NTKT <PC>] [>L H-MQWM H-ZH / <L H->DM W-<L H-BHMH W-<L <Y H-FDH W-<L PRJ H->DMH <sp><Co>]
- JER 07,20 3sgF WQt0  << Ptcp  ?QQ     112    86 10..             |          |            |     [W-<Cj>] [B<RH <Pr>]
- JER 07,20 3sgF WxY0  << WQt0  ?QQ     112    87 11..             |          |            |         [W-<Cj>] [L> <Ng>] [TKBH <Pr>]
-                               =======                            |          |            +====================================================/
+ JER 07,20 -sgF Ptcp  <<  [Q]  ?QQ     112    85  9.q             |          |           || [HNH <Ij>] [>PJ W-XMTJ <Su>] [NTKT <PC>] [>L H-MQWM H-ZH / <L H->DM W-<L H-BHMH W-<L <Y H-FDH W-<L PRJ H->DMH <sp><Co>]
+ JER 07,20 3sgF WQt0  << Ptcp  ?QQ     112    86 10..             |          |           ||     [W-<Cj>] [B<RH <Pr>]
+ JER 07,20 3sgF WxY0  << WQt0  ?QQ     112    87 11..             |          |           ||         [W-<Cj>] [L> <Ng>] [TKBH <Pr>]
+                               =======                            |          |           |+====================================================/
  JER 07,21 3sgM xQtX  << xQtX  ?Q      11     88  8..             |          |          [KH <Mo>] [>MR <Pr>] [JHWH YB>WT / >LHJ JFR>L <ap><Su>]
                                =======                            |          |            +====================================================\
  JER 07,21 2plM xIm0  <<  [Q]  ?QQ     113    89  9.q             |          |            | [<LWTJKM <Ob>] [SPW <Pr>] [<L ZBXJKM <Co>]
@@ -122,7 +122,7 @@
  JER 07,24 3plM Way0  << WxQ0  ?QQN    113   106 15..             |          |            |              |   |    | [W-<Cj>] [JLKW <Pr>] [B-M<YWT / B-CRRWT LBM H-R< <sp><Co>]
  JER 07,24 3plM Way0  << Way0  ?QQN    113   107 15..             |          |            |              |   |    | [W-<Cj>] [JHJW <Pr>] [L->XWR <PC>]
  JER 07,24 ---- NmCl  << Way0  ?QQN    113   108 16..             |          |            |              |   |    |     [W-<Cj>] [L> <Ng>] [L-PNJM <PC>]
-                               -------                            |          |            |              |        +-------------------------/
+                               -------                            |          |            |              |   |    +-------------------------/
  JER 07,25 ---- Ellp  << WxQ0  ?QQ     113   109 13l.             |          |            |              |  [L-MN H-JWM <Ti>]
  JER 07,25 3pl- xQtX [attrib.] ?QQ     113   110 16.e             |          |            |              |       |   |  [>CR <Re>] [JY>W <Pr>] [>BWTJKM <Su>] [M->RY MYRJM <Co>]
  JER 07,25 ---- Defc  << Ellp  ?QQ     113   111 15d.             |          |            |              |       |  [<D H-JWM H-ZH <pa>]
@@ -130,7 +130,7 @@
  JER 07,25 1sg- Way0  << Ellp  ?QQN    113   112 14..             |          |            |              |    | [W-<Cj>] [>CLX <Pr>] [>LJKM <Co>] [>T KL <BDJ / H-NBJ>JM <ap><Ob>]
  JER 07,25 ---- InfA [adjunct] ?QQN    113   113 15..             |          |            |              |    |     [JWM <Ti>] [HCKM <Pr>]
  JER 07,25 ---- InfA [coordin] ?QQN    113   114 16..             |          |            |              |    |         [W-<Cj>] [CLX <Pr>]
-                               -------                            |          |            |                   +-----------------------------/
+                               -------                            |          |            |              |    +-----------------------------/
  JER 07,26 3pl- WxQ0  << WxQ0  ?QQ     113   115 12..             |          |            |             [W-<Cj>] [LW> <Ng>] [CM<W <Pr>] [>LJ <Co>]
  JER 07,26 3pl- WxQ0  << WxQ0  ?QQ     113   116 14..             |          |            |                  |  [W-<Cj>] [L> <Ng>] [HVW <Pr>] [>T >ZNM <Ob>]
                                -------                            |          |            |               +---------------------------------\
@@ -143,18 +143,18 @@
  JER 07,27 3plM WxY0  << WQt0  ?Q      11    122  6..             |          |  [W-<Cj>] [L> <Ng>] [J<NWKH <PO>]
  JER 07,28 2sgM WQt0  << WQt0  ?Q      11    123  5..             |         [W-<Cj>] [>MRT <Pr>] [>LJHM <Co>]
                                =======                            |              |+============================================================\
- JER 07,28 ---- NmCl  <<  [Q]  ?QQ     114   124  7.q             |               | [ZH <Su>] [H-GWJ <PC>]
- JER 07,28 3pl- xQt0 [attrib.] ?QQ     114   125 10..             |               |      |   |  [>CR <Re>] [LW> <Ng>] [CM<W <Pr>] [B-QWL JHWH / >LHJW <ap><Co>]
- JER 07,28 3pl- WxQ0 [coordin] ?QQ     114   126 11..             |               |      |   |      [W-<Cj>] [L> <Ng>] [LQXW <Pr>] [MWSR <Ob>]
- JER 07,28 3sgF ZQtX  << NmCl  ?QQ     114   127  9..             |               |      |  [>BDH <Pr>] [H->MWNH <Su>]
- JER 07,28 3sgF WQt0  << ZQtX  ?QQ     114   128 10..             |               |      |      [W-<Cj>] [NKRTH <Pr>] [M-PJHM <Co>]
- JER 07,29 2sgF ZIm0  << NmCl  ?QQ     114   129  8..             |               |     [GZJ <Pr>] [NZRK <Ob>]
- JER 07,29 2sgF WIm0  << ZIm0  ?QQ     114   130 10..             |               |          |  [W-<Cj>] [HCLJKJ <Pr>]
- JER 07,29 2sgF WIm0  << WIm0  ?QQ     114   131 10..             |               |          |  [W-<Cj>] [F>J <Pr>] [<L CPJM <Co>] [QJNH <Ob>]
- JER 07,29 3sgM xQtX  << ZIm0  ?QQ     114   132  9..             |               |         [KJ <Cj>] [M>S <Pr>] [JHWH <Su>]
+ JER 07,28 ---- NmCl  <<  [Q]  ?QQ     114   124  7.q             |              || [ZH <Su>] [H-GWJ <PC>]
+ JER 07,28 3pl- xQt0 [attrib.] ?QQ     114   125 10..             |              ||      |   |  [>CR <Re>] [LW> <Ng>] [CM<W <Pr>] [B-QWL JHWH / >LHJW <ap><Co>]
+ JER 07,28 3pl- WxQ0 [coordin] ?QQ     114   126 11..             |              ||      |   |      [W-<Cj>] [L> <Ng>] [LQXW <Pr>] [MWSR <Ob>]
+ JER 07,28 3sgF ZQtX  << NmCl  ?QQ     114   127  9..             |              ||      |  [>BDH <Pr>] [H->MWNH <Su>]
+ JER 07,28 3sgF WQt0  << ZQtX  ?QQ     114   128 10..             |              ||      |      [W-<Cj>] [NKRTH <Pr>] [M-PJHM <Co>]
+ JER 07,29 2sgF ZIm0  << NmCl  ?QQ     114   129  8..             |              ||     [GZJ <Pr>] [NZRK <Ob>]
+ JER 07,29 2sgF WIm0  << ZIm0  ?QQ     114   130 10..             |              ||          |  [W-<Cj>] [HCLJKJ <Pr>]
+ JER 07,29 2sgF WIm0  << WIm0  ?QQ     114   131 10..             |              ||          |  [W-<Cj>] [F>J <Pr>] [<L CPJM <Co>] [QJNH <Ob>]
+ JER 07,29 3sgM xQtX  << ZIm0  ?QQ     114   132  9..             |              ||         [KJ <Cj>] [M>S <Pr>] [JHWH <Su>]
                                -------                            |              ||           +---------------------------------------------\
- JER 07,29 3sgM Way0  << xQtX  ?QQN    114   133 10..             |               |           | [W-<Cj>] [JVC <Pr>] [>T DWR <BRTW <Ob>]
-                               =======                            |               +============================================================/
+ JER 07,29 3sgM Way0  << xQtX  ?QQN    114   133 10..             |              ||           | [W-<Cj>] [JVC <Pr>] [>T DWR <BRTW <Ob>]
+                               =======                            |              |+============================================================/
  JER 07,30 3pl- xQtX  << WQt0  ?Q      11    134  6..             |             [KJ <Cj>] [<FW <Pr>] [BNJ JHWDH <Su>]
  JER 07,30 -sgM AjCl [object ] ?Q      11    135 10..             |                  |   |   |  [H-<Re>] [R< <PC>] [B-<JNJ <Co>]
  JER 07,30 ---- MSyn  << xQtX  ?Q      11    136  9m.             |                  |   |  [N>WM JHWH <PC>]

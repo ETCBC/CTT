@@ -1,5 +1,5 @@
  PS103,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [L-DWD <PC>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PS103,001 2sgF ZIm0  << NmCl  Q       2       2  0.N   [BRKJ <Pr>]
  PS103,001 ---- Voct  << ZIm0  Q       2       3  3ve    |   |   |  [NPCJ <Vo>]
  PS103,001 ---- Defc  << ZIm0  Q       2       4  2d.    |   |  [>T JHWH <Ob>]
@@ -21,7 +21,7 @@
  PS103,007 3sgM ZYq0 [attrib.] Q       2      20  5..    |   |       |   |  [JWDJ< <Pr>] [DRKJW <Ob>] [L-MCH <Co>]
  PS103,007 ---- Ellp  << ZYq0  Q       2      21  6l.    |   |       |   |      [L-BNJ JFR>L <Co>] [<LJLWTJW <Ob>]
  PS103,008 -sgM AjCl  << Ptcp  Q       2      22  4..    |   |       |  [RXWM W-XNWN <PC>] [JHWH <Su>]
- PS103,008 -sgM AjCl [coordin] Q       2      23  7..    |   |       |       |   |  [>RK >PJM W-RB XSD <PC>]
+ PS103,008 ---- AjCl [coordin] Q       2      23  7..    |   |       |       |   |  [>RK >PJM W-RB XSD <PC>]
  PS103,009 3sgM xYq0  << AjCl  Q       2      24  6..    |   |       |       |  [L> <Ng>] [L-NYX <Ti>] [JRJB <Pr>]
  PS103,009 3sgM WxY0  << xYq0  Q       2      25  8..    |   |       |       |       |  [W-<Cj>] [L> <Ng>] [L-<WLM <Ti>] [JVWR <Pr>]
  PS103,010 3sgM xQt0  << xYq0  Q       2      26  7..    |   |       |       |      [L> <Ng>] [K-XV>JNW <Aj>] [<FH <Pr>] [LNW <Co>]

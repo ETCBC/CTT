@@ -33,9 +33,9 @@ IICHR08,11 3sgM WxQX  << ZQtX  N       1      32  4..        |          [W-<Cj>]
 IICHR08,11 3sgM xQt0 [attrib.] N       1      33  6..        |               |  [>CR <Re>] [BNH <Pr>] [LH <Aj>]
 IICHR08,11 3sgM xQt0  << WxQX  N       1      34  5..        |              [KJ <Cj>] [>MR <Pr>]
                                =======                       |                +===================================================================\
-IICHR08,11 3sgF xYqX  <<  [Q]  NQ      12     35  6.q        |               || [L> <Ng>] [TCB <Pr>] [>CH <Su>] [LJ <Aj>] [B-BJT DWJD / MLK JFR>L <ap><Co>]
-IICHR08,11 ---- NmCl  << xYqX  NQ      12     36  7..        |               ||     [KJ <Cj>] [QDC <PC>] [HMH <Su>]
-IICHR08,11 -sgF Ptcp [attrib.] NQ      12     37  8..        |               ||         [>CR <Re>] [B>H <PC>] [>LJHM <Co>] [>RWN JHWH <Su>]
+IICHR08,11 3sgF xYqX  <<  [Q]  NQ      12     35  6.q        |                | [L> <Ng>] [TCB <Pr>] [>CH <Su>] [LJ <Aj>] [B-BJT DWJD / MLK JFR>L <ap><Co>]
+IICHR08,11 ---- NmCl  << xYqX  NQ      12     36  7..        |                |     [KJ <Cj>] [QDC <PC>] [HMH <Su>]
+IICHR08,11 -sgF Ptcp [attrib.] NQ      12     37  8..        |                |         [>CR <Re>] [B>H <PC>] [>LJHM <Co>] [>RWN JHWH <Su>]
                                =======                       |                +===================================================================/
 IICHR08,12 3sgM xQtX  << Way0  N       1      38  1..       [>Z <Mo>] [H<LH <Pr>] [CLMH <Su>] [<LWT <Ob>] [L-JHWH <Aj>] [<L MZBX JHWH <Co>]
 IICHR08,12 3sgM xQt0 [attrib.] N       1      39  5..        |   |   |   |  [>CR <Re>] [BNH <Pr>] [L-PNJ H->WLM <Lo>]

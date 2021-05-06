@@ -21,7 +21,7 @@
  PRO 21,09 ---- InfC [subject] ?       2      21  7.e    |   |   |   |           |  [L-CBT <Pr>] [<L PNT GG <Lo>]
  PRO 21,09 ---- Defc  << AjCl  ?       2      22  6d.    |   |   |   |          [M->CT MDJNJM W-BJT XBR <Aj>]
  PRO 21,10 3sgF XQtl  << XYqt  ?       2      23  3..    |   |   |  [NPC RC< <Su>] [>WTH <Pr>] [R< <Ob>]
- PRO 21,10 3sgM xYqX  << XQtl  ?       2      24  4..    |   |   |   |  [L> <Ng>] [JXN <Pr>] [B-<JNJW <Co>] [R<HW <Su>]
+ PRO 21,10 3sgM xYqX  << XQtl  ?       2      24  4..    |   |   |      [L> <Ng>] [JXN <Pr>] [B-<JNJW <Co>] [R<HW <Su>]
  PRO 21,11 ---- InfC [adjunct] ?       2      25  3.\    |   |   |  [B-<NC <Pr>] [LY <Ob>]
  PRO 21,11 3sgM ZYqX  << XYqt  ?       2      26  2..    |   |  [JXKM <Pr>] [PTJ <Su>]
  PRO 21,11 ---- Defc  << ZYqX  ?       2      27  3d.    |   |      [W-<Cj>]
@@ -51,9 +51,9 @@
  PRO 21,20 3sgM WXYq  << NmCl  ?       4      51  5..    |                  [W-<Cj>] [KSJL >DM <Su>] [JBL<NW <PO>]
  PRO 21,21 3sgM XYqt  << XYqt  ?       5      52  0.#   [RDP YDQH W-XSD <Su>] [JMY> <Pr>] [XJJM YDQH W-KBWD <Ob>]
  PRO 21,22 3sgM xQtX  << XYqt  ?       5      53  2..    |   |  [<JR GBRJM <Ob>] [<LH <Pr>] [XKM <Su>]
-                               =======                 ==============================================================================================/
- PRO 21,22 3sgM Way0  << xQtX  N       5      54  3..    |   |      [W-<Cj>] [JRD <Pr>] [<Z MBVXH <Ob>]
-                               =======                 ==============================================================================================/
+                               -------                   |   |    +----------------------------------------------------------------------------------\
+ PRO 21,22 3sgM Way0  << xQtX  N       5      54  3..    |   |    | [W-<Cj>] [JRD <Pr>] [<Z MBVXH <Ob>]
+                               -------                   |   |    +----------------------------------------------------------------------------------/
  PRO 21,23 -sgM Ptcp  << XYqt  ?       5      55  1..    |  [CMR PJW W-LCWNW <Su>] [CMR <PC>] [M-YRWT <Co>] [NPCW <Ob>]
  PRO 21,24 ---- CPen  << Ptcp  ?       5      56  2c.    |      [ZD JHJR <Fr>]
  PRO 21,24 ---- NmCl [resumpt] ?       5      57  3..    |          [LY <PC>] [CMW <Su>]
@@ -72,7 +72,7 @@
  PRO 21,29 3sgM ZQtX  <<  [Q]  ?Q      71     69  2.q        || [H<Z <Pr>] [>JC RC< <Su>] [B-PNJW <Co>]
  PRO 21,29 ---- CPen  << ZQtX  ?Q      71     70  3c.        ||     [W-<Cj>] [JCR <Fr>]
  PRO 21,29 3sgM XYqt [resumpt] ?Q      71     71  4..        ||         [HW> <Su>] [JKJN <Pr>] [DRKJW <Ob>]
-                               =======                        +===================================================================================/
+                               =======                       |+===================================================================================/
  PRO 21,30 ---- NmCl  << XYqt  ?       7      72  1..       [>JN <NC>] [XKMH <Su>]
  PRO 21,30 ---- NmCl  << NmCl  ?       7      73  3..            |  [W-<Cj>] [>JN <NC>] [TBWNH <Su>]
  PRO 21,30 ---- NmCl  << NmCl  ?       7      74  4..            |      [W-<Cj>] [>JN <NC>] [<YH <Su>] [L-NGD JHWH <PC>]

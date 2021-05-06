@@ -26,7 +26,7 @@
  PRO 24,12 2sgM xYq0  << ZIm0  Q       1      26  5..    |   |   |       |  [KJ <Cj>] [T>MR <Pr>]
                                =======                   |   |   |       |       |+===============================================================\
  PRO 24,12 1pl- xQt0  <<  [Q]  QQ      11     27  7.q    |   |   |       |       || [HN <Ij>] [L> <Ng>] [JD<NW <Pr>] [ZH <Ob>]
-                               =======                   |   |   |       |        +===============================================================/
+                               =======                   |   |   |       |       |+===============================================================/
  PRO 24,12 ---- CPen  << xYq0  Q       1      28  6c.    |   |   |       |      [H-<Qu>] [L> <Ng>] [TKN LBWT <Fr>]
  PRO 24,12 3sgM XYqt [resumpt] Q       1      29  8..    |   |   |       |           |  [HW> <Su>] [JBJN <Pr>]
  PRO 24,12 ---- CPen  << CPen  Q       1      30  7c.    |   |   |       |          [W-<Cj>] [NYR NPCK <Fr>]
@@ -46,8 +46,8 @@
  PRO 24,15 ---- Defc  << xYq0  Q       12     44  3d.    |   |   |  [L-NWH YDJQ <Co>]
  PRO 24,15 2sgM xYq0  << xYq0  Q       12     45  2..    |   |  [>L <Ng>] [TCDD <Pr>] [RBYW <Ob>]
  PRO 24,16 3sgM xYqX  << xYq0  Q       12     46  3..    |   |   |  [KJ <Cj>] [CB< <Mo>] [JPWL <Pr>] [YDJQ <Su>]
- PRO 24,16 3sgM WQt0  << xYqX  Q       12     47  5..    |   |   |   |   |  [W-<Cj>] [QM <Pr>]
- PRO 24,16 3plM WXYq  << xYqX  Q       12     48  4..    |   |   |   |  [W-<Cj>] [RC<JM <Su>] [JKCLW <Pr>] [B-R<H <Co>]
+ PRO 24,16 3sgM WQt0  << xYqX  Q       12     47  5..    |   |   |       |  [W-<Cj>] [QM <Pr>]
+ PRO 24,16 3plM WXYq  << xYqX  Q       12     48  4..    |   |   |      [W-<Cj>] [RC<JM <Su>] [JKCLW <Pr>] [B-R<H <Co>]
  PRO 24,17 ---- InfC [adjunct] Q       12     49  3.\    |   |   |  [B-NPL <Pr>] [>WJBJK <Su>]
  PRO 24,17 2sgM xYq0  << xYq0  Q       12     50  2..    |   |  [>L <Ng>] [TFMX <Pr>]
  PRO 24,17 ---- Defc  << xYq0  Q       12     51  3d.    |   |      [W-<Cj>]
@@ -91,7 +91,7 @@
  PRO 24,29 3sgM CPen  <<  [Q]  QQ      22     86  4cq            |    | [K->CR <Cj>] [<FH <Pr>] [LJ <Co>]
  PRO 24,29 1sg- xYq0 [resumpt] QQ      22     87  5..            |    |     [KN <Mo>] [><FH <Pr>] [LW <Co>]
  PRO 24,29 1sg- ZYq0  << xYq0  QQ      22     88  6..            |    |         [>CJB <Pr>] [L-->JC <Co>] [K-P<LW <Aj>]
-                               =======                                +===========================================================================/
+                               =======                           |    +===========================================================================/
  PRO 24,30 1sg- xQt0  << ZIm0  Q       23     89  2.#           [<L FDH >JC <YL <Co>] [<BRTJ <Pr>]
  PRO 24,30 ---- Ellp  << xQt0  Q       23     90  5l.                |   |  [W-<Cj>] [<L KRM >DM XSR LB <Co>]
  PRO 24,31 ---- NmCl  << xQt0  Q       23     91  4..                |  [W-<Cj>] [HNH <Ij>]
@@ -105,8 +105,8 @@
  PRO 24,32 1sg- ZQt0  << ZYq0  QND     232    97  5..             |   |     [R>JTJ <Pr>]
  PRO 24,32 1sg- ZQt0  << ZQt0  QND     232    98  5..             |   |     [LQXTJ <Pr>] [MWSR <Ob>]
                                =======                            |   |          |+=========================================================\
- PRO 24,33 ---- NmCl  <<  [Q]  QNDQ    2321   99  7.q             |   |           | [M<V CNWT M<V TNWMWT / M<V XBQ JDJM <pa><Ob>]
- PRO 24,33 ---- InfC [specif.] QNDQ    2321  100  8..             |   |           |     [L-CKB <Pr>]
-                               =======                            |   |           +=========================================================/
+ PRO 24,33 ---- NmCl  <<  [Q]  QNDQ    2321   99  7.q             |   |          || [M<V CNWT M<V TNWMWT / M<V XBQ JDJM <pa><Ob>]
+ PRO 24,33 ---- InfC [specif.] QNDQ    2321  100  8..             |   |          ||     [L-CKB <Pr>]
+                               =======                            |   |          |+=========================================================/
  PRO 24,34 3sgM WQtX  << ZQt0  QND     232   101  6..             |   |         [W-<Cj>] [B> <Pr>] [MTHLK <Pj>] [RJCK <Su>]
  PRO 24,34 ---- Ellp  << WQtX  QND     232   102  7l.             |   |             [W-<Cj>] [MXSRJK <Su>] [K->JC MGN <Aj>]

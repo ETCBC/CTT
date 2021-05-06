@@ -6,7 +6,7 @@
  JOZ 21,02 ---- InfC [complm.] NQ      11      5  4..    |        |     [L-TT <Pr>] [LNW <Co>] [<RJM <Ob>]
  JOZ 21,02 ---- InfC [specif.] NQ      11      6  6.e    |        |          |  [L-CBT <Pr>]
  JOZ 21,02 ---- Defc  << InfC  NQ      11      7  5d.    |        |         [W-/ MGRCJHN / L-BHMTNW <sp><pa><cj>]
-                               =======                            +===============================================================================/
+                               =======                   |        +===============================================================================/
  JOZ 21,03 3plM WayX  << WayX  N       2       8  0.#   [W-<Cj>] [JTNW <Pr>] [BNJ JFR>L <Su>] [L--LWJM <Co>] [M-NXLTM <Co>] [>L PJ JHWH <Aj>] [>T H-<RJM H->LH W->T MGRCJHN <Ob>]
  JOZ 21,04 3sgM WayX  << WayX  N       21      9  1.#    |  [W-<Cj>] [JY> <Pr>] [H-GWRL <Su>] [L-MCPXT H-QHTJ <Co>]
  JOZ 21,04 3sgM WayX  << WayX  N       21     10  2..    |      [W-<Cj>] [JHJ <Pr>] [L-BNJ >HRN / H-KHN / MN H-LWJM <sp><ap><PC>] [M-MVH JHWDH W-M-MVH H-CM<NJ W-M-MVH BNJMN <Co>] [B--GWRL <Aj>] [<RJM CLC <FRH <Su>]
@@ -19,7 +19,7 @@
  JOZ 21,09 3plM Way0  << WayX  N       3      17  2..    |   |  [W-<Cj>] [JTNW <Pr>] [M-MVH BNJ JHWDH W-M-MVH BNJ CM<WN <Co>] [>T H-<RJM H->LH <Ob>]
                                -------                   |   |       |   |+-----------------------------------------------------------------------\
  JOZ 21,09 3sgM xYq0 [attrib.] ND      3      18  5..    |   |       |   || [>CR <Re>] [JQR> <Pr>] [>THN <Ob>] [B-CM <Co>]
-                               -------                   |   |       |    +-----------------------------------------------------------------------/
+                               -------                   |   |       |   |+-----------------------------------------------------------------------/
  JOZ 21,10 3sgM Way0  << Way0  N       3      19  4..    |   |       |  [W-<Cj>] [JHJ <Pr>] [L-BNJ >HRN / M-MCPXWT H-QHTJ / M-BNJ LWJ <sp><sp><PC>]
  JOZ 21,10 3sgM xQtX  << Way0  N       3      20  8..    |   |       |       |   |   |  [KJ <Cj>] [LHM <PC>] [HJH <Pr>] [H-GWRL <Su>] [RJ>CNH <Mo>]
  JOZ 21,11 3plM Way0  << Way0  N       3      21  7..    |   |       |       |   |  [W-<Cj>] [JTNW <Pr>] [LHM <Co>] [>T QRJT_>RB< / >BJ H-<NWQ <ap><Ob>]
@@ -100,7 +100,7 @@
  JOZ 21,42 3plF ZYqX  << NmCl  ND      3      95  2..    |    | [THJJNH <Pr>] [H-<RJM H->LH <Su>] [<JR / <JR <sp><PC>]
  JOZ 21,42 ---- NmCl  << ZYqX  ND      3      96  4..    |    |      |  [W-<Cj>] [MGRCJH / SBJBTJH <sp><PC>]
  JOZ 21,42 ---- NmCl  << ZYqX  ND      3      97  3..    |    |     [KN <PC>] [L-KL H-<RJM H->LH <Aj>]
-                               -------                        +-----------------------------------------------------------------------------------/
+                               -------                   |    +-----------------------------------------------------------------------------------/
  JOZ 21,43 3sgM WayX  << WayX  N       4      98  0.#   [W-<Cj>] [JTN <Pr>] [JHWH <Su>] [L-JFR>L <Co>] [>T KL H->RY <Ob>]
  JOZ 21,43 3sgM xQt0 [attrib.] N       4      99  2..    |   |  [>CR <Re>] [NCB< <Pr>]
  JOZ 21,43 ---- InfC [adjunct] N       4     100  3..    |   |      [L-TT <Pr>] [L->BWTM <Co>]

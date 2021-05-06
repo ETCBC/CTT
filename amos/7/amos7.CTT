@@ -1,113 +1,116 @@
-AMOS 07,01 3sgM xQtX  <<  [R]  Q       1       1  1..       [KH <Mo>] [HR>NJ <PO>] [>DNJ JHWH <Su>]
-AMOS 07,01 -sgM Ptcp  << xQtX  Q       1       2  4..    |       |   |  [W-<Cj>] [HNH <Ij>] [JWYR <PC>] [GBJ <Ob>] [B-TXLT <Ti>]
-AMOS 07,01 ---- InfC [reg/rec] Q       1       3  6..    |       |   |       |  [<LWT <Pr>] [H-LQC <Su>]
-AMOS 07,01 ---- NmCl  << Ptcp  Q       1       4  5..    |       |   |      [W-<Cj>] [HNH <Ij>] [LQC <PC>] [>XR GZJ H-MLK <Ti>]
-AMOS 07,02 3sgM WQt0  << xQtX  Q       1       5  3..    |       |  [W-<Cj>] [HJH <Pr>]
-AMOS 07,02 3sgM xQt0  << WQt0  Q       1       6  4..    |       |      [>M <Cj>] [KLH <Pr>]
-AMOS 07,02 ---- InfC [adjunct] Q       1       7  7..    |       |           |   |  [L->KWL <Pr>] [>T <FB H->RY <Ob>]
-                               -------                   |       |           |+-------------------------------------------------------------------\
-AMOS 07,02 1sg- Way0  << xQt0  QN      1       8  6..    |       |            | [W-<Cj>] [>MR <Pr>]
-                               =======                   |       |           ||   +============================================================\
-AMOS 07,02 ---- Voct  <<  [Q]  QNQ     11      9  7vq    |       |            |  || [>DNJ JHWH <Vo>]
-AMOS 07,02 2sgM ZIm0 [ref.Voc] QNQ     11     10  8..    |       |            |  ||     [SLX <Pr>] [N> <Ij>]
-AMOS 07,02 3sgM xYqX  << ZIm0  QNQ     11     11  9..    |       |            |  ||         [MJ <Qu>] [JQWM <Pr>] [J<QB <Su>]
-AMOS 07,02 -sgM AjCl  << xYqX  QNQ     11     12 10..    |       |            |  ||             [KJ <Cj>] [QVN <PC>] [HW> <Su>]
-                               -------                   |       |            +-------------------------------------------------------------------/
-AMOS 07,03 3sgM ZQtX  << xQt0  Q       1      13  5..    |       |          [NXM <Pr>] [JHWH <Su>] [<L Z>T <Co>]
-                               =======                   |       |            +===================================================================\
-AMOS 07,03 3sgF xYq0  <<  [Q]  QQ      12     14  6.q    |       |            | [L> <Ng>] [THJH <Pr>]
-                               =======                   |       |            +===================================================================/
-AMOS 07,03 3sgM ZQtX  << xYq0  Q       121    15  7.#    |       |                  [>MR <Pr>] [JHWH <Su>]
-AMOS 07,04 3sgM xQtX  << xQtX  Q       13     16  2.#    |      [KH <Mo>] [HR>NJ <PO>] [>DNJ JHWH <Su>]
-AMOS 07,04 -sgM Ptcp  << xQtX  Q       13     17  3..    |       |  [W-<Cj>] [HNH <Ij>] [QR> <PC>]
-AMOS 07,04 ---- InfC [adjunct] Q       13     18  8.e    |       |       |   |   |   |  [L-RB <Pr>] [B-->C <Co>]
-AMOS 07,04 ---- Defc  << Ptcp  Q       13     19  7d.    |       |       |   |   |  [>DNJ JHWH <Su>]
-                               -------                   |       |       |   |+-------------------------------------------------------------------\
-AMOS 07,04 3sgF Way0  << Ptcp  QN      13     20  6..    |       |       |    | [W-<Cj>] [T>KL <Pr>] [>T THWM RBH <Ob>]
-AMOS 07,04 3sgF WQt0  << Way0  QN      13     21  7..    |       |       |    |     [W-<Cj>] [>KLH <Pr>] [>T H-XLQ <Ob>]
-AMOS 07,05 1sg- Way0  << Ptcp  QN      13     22  5..    |       |       |  [W-<Cj>] [>MR <Pr>]
-                               =======                   |       |       |    +================================================================\
-AMOS 07,05 ---- Voct  <<  [Q]  QNQ     131    23  6vq    |       |       |    | [>DNJ JHWH <Vo>]
-AMOS 07,05 2sgM ZIm0 [ref.Voc] QNQ     131    24  7..    |       |       |    |     [XDL <Pr>] [N> <Ij>]
-AMOS 07,05 3sgM xYqX  << ZIm0  QNQ     131    25  8..    |       |       |    |         [MJ <Qu>] [JQWM <Pr>] [J<QB <Su>]
-AMOS 07,05 -sgM AjCl  << xYqX  QNQ     131    26  9..    |       |       |    |             [KJ <Cj>] [QVN <PC>] [HW> <Su>]
-                               -------                   |       |            +-------------------------------------------------------------------/
-AMOS 07,06 3sgM ZQtX  << Ptcp  Q       13     27  4..    |       |      [NXM <Pr>] [JHWH <Su>] [<L Z>T <Co>]
-                               =======                   |       |        +=======================================================================\
-AMOS 07,06 3sgF XYqt  <<  [Q]  QQ      132    28  5.q    |       |        | [GM HJ> <Su>] [L> <Ng>] [THJH <Pr>]
-                               =======                   |       |        +=======================================================================/
-AMOS 07,06 3sgM ZQtX  << XYqt  Q       1321   29  6.#    |       |              [>MR <Pr>] [>DNJ JHWH <Su>]
-AMOS 07,07 3sgM xQt0  << xQtX  Q       14     30  2.#    |      [KH <Mo>] [HR>NJ <PO>]
-AMOS 07,07 -sgM Ptcp  << xQt0  Q       14     31  4..    |           |  [W-<Cj>] [HNH <Ij>] [>DNJ <Su>] [NYB <PC>] [<L XWMT >NK <Co>]
-AMOS 07,07 ---- NmCl  << Ptcp  Q       14     32  5..    |           |      [W-<Cj>] [B-JDW <PC>] [>NK <Su>]
-                               -------                   |        +-------------------------------------------------------------------------------\
-AMOS 07,08 3sgM WayX  << xQt0  QN      141    33  3.#    |        | [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>LJ <Co>]
-                               =======                   |        |      |   |+================================================================\
-AMOS 07,08 -sgM Ptcp  <<  [Q]  QNQ     1411   34  6.q    |        |      |    | [MH <Ob>] [>TH <Su>] [R>H <PC>]
-AMOS 07,08 ---- Voct  << Ptcp  QNQ     1411   35  7v.    |        |      |    |     [<MWS <Vo>]
-                               =======                   |        |      |    +================================================================/
-AMOS 07,08 1sg- Way0  << WayX  QN      141    36  5..    |        |      |  [W-<Cj>] [>MR <Pr>]
-                               =======                   |        |      |    +================================================================\
-AMOS 07,08 ---- NmCl  <<  [Q]  QNQ     1412   37  6.q    |        |      |    | [>NK <Ob>]
-                               =======                   |        |           +================================================================/
-AMOS 07,08 3sgM WayX  << WayX  QN      1413   38  4.#    |        |     [W-<Cj>] [J>MR <Pr>] [>DNJ <Su>]
-                               =======                   |        |       +====================================================================\
-AMOS 07,08 -sgM Ptcp  <<  [Q]  QNQ     14131  39  5.q    |        |       | [HNNJ <Is>] [FM <PC>] [>NK <Ob>] [B-QRB <MJ / JFR>L <ap><Co>]
-AMOS 07,08 1sg- xYq0  << Ptcp  QNQ     14131  40  7..    |        |       |      |  [L> <Ng>] [>WSJP <Pr>] [<WD <Mo>]
-AMOS 07,08 ---- InfC [object ] QNQ     14131  41  8..    |        |       |      |      [<BWR <Pr>] [LW <Co>]
-AMOS 07,09 3pl- WQtX  << Ptcp  QNQ     14131  42  6..    |        |       |     [W-<Cj>] [NCMW <Pr>] [BMWT JFXQ <Su>]
-AMOS 07,09 3plM WXYq  << WQtX  QNQ     14131  43  7..    |        |       |         [W-<Cj>] [MQDCJ JFR>L <Su>] [JXRBW <Pr>]
-AMOS 07,09 1sg- WQt0  << WXYq  QNQ     14131  44  8..    |        |       |             [W-<Cj>] [QMTJ <Pr>] [<L BJT JRB<M <Co>] [B--XRB <Aj>]
-                               =======                 ==============================================================================================/
-AMOS 07,10 3sgM WayX  <<  [R]  N       2      45  0.N   [W-<Cj>] [JCLX <Pr>] [>MYJH / KHN BJT_>L <ap><Su>] [>L JRB<M / MLK JFR>L <ap><Co>]
-AMOS 07,10 ---- InfC [adjunct] N       2      46  1..    |  [L->MR <Pr>]
-                               =======                   |    +===================================================================================\
-AMOS 07,10 3sgM ZQtX  <<  [Q]  NQ      21     47  2.q    |    | [QCR <Pr>] [<LJK <Co>] [<MWS <Su>] [B-QRB BJT JFR>L <Aj>]
-AMOS 07,10 3sgF xYqX  << ZQtX  NQ      21     48  3..    |    |     [L> <Ng>] [TWKL <Pr>] [H->RY <Su>]
-AMOS 07,10 ---- InfC [complm.] NQ      21     49  5..    |    |           | [L-HKJL <Pr>] [>T KL DBRJW <Ob>]
-AMOS 07,11 3sgM xQtX  << xYqX  NQ      21     50  4..    |    |         [KJ <Cj>] [KH <Mo>] [>MR <Pr>] [<MWS <Su>]
-                               =======                   |    |           +====================================================================\
-AMOS 07,11 3sgM xYqX  <<  [Q]  NQQ     211    51  5.q    |    |           | [B--XRB <Aj>] [JMWT <Pr>] [JRB<M <Su>]
-AMOS 07,11 3sgM WXYq  << xYqX  NQQ     211    52  6..    |    |           |     [W-<Cj>] [JFR>L <Su>] [GLH <Mo>] [JGLH <Pr>] [M-<L >DMTW <Co>]
-                               =======                        +===================================================================================/
-AMOS 07,12 3sgM WayX  << WayX  N       3      53  0.#   [W-<Cj>] [J>MR <Pr>] [>MYJH <Su>] [>L <MWS <Co>]
-                               =======                       |+===================================================================================\
-AMOS 07,12 ---- Voct  <<  [Q]  NQ      31     54  2vq        || [XZH <Vo>]
-AMOS 07,12 2sgM ZIm0 [ref.Voc] NQ      31     55  3..        ||     [LK <Pr>]
-AMOS 07,12 2sgM ZIm0  << ZIm0  NQ      31     56  4..        ||         [BRX <Pr>] [LK <sc>] [>L >RY JHWDH <Co>]
-AMOS 07,12 2sgM WIm0  << ZIm0  NQ      31     57  5..        ||             [W-<Cj>] [>KL <Pr>] [CM <Lo>] [LXM <Ob>]
-AMOS 07,12 2sgM WxY0  << WIm0  NQ      31     58  6..        ||                 [W-<Cj>] [CM <Lo>] [TNB> <Pr>]
-AMOS 07,13 2sgM WxY0  << WxY0  NQ      31     59  7..        ||                     [W-<Cj>] [BJT_>L <Lo>] [L> <Ng>] [TWSJP <Pr>] [<WD <Mo>]
-AMOS 07,13 ---- InfC [adjunct] NQ      31     60  9..        ||                          |  [L-HNB> <Pr>]
-AMOS 07,13 ---- NmCl  << WxY0  NQ      31     61  8..        ||                         [KJ <Cj>] [MQDC MLK <PC>] [HW> <Su>]
-AMOS 07,13 ---- NmCl  << NmCl  NQ      31     62  9..        ||                             [W-<Cj>] [BJT MMLKH <PC>] [HW> <Su>]
-                               =======                        +===================================================================================/
-AMOS 07,14 3sgM WayX  << WayX  N       32     63  1.#       [W-<Cj>] [J<N <Pr>] [<MWS <Su>]
-AMOS 07,14 3sgM Way0  << WayX  N       32     64  2..           [W-<Cj>] [J>MR <Pr>] [>L >MYJH <Co>]
-                               =======                            +===============================================================================\
-AMOS 07,14 ---- NmCl  <<  [Q]  NQ      321    65  3.q             | [L> <Ng>] [NBJ> <PC>] [>NKJ <Su>]
-AMOS 07,14 ---- NmCl  << NmCl  NQ      321    66  7..             |      |   |   |  [W-<Cj>] [L> <Ng>] [BN NBJ> <PC>] [>NKJ <Su>]
-AMOS 07,14 ---- NmCl  << NmCl  NQ      321    67  6..             |      |   |  [KJ <Cj>] [BWQR <PC>] [>NKJ / W-/ BWLS CQMJM <pa><cj><Su>]
-                               -------                            |      |+--------------------------------------------------------------------\
-AMOS 07,15 3sgM WayX  << NmCl  NQN     3211   68  5.#             |       | [W-<Cj>] [JQXNJ <PO>] [JHWH <Su>] [M->XRJ H-Y>N <Co>]
-AMOS 07,15 3sgM WayX  << WayX  NQN     32111  69  6.#             |       |     [W-<Cj>] [J>MR <Pr>] [>LJ <Co>] [JHWH <Su>]
-                               =======                            |      ||       +=========================================================\
-AMOS 07,15 2sgM ZIm0  <<  [Q]  NQNQ    321111 70  7.q             |       |       | [LK <Pr>]
-AMOS 07,15 2sgM ZIm0  << ZIm0  NQNQ    321111 71  8..             |       |       |     [HNB> <Pr>] [>L <MJ / JFR>L <ap><Co>]
-                               -------                            |       +--------------------------------------------------------------------/
-AMOS 07,16 ---- MSyn  << NmCl  NQ      321    72  4m.             |     [W-<Cj>] [<TH <Ti>]
-AMOS 07,16 2sgM ZIm0  << MSyn  NQ      321    73  5..             |         [CM< <Pr>] [DBR JHWH <Ob>]
-                               =======                            |           +================================================================\
-AMOS 07,16 -sgM Ptcp  <<  [Q]  NQQ     3212   74  6.q             |           | [>TH <Su>] [>MR <PC>]
-                               =======                            |           |      |+=====================================================\
-AMOS 07,16 2sgM xYq0  <<  [Q]  NQQQ    32121  75  8.q             |           |       | [L> <Ng>] [TNB> <Pr>] [<L JFR>L <Co>]
-AMOS 07,16 2sgM WxY0  << xYq0  NQQQ    32121  76  9..             |           |       |     [W-<Cj>] [L> <Ng>] [TVJP <Pr>] [<L BJT JFXQ <Co>]
-                               =======                            |           |       +=====================================================/
-AMOS 07,17 ---- MSyn  << Ptcp  NQQ     3212   77  7m.             |           |     [LKN <Mo>]
-AMOS 07,17 3sgM xQtX  << MSyn  NQQ     3212   78  8..             |           |         [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
-                               =======                            |           |           +=================================================\
-AMOS 07,17 3sgF XYqt  <<  [Q]  NQQQ    32122  79  9.q             |           |           | [>CTK <Su>] [B--<JR <Lo>] [TZNH <Pr>]
-AMOS 07,17 3plM WXYq  << XYqt  NQQQ    32122  80 10..             |           |           |     [W-<Cj>] [BNJK W-BNTJK <Su>] [B--XRB <Aj>] [JPLW <Pr>]
-AMOS 07,17 3sgF WXYq  << WXYq  NQQQ    32122  81 11..             |           |           |         [W-<Cj>] [>DMTK <Su>] [B--XBL <Co>] [TXLQ <Pr>]
-AMOS 07,17 2sgM WXYq  << WXYq  NQQQ    32122  82 12..             |           |           |             [W-<Cj>] [>TH <Su>] [<L >DMH VM>H <Lo>] [TMWT <Pr>]
-AMOS 07,17 3sgM WXYq  << WXYq  NQQQ    32122  83 13..             |           |           |                 [W-<Cj>] [JFR>L <Su>] [GLH <Mo>] [JGLH <Pr>] [M-<L >DMTW <Co>]
+AMOS 07,01 3sgM xQtX  <<  [R]  Q       1        1  1..     | [KH <Mo>] [HR>NJ <PO>] [>DNJ JHWH <Su>]
+AMOS 07,01 -sgM Ptcp  << xQtX  Q       1        2  4..     |      |   |  [W-<Cj>] [HNH <Ij>] [JWYR <PC>] [GBJ <Ob>] [B-TXLT <Ti>]
+AMOS 07,01 ---- InfC [reg/rec] Q       1        3  6..     |      |   |       |  [<LWT <Pr>] [H-LQC <Su>]
+AMOS 07,01 ---- NmCl  << Ptcp  Q       1        4  5..     |      |   |      [W-<Cj>] [HNH <Ij>] [LQC <PC>] [>XR GZJ H-MLK <Ti>]
+AMOS 07,02 3sgM WQt0  << xQtX  Q       1        5  3..     |      |  [W-<Cj>] [HJH <Pr>]
+AMOS 07,02 3sgM xQt0  << WQt0  Q       1        6  4..     |      |      [>M <Cj>] [KLH <Pr>]
+AMOS 07,02 ---- InfC [adjunct] Q       1        7  7..     |      |           |   |  [L->KWL <Pr>] [>T <FB H->RY <Ob>]
+                               -------                     |      |           |+-------------------------------------------------------------------\
+AMOS 07,02 1sg- Way0  << xQt0  QN      1        8  6..     |      |           || [W-<Cj>] [>MR <Pr>]
+                               =======                     |      |           ||   +============================================================\
+AMOS 07,02 ---- Voct  <<  [Q]  QNQ     11       9  7vq     |      |           ||   | [>DNJ JHWH <Vo>]
+AMOS 07,02 2sgM ZIm0 [ref.Voc] QNQ     11      10  8..     |      |           ||   |     [SLX <Pr>] [N> <Ij>]
+AMOS 07,02 3sgM xYqX  << ZIm0  QNQ     11      11  9..     |      |           ||   |         [MJ <Qu>] [JQWM <Pr>] [J<QB <Su>]
+AMOS 07,02 -sgM AjCl  << xYqX  QNQ     11      12 10..     |      |           ||   |             [KJ <Cj>] [QVN <PC>] [HW> <Su>]
+                               -------                     |      |           |+-------------------------------------------------------------------/
+AMOS 07,03 3sgM ZQtX  << xQt0  Q       1       13  5..     |      |          [NXM <Pr>] [JHWH <Su>] [<L Z>T <Co>]
+                               =======                     |      |            +===================================================================\
+AMOS 07,03 3sgF xYq0  <<  [Q]  QQ      12      14  6.q     |      |            | [L> <Ng>] [THJH <Pr>]
+                               =======                     |      |            |   +==================================================================\
+AMOS 07,03 3sgM ZQtX  << xYq0  Q       121     15  7.#     |      |            |   | [>MR <Pr>] [JHWH <Su>]
+                               =======                     |      |            +===================================================================/
+AMOS 07,04 3sgM xQtX  << xQtX  Q       13      16  2.#     |     [KH <Mo>] [HR>NJ <PO>] [>DNJ JHWH <Su>]
+AMOS 07,04 -sgM Ptcp  << xQtX  Q       13      17  3..     |      |  [W-<Cj>] [HNH <Ij>] [QR> <PC>]
+AMOS 07,04 ---- InfC [adjunct] Q       13      18  8.e     |      |       |   |   |   |  [L-RB <Pr>] [B-->C <Co>]
+AMOS 07,04 ---- Defc  << Ptcp  Q       13      19  7d.     |      |       |   |   |  [>DNJ JHWH <Su>]
+                               -------                     |      |       |   |+-------------------------------------------------------------------\
+AMOS 07,04 3sgF Way0  << Ptcp  QN      13      20  6..     |      |       |   || [W-<Cj>] [T>KL <Pr>] [>T THWM RBH <Ob>]
+AMOS 07,04 3sgF WQt0  << Way0  QN      13      21  7..     |      |       |   ||     [W-<Cj>] [>KLH <Pr>] [>T H-XLQ <Ob>]
+                               -------                     |      |       |+-----------------------------------------------------------------------\
+AMOS 07,05 1sg- Way0  << Ptcp  QN      13      22  5..     |      |       || [W-<Cj>] [>MR <Pr>]
+                               =======                     |      |       ||   +================================================================\
+AMOS 07,05 ---- Voct  <<  [Q]  QNQ     131     23  6vq     |      |       ||   | [>DNJ JHWH <Vo>]
+AMOS 07,05 2sgM ZIm0 [ref.Voc] QNQ     131     24  7..     |      |       ||   |     [XDL <Pr>] [N> <Ij>]
+AMOS 07,05 3sgM xYqX  << ZIm0  QNQ     131     25  8..     |      |       ||   |         [MJ <Qu>] [JQWM <Pr>] [J<QB <Su>]
+AMOS 07,05 -sgM AjCl  << xYqX  QNQ     131     26  9..     |      |       ||   |             [KJ <Cj>] [QVN <PC>] [HW> <Su>]
+                               -------                     |      |       |+-----------------------------------------------------------------------/
+AMOS 07,06 3sgM ZQtX  << Ptcp  Q       13      27  4..     |      |      [NXM <Pr>] [JHWH <Su>] [<L Z>T <Co>]
+                               =======                     |      |        +=======================================================================\
+AMOS 07,06 3sgF XYqt  <<  [Q]  QQ      132     28  5.q     |      |        | [GM HJ> <Su>] [L> <Ng>] [THJH <Pr>]
+                               =======                     |      |        |   +======================================================================\
+AMOS 07,06 3sgM ZQtX  << XYqt  Q       1321    29  6.#     |      |        |   | [>MR <Pr>] [>DNJ JHWH <Su>]
+                               =======                     |      |        +=======================================================================/
+AMOS 07,07 3sgM xQt0  << xQtX  Q       14      30  2.#     |     [KH <Mo>] [HR>NJ <PO>]
+AMOS 07,07 -sgM Ptcp  << xQt0  Q       14      31  4..     |          |  [W-<Cj>] [HNH <Ij>] [>DNJ <Su>] [NYB <PC>] [<L XWMT >NK <Co>]
+AMOS 07,07 ---- NmCl  << Ptcp  Q       14      32  5..     |          |      [W-<Cj>] [B-JDW <PC>] [>NK <Su>]
+                               -------                     |       +-------------------------------------------------------------------------------\
+AMOS 07,08 3sgM WayX  << xQt0  QN      141     33  3.#     |       | [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>LJ <Co>]
+                               =======                     |       |      |   |+================================================================\
+AMOS 07,08 -sgM Ptcp  <<  [Q]  QNQ     1411    34  6.q     |       |      |   || [MH <Ob>] [>TH <Su>] [R>H <PC>]
+AMOS 07,08 ---- Voct  << Ptcp  QNQ     1411    35  7v.     |       |      |   ||     [<MWS <Vo>]
+                               =======                     |       |      |   |+================================================================/
+AMOS 07,08 1sg- Way0  << WayX  QN      141     36  5..     |       |      |  [W-<Cj>] [>MR <Pr>]
+                               =======                     |       |      |    +================================================================\
+AMOS 07,08 ---- NmCl  <<  [Q]  QNQ     1412    37  6.q     |       |      |    | [>NK <Ob>]
+                               =======                     |       |      |    +================================================================/
+AMOS 07,08 3sgM WayX  << WayX  QN      1413    38  4.#     |       |     [W-<Cj>] [J>MR <Pr>] [>DNJ <Su>]
+                               =======                     |       |       +====================================================================\
+AMOS 07,08 -sgM Ptcp  <<  [Q]  QNQ     14131   39  5.q     |       |       | [HNNJ <Is>] [FM <PC>] [>NK <Ob>] [B-QRB <MJ / JFR>L <ap><Co>]
+AMOS 07,08 1sg- xYq0  << Ptcp  QNQ     14131   40  7..     |       |       |      |  [L> <Ng>] [>WSJP <Pr>] [<WD <Mo>]
+AMOS 07,08 ---- InfC [object ] QNQ     14131   41  8..     |       |       |      |      [<BWR <Pr>] [LW <Co>]
+AMOS 07,09 3pl- WQtX  << Ptcp  QNQ     14131   42  6..     |       |       |     [W-<Cj>] [NCMW <Pr>] [BMWT JFXQ <Su>]
+AMOS 07,09 3plM WXYq  << WQtX  QNQ     14131   43  7..     |       |       |         [W-<Cj>] [MQDCJ JFR>L <Su>] [JXRBW <Pr>]
+AMOS 07,09 1sg- WQt0  << WXYq  QNQ     14131   44  8..     |       |       |             [W-<Cj>] [QMTJ <Pr>] [<L BJT JRB<M <Co>] [B--XRB <Aj>]
+                               -------                 +----------------------------------------------------------------------------------------------\
+AMOS 07,10 3sgM WayX  <<  [R]  N       2       45  0.N   [W-<Cj>] [JCLX <Pr>] [>MYJH / KHN BJT_>L <ap><Su>] [>L JRB<M / MLK JFR>L <ap><Co>]
+AMOS 07,10 ---- InfC [adjunct] N       2       46  1..    |  [L->MR <Pr>]
+                               =======                    |    +===================================================================================\
+AMOS 07,10 3sgM ZQtX  <<  [Q]  NQ      21      47  2.q    |    | [QCR <Pr>] [<LJK <Co>] [<MWS <Su>] [B-QRB BJT JFR>L <Aj>]
+AMOS 07,10 3sgF xYqX  << ZQtX  NQ      21      48  3..    |    |     [L> <Ng>] [TWKL <Pr>] [H->RY <Su>]
+AMOS 07,10 ---- InfC [complm.] NQ      21      49  5..    |    |          |  [L-HKJL <Pr>] [>T KL DBRJW <Ob>]
+AMOS 07,11 3sgM xQtX  << xYqX  NQ      21      50  4..    |    |         [KJ <Cj>] [KH <Mo>] [>MR <Pr>] [<MWS <Su>]
+                               =======                    |    |           +====================================================================\
+AMOS 07,11 3sgM xYqX  <<  [Q]  NQQ     211     51  5.q    |    |           | [B--XRB <Aj>] [JMWT <Pr>] [JRB<M <Su>]
+AMOS 07,11 3sgM WXYq  << xYqX  NQQ     211     52  6..    |    |           |     [W-<Cj>] [JFR>L <Su>] [GLH <Mo>] [JGLH <Pr>] [M-<L >DMTW <Co>]
+                               =======                    |    +===================================================================================/
+AMOS 07,12 3sgM WayX  << WayX  N       3       53  0.#   [W-<Cj>] [J>MR <Pr>] [>MYJH <Su>] [>L <MWS <Co>]
+                               =======                        |+===================================================================================\
+AMOS 07,12 ---- Voct  <<  [Q]  NQ      31      54  2vq        || [XZH <Vo>]
+AMOS 07,12 2sgM ZIm0 [ref.Voc] NQ      31      55  3..        ||     [LK <Pr>]
+AMOS 07,12 2sgM ZIm0  << ZIm0  NQ      31      56  4..        ||         [BRX <Pr>] [LK <sc>] [>L >RY JHWDH <Co>]
+AMOS 07,12 2sgM WIm0  << ZIm0  NQ      31      57  5..        ||             [W-<Cj>] [>KL <Pr>] [CM <Lo>] [LXM <Ob>]
+AMOS 07,12 2sgM WxY0  << WIm0  NQ      31      58  6..        ||                 [W-<Cj>] [CM <Lo>] [TNB> <Pr>]
+AMOS 07,13 2sgM WxY0  << WxY0  NQ      31      59  7..        ||                     [W-<Cj>] [BJT_>L <Lo>] [L> <Ng>] [TWSJP <Pr>] [<WD <Mo>]
+AMOS 07,13 ---- InfC [adjunct] NQ      31      60  9..        ||                          |  [L-HNB> <Pr>]
+AMOS 07,13 ---- NmCl  << WxY0  NQ      31      61  8..        ||                         [KJ <Cj>] [MQDC MLK <PC>] [HW> <Su>]
+AMOS 07,13 ---- NmCl  << NmCl  NQ      31      62  9..        ||                             [W-<Cj>] [BJT MMLKH <PC>] [HW> <Su>]
+                               =======                        |+===================================================================================/
+AMOS 07,14 3sgM WayX  << WayX  N       32      63  1.#       [W-<Cj>] [J<N <Pr>] [<MWS <Su>]
+AMOS 07,14 3sgM Way0  << WayX  N       32      64  2..           [W-<Cj>] [J>MR <Pr>] [>L >MYJH <Co>]
+                               =======                             +===============================================================================\
+AMOS 07,14 ---- NmCl  <<  [Q]  NQ      321     65  3.q             | [L> <Ng>] [NBJ> <PC>] [>NKJ <Su>]
+AMOS 07,14 ---- NmCl  << NmCl  NQ      321     66  7..             |      |   |   |  [W-<Cj>] [L> <Ng>] [BN NBJ> <PC>] [>NKJ <Su>]
+AMOS 07,14 ---- NmCl  << NmCl  NQ      321     67  6..             |      |   |  [KJ <Cj>] [BWQR <PC>] [>NKJ / W-/ BWLS CQMJM <pa><cj><Su>]
+                               -------                             |      |+--------------------------------------------------------------------\
+AMOS 07,15 3sgM WayX  << NmCl  NQN     3211    68  5.#             |      || [W-<Cj>] [JQXNJ <PO>] [JHWH <Su>] [M->XRJ H-Y>N <Co>]
+AMOS 07,15 3sgM WayX  << WayX  NQN     32111   69  6.#             |      ||     [W-<Cj>] [J>MR <Pr>] [>LJ <Co>] [JHWH <Su>]
+                               =======                             |      ||       +=========================================================\
+AMOS 07,15 2sgM ZIm0  <<  [Q]  NQNQ    321111  70  7.q             |      ||       | [LK <Pr>]
+AMOS 07,15 2sgM ZIm0  << ZIm0  NQNQ    321111  71  8..             |      ||       |     [HNB> <Pr>] [>L <MJ / JFR>L <ap><Co>]
+                               -------                             |      |+--------------------------------------------------------------------/
+AMOS 07,16 ---- MSyn  << NmCl  NQ      321     72  4m.             |     [W-<Cj>] [<TH <Ti>]
+AMOS 07,16 2sgM ZIm0  << MSyn  NQ      321     73  5..             |         [CM< <Pr>] [DBR JHWH <Ob>]
+                               =======                             |           +================================================================\
+AMOS 07,16 -sgM Ptcp  <<  [Q]  NQQ     3212    74  6.q             |           | [>TH <Su>] [>MR <PC>]
+                               =======                             |           |      |+=====================================================\
+AMOS 07,16 2sgM xYq0  <<  [Q]  NQQQ    32121   75  8.q             |           |      || [L> <Ng>] [TNB> <Pr>] [<L JFR>L <Co>]
+AMOS 07,16 2sgM WxY0  << xYq0  NQQQ    32121   76  9..             |           |      ||     [W-<Cj>] [L> <Ng>] [TVJP <Pr>] [<L BJT JFXQ <Co>]
+                               =======                             |           |      |+=====================================================/
+AMOS 07,17 ---- MSyn  << Ptcp  NQQ     3212    77  7m.             |           |     [LKN <Mo>]
+AMOS 07,17 3sgM xQtX  << MSyn  NQQ     3212    78  8..             |           |         [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
+                               =======                             |           |           +=================================================\
+AMOS 07,17 3sgF XYqt  <<  [Q]  NQQQ    32122   79  9.q             |           |           | [>CTK <Su>] [B--<JR <Lo>] [TZNH <Pr>]
+AMOS 07,17 3plM WXYq  << XYqt  NQQQ    32122   80 10..             |           |           |     [W-<Cj>] [BNJK W-BNTJK <Su>] [B--XRB <Aj>] [JPLW <Pr>]
+AMOS 07,17 3sgF WXYq  << WXYq  NQQQ    32122   81 11..             |           |           |         [W-<Cj>] [>DMTK <Su>] [B--XBL <Co>] [TXLQ <Pr>]
+AMOS 07,17 2sgM WXYq  << WXYq  NQQQ    32122   82 12..             |           |           |             [W-<Cj>] [>TH <Su>] [<L >DMH VM>H <Lo>] [TMWT <Pr>]
+AMOS 07,17 3sgM WXYq  << WXYq  NQQQ    32122   83 13..             |           |           |                 [W-<Cj>] [JFR>L <Su>] [GLH <Mo>] [JGLH <Pr>] [M-<L >DMTW <Co>]

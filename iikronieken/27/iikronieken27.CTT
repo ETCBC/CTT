@@ -2,30 +2,30 @@ IICHR27,01 ---- NmCl  <<  [R]  ?       1       1  0.N   [BN <FRJM W-XMC CNH <PC>
 IICHR27,01 ---- InfC [adjunct] ?       1       2  7..        |   |   |   |   |   |  [B-MLKW <Ps>]
 IICHR27,01 3sgM WxQ0  << NmCl  ?       1       3  6..        |   |   |   |   |  [W-<Cj>] [CC <FRH CNH <Ti>] [MLK <Pr>] [B-JRWCLM <Lo>]
 IICHR27,01 ---- NmCl  << NmCl  ?       1       4  5..        |   |   |   |  [W-<Cj>] [CM >MW <Su>] [JRWCH / BT YDWQ <ap><PC>]
-                               =======                 ==============================================================================================/
-IICHR27,02 3sgM Way0  << NmCl  N       1       5  4..        |   |   |  [W-<Cj>] [J<F <Pr>]
-IICHR27,02 -sgM AjCl [object ] N       1       6  7.e        |   |   |       |   |  [H-<Re>] [JCR <PC>] [B-<JNJ JHWH <Aj>]
-IICHR27,02 ---- Defc  << Way0  N       1       7  6d.        |   |   |       |  [K-KL <Aj>]
-IICHR27,02 3sgM xQtX [reg/rec] N       1       8  7..        |   |   |       |      [>CR <Re>] [<FH <Pr>] [<ZJHW / >BJW <ap><Su>]
-IICHR27,02 3sgM xQt0  << Way0  N       1       9  5..        |   |   |      [RQ <Mo>] [L> <Ng>] [B> <Pr>] [>L HJKL JHWH <Co>]
-IICHR27,02 -plM Ptcp  << xQt0  N       1      10  6..        |   |   |          [W-<Cj>] [<WD <Mo>] [H-<M <Su>] [MCXJTJM <PC>]
-                               =======                 ==============================================================================================/
+                               -------                       |   |   |+------------------------------------------------------------------------------\
+IICHR27,02 3sgM Way0  << NmCl  N       1       5  4..        |   |   || [W-<Cj>] [J<F <Pr>]
+IICHR27,02 -sgM AjCl [object ] N       1       6  7.e        |   |   ||      |   |  [H-<Re>] [JCR <PC>] [B-<JNJ JHWH <Aj>]
+IICHR27,02 ---- Defc  << Way0  N       1       7  6d.        |   |   ||      |  [K-KL <Aj>]
+IICHR27,02 3sgM xQtX [reg/rec] N       1       8  7..        |   |   ||      |      [>CR <Re>] [<FH <Pr>] [<ZJHW / >BJW <ap><Su>]
+IICHR27,02 3sgM xQt0  << Way0  N       1       9  5..        |   |   ||     [RQ <Mo>] [L> <Ng>] [B> <Pr>] [>L HJKL JHWH <Co>]
+IICHR27,02 -plM Ptcp  << xQt0  N       1      10  6..        |   |   ||         [W-<Cj>] [<WD <Mo>] [H-<M <Su>] [MCXJTJM <PC>]
+                               -------                       |   |   |+------------------------------------------------------------------------------/
 IICHR27,03 3sgM XQtl  << NmCl  ?       1      11  3..        |   |  [HW> <Su>] [BNH <Pr>] [>T C<R BJT JHWH H-<LJWN <Ob>]
 IICHR27,03 3sgM WxQ0  << XQtl  ?       1      12  5..        |   |       |  [W-<Cj>] [B-XWMT H-<PL <Co>] [BNH <Pr>] [L-RB <Aj>]
 IICHR27,04 3sgM WxQ0  << WxQ0  ?       1      13  6..        |   |       |      [W-<Cj>] [<RJM <Ob>] [BNH <Pr>] [B-HR JHWDH <Lo>]
 IICHR27,04 3sgM WxQ0  << WxQ0  ?       1      14  7..        |   |       |          [W-<Cj>] [B--XRCJM <Lo>] [BNH <Pr>] [BJRNJWT W-MGDLJM <Ob>]
 IICHR27,05 3sgM WXQt  << XQtl  ?       1      15  4..        |   |      [W-<Cj>] [HW> <Su>] [NLXM <Pr>] [<M MLK BNJ <MWN <Co>]
-                               =======                 ==============================================================================================/
-IICHR27,05 3sgM Way0  << WXQt  N       1      16  5..        |   |          [W-<Cj>] [JXZQ <Pr>] [<LJHM <Co>]
-IICHR27,05 3plM WayX  << Way0  N       11     17  6.#        |   |              [W-<Cj>] [JTNW <Pr>] [LW <Co>] [BNJ <MWN <Su>] [B--CNH H-HJ> <Ti>] [M>H KKR KSP W-<FRT >LPJM KRJM XVJM W-F<WRJM <FRT >LPJM <Ob>]
-IICHR27,05 3pl- xQtX  << WayX  N       11     18  7..        |   |                  [Z>T <Ob>] [HCJBW <Pr>] [LW <Co>] [BNJ <MWN <Su>]
-IICHR27,05 ---- Ellp  << xQtX  N       11     19  8l.        |   |                      [W-<Cj>] [B--CNH H-CNJT W-H-CLCJT <Ti>]
-                               =======                 ==============================================================================================/
-IICHR27,06 3sgM WayX  << NmCl  ?N      12     20  2.#        |  [W-<Cj>] [JTXZQ <Pr>] [JWTM <Su>]
-IICHR27,06 3sgM xQt0  << WayX  ?N      12     21  4..        |       |  [KJ <Cj>] [HKJN <Pr>] [DRKJW <Ob>] [L-PNJ JHWH / >LHJW <ap><Co>]
-IICHR27,07 ---- CPen  << WayX  ?N      121    22  3c#        |      [W-<Cj>] [JTR DBRJ JWTM W-KL MLXMTJW W-DRKJW <Fr>]
-IICHR27,07 -plM Ptcp [resumpt] ?N      121    23  4..        |          [HNM <Is>] [KTWBJM <PC>] [<L SPR MLKJ JFR>L W-JHWDH <Co>]
-                               -------                 -------------------------------------------------------------------------------------------/
+                               -------                       |   |        +--------------------------------------------------------------------------\
+IICHR27,05 3sgM Way0  << WXQt  N       1      16  5..        |   |        | [W-<Cj>] [JXZQ <Pr>] [<LJHM <Co>]
+IICHR27,05 3plM WayX  << Way0  N       11     17  6.#        |   |        |     [W-<Cj>] [JTNW <Pr>] [LW <Co>] [BNJ <MWN <Su>] [B--CNH H-HJ> <Ti>] [M>H KKR KSP W-<FRT >LPJM KRJM XVJM W-F<WRJM <FRT >LPJM <Ob>]
+IICHR27,05 3pl- xQtX  << WayX  N       11     18  7..        |   |        |         [Z>T <Ob>] [HCJBW <Pr>] [LW <Co>] [BNJ <MWN <Su>]
+IICHR27,05 ---- Ellp  << xQtX  N       11     19  8l.        |   |        |             [W-<Cj>] [B--CNH H-CNJT W-H-CLCJT <Ti>]
+                               -------                       |+-----------------------------------------------------------------------------------\
+IICHR27,06 3sgM WayX  << NmCl  ?N      12     20  2.#        || [W-<Cj>] [JTXZQ <Pr>] [JWTM <Su>]
+IICHR27,06 3sgM xQt0  << WayX  ?N      12     21  4..        ||      |  [KJ <Cj>] [HKJN <Pr>] [DRKJW <Ob>] [L-PNJ JHWH / >LHJW <ap><Co>]
+IICHR27,07 ---- CPen  << WayX  ?N      121    22  3c#        ||     [W-<Cj>] [JTR DBRJ JWTM W-KL MLXMTJW W-DRKJW <Fr>]
+IICHR27,07 -plM Ptcp [resumpt] ?N      121    23  4..        ||         [HNM <Is>] [KTWBJM <PC>] [<L SPR MLKJ JFR>L W-JHWDH <Co>]
+                               -------                       |+-----------------------------------------------------------------------------------/
 IICHR27,08 3sgM xQt0  << NmCl  ?       1      24  1..       [BN <FRJM W-XMC CNH <PC>] [HJH <Pr>]
 IICHR27,08 ---- InfC [adjunct] ?       1      25  4..            |   |  [B-MLKW <Ps>]
 IICHR27,08 3sgM WxQ0  << xQt0  ?       1      26  3..            |  [W-<Cj>] [CC <FRH CNH <Ti>] [MLK <Pr>] [B-JRWCLM <Lo>]

@@ -34,7 +34,7 @@
  IOB 22,14 ---- NmCl  << xYq0  NQQ     111    32  9..         |          |   |    |         [<BJM <Su>] [STR <PC>] [LW <Aj>]
  IOB 22,14 3sgM WxY0  << NmCl  NQQ     111    33 10..         |          |   |    |             [W-<Cj>] [L> <Ng>] [JR>H <Pr>]
  IOB 22,14 3sgM WxY0  << WxY0  NQQ     111    34 11..         |          |   |    |                 [W-<Cj>] [XWG CMJM <Ob>] [JTHLK <Pr>]
-                               =======                        |          |        +============================================================/
+                               =======                        |          |   |    +============================================================/
  IOB 22,15 2sgM xYq0  << NmCl  NQ      11     35  5..         |          |  [H-<Qu>] [>RX <WLM <Ob>] [TCMR <Pr>]
  IOB 22,15 3pl- xQtX [attrib.] NQ      11     36  9..         |          |       |   |   |  [>CR <Re>] [DRKW <Pr>] [MTJ >WN <Su>]
  IOB 22,16 3pl- xQt0 [attrib.] NQ      11     37 11..         |          |       |   |   |       |  [>CR <Re>] [QMVW <Pr>]
@@ -42,9 +42,9 @@
  IOB 22,16 3sgM xYqX [coordin] NQ      11     39 12..         |          |       |   |   |       |      [NHR <Pj>] [JWYQ <Pr>] [JSWDM <Su>]
  IOB 22,17 -plM Ptcp [attrib.] NQ      11     40 10..         |          |       |   |   |      [H-<Re>] [>MRJM <PC>] [L-->L <Co>]
                                =======                        |          |       |   |   |           |+========================================\
- IOB 22,17 2sgM ZIm0  <<  [Q]  NQQ     112    41 12.q         |          |       |   |   |            | [SWR <Pr>] [MMNW <Co>]
- IOB 22,17 3sgM WxYX  << ZIm0  NQQ     112    42 13..         |          |       |   |   |            |     [W-<Cj>] [MH <Ob>] [JP<L <Pr>] [CDJ <Su>] [LMW <Co>]
-                               =======                        |          |       |   |   |            +========================================/
+ IOB 22,17 2sgM ZIm0  <<  [Q]  NQQ     112    41 12.q         |          |       |   |   |           || [SWR <Pr>] [MMNW <Co>]
+ IOB 22,17 3sgM WxYX  << ZIm0  NQQ     112    42 13..         |          |       |   |   |           ||     [W-<Cj>] [MH <Ob>] [JP<L <Pr>] [CDJ <Su>] [LMW <Co>]
+                               =======                        |          |       |   |   |           |+========================================/
  IOB 22,18 3sgM WXQt [coordin] NQ      113    43 11.#         |          |       |   |   |          [W-<Cj>] [HW> <Su>] [ML> <Pr>] [BTJHM <Ob>] [VWB <Ob>]
  IOB 22,18 3sgF WXQt  << xYq0  NQ      114    44  8.#         |          |       |   |  [W-<Cj>] [<YT RC<JM <Su>] [RXQH <Pr>] [MNJ <Co>]
  IOB 22,19 3plM ZYqX  << xYq0  NQ      11     45  7..         |          |       |  [JR>W <Pr>] [YDJQJM <Su>]
@@ -74,10 +74,10 @@
  IOB 22,28 3sgM WxQX  << WYq0  NQ      11     69  9..         |                      |      [W-<Cj>] [<L DRKJK <Co>] [NGH <Pr>] [>WR <Su>]
  IOB 22,29 3pl- xQt0  << ZYq0  NQ      11     70  7..         |                     [KJ <Cj>] [HCPJLW <Pr>]
                                -------                        |                          |+----------------------------------------------------\
- IOB 22,29 2sgM Way0 [coordin] NQN     11     71  9..         |                           | [W-<Cj>] [T>MR <Pr>]
+ IOB 22,29 2sgM Way0 [coordin] NQN     11     71  9..         |                          || [W-<Cj>] [T>MR <Pr>]
                                =======                        |                          ||   +=============================================\
- IOB 22,29 ---- NmCl  <<  [Q]  NQNQ    115    72 10.q         |                           |   | [GWH <PC>]
-                               -------                        |                           +----------------------------------------------------/
+ IOB 22,29 ---- NmCl  <<  [Q]  NQNQ    115    72 10.q         |                          ||   | [GWH <PC>]
+                               -------                        |                          |+----------------------------------------------------/
  IOB 22,29 3sgM WxY0  << xQt0  NQ      11     73  8..         |                         [W-<Cj>] [CX <JNJM <Ob>] [JWC< <Pr>]
  IOB 22,30 3sgM ZYq0  << WxY0  NQ      11     74  9..         |                             [JMLV <Pr>] [>J NQJ <Ob>]
  IOB 22,30 3sgM WQt0  << ZYq0  NQ      11     75 10..         |                                 [W-<Cj>] [NMLV <Pr>] [B-BR KPJK <Aj>]

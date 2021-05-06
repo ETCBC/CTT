@@ -27,15 +27,15 @@ AMOS 03,08 3sgM XQtl  << xYqX  QQ      11     25  5..    |    |             [>RJ
 AMOS 03,08 3sgM XYqt  << XQtl  QQ      11     26  7..    |    |                  |  [MJ <Su>] [L> <Ng>] [JJR> <Pr>]
 AMOS 03,08 3sgM XQtl  << XQtl  QQ      11     27  6..    |    |                 [>DNJ JHWH <Su>] [DBR <Pr>]
 AMOS 03,08 3sgM XYqt  << XQtl  QQ      11     28  7..    |    |                     [MJ <Su>] [L> <Ng>] [JNB> <Pr>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
 AMOS 03,09 2plM ZIm0  << ZIm0  Q       2      29  0.#   [HCMJ<W <Pr>] [<L >RMNWT <Co>] [B->CDWD <Lo>]
 AMOS 03,09 ---- Ellp  << ZIm0  Q       2      30  4l.    |   |   |   |  [W-<Cj>] [<L >RMNWT <Co>] [B->RY MYRJM <Lo>]
 AMOS 03,09 2plM WIm0  << ZIm0  Q       2      31  3..    |   |   |  [W-<Cj>] [>MRW <Pr>]
                                =======                   |   |   |    +===========================================================================\
-AMOS 03,09 2plM ZIm0  <<  [Q]  QQ      21     32  4.q    |   |   |   || [H>SPW <Pr>] [<L HRJ CMRWN <Co>]
-AMOS 03,09 2plM WIm0  << ZIm0  QQ      21     33  5..    |   |   |   ||     [W-<Cj>] [R>W <Pr>] [MHWMT RBWT <Ob>] [B-TWKH <Lo>]
-AMOS 03,09 ---- Ellp  << WIm0  QQ      21     34  6l.    |   |   |   ||         [W-<Cj>] [<CWQJM <Ob>] [B-QRBH <Lo>]
-                               =======                   |   |        +===========================================================================/
+AMOS 03,09 2plM ZIm0  <<  [Q]  QQ      21     32  4.q    |   |   |    | [H>SPW <Pr>] [<L HRJ CMRWN <Co>]
+AMOS 03,09 2plM WIm0  << ZIm0  QQ      21     33  5..    |   |   |    |     [W-<Cj>] [R>W <Pr>] [MHWMT RBWT <Ob>] [B-TWKH <Lo>]
+AMOS 03,09 ---- Ellp  << WIm0  QQ      21     34  6l.    |   |   |    |         [W-<Cj>] [<CWQJM <Ob>] [B-QRBH <Lo>]
+                               =======                   |   |   |    +===========================================================================/
 AMOS 03,10 3pl- WxQ0  << ZIm0  Q       2      35  2..    |   |  [W-<Cj>] [L> <Ng>] [JD<W <Pr>]
 AMOS 03,10 ---- InfC [object ] Q       2      36  5..    |   |       |   |  [<FWT <Pr>] [NKXH <Ob>]
 AMOS 03,10 ---- MSyn  << WxQ0  Q       2      37  4m.    |   |       |  [N>M JHWH <PC>]
@@ -43,17 +43,17 @@ AMOS 03,10 -plM Ptcp [subject] Q       2      38  3..    |   |      [H-<Re>] [>W
 AMOS 03,11 ---- MSyn  << ZIm0  Q       2      39  1m.    |  [LKN <Mo>]
 AMOS 03,11 3sgM xQtX  << MSyn  Q       2      40  2..    |      [KH <Mo>] [>MR <Pr>] [>DNJ JHWH <Su>]
                                =======                   |       |+===============================================================================\
-AMOS 03,11 ---- CPen  <<  [Q]  QQ      22     41  3cq    |        | [YR <Fr>]
-AMOS 03,11 ---- NmCl [resumpt] QQ      22     42  4..    |        |     [W-<Cj>] [SBJB H->RY <PC>]
-AMOS 03,11 3sgM WQt0  << NmCl  QQ      22     43  5..    |        |         [W-<Cj>] [HWRD <Pr>] [MMK <Aj>] [<ZK <Ob>]
-AMOS 03,11 3pl- WQtX  << WQt0  QQ      22     44  6..    |        |             [W-<Cj>] [NBZW <Pr>] [>RMNWTJK <Su>]
-                               =======                   |        +===============================================================================/
+AMOS 03,11 ---- CPen  <<  [Q]  QQ      22     41  3cq    |       || [YR <Fr>]
+AMOS 03,11 ---- NmCl [resumpt] QQ      22     42  4..    |       ||     [W-<Cj>] [SBJB H->RY <PC>]
+AMOS 03,11 3sgM WQt0  << NmCl  QQ      22     43  5..    |       ||         [W-<Cj>] [HWRD <Pr>] [MMK <Aj>] [<ZK <Ob>]
+AMOS 03,11 3pl- WQtX  << WQt0  QQ      22     44  6..    |       ||             [W-<Cj>] [NBZW <Pr>] [>RMNWTJK <Su>]
+                               =======                   |       |+===============================================================================/
 AMOS 03,12 3sgM xQtX  << xQtX  Q       2      45  2..    |      [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
                                =======                   |        +===============================================================================\
 AMOS 03,12 3sgM CPen  <<  [Q]  QQ      23     46  3cq    |        | [K->CR <Cj>] [JYJL <Pr>] [H-R<H <Su>] [M-PJ H->RJ <Co>] [CTJ KR<JM / >W / BDL >ZN <pa><cj><Ob>]
 AMOS 03,12 3plM xYqX [resumpt] QQ      23     47  4..    |        |     [KN <Mo>] [JNYLW <Pr>] [BNJ JFR>L <Su>]
 AMOS 03,12 -plM Ptcp [attrib.] QQ      23     48  5..    |        |         [H-<Re>] [JCBJM <PC>] [B-CMRWN <Co>] [B-P>T MVH W-B-DMCQ <RF <Aj>]
-                               =======                            +===============================================================================/
+                               =======                   |        +===============================================================================/
 AMOS 03,13 2plM ZIm0  << ZIm0  Q       3      49  0.#   [CM<W <Pr>]
 AMOS 03,13 2plM WIm0  << ZIm0  Q       3      50  2..        |  [W-<Cj>] [H<JDW <Pr>] [B-BJT J<QB <Co>]
 AMOS 03,13 ---- MSyn  << WIm0  Q       3      51  3m.        |      [N>M >DNJ / JHWH / >LHJ H-YB>WT <ap><sp><PC>]

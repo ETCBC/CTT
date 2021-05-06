@@ -7,7 +7,7 @@
  IOB 09,03 3sgM xYq0  << WxYX  NQ      11      6  6..         |      |       |  [>M <Cj>] [JXPY <Pr>]
  IOB 09,03 ---- InfC [adjunct] NQ      11      7  9..         |      |       |       |   |  [L-RJB <Pr>] [<MW <Co>]
  IOB 09,03 3sgM xYq0  << xYq0  NQ      11      8  8..         |      |       |       |  [L> <Ng>] [J<NNW <PO>] [>XT <Ob>] [MNJ >LP <Aj>]
- IOB 09,04 -sgM AjCl  << xYq0  NQ      11      9  7..         |      |       |      [XKM LBB W->MJY KX <PC>]
+ IOB 09,04 ---- AjCl  << xYq0  NQ      11      9  7..         |      |       |      [XKM LBB W->MJY KX <PC>]
  IOB 09,04 3sgM XQtl  << AjCl  NQ      11     10  8..         |      |       |          [MJ <Su>] [HQCH <Pr>] [>LJW <Co>]
                                -------                        |      |       |            +----------------------------------------------------\
  IOB 09,04 3sgM Way0 [coordin] NQN     11     11  9..         |      |       |            | [W-<Cj>] [JCLM <Pr>]
@@ -34,7 +34,7 @@
  IOB 09,12 3sgM XYqt  << XYqt  NQ      11     31  6..         |          |      [MJ <Su>] [J>MR <Pr>] [>LJW <Co>]
                                =======                        |          |        +============================================================\
  IOB 09,12 2sgM xYq0  <<  [Q]  NQQ     111    32  7.q         |          |        | [MH <Ob>] [T<FH <Pr>]
-                               =======                        |                   +============================================================/
+                               =======                        |          |        +============================================================/
  IOB 09,13 3sgM XYqt  << xYq0  NQ      11     33  4..         |         [>LWH <Su>] [L> <Ng>] [JCJB <Pr>] [>PW <Ob>]
  IOB 09,13 3pl- xQtX  << XYqt  NQ      11     34  7..         |              |   |  [TXTW <Co>] [CXXW <Pr>] [<ZRJ RHB <Su>]
  IOB 09,14 1sg- XYqt  << xQtX  NQ      11     35  8..         |              |   |      [>P <Mo>] [KJ <Cj>] [>NKJ <Su>] [><NNW <PO>]
@@ -45,12 +45,12 @@
  IOB 09,15 1sg- xYq0  << ZYq0  NQ      11     40 11..         |              |   |           |      [L-MCPVJ <Co>] [>TXNN <Pr>]
  IOB 09,16 1sg- xQt0  << XYqt  NQ      11     41  9..         |              |   |          [>M <Cj>] [QR>TJ <Pr>]
                                -------                        |              |   |               |+--------------------------------------------\
- IOB 09,16 3sgM Way0  << xQt0  NQN     11     42 11..         |              |   |                | [W-<Cj>] [J<NNJ <PO>]
-                               -------                        |              |   |                +--------------------------------------------/
+ IOB 09,16 3sgM Way0  << xQt0  NQN     11     42 11..         |              |   |               || [W-<Cj>] [J<NNJ <PO>]
+                               -------                        |              |   |               |+--------------------------------------------/
  IOB 09,16 1sg- xYq0  << xQt0  NQ      11     43 10..         |              |   |              [L> <Ng>] [>>MJN <Pr>]
  IOB 09,16 3sgM xYq0 [object ] NQ      11     44 12..         |              |   |                   |  [KJ <Cj>] [J>ZJN <Pr>] [QWLJ <Ob>]
  IOB 09,17 3sgM xYq0 [subject] NQ      11     45 12.\         |              |   |                   |  [>CR <Re>] [B-F<RH <Aj>] [JCWPNJ <PO>]
- IOB 09,17 3sgM WQt0 [coordin] NQ      11     46 13..         |              |   |                   |      [W-<Cj>] [HRBH <Pr>] [PY<J <Ob>] [XNM <Mo>]
+ IOB 09,17 3sgM WQt0 [coordin] NQ      11     46 13..         |              |   |                   |   |  [W-<Cj>] [HRBH <Pr>] [PY<J <Ob>] [XNM <Mo>]
  IOB 09,18 3sgM xYq0  << xYq0  NQ      11     47 11..         |              |   |                  [L> <Ng>] [JTNNJ <PO>]
  IOB 09,18 ---- InfA [object ] NQ      11     48 13..         |              |   |                       |  [HCB <Pr>] [RWXJ <Ob>]
  IOB 09,18 3sgM xYq0  << xYq0  NQ      11     49 12..         |              |   |                      [KJ <Cj>] [JFB<NJ <PO>] [MMRRJM <Aj>]
@@ -63,21 +63,21 @@
  IOB 09,20 -sgM AjCl  << xYq0  NQ      11     56  8..         |              |          [TM <PC>] [>NJ <Su>]
                                -------                        |              |            +----------------------------------------------------\
  IOB 09,20 3sgM Way0  << AjCl  NQN     11     57  9..         |              |            | [W-<Cj>] [J<QCNJ <PO>]
-                               -------                        |                           +----------------------------------------------------/
+                               -------                        |              |            +----------------------------------------------------/
  IOB 09,21 -sgM AjCl  << XYqt  NQ      11     58  5..         |             [TM <PC>] [>NJ <Su>]
  IOB 09,21 1sg- xYq0  << AjCl  NQ      11     59  8..         |                  |   |  [L> <Ng>] [>D< <Pr>] [NPCJ <Ob>]
  IOB 09,21 1sg- ZYq0  << xYq0  NQ      11     60  9..         |                  |   |      [>M>S <Pr>] [XJJ <Ob>]
  IOB 09,22 ---- NmCl  << AjCl  NQ      11     61  7..         |                  |  [>XT <PC>] [HJ> <Su>]
  IOB 09,22 1sg- xQt0  << NmCl  NQ      11     62  8..         |                  |      [<L KN <Aj>] [>MRTJ <Pr>]
                                =======                        |                  |           |   |+============================================\
- IOB 09,22 -sgM Ptcp  <<  [Q]  NQQ     112    63 11.q         |                  |           |    | [TM W-RC< <Ob>] [HW> <Su>] [MKLH <PC>]
- IOB 09,23 3sgM XYqt  << Ptcp  NQQ     112    64 14..         |                  |           |    |      |   |  [>M <Cj>] [CWV <Su>] [JMJT <Pr>] [PT>M <Mo>]
- IOB 09,23 3sgM xYq0  << XYqt  NQQ     112    65 15..         |                  |           |    |      |   |      [L-MST NQJM <Co>] [JL<G <Pr>]
- IOB 09,24 3sgF XQtl  << Ptcp  NQQ     112    66 13..         |                  |           |    |      |  [>RY <Su>] [NTNH <Pr>] [B-JD RC< <Co>]
- IOB 09,24 3sgM xYq0  << XQtl  NQQ     112    67 14..         |                  |           |    |      |      [PNJ CPVJH <Ob>] [JKSH <Pr>]
- IOB 09,24 ---- NmCl  << Ptcp  NQQ     112    68 12..         |                  |           |    |     [>M <Cj>] [L> <Ng>] [>PW> <Ij>]
- IOB 09,24 ---- NmCl  << NmCl  NQQ     112    69 13..         |                  |           |    |         [MJ <PC>] [HW> <Su>]
-                               =======                        |                  |           |    +============================================/
+ IOB 09,22 -sgM Ptcp  <<  [Q]  NQQ     112    63 11.q         |                  |           |   || [TM W-RC< <Ob>] [HW> <Su>] [MKLH <PC>]
+ IOB 09,23 3sgM XYqt  << Ptcp  NQQ     112    64 14..         |                  |           |   ||      |   |  [>M <Cj>] [CWV <Su>] [JMJT <Pr>] [PT>M <Mo>]
+ IOB 09,23 3sgM xYq0  << XYqt  NQQ     112    65 15..         |                  |           |   ||      |   |      [L-MST NQJM <Co>] [JL<G <Pr>]
+ IOB 09,24 3sgF XQtl  << Ptcp  NQQ     112    66 13..         |                  |           |   ||      |  [>RY <Su>] [NTNH <Pr>] [B-JD RC< <Co>]
+ IOB 09,24 3sgM xYq0  << XQtl  NQQ     112    67 14..         |                  |           |   ||      |      [PNJ CPVJH <Ob>] [JKSH <Pr>]
+ IOB 09,24 ---- NmCl  << Ptcp  NQQ     112    68 12..         |                  |           |   ||     [>M <Cj>] [L> <Ng>] [>PW> <Ij>]
+ IOB 09,24 ---- NmCl  << NmCl  NQQ     112    69 13..         |                  |           |   ||         [MJ <PC>] [HW> <Su>]
+                               =======                        |                  |           |   |+============================================/
  IOB 09,25 3pl- WXQt  << xQt0  NQ      11     70 10..         |                  |           |  [W-<Cj>] [JMJ <Su>] [QLW <Pr>] [MNJ RY <Aj>]
  IOB 09,25 3pl- ZQt0  << WXQt  NQ      11     71 11..         |                  |           |      [BRXW <Pr>]
  IOB 09,25 3pl- xQt0  << ZQt0  NQ      11     72 12..         |                  |           |       |  [L> <Ng>] [R>W <Pr>] [VWBH <Ob>]
@@ -86,10 +86,10 @@
  IOB 09,26 3sgM ZYq0 [attrib.] NQ      11     75 13..         |                  |           |              [JVWF <Pr>] [<LJ >KL <Co>]
  IOB 09,27 ---- InfC  << xQt0  NQ      11     76  9..         |                  |          [>M <Cj>] [>MRJ <PO>]
                                =======                        |                  |               |+============================================\
- IOB 09,27 1sg- ZYq0  <<  [Q]  NQQ     113    77 11.q         |                  |                | [>CKXH <Pr>] [FJXJ <Ob>]
- IOB 09,27 1sg- ZYq0  << ZYq0  NQQ     113    78 11..         |                  |                | [><ZBH <Pr>] [PNJ <Ob>]
- IOB 09,27 1sg- WYq0  << ZYq0  NQQ     113    79 12..         |                  |                |     [W-<Cj>] [>BLJGH <Pr>]
-                               =======                        |                  |                +============================================/
+ IOB 09,27 1sg- ZYq0  <<  [Q]  NQQ     113    77 11.q         |                  |               || [>CKXH <Pr>] [FJXJ <Ob>]
+ IOB 09,27 1sg- ZYq0  << ZYq0  NQQ     113    78 11..         |                  |               || [><ZBH <Pr>] [PNJ <Ob>]
+ IOB 09,27 1sg- WYq0  << ZYq0  NQQ     113    79 12..         |                  |               ||     [W-<Cj>] [>BLJGH <Pr>]
+                               =======                        |                  |               |+============================================/
  IOB 09,28 1sg- ZQt0  << InfC  NQ      11     80 10..         |                  |              [JGRTJ <Pr>] [KL <YBTJ <Ob>]
                                =======                        |                  |                +============================================\
  IOB 09,28 1sg- ZQt0  <<  [Q]  NQQ     114    81 11.q         |                  |                | [JD<TJ <Pr>]
@@ -100,12 +100,12 @@
  IOB 09,30 1sg- WQt0  << xQt0  NQQ     114    86 14..         |                  |                |          |  [W-<Cj>] [HZKWTJ <Pr>] [B-BR <Co>] [KPJ <Ob>]
  IOB 09,31 2sgM xYq0  << xQt0  NQQ     114    87 13..         |                  |                |         [>Z <Ti>] [B--CXT <Co>] [TVBLNJ <PO>]
  IOB 09,31 3pl- WQtX  << xYq0  NQQ     114    88 14..         |                  |                |             [W-<Cj>] [T<BWNJ <PO>] [FLMWTJ <Su>]
-                               =======                        |                                   +============================================/
+                               =======                        |                  |                +============================================/
  IOB 09,32 ---- NmCl  << AjCl  NQ      11     89  6..         |                 [KJ <Cj>] [L> <Ng>] [>JC <PC>] [KMNJ <Aj>]
  IOB 09,32 1sg- ZYq0 [attrib.] NQ      11     90  8..         |                      |  [><NNW <PO>]
                                =======                        |                      |    +====================================================\
  IOB 09,32 1pl- ZYq0  <<  [Q]  NQQ     115    91  9.q         |                      |    | [NBW> <Pr>] [JXDW <Mo>] [B--MCPV <Co>]
-                               =======                        |                           +====================================================/
+                               =======                        |                      |    +====================================================/
  IOB 09,33 ---- NmCl  << NmCl  NQ      11     92  7..         |                     [L> <Ng>] [JC <eX>] [BJNJNW <PC>] [MWKJX <Su>]
  IOB 09,33 3sgM ZYq0 [attrib.] NQ      11     93 10..         |                          |   |  [JCT <Pr>] [JDW <Ob>] [<L CNJNW <Co>]
  IOB 09,34 3sgM ZYq0  << NmCl  NQ      11     94  9..         |                          |  [JSR <Pr>] [M-<LJ <Co>] [CBVW <Ob>]

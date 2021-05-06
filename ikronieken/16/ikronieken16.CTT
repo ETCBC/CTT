@@ -48,7 +48,7 @@
  ICHR16,18 ---- InfC [adjunct] NQN     12     46 13..            |   |   |    |      |       ||      |   |  [L->MR <Pr>]
                                =======                           |   |   |    |      |       ||      |   |       |+=========================\
  ICHR16,18 1sg- xYq0  <<  [Q]  NQNQ    121    47 15.q            |   |   |    |      |       ||      |   |       || [LK <Co>] [>TN <Pr>] [>RY KN<N <Ob>] [XBL NXLTKM <Ob>]
-                               =======                           |   |   |    |      |       ||      |   |        +=========================/
+                               =======                           |   |   |    |      |       ||      |   |       |+=========================/
  ICHR16,19 ---- InfC [adjunct] NQN     12     48 14..            |   |   |    |      |       ||      |   |      [B-HJWTKM <Ps>] [MTJ MSPR <PC>] [K-M<V <Aj>]
  ICHR16,19 -plM Ptcp [coordin] NQN     12     49 15..            |   |   |    |      |       ||      |   |          [W-<Cj>] [GRJM <PC>] [BH <Co>]
  ICHR16,20 3plM Way0  << Way0  NQN     12     50 12..            |   |   |    |      |       ||      |  [W-<Cj>] [JTHLKW <Pr>] [M-GWJ <Co>] [>L GWJ <Co>]
@@ -57,8 +57,8 @@
  ICHR16,21 ---- InfC [object ] NQN     12     53 13..            |   |   |    |      |       ||          |  [L-<CQM <PO>]
  ICHR16,21 3sgM Way0  << xQt0  NQN     12     54 12..            |   |   |    |      |       ||         [W-<Cj>] [JWKX <Pr>] [<LJHM <Co>] [MLKJM <Ob>]
                                =======                           |   |   |    |      |       ||           +=================================\
- ICHR16,22 2plM xYq0  <<  [Q]  NQNQ    122    55 13.q            |   |   |    |      |       ||          || [>L <Ng>] [TG<W <Pr>] [B-MCJXJ <Co>]
- ICHR16,22 2plM WxY0  << xYq0  NQNQ    122    56 14..            |   |   |    |      |       ||          ||     [W-<Cj>] [B-NBJ>J <Co>] [>L <Ng>] [TR<W <Pr>]
+ ICHR16,22 2plM xYq0  <<  [Q]  NQNQ    122    55 13.q            |   |   |    |      |       ||           | [>L <Ng>] [TG<W <Pr>] [B-MCJXJ <Co>]
+ ICHR16,22 2plM WxY0  << xYq0  NQNQ    122    56 14..            |   |   |    |      |       ||           |     [W-<Cj>] [B-NBJ>J <Co>] [>L <Ng>] [TR<W <Pr>]
                                -------                           |   |   |    |      |       |+------------------------------------------------/
  ICHR16,23 2plM ZIm0 [coordin] NQ      12     57  9..            |   |   |    |      |      [CJRW <Pr>] [L-JHWH <Co>]
  ICHR16,23 ---- Voct  << ZIm0  NQ      12     58 10v.            |   |   |    |      |       |  [KL H->RY <Vo>]
@@ -87,8 +87,8 @@
  ICHR16,31 3sgF WYqX  << ZYqX  NQ      12     81 13..            |   |   |    |      |       |       |   |  [W-<Cj>] [TGL <Pr>] [H->RY <Su>]
  ICHR16,31 3plM WYq0  << ZYqX  NQ      12     82 12..            |   |   |    |      |       |       |  [W-<Cj>] [J>MRW <Pr>] [B--GWJM <Co>]
                                =======                           |   |   |    |      |       |       |    +====================================\
- ICHR16,31 3sgM XQtl  <<  [Q]  NQQ     124    83 13.q            |   |   |    |      |       |       |   || [JHWH <Su>] [MLK <Pr>]
-                               =======                           |   |   |    |      |       |            +====================================/
+ ICHR16,31 3sgM XQtl  <<  [Q]  NQQ     124    83 13.q            |   |   |    |      |       |       |    | [JHWH <Su>] [MLK <Pr>]
+                               =======                           |   |   |    |      |       |       |    +====================================/
  ICHR16,32 3sgM ZYqX  << ZYqX  NQ      12     84 11..            |   |   |    |      |       |      [JR<M <Pr>] [H-JM W-MLW>W <Su>]
  ICHR16,32 3sgM ZYqX  << ZYqX  NQ      12     85 13..            |   |   |    |      |       |           |  [J<LY <Pr>] [H-FDH W-KL <Su>]
  ICHR16,32 ---- NmCl [reg/rec] NQ      12     86 14..            |   |   |    |      |       |           |      [>CR <Re>] [BW <PC>]
@@ -100,20 +100,20 @@
  ICHR16,34 ---- NmCl  << AjCl  NQ      12     92 12..            |   |   |    |      |           |      [KJ <Cj>] [L-<WLM <PC>] [XSDW <Su>]
  ICHR16,35 2plM WIm0 [coordin] NQ      12     93 10..            |   |   |    |      |          [W-<Cj>] [>MRW <Pr>]
                                =======                           |   |   |    |      |            +============================================\
- ICHR16,35 2sgM ZIm0  <<  [Q]  NQQ     125    94 11.q            |   |   |    |      |           || [HWCJ<NW <PO>]
- ICHR16,35 ---- Voct  << ZIm0  NQQ     125    95 13v.            |   |   |    |      |           ||      |  [>LHJ JC<NW <Vo>]
- ICHR16,35 2sgM WIm0  << ZIm0  NQQ     125    96 12..            |   |   |    |      |           ||     [W-<Cj>] [QBYNW <PO>]
- ICHR16,35 2sgM WIm0  << WIm0  NQQ     125    97 12..            |   |   |    |      |           ||     [W-<Cj>] [HYJLNW <PO>] [MN H-GWJM <Co>]
- ICHR16,35 ---- InfC [adjunct] NQQ     125    98 13..            |   |   |    |      |           ||         [L-HDWT <Pr>] [L-CM QDCK <Co>]
- ICHR16,35 ---- InfC [coordin] NQQ     125    99 13..            |   |   |    |      |           ||         [L-HCTBX <Pr>] [B-THLTK <Co>]
-                               =======                           |   |   |    |                   +============================================/
+ ICHR16,35 2sgM ZIm0  <<  [Q]  NQQ     125    94 11.q            |   |   |    |      |            | [HWCJ<NW <PO>]
+ ICHR16,35 ---- Voct  << ZIm0  NQQ     125    95 13v.            |   |   |    |      |            |      |  [>LHJ JC<NW <Vo>]
+ ICHR16,35 2sgM WIm0  << ZIm0  NQQ     125    96 12..            |   |   |    |      |            |     [W-<Cj>] [QBYNW <PO>]
+ ICHR16,35 2sgM WIm0  << WIm0  NQQ     125    97 12..            |   |   |    |      |            |     [W-<Cj>] [HYJLNW <PO>] [MN H-GWJM <Co>]
+ ICHR16,35 ---- InfC [adjunct] NQQ     125    98 13..            |   |   |    |      |            |         [L-HDWT <Pr>] [L-CM QDCK <Co>]
+ ICHR16,35 ---- InfC [coordin] NQQ     125    99 13..            |   |   |    |      |            |         [L-HCTBX <Pr>] [B-THLTK <Co>]
+                               =======                           |   |   |    |      |            +============================================/
  ICHR16,36 -sgM Ptcp  << ZIm0  NQ      12    100  7..            |   |   |    |     [BRWK <PC>] [JHWH / >LHJ JFR>L <ap><Su>] [MN H-<WLM / W-/ <D H-<LM <pa><cj><Ti>]
-                               =======                           |   |        +===================================================================/
+                               =======                           |   |   |    +===================================================================/
  ICHR16,36 3plM WayX  << xQtX  N       13    101  4.#            |   |  [W-<Cj>] [J>MRW <Pr>] [KL H-<M <Su>]
                                =======                           |   |    +=======================================================================\
  ICHR16,36 ---- MSyn  <<  [Q]  NQ      131   102  5mq            |   |    | [>MN <Ij>]
  ICHR16,36 ---- InfA  << MSyn  NQ      131   103  6..            |   |    |     [W-<Cj>] [HLL <Pr>] [L-JHWH <Co>]
-                               =======                           |        +=======================================================================/
+                               =======                           |   |    +=======================================================================/
  ICHR16,37 3sgM Way0  << xQtX  N       1     104  3..            |  [W-<Cj>] [J<ZB <Pr>] [CM / L-PNJ >RWN BRJT JHWH <sp><Co>] [L->SP W-L->XJW <Co>]
  ICHR16,37 ---- InfC [adjunct] N       1     105  7..            |       |   |   |  [L-CRT <Pr>] [L-PNJ H->RWN <Co>] [TMJD <Ti>] [L-DBR JWM / B-JWMW <sp><Aj>]
  ICHR16,38 ---- Ellp  << Way0  N       1     106  6l.            |       |   |  [W-<Cj>] [<BD_>DM W->XJHM / CCJM W-CMWNH <sp><Ob>]

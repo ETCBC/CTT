@@ -5,11 +5,11 @@
  NUM 19,02 3sgM xQtX [attrib.] NQ      11      4  5..         |  |   |   |  [>CR <Re>] [YWH <Pr>] [JHWH <Su>]
  NUM 19,02 ---- InfC [adjunct] NQ      11      5  6..         |  |   |   |      [L->MR <Pr>]
                                =======                        |  |   |   |        +============================================================\
- NUM 19,02 2sgM ZIm0  <<  [Q]  NQQ     111     6  7.q         |  |   |   |       || [DBR <Pr>] [>L BNJ JFR>L <Co>]
- NUM 19,02 3plM WYq0  << ZIm0  NQQ     111     7  8..         |  |   |   |       ||     [W-<Cj>] [JQXW <Pr>] [>LJK <Co>] [PRH >DMH TMJMH <Ob>]
- NUM 19,02 ---- NmCl [attrib.] NQQ     111     8  9..         |  |   |   |       ||         [>CR <Re>] [>JN <NC>] [BH <PC>] [MWM <Su>]
- NUM 19,02 3sgM xQtX [coordin] NQQ     111     9 10..         |  |   |   |       ||             [>CR <Re>] [L> <Ng>] [<LH <Pr>] [<LJH <Co>] [<L <Su>]
-                               =======                        |  |   |            +============================================================/
+ NUM 19,02 2sgM ZIm0  <<  [Q]  NQQ     111     6  7.q         |  |   |   |        | [DBR <Pr>] [>L BNJ JFR>L <Co>]
+ NUM 19,02 3plM WYq0  << ZIm0  NQQ     111     7  8..         |  |   |   |        |     [W-<Cj>] [JQXW <Pr>] [>LJK <Co>] [PRH >DMH TMJMH <Ob>]
+ NUM 19,02 ---- NmCl [attrib.] NQQ     111     8  9..         |  |   |   |        |         [>CR <Re>] [>JN <NC>] [BH <PC>] [MWM <Su>]
+ NUM 19,02 3sgM xQtX [coordin] NQQ     111     9 10..         |  |   |   |        |             [>CR <Re>] [L> <Ng>] [<LH <Pr>] [<LJH <Co>] [<L <Su>]
+                               =======                        |  |   |   |        +============================================================/
  NUM 19,03 2plM WQt0  << NmCl  NQ      11     10  4..         |  |   |  [W-<Cj>] [NTTM <Pr>] [>TH <Ob>] [>L >L<ZR / H-KHN <ap><Co>]
  NUM 19,03 3sgM WQt0  << WQt0  NQ      11     11  6..         |  |   |       |  [W-<Cj>] [HWYJ> <Pr>] [>TH <Ob>] [>L M-XWY / L--MXNH <sp><Co>]
  NUM 19,03 3sgM WQt0  << WQt0  NQ      11     12  6..         |  |   |       |  [W-<Cj>] [CXV <Pr>] [>TH <Ob>] [L-PNJW <Co>]

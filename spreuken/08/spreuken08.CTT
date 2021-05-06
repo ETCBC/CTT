@@ -72,7 +72,7 @@
  PRO 08,30 -sgF Ptcp [coordin] DQN     111    70 10..             |      |                |     [MFXQT <PC>] [L-PNJW <Co>] [B-KL <T <Ti>]
  PRO 08,31 -sgF Ptcp [coordin] DQN     111    71 10..             |      |                |     [MFXQT <PC>] [B-TBL >RYW <Co>]
  PRO 08,31 ---- NmCl  << Ptcp  DQN     111    72 11..             |      |                |         [W-<Cj>] [C<C<J <Su>] [>T BNJ >DM <PC>]
-                               -------                            |                       +----------------------------------------------------/
+                               -------                            |      |                +----------------------------------------------------/
  PRO 08,32 ---- MSyn  << Defc  DQ      11     73  4m.             |     [W-<Cj>] [<TH <Ti>]
  PRO 08,32 ---- Voct  << MSyn  DQ      11     74  7v.             |          |   |  [BNJM <Vo>]
  PRO 08,32 2plM ZIm0  << MSyn  DQ      11     75  6..             |          |  [CM<W <Pr>] [LJ <Co>]
@@ -89,8 +89,8 @@
  PRO 08,35 -sgM Ptcp [subject] DQ      11     86 11.\             |                  |   |   |   |  [MY>J <po>]
  PRO 08,35 3sgM ZQt0  << Defc  DQ      11     87 10..             |                  |   |   |  [MY>J <Pr>] [XJJM <Ob>]
                                -------                            |                  |   |+----------------------------------------------------\
- PRO 08,35 3sgM Way0  << Defc  DQN     11     88  9..             |                  |    | [W-<Cj>] [JPQ <Pr>] [RYWN <Ob>] [M-JHWH <Co>]
-                               -------                            |                  |    +----------------------------------------------------/
+ PRO 08,35 3sgM Way0  << Defc  DQN     11     88  9..             |                  |   || [W-<Cj>] [JPQ <Pr>] [RYWN <Ob>] [M-JHWH <Co>]
+                               -------                            |                  |   |+----------------------------------------------------/
  PRO 08,36 ---- Defc  << Defc  DQ      11     89  8d.             |                  |  [W-<Cj>]
  PRO 08,36 -sgM Ptcp [subject] DQ      11     90 10.\             |                  |       |  [XV>J <po>]
  PRO 08,36 -sgM Ptcp  << Defc  DQ      11     91  9..             |                  |      [XMS <PC>] [NPCW <Ob>]

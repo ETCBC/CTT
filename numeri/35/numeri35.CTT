@@ -34,7 +34,7 @@
  NUM 35,08 ---- Defc  << xYq0  NQQ     111    32  7d.    |    |   |                 [>JC <Su>] [K-PJ NXLTW <Aj>]
  NUM 35,08 3plM xYq0 [attrib.] NQQ     111    33  9.e    |    |   |                      |  [>CR <Re>] [JNXLW <Pr>]
  NUM 35,08 3sgM ZYq0  << Defc  NQQ     111    34  8..    |    |   |                     [JTN <Pr>] [M-<RJW <Aj>] [L--LWJM <Co>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  NUM 35,09 3sgM WayX  << WayX  N       2      35  0.#   [W-<Cj>] [JDBR <Pr>] [JHWH <Su>] [>L MCH <Co>]
  NUM 35,09 ---- InfC [adjunct] N       2      36  1..       [L->MR <Pr>]
                                =======                        +===================================================================================\
@@ -60,24 +60,24 @@
  NUM 35,15 -sgM Ptcp [reg/rec] NQQ     211    55 13..         |       |          |               |          [MKH <PC>] [NPC <Ob>] [B-CGGH <Aj>]
  NUM 35,16 3sgM WxQ0  << xYq0  NQQ     211    56 10..         |       |          |              [W-<Cj>] [>M <Cj>] [B-KLJ BRZL <Aj>] [HKHW <PO>]
                                -------                        |       |          |                   |   |+---------------------------------\
- NUM 35,16 3sgM Way0  << WxQ0  NQQN    211    57 13..         |       |          |                   |    | [W-<Cj>] [JMT <Pr>]
-                               -------                        |       |          |                   |    +---------------------------------/
+ NUM 35,16 3sgM Way0  << WxQ0  NQQN    211    57 13..         |       |          |                   |   || [W-<Cj>] [JMT <Pr>]
+                               -------                        |       |          |                   |   |+---------------------------------/
  NUM 35,16 ---- NmCl  << WxQ0  NQQ     211    58 12..         |       |          |                   |  [RYX <PC>] [HW> <Su>]
  NUM 35,16 3sgM xYqX  << NmCl  NQQ     211    59 13..         |       |          |                   |      [MWT <Mo>] [JWMT <Pr>] [H-RYX <Su>]
  NUM 35,17 ---- Defc  << WxQ0  NQQ     211    60 11d.         |       |          |                  [W-<Cj>] [>M <Cj>] [B->BN JD <Aj>]
  NUM 35,17 3sgM xYq0 [attrib.] NQQ     211    61 17.e         |       |          |                       |   |   |   |   |  [>CR <Re>] [JMWT <Pr>] [BH <Aj>]
  NUM 35,17 3sgM ZQt0  << Defc  NQQ     211    62 16..         |       |          |                       |   |   |   |  [HKHW <PO>]
                                -------                        |       |          |                       |   |   |+-------------------------\
- NUM 35,17 3sgM Way0  << Defc  NQQN    211    63 15..         |       |          |                       |   |    | [W-<Cj>] [JMT <Pr>]
-                               -------                        |       |          |                       |   |    +-------------------------/
+ NUM 35,17 3sgM Way0  << Defc  NQQN    211    63 15..         |       |          |                       |   |   || [W-<Cj>] [JMT <Pr>]
+                               -------                        |       |          |                       |   |   |+-------------------------/
  NUM 35,17 ---- NmCl  << Defc  NQQ     211    64 14..         |       |          |                       |   |  [RYX <PC>] [HW> <Su>]
  NUM 35,17 3sgM xYqX  << NmCl  NQQ     211    65 15..         |       |          |                       |   |      [MWT <Mo>] [JWMT <Pr>] [H-RYX <Su>]
  NUM 35,18 ---- Defc  << Defc  NQQ     211    66 13d.         |       |          |                       |  [>W <Cj>] [B-KLJ <Y JD <Aj>]
  NUM 35,18 3sgM xYq0 [attrib.] NQQ     211    67 17.e         |       |          |                       |       |   |   |  [>CR <Re>] [JMWT <Pr>] [BW <Aj>]
  NUM 35,18 3sgM ZQt0  << Defc  NQQ     211    68 16..         |       |          |                       |       |   |  [HKHW <PO>]
                                -------                        |       |          |                       |       |+-------------------------\
- NUM 35,18 3sgM Way0  << Defc  NQQN    211    69 15..         |       |          |                       |        | [W-<Cj>] [JMT <Pr>]
-                               -------                        |       |          |                       |        +-------------------------/
+ NUM 35,18 3sgM Way0  << Defc  NQQN    211    69 15..         |       |          |                       |       || [W-<Cj>] [JMT <Pr>]
+                               -------                        |       |          |                       |       |+-------------------------/
  NUM 35,18 ---- NmCl  << Defc  NQQ     211    70 14..         |       |          |                       |      [RYX <PC>] [HW> <Su>]
  NUM 35,18 3sgM xYqX  << NmCl  NQQ     211    71 15..         |       |          |                       |          [MWT <Mo>] [JWMT <Pr>] [H-RYX <Su>]
  NUM 35,19 ---- CPen  << xYqX  NQQ     211    72 16c.         |       |          |                       |              [G>L H-DM <Fr>]
@@ -87,12 +87,12 @@
  NUM 35,20 3sgM WxY0  << Defc  NQQ     211    76 12..         |       |          |                      [W-<Cj>] [>M <Cj>] [B-FN>H <Aj>] [JHDPNW <PO>]
  NUM 35,20 3sgM xQt0  << WxY0  NQQ     211    77 15..         |       |          |                           |   |  [>W <Cj>] [HCLJK <Pr>] [<LJW <Co>] [B-YDJH <Aj>]
                                -------                        |       |          |                           |   |       |+-----------------\
- NUM 35,20 3sgM Way0  << xQt0  NQQN    211    78 17..         |       |          |                           |   |        | [W-<Cj>] [JMT <Pr>]
-                               -------                        |       |          |                           |   |        +-----------------/
+ NUM 35,20 3sgM Way0  << xQt0  NQQN    211    78 17..         |       |          |                           |   |       || [W-<Cj>] [JMT <Pr>]
+                               -------                        |       |          |                           |   |       |+-----------------/
  NUM 35,21 3sgM xQt0  << xQt0  NQQ     211    79 16..         |       |          |                           |   |      [>W <Cj>] [B->JBH <Aj>] [HKHW <PO>] [B-JDW <Aj>]
                                -------                        |       |          |                           |   |        +-----------------\
  NUM 35,21 3sgM Way0  << xQt0  NQQN    211    80 17..         |       |          |                           |   |        | [W-<Cj>] [JMT <Pr>]
-                               -------                        |       |          |                           |            +-----------------/
+                               -------                        |       |          |                           |   |        +-----------------/
  NUM 35,21 3sgM xYqX  << WxY0  NQQ     211    81 14..         |       |          |                           |  [MWT <Mo>] [JWMT <Pr>] [H-MKH <Su>]
  NUM 35,21 ---- NmCl  << xYqX  NQQ     211    82 15..         |       |          |                           |      [RYX <PC>] [HW> <Su>]
  NUM 35,21 3sgM XYqt  << NmCl  NQQ     211    83 16..         |       |          |                           |          [G>L H-DM <Su>] [JMJT <Pr>] [>T H-RYX <Ob>]
@@ -105,7 +105,7 @@
                                -------                        |       |          |                               |   |    +-----------------\
  NUM 35,23 3sgM Way0  << xQt0  NQQN    211    90 17..         |       |          |                               |   |    | [W-<Cj>] [JPL <Pr>] [<LJW <Co>]
  NUM 35,23 3sgM Way0 [coordin] NQQN    211    91 18..         |       |          |                               |   |    |     [W-<Cj>] [JMT <Pr>]
-                               -------                        |       |          |                               |        +-----------------/
+                               -------                        |       |          |                               |   |    +-----------------/
  NUM 35,23 ---- NmCl  << WxQ0  NQQ     211    92 15..         |       |          |                               |  [W-<Cj>] [HW> <Su>] [L> <Ng>] [>WJB / LW <sp><PC>]
  NUM 35,23 -sgM Ptcp  << NmCl  NQQ     211    93 16..         |       |          |                               |      [W-<Cj>] [L> <Ng>] [MBQC <PC>] [R<TW <Ob>]
  NUM 35,24 3pl- WQtX  << WxQ0  NQQ     211    94 14..         |       |          |                              [W-<Cj>] [CPVW <Pr>] [H-<DH <Su>] [BJN H-MKH W-BJN G>L H-DM <Co>] [<L H-MCPVJM H->LH <Co>]

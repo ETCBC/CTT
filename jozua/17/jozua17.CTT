@@ -15,7 +15,7 @@
                                =======                   |   |                       |+===========================================================\
  JOZ 17,04 3sgM XQtl  <<  [Q]  NQ      12     15  8.q    |   |                       || [JHWH <Su>] [YWH <Pr>] [>T MCH <Ob>]
  JOZ 17,04 ---- InfC [complm.] NQ      12     16  9..    |   |                       ||     [L-TT <Pr>] [LNW <Co>] [NXLH <Ob>] [B-TWK >XJNW <Co>]
-                               =======                   |   |                        +===========================================================/
+                               =======                   |   |                       |+===========================================================/
  JOZ 17,04 3sgM Way0  << InfC  N       1      17  7..    |   |                      [W-<Cj>] [JTN <Pr>] [LHM <Co>] [>L PJ JHWH <Aj>] [NXLH <Ob>] [B-TWK >XJ >BJHN <Co>]
  JOZ 17,05 3plM WayX  << Way0  N       13     18  1.#    |  [W-<Cj>] [JPLW <Pr>] [XBLJ MNCH <Su>] [<FRH <Pj>] [L-BD / M->RY H-GL<D W-H-BCN <sp><Aj>]
  JOZ 17,05 ---- NmCl [attrib.] N       13     19  3..    |       |  [>CR <Re>] [M-<BR / L--JRDN <sp><PC>]
@@ -34,9 +34,9 @@
  JOZ 17,10 ---- NmCl  << NmCl  N       2      32  6..    |               |      [W-<Cj>] [YPWNH <Mo>] [L-MNCH <PC>]
  JOZ 17,10 3sgM WayX  << Ellp  N       22     33  4.#    |              [W-<Cj>] [JHJ <Pr>] [H-JM <Su>] [GBWLW <PC>]
                                -------                   |               |+-----------------------------------------------------------------------\
- JOZ 17,10 3plM WxY0  << WayX  ND      22     34  5..    |                | [W-<Cj>] [B->CR <Co>] [JPG<WN <Pr>] [M-YPWN <Lo>]
- JOZ 17,10 ---- Ellp  << WxY0  ND      22     35  6l.    |                |     [W-<Cj>] [B-JFFKR <Co>] [M-MZRX <Lo>]
-                               -------                   |                +-----------------------------------------------------------------------/
+ JOZ 17,10 3plM WxY0  << WayX  ND      22     34  5..    |               || [W-<Cj>] [B->CR <Co>] [JPG<WN <Pr>] [M-YPWN <Lo>]
+ JOZ 17,10 ---- Ellp  << WxY0  ND      22     35  6l.    |               ||     [W-<Cj>] [B-JFFKR <Co>] [M-MZRX <Lo>]
+                               -------                   |               |+-----------------------------------------------------------------------/
  JOZ 17,11 3sgM WayX  << WayX  N       22     36  4..    |              [W-<Cj>] [JHJ <Pr>] [L-MNCH <PC>] [B-JFFKR W-B->CR <Lo>] [BJT_C>N W-BNWTJH W-JBL<M W-BNWTJH / W-/ >T JCBJ D>R W-BNWTJH W-JCBJ <JN_DR W-BNTJH W-JCBJ T<NK W-BNTJH W-JCBJ MGDW W-BNWTJH / CLCT H-NPT <sp><pa><cj><Su>]
  JOZ 17,12 3pl- WxQX  << WayX  N       22     37  5..    |                  [W-<Cj>] [L> <Ng>] [JKLW <Pr>] [BNJ MNCH <Su>]
  JOZ 17,12 ---- InfC [complm.] N       22     38  8..    |                       |   |  [L-HWRJC <Pr>] [>T H-<RJM H->LH <Ob>]
@@ -49,17 +49,17 @@
  JOZ 17,14 3plM WayX  << WayX  N       3      45  0.#   [W-<Cj>] [JDBRW <Pr>] [BNJ JWSP <Su>] [>T JHWC< <Co>]
  JOZ 17,14 ---- InfC [adjunct] N       3      46  2..    |   |  [L->MR <Pr>]
                                =======                   |   |    +===============================================================================\
- JOZ 17,14 2sgM xQt0  <<  [Q]  NQ      31     47  3.q    |   |   || [MDW< <Qu>] [NTTH <Pr>] [LJ <Co>] [NXLH / GWRL >XD W-XBL >XD <sp><Ob>]
- JOZ 17,14 ---- NmCl  << xQt0  NQ      31     48  4..    |   |   ||     [W-<Cj>] [>NJ <Su>] [<M RB <PC>]
- JOZ 17,14 3sgM xQtX [adjunct] NQ      31     49  5..    |   |   ||         [<D >CR <Cj>] [<D KH <Ti>] [BRKNJ <PO>] [JHWH <Su>]
-                               =======                   |        +===============================================================================/
+ JOZ 17,14 2sgM xQt0  <<  [Q]  NQ      31     47  3.q    |   |    | [MDW< <Qu>] [NTTH <Pr>] [LJ <Co>] [NXLH / GWRL >XD W-XBL >XD <sp><Ob>]
+ JOZ 17,14 ---- NmCl  << xQt0  NQ      31     48  4..    |   |    |     [W-<Cj>] [>NJ <Su>] [<M RB <PC>]
+ JOZ 17,14 3sgM xQtX [adjunct] NQ      31     49  5..    |   |    |         [<D >CR <Cj>] [<D KH <Ti>] [BRKNJ <PO>] [JHWH <Su>]
+                               =======                   |   |    +===============================================================================/
  JOZ 17,15 3sgM WayX  << WayX  N       32     50  1.#    |  [W-<Cj>] [J>MR <Pr>] [>LJHM <Co>] [JHWC< <Su>]
                                =======                   |    +===================================================================================\
  JOZ 17,15 ---- NmCl  <<  [Q]  NQ      321    51  2.q    |    | [>M <Cj>] [<M RB <PC>] [>TH <Su>]
  JOZ 17,15 2sgM ZIm0  << NmCl  NQ      321    52  3..    |    |     [<LH <Pr>] [LK <sc>] [H-J<RH <Co>]
  JOZ 17,15 2sgM WQt0  << ZIm0  NQ      321    53  5..    |    |          |  [W-<Cj>] [BR>T <Pr>] [LK <sc>] [CM / B->RY H-PRZJ W-H-RP>JM <sp><Lo>]
  JOZ 17,15 3sgM xQtX  << ZIm0  NQ      321    54  4..    |    |         [KJ <Cj>] [>Y <Pr>] [LK <Co>] [HR >PRJM <Su>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  JOZ 17,16 3plM WayX  << WayX  N       4      55  0.#   [W-<Cj>] [J>MRW <Pr>] [BNJ JWSP <Su>]
                                =======                       |+===================================================================================\
  JOZ 17,16 3sgM xYqX  <<  [Q]  NQ      41     56  2.q        || [L> <Ng>] [JMY> <Pr>] [LNW <Co>] [H-HR <Su>]
@@ -67,7 +67,7 @@
  JOZ 17,16 -sgM Ptcp [attrib.] NQ      41     58  5..        ||          |  [H-<Re>] [JCB <PC>] [B->RY H-<MQ <Co>]
  JOZ 17,16 ---- NmCl [adjunct] NQ      41     59  4..        ||         [L->CR <Re>] [B-BJT_C>N W-BNWTJH <PC>]
  JOZ 17,16 ---- NmCl [coordin] NQ      41     60  5..        ||             [W-<Cj>] [L->CR <Re>] [B-<MQ JZR<>L <PC>]
-                               =======                        +===================================================================================/
+                               =======                       |+===================================================================================/
  JOZ 17,17 3sgM WayX  << WayX  N       42     61  1.#       [W-<Cj>] [J>MR <Pr>] [JHWC< <Su>] [>L BJT JWSP / L->PRJM W-L-MNCH <sp><Co>]
  JOZ 17,17 ---- InfC [adjunct] N       42     62  2..           [L->MR <Pr>]
                                =======                            +===============================================================================\

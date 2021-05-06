@@ -33,9 +33,9 @@
  HOS 05,08 ---- Ellp  << ZIm0  Q       3      33  3l.        |   |  [XYYRH <Ob>] [B--RMH <Lo>]
  HOS 05,08 2plM ZIm0  << ZIm0  Q       3      34  2..        |  [HRJ<W <Pr>] [BJT_>WN <Lo>]
                                =======                       |    +===============================================================================\
- HOS 05,08 ---- NmCl  <<  [Q]  QQ      31     35  3.q        |   || [>XRJK <PC>]
- HOS 05,08 ---- Voct  << NmCl  QQ      31     36  4v.        |   ||     [BNJMJN <Vo>]
-                               =======                            +===============================================================================/
+ HOS 05,08 ---- NmCl  <<  [Q]  QQ      31     35  3.q        |    | [>XRJK <PC>]
+ HOS 05,08 ---- Voct  << NmCl  QQ      31     36  4v.        |    |     [BNJMJN <Vo>]
+                               =======                       |    +===============================================================================/
  HOS 05,09 3sgF XYqt  << ZIm0  Q       3      37  1..       [>PRJM <Su>] [L-CMH <Co>] [THJH <Pr>] [B-JWM TWKXH <Ti>]
  HOS 05,09 1sg- xQt0  << XYqt  Q       3      38  3..            |  [B-CBVJ JFR>L <Aj>] [HWD<TJ <Pr>]
  HOS 05,09 -sgF Ptcp [object ] Q       3      39  5..            |       |  [N>MNH <PC>]
@@ -48,15 +48,15 @@
  HOS 05,12 ---- NmCl  << xQt0  Q       3      46  4..                   [W-<Cj>] [>NJ <Su>] [K--<C <PC>] [L->PRJM <Co>]
  HOS 05,12 ---- NmCl  << NmCl  Q       3      47  7..                        |   |  [W-<Cj>] [K--RQB <PC>] [L-BJT JHWDH <Co>]
                                -------                                       |+-------------------------------------------------------------------\
- HOS 05,13 3sgM WayX  << NmCl  QN      32     48  6.#                         | [W-<Cj>] [JR> <Pr>] [>PRJM <Su>] [>T XLJW <Ob>]
- HOS 05,13 ---- Ellp  << WayX  QN      32     49  7l.                         |  |  [W-<Cj>] [JHWDH <Su>] [>T MZRW <Ob>]
- HOS 05,13 3sgM WayX  << WayX  QN      33     50  6.#                         | [W-<Cj>] [JLK <Pr>] [>PRJM <Su>] [>L >CWR <Co>]
- HOS 05,13 3sgM Way0  << WayX  QN      33     51  7..                         |     [W-<Cj>] [JCLX <Pr>] [>L MLK / JRB <sp><Co>]
+ HOS 05,13 3sgM WayX  << NmCl  QN      32     48  6.#                        || [W-<Cj>] [JR> <Pr>] [>PRJM <Su>] [>T XLJW <Ob>]
+ HOS 05,13 ---- Ellp  << WayX  QN      32     49  7l.                        ||  |  [W-<Cj>] [JHWDH <Su>] [>T MZRW <Ob>]
+ HOS 05,13 3sgM WayX  << WayX  QN      33     50  6.#                        || [W-<Cj>] [JLK <Pr>] [>PRJM <Su>] [>L >CWR <Co>]
+ HOS 05,13 3sgM Way0  << WayX  QN      33     51  7..                        ||     [W-<Cj>] [JCLX <Pr>] [>L MLK / JRB <sp><Co>]
                                -------                                       ||       +--------------------------------------------------------\
- HOS 05,13 3sgM WXYq  << Way0  QND     33     52  8..                         |       | [W-<Cj>] [HW> <Su>] [L> <Ng>] [JWKL <Pr>]
- HOS 05,13 ---- InfC [complm.] QND     33     53 10..                         |       |      |  [L-RP> <Pr>] [LKM <Co>]
- HOS 05,13 3sgM WxY0  << WXYq  QND     33     54  9..                         |       |     [W-<Cj>] [L> <Ng>] [JGHH <Pr>] [MKM <Co>] [MZWR <Ob>]
-                               -------                                        +-------------------------------------------------------------------/
+ HOS 05,13 3sgM WXYq  << Way0  QND     33     52  8..                        ||       | [W-<Cj>] [HW> <Su>] [L> <Ng>] [JWKL <Pr>]
+ HOS 05,13 ---- InfC [complm.] QND     33     53 10..                        ||       |      |  [L-RP> <Pr>] [LKM <Co>]
+ HOS 05,13 3sgM WxY0  << WXYq  QND     33     54  9..                        ||       |     [W-<Cj>] [L> <Ng>] [JGHH <Pr>] [MKM <Co>] [MZWR <Ob>]
+                               -------                                       |+-------------------------------------------------------------------/
  HOS 05,14 ---- NmCl  << NmCl  Q       3      55  5..                       [KJ <Cj>] [>NKJ <Su>] [K--CXL <PC>] [L->PRJM <Co>]
  HOS 05,14 ---- NmCl [coordin] Q       3      56  7..                            |  [W-<Cj>] [K--KPJR <PC>] [L-BJT JHWDH <Co>]
  HOS 05,14 1sg- XYqt  << NmCl  Q       3      57  6..                           [>NJ / >NJ <sp><Su>] [>VRP <Pr>]

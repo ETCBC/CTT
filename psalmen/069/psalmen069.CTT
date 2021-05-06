@@ -1,7 +1,7 @@
  PS069,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [L--MNYX <PC>]
  PS069,001 ---- NmCl  << NmCl  ?       1       2  2..    |   |  [<L CWCNJM <PC>]
  PS069,001 ---- NmCl  << NmCl  ?       1       3  1..    |  [L-DWD <PC>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PS069,002 2sgM ZIm0  << NmCl  Q       2       4  0.N   [HWCJ<NJ <PO>]
  PS069,002 ---- Voct  << ZIm0  Q       2       5  5v.        |   |   |   |  [>LHJM <Vo>]
  PS069,002 3pl- xQtX  << ZIm0  Q       2       6  4..        |   |   |  [KJ <Cj>] [B>W <Pr>] [MJM <Su>] [<D NPC <Co>]
@@ -31,20 +31,20 @@
  PS069,007 ---- Voct  << xYq0  Q       2      30  7v.        |           |       |  [>LHJ JFR>L <Vo>]
  PS069,008 1sg- xQt0  << xYq0  Q       2      31  6..        |           |      [KJ <Cj>] [<LJK <Aj>] [NF>TJ <Pr>] [XRPH <Ob>]
  PS069,008 3sgF ZQtX [coordin] Q       2      32  9..        |           |           |   |  [KSTH <Pr>] [KLMH <Su>] [PNJ <Ob>]
- PS069,009 1sg- xQt0 [coordin] Q       2      33  8..        |           |           |  [MWZR <PC>] [HJJTJ <Pr>] [L->XJ <Co>]
+ PS069,009 1sgM xQt0 [coordin] Q       2      33  8..        |           |           |  [MWZR <PC>] [HJJTJ <Pr>] [L->XJ <Co>]
  PS069,009 -sgM AjCl [coordin] Q       2      34  9..        |           |           |      [W-<Cj>] [NKRJ <PC>] [L-BNJ >MJ <Co>]
  PS069,010 3sgF XQtl  << xQt0  Q       2      35  7..        |           |          [KJ <Cj>] [QN>T BJTK <Su>] [>KLTNJ <PO>]
  PS069,010 3pl- WXQt [coordin] Q       2      36  9..        |           |               |  [W-<Cj>] [XRPWT XWRPJK <Su>] [NPLW <Pr>] [<LJ <Co>]
                                -------                       |           |            +-----------------------------------------------------------\
- PS069,011 1sg- Way0 [coordin] QN      2      37  8..        |           |           || [W-<Cj>] [>BKH <Pr>] [B--YWM / NPCJ <sp><Aj>]
- PS069,011 3sgF Way0 [coordin] QN      2      38 10..        |           |           ||      |  [W-<Cj>] [THJ <Pr>] [L-XRPWT <PC>] [LJ <Co>]
- PS069,012 1sg- Way0 [coordin] QN      2      39  9..        |           |           ||     [W-<Cj>] [>TNH <Pr>] [LBWCJ <Ob>] [FQ <Ob>]
- PS069,012 1sg- Way0 [coordin] QN      2      40 10..        |           |           ||         [W-<Cj>] [>HJ <Pr>] [LHM <Co>] [L-MCL <PC>]
+ PS069,011 1sg- Way0 [coordin] QN      2      37  8..        |           |            | [W-<Cj>] [>BKH <Pr>] [B--YWM / NPCJ <sp><Aj>]
+ PS069,011 3sgF Way0 [coordin] QN      2      38 10..        |           |            |      |  [W-<Cj>] [THJ <Pr>] [L-XRPWT <PC>] [LJ <Co>]
+ PS069,012 1sg- Way0 [coordin] QN      2      39  9..        |           |            |     [W-<Cj>] [>TNH <Pr>] [LBWCJ <Ob>] [FQ <Ob>]
+ PS069,012 1sg- Way0 [coordin] QN      2      40 10..        |           |            |         [W-<Cj>] [>HJ <Pr>] [LHM <Co>] [L-MCL <PC>]
                                -------                       |           |            |              |+----------------------------------------\
- PS069,013 3plM ZYqX [coordin] QND     2      41 12..        |           |           ||               | [JFJXW <Pr>] [BJ <Co>] [JCBJ C<R <Su>]
-                               -------                       |           |            |               +----------------------------------------/
- PS069,013 ---- NmCl [coordin] QN      2      42 11..        |           |           ||             [W-<Cj>] [NGJNWT CWTJ CKR <PC>]
-                               -------                       |                        +-----------------------------------------------------------/
+ PS069,013 3plM ZYqX [coordin] QND     2      41 12..        |           |            |              || [JFJXW <Pr>] [BJ <Co>] [JCBJ C<R <Su>]
+                               -------                       |           |            |              |+----------------------------------------/
+ PS069,013 ---- NmCl [coordin] QN      2      42 11..        |           |            |             [W-<Cj>] [NGJNWT CWTJ CKR <PC>]
+                               -------                       |           |            +-----------------------------------------------------------/
  PS069,014 ---- CPen  << XQtl  Q       2      43  4c.        |          [W-<Cj>] [>NJ <Fr>]
  PS069,014 ---- NmCl [resumpt] Q       2      44  5..        |              [TPLTJ <Su>] [LK <PC>]
  PS069,014 ---- Voct  << NmCl  Q       2      45  8ve        |                   |   |  [JHWH <Vo>]
@@ -72,16 +72,16 @@
  PS069,020 ---- NmCl  << XQtl  Q       2      67 16..        |                                           |   |       |  [NGDK <PC>] [KL YWRRJ <Su>]
  PS069,021 3sgF XQtl  << XQtl  Q       2      68 15..        |                                           |   |      [XRPH <Su>] [CBRH <Pr>] [LBJ <Ob>]
                                -------                       |                                           |   |        +---------------------------\
- PS069,021 1sg- Way0  << XQtl  QN      2      69 16..        |                                           |   |       || [W-<Cj>] [>NWCH <Pr>]
- PS069,021 1sg- Way0  << Way0  QN      2      70 16..        |                                           |   |       || [W-<Cj>] [>QWH <Pr>]
- PS069,021 ---- InfC [complm.] QN      2      71 21..        |                                           |   |       ||      |   |   |   |  [L-NWD <Pr>]
- PS069,021 ---- NmCl  << Way0  QN      2      72 20..        |                                           |   |       ||      |   |   |  [W-<Cj>] [>JN <NC>]
- PS069,021 ---- Ellp  << Way0  QN      2      73 19l.        |                                           |   |       ||      |   |  [W-<Cj>] [L--MNXMJM <Co>]
- PS069,021 1sg- WxQ0  << Way0  QN      2      74 18..        |                                           |   |       ||      |  [W-<Cj>] [L> <Ng>] [MY>TJ <Pr>]
- PS069,022 3plM Way0  << Way0  QN      2      75 17..        |                                           |   |       ||     [W-<Cj>] [JTNW <Pr>] [B-BRWTJ <Aj>] [R>C <Ob>]
+ PS069,021 1sg- Way0  << XQtl  QN      2      69 16..        |                                           |   |        | [W-<Cj>] [>NWCH <Pr>]
+ PS069,021 1sg- Way0  << Way0  QN      2      70 16..        |                                           |   |        | [W-<Cj>] [>QWH <Pr>]
+ PS069,021 ---- InfC [complm.] QN      2      71 21..        |                                           |   |        |      |   |   |   |  [L-NWD <Pr>]
+ PS069,021 ---- NmCl  << Way0  QN      2      72 20..        |                                           |   |        |      |   |   |  [W-<Cj>] [>JN <NC>]
+ PS069,021 ---- Ellp  << Way0  QN      2      73 19l.        |                                           |   |        |      |   |  [W-<Cj>] [L--MNXMJM <Co>]
+ PS069,021 1sg- WxQ0  << Way0  QN      2      74 18..        |                                           |   |        |      |  [W-<Cj>] [L> <Ng>] [MY>TJ <Pr>]
+ PS069,022 3plM Way0  << Way0  QN      2      75 17..        |                                           |   |        |     [W-<Cj>] [JTNW <Pr>] [B-BRWTJ <Aj>] [R>C <Ob>]
                                -------                       |                                           |   |        |       +----------------\
- PS069,022 3plM WxY0  << Way0  QND     2      76 18..        |                                           |   |       ||       | [W-<Cj>] [L-YM>J <Aj>] [JCQWNJ <PO>] [XMY <Ob>]
-                               -------                       |                                           |            +---------------------------/
+ PS069,022 3plM WxY0  << Way0  QND     2      76 18..        |                                           |   |        |       | [W-<Cj>] [L-YM>J <Aj>] [JCQWNJ <PO>] [XMY <Ob>]
+                               -------                       |                                           |   |        +---------------------------/
  PS069,023 3sgM ZYqX  << xIm0  Q       2      77 13..        |                                           |  [JHJ <Pr>] [CLXNM <Su>] [L-PNJHM <Co>] [L-PX <PC>]
  PS069,023 ---- NmCl [coordin] Q       2      78 16..        |                                           |       |   |  [W-<Cj>] [L-CLWMJM <Co>] [L-MWQC <PC>]
  PS069,024 3plF ZYqX  << ZYqX  Q       2      79 15..        |                                           |       |  [TXCKNH <Pr>] [<JNJHM <Su>]

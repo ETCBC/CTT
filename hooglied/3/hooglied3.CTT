@@ -13,7 +13,7 @@
                                =======                       |   |       |       |+===============================================================\
  CAN 03,03 3sgF xQtX [object ] QQ      11     13  8.\        |   |       |       ||  |  [>T C-<Re>] [>HBH <Pr>] [NPCJ <Su>]
  CAN 03,03 2plM ZQt0  <<  [Q]  QQ      11     14  7.q        |   |       |       || [R>JTM <Pr>]
-                               =======                       |   |       |        +===============================================================/
+                               =======                       |   |       |       |+===============================================================/
  CAN 03,04 ---- NmCl  << ZQtX  Q       1      15  6..        |   |       |      [K-M<V <Aj>]
  CAN 03,04 1sg- xQt0 [attrib.] Q       1      16  8..        |   |       |           |  [C-<Re>] [<BRTJ <Pr>] [MHM <Co>]
  CAN 03,04 1sg- xQt0 [adjunct] Q       1      17  7..        |   |       |          [<D C-<Cj>] [MY>TJ <Pr>]
@@ -28,7 +28,7 @@
  CAN 03,05 2plM WxY0 [coordin] Q       12     26  5..        |           |  [W-<Cj>] [>M <Cj>] [T<WRRW <Pr>] [>T H->HBH <Ob>]
  CAN 03,05 3sgF xYq0 [adjunct] Q       12     27  4..        |          [<D C-<Cj>] [TXPY <Pr>]
  CAN 03,06 -sgF Ptcp  << xQt0  Q       13     28  1.#       [MJ Z>T <Su>] [<LH <PC>] [MN H-MDBR <Co>] [K-TJMRWT <CN <Aj>]
- CAN 03,06 -sgF AjCl [coordin] Q       13     29  4..            |   |  [MQVRT MWR W-LBWNH <PC>] [M-KL >BQT RWKL <Aj>]
+ CAN 03,06 ---- AjCl [coordin] Q       13     29  4..            |   |  [MQVRT MWR W-LBWNH <PC>] [M-KL >BQT RWKL <Aj>]
  CAN 03,07 ---- NmCl  << Ptcp  Q       13     30  3..            |  [HNH <Ij>] [MVTW <Su>]
  CAN 03,07 ---- NmCl [attrib.] Q       13     31  6..            |       |   |  [C-<Re>] [L-CLMH <PC>]
  CAN 03,07 ---- NmCl  << NmCl  Q       13     32  5..            |       |  [CCJM GBRJM <Su>] [SBJB <PC>] [LH / M-GBRJ JFR>L <sp><Co>]

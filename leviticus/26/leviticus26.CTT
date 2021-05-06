@@ -43,7 +43,7 @@
                                -------                   |       |            +-------------------------------------------------------------------\
  LEV 26,13 1sg- Way0  << xQt0  QN      1      43  6..    |       |            | [W-<Cj>] [>CBR <Pr>] [MVT <LKM <Ob>]
  LEV 26,13 1sg- Way0  << Way0  QN      1      44  6..    |       |            | [W-<Cj>] [>WLK <Pr>] [>TKM <Ob>] [QWMMJWT <Mo>]
-                               -------                   |                    +-------------------------------------------------------------------/
+                               -------                   |       |            +-------------------------------------------------------------------/
  LEV 26,14 2plM WxY0  << xYq0  Q       1      45  2..    |      [W-<Cj>] [>M <Cj>] [L> <Ng>] [TCM<W <Pr>] [LJ <Co>]
  LEV 26,14 2plM WxY0  << WxY0  Q       1      46  6..    |           |   |   |  [W-<Cj>] [L> <Ng>] [T<FW <Pr>] [>T KL H-MYWT H->LH <Ob>]
  LEV 26,15 2plM WxY0  << WxY0  Q       1      47  5..    |           |   |  [W-<Cj>] [>M <Cj>] [B-XQTJ <Co>] [TM>SW <Pr>]
@@ -170,6 +170,6 @@
  LEV 26,45 1sg- xQt0 [attrib.] Q       1     168 21..    |                                                                           |      [>CR <Re>] [HWY>TJ <Pr>] [>TM <Ob>] [M->RY MYRJM <Co>] [L-<JNJ H-GWJM <Aj>]
  LEV 26,45 ---- InfC [adjunct] Q       1     169 22..    |                                                                           |          [L-HJT <Pr>] [LHM <Co>] [L->LHJM <PC>]
  LEV 26,45 ---- NmCl  << NmCl  Q       1     170 19..    |                                                                          [>NJ <Su>] [JHWH <PC>]
-                               =======                 ==============================================================================================/
+                               -------                +----------------------------------------------------------------------------------------------\
  LEV 26,46 ---- NmCl  << xYq0  D       2     171  0.N   [>LH <Su>] [H-XQJM W-H-MCPVJM W-H-TWRT <PC>]
  LEV 26,46 3sgM xQtX [attrib.] D       2     172  1..       [>CR <Re>] [NTN <Pr>] [JHWH <Su>] [BJNW W-BJN BNJ JFR>L <Co>] [B-HR SJNJ <Lo>] [B-JD MCH <Aj>]

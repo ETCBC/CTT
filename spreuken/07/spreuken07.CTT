@@ -9,7 +9,7 @@
  PRO 07,04 2sgM ZIm0  << ZIm0  Q       1       9  4..        |       |  [>MR <Pr>] [L--XKMH <Co>]
                                =======                       |       |       |   |+===============================================================\
  PRO 07,04 ---- NmCl  <<  [Q]  QQ      11     10  7.q        |       |       |   || [>XTJ <PC>] [>T <Su>]
-                               =======                       |       |       |    +===============================================================/
+                               =======                       |       |       |   |+===============================================================/
  PRO 07,04 2sgM WxY0  << ZIm0  Q       1      11  6..        |       |       |  [W-<Cj>] [MD< <Ob>] [L--BJNH <Co>] [TQR> <Pr>]
  PRO 07,05 ---- InfC [adjunct] Q       1      12  5..        |       |      [L-CMRK <PO>] [M->CH ZRH <Co>]
  PRO 07,05 ---- Ellp  << InfC  Q       1      13  6l.        |       |          [M-NKRJH <Co>]
@@ -17,7 +17,7 @@
  PRO 07,06 1sg- xQt0  << ZIm0  Q       1      15  3..        |      [KJ <Cj>] [B-XLWN BJTJ <Aj>] [B<D >CNBJ <Co>] [NCQPTJ <Pr>]
                                -------                       |           |+-----------------------------------------------------------------------\
  PRO 07,07 1sg- Way0  << xQt0  QN      1      16  5..        |           || [W-<Cj>] [>R> <Pr>] [B--PT>JM <Aj>]
-                               -------                       |            +-----------------------------------------------------------------------/
+                               -------                       |           |+-----------------------------------------------------------------------/
  PRO 07,07 1sg- ZYq0  << xQt0  Q       1      17  4..        |          [>BJNH <Pr>] [B--BNJM <Aj>] [N<R XSR LB <Ob>]
  PRO 07,08 -sgM Ptcp [attrib.] Q       1      18  6..        |               |  [<BR <PC>] [B--CWQ <Co>] [>YL PNH <Aj>]
  PRO 07,08 3sgM WxY0 [coordin] Q       1      19  7..        |               |      [W-<Cj>] [DRK BJTH <Co>] [JY<D <Pr>]
@@ -25,7 +25,7 @@
  PRO 07,10 ---- NmCl  << ZYq0  Q       1      21  5..        |              [W-<Cj>] [HNH <Ij>] [>CH <PC>]
  PRO 07,10 ---- InfC [adjunct] Q       1      22  8..        |                   |   |  [L-QR>TW <PO>]
  PRO 07,10 ---- NmCl  << NmCl  Q       1      23  7..        |                   |  [CJT ZWNH <PC>]
- PRO 07,10 -sgM AjCl  << NmCl  Q       1      24  8..        |                   |      [W-<Cj>] [NYRT LB <PC>]
+ PRO 07,10 ---- AjCl  << NmCl  Q       1      24  8..        |                   |      [W-<Cj>] [NYRT LB <PC>]
  PRO 07,11 -sgF Ptcp  << NmCl  Q       1      25  6..        |                  [HMJH <PC>] [HJ> <Su>]
  PRO 07,11 -sgF Ptcp  << Ptcp  Q       1      26  9..        |                       |   |  [W-<Cj>] [SRRT <PC>]
  PRO 07,11 3plM xYqX  << Ptcp  Q       1      27  8..        |                       |  [B-BJTH <Co>] [L> <Ng>] [JCKNW <Pr>] [RGLJH <Su>]
@@ -45,7 +45,7 @@
  PRO 07,15 ---- InfC [adjunct] QNQ     12     39 16..        |                                   ||   |      |       |  [L-CXR <Pr>] [PNJK <Ob>]
                                -------                       |                                   ||   |      |    +-------------------------\
  PRO 07,15 1sg- Way0  << xQt0  QNQN    12     40 15..        |                                   ||   |      |    | [W-<Cj>] [>MY>K <PO>]
-                               -------                       |                                   ||   |           +-------------------------/
+                               -------                       |                                   ||   |      |    +-------------------------/
  PRO 07,16 1sg- xQt0  << NmCl  QNQ     12     41 13..        |                                   ||   |     [MRBDJM <Ob>] [RBDTJ <Pr>] [<RFJ <Ob>]
  PRO 07,16 ---- Ellp  << xQt0  QNQ     12     42 16l.        |                                   ||   |          |   |  [XVBWT / >VWN MYRJM <sp><Ob>]
  PRO 07,17 1sg- ZQt0  << xQt0  QNQ     12     43 15..        |                                   ||   |          |  [NPTJ <Pr>] [MCKBJ <Ob>] [MR >HLJM W-QNMWN <Ob>]
@@ -56,7 +56,7 @@
  PRO 07,19 3sgM ZQt0  << NmCl  QNQ     12     48 17..        |                                   ||   |                  |  [HLK <Pr>] [B-DRK <Co>] [M-RXWQ <Aj>]
  PRO 07,20 3sgM xQt0  << ZQt0  QNQ     12     49 18..        |                                   ||   |                  |      [YRWR H-KSP <Ob>] [LQX <Pr>] [B-JDW <Co>]
  PRO 07,20 3sgM xYq0  << NmCl  QNQ     12     50 16..        |                                   ||   |                 [L-JWM H-KS> <Ti>] [JB> <Pr>] [BJTW <Co>]
-                               -------                       |                                    +-----------------------------------------------/
+                               -------                       |                                   |+-----------------------------------------------/
  PRO 07,21 3sgF ZQt0  << ZQt0  Q       1      51 10..        |                                  [HVTW <PO>] [B-RB LQXH <Co>]
  PRO 07,21 3sgF xYq0  << ZQt0  Q       1      52 12..        |                                       |  [B-XLQ FPTJH <Co>] [TDJXNW <PO>]
  PRO 07,22 -sgM Ptcp  << ZQt0  Q       1      53 11..        |                                      [HWLK <PC>] [>XRJH <Co>] [PT>M <Mo>]

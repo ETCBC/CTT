@@ -1,35 +1,37 @@
  PS137,001 ---- CPen  <<  [R]  ?       1       1  0cN   [<L NHRWT BBL <Fr>]
-                               =======                 ==============================================================================================/
- PS137,001 1pl- xQt0 [resumpt] Q       1       2  4..        |   |   |  [CM <Lo>] [JCBNW <Pr>]
- PS137,001 1pl- xQt0  << xQt0  Q       1       3  5..        |   |   |      [GM <Mo>] [BKJNW <Pr>]
- PS137,001 ---- InfC [adjunct] Q       1       4  6..        |   |   |          [B-ZKRNW <Ps>] [>T YJWN <Ob>]
- PS137,002 1pl- xQt0  << CPen  Q       1       5  3..        |   |  [<L <RBJM / B-TWKH <sp><Co>] [TLJNW <Pr>] [KNRWTJNW <Ob>]
- PS137,003 3pl- xQtX  << xQt0  Q       1       6  5..        |   |       |  [KJ <Cj>] [CM <Lo>] [C>LWNW <PO>] [CWBJNW <Su>] [DBRJ CJR <Ob>]
- PS137,003 ---- Ellp  << xQtX  Q       1       7  7l.        |   |       |       |  [W-<Cj>] [TWLLJNW <Su>] [FMXH <Ob>]
-                               =======                       |   |       |    +===================================================================\
- PS137,003 2plM ZIm0  <<  [Q]  QQ      11      8  6.q        |   |       |   || [CJRW <Pr>] [LNW <Co>] [M-CJR YJWN <Co>]
-                               =======                       |   |            +===================================================================/
- PS137,004 1pl- xYq0  << xQt0  Q       1       9  4..        |   |      [>JK <Qu>] [NCJR <Pr>] [>T CJR JHWH <Ob>] [<L >DMT NKR <Aj>]
-                               =======                 ==============================================================================================/
- PS137,005 1sg- xYq0  << CPen  ?Q      12     10  2.#        |  [>M <Cj>] [>CKXK <PO>]
- PS137,005 ---- Voct  << xYq0  ?Q      12     11  4v.        |       |  [JRWCLM <Vo>]
- PS137,005 3sgF ZYqX  << xYq0  ?Q      12     12  3..        |      [TCKX <Pr>] [JMJNJ <Su>]
- PS137,006 3sgF ZYqX  << ZYqX  ?Q      12     13  3..        |      [TDBQ <Pr>] [LCWNJ <Su>] [L-XKJ <Co>]
- PS137,006 1sg- xYq0  << ZYqX  ?Q      12     14  5..        |           |  [>M <Cj>] [L> <Ng>] [>ZKRKJ <PO>]
- PS137,006 1sg- xYq0  << ZYqX  ?Q      12     15  4..        |          [>M <Cj>] [L> <Ng>] [><LH <Pr>] [>T JRWCLM <Ob>] [<L R>C FMXTJ <Co>]
- PS137,007 2sgM ZIm0  << CPen  ?Q      13     16  1.#       [ZKR <Pr>]
- PS137,007 ---- Voct  << ZIm0  ?Q      13     17  4ve            |   |  [JHWH <Vo>]
- PS137,007 ---- Defc  << ZIm0  ?Q      13     18  3d.            |  [L-BNJ >DWM <Co>] [>T JWM JRWCLM <Ob>]
- PS137,007 -plM Ptcp [attrib.] ?Q      13     19  4..            |      [H-<Re>] [>MRJM <PC>]
-                               =======                           |         ====================================================================\
- PS137,007 2plM ZIm0  <<  [Q]  ?QQ     131    20  5.q            |          [<RW <Pr>]
- PS137,007 2plM ZIm0  << ZIm0  ?QQ     131    21  5..            |          [<RW <Pr>] [<D H-JSWD / BH <sp><Aj>]
-                               =======                                     ====================================================================/
- PS137,008 ---- Voct  << ZIm0  ?Q      132    22  2v#           [BT BBL <Vo>]
- PS137,008 -sgF Ptcp [attrib.] ?Q      132    23  4..                |  [H-<Re>] [CDWDH <PC>]
- PS137,008 ---- NmCl [ref.Voc] ?Q      132    24  3..               [>CRJ <PC>]
- PS137,008 3sgM xYq0 [reg/rec] ?Q      132    25  4..                |  [C-<Re>] [JCLM <Pr>] [LK <Co>] [>T GMWLK <Ob>]
- PS137,008 2sgF xQt0 [attrib.] ?Q      132    26  5..                |      [C-<Re>] [GMLT <Pr>] [LNW <Co>]
- PS137,009 ---- NmCl  << NmCl  ?Q      132    27  3..               [>CRJ <PC>]
- PS137,009 3sgM xYq0 [reg/rec] ?Q      132    28  4..                   [C-<Re>] [J>XZ <Pr>]
- PS137,009 3sgM WQt0 [coordin] ?Q      132    29  5..                       [W-<Cj>] [NPY <Pr>] [>T <LLJK <Ob>] [>L H-SL< <Co>]
+                               =======                       |   |   |+==============================================================================\
+ PS137,001 1pl- xQt0 [resumpt] Q       1       2  4..        |   |   || [CM <Lo>] [JCBNW <Pr>]
+ PS137,001 1pl- xQt0  << xQt0  Q       1       3  5..        |   |   ||     [GM <Mo>] [BKJNW <Pr>]
+ PS137,001 ---- InfC [adjunct] Q       1       4  6..        |   |   ||         [B-ZKRNW <Ps>] [>T YJWN <Ob>]
+                               =======                       |   |+==================================================================================\
+ PS137,002 1pl- xQt0  << CPen  Q       1       5  3..        |   || [<L <RBJM / B-TWKH <sp><Co>] [TLJNW <Pr>] [KNRWTJNW <Ob>]
+ PS137,003 3pl- xQtX  << xQt0  Q       1       6  5..        |   ||      |  [KJ <Cj>] [CM <Lo>] [C>LWNW <PO>] [CWBJNW <Su>] [DBRJ CJR <Ob>]
+ PS137,003 ---- Ellp  << xQtX  Q       1       7  7l.        |   ||      |       |  [W-<Cj>] [TWLLJNW <Su>] [FMXH <Ob>]
+                               =======                       |   ||      |    +===================================================================\
+ PS137,003 2plM ZIm0  <<  [Q]  QQ      11      8  6.q        |   ||      |    | [CJRW <Pr>] [LNW <Co>] [M-CJR YJWN <Co>]
+                               =======                       |   ||      |    +===================================================================/
+ PS137,004 1pl- xYq0  << xQt0  Q       1       9  4..        |   ||     [>JK <Qu>] [NCJR <Pr>] [>T CJR JHWH <Ob>] [<L >DMT NKR <Aj>]
+                               =======                       |+===================================================================================\
+ PS137,005 1sg- xYq0  << CPen  ?Q      12     10  2.#        || [>M <Cj>] [>CKXK <PO>]
+ PS137,005 ---- Voct  << xYq0  ?Q      12     11  4v.        ||      |  [JRWCLM <Vo>]
+ PS137,005 3sgF ZYqX  << xYq0  ?Q      12     12  3..        ||     [TCKX <Pr>] [JMJNJ <Su>]
+ PS137,006 3sgF ZYqX  << ZYqX  ?Q      12     13  3..        ||     [TDBQ <Pr>] [LCWNJ <Su>] [L-XKJ <Co>]
+ PS137,006 1sg- xYq0  << ZYqX  ?Q      12     14  5..        ||          |  [>M <Cj>] [L> <Ng>] [>ZKRKJ <PO>]
+ PS137,006 1sg- xYq0  << ZYqX  ?Q      12     15  4..        ||         [>M <Cj>] [L> <Ng>] [><LH <Pr>] [>T JRWCLM <Ob>] [<L R>C FMXTJ <Co>]
+                               =======                    +=======================================================================================\
+ PS137,007 2sgM ZIm0  << CPen  ?Q      13     16  1.#     | [ZKR <Pr>]
+ PS137,007 ---- Voct  << ZIm0  ?Q      13     17  4ve     |      |   |  [JHWH <Vo>]
+ PS137,007 ---- Defc  << ZIm0  ?Q      13     18  3d.     |      |  [L-BNJ >DWM <Co>] [>T JWM JRWCLM <Ob>]
+ PS137,007 -plM Ptcp [attrib.] ?Q      13     19  4..     |      |      [H-<Re>] [>MRJM <PC>]
+                               =======                    |      |        +====================================================================\
+ PS137,007 2plM ZIm0  <<  [Q]  ?QQ     131    20  5.q     |      |        | [<RW <Pr>]
+ PS137,007 2plM ZIm0  << ZIm0  ?QQ     131    21  5..     |      |        | [<RW <Pr>] [<D H-JSWD / BH <sp><Aj>]
+                               =======                    |      |        +====================================================================/
+ PS137,008 ---- Voct  << ZIm0  ?Q      132    22  2v#     |     [BT BBL <Vo>]
+ PS137,008 -sgF Ptcp [attrib.] ?Q      132    23  4..     |          |  [H-<Re>] [CDWDH <PC>]
+ PS137,008 ---- NmCl [ref.Voc] ?Q      132    24  3..     |         [>CRJ <PC>]
+ PS137,008 3sgM xYq0 [reg/rec] ?Q      132    25  4..     |          |  [C-<Re>] [JCLM <Pr>] [LK <Co>] [>T GMWLK <Ob>]
+ PS137,008 2sgF xQt0 [attrib.] ?Q      132    26  5..     |          |      [C-<Re>] [GMLT <Pr>] [LNW <Co>]
+ PS137,009 ---- NmCl  << NmCl  ?Q      132    27  3..     |         [>CRJ <PC>]
+ PS137,009 3sgM xYq0 [reg/rec] ?Q      132    28  4..     |             [C-<Re>] [J>XZ <Pr>]
+ PS137,009 3sgM WQt0 [coordin] ?Q      132    29  5..     |                 [W-<Cj>] [NPY <Pr>] [>T <LLJK <Ob>] [>L H-SL< <Co>]

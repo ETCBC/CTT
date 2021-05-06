@@ -1,7 +1,7 @@
  PS102,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [TPLH / L-<NJ <sp><PC>]
  PS102,001 3sgM xYq0  << NmCl  ?       1       2  1..    |  [KJ <Cj>] [J<VP <Pr>]
  PS102,001 3sgM WxY0 [coordin] ?       1       3  2..    |      [W-<Cj>] [L-PNJ JHWH <Co>] [JCPK <Pr>] [FJXW <Ob>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PS102,002 ---- Voct  << NmCl  Q       2       4  0vN   [JHWH <Vo>]
  PS102,002 2sgM ZIm0 [ref.Voc] Q       2       5  2..        |  [CM<H <Pr>] [TPLTJ <Ob>]
  PS102,002 3sgF WXYq  << ZIm0  Q       2       6  5..        |       |   |  [W-<Cj>] [CW<TJ <Su>] [>LJK <Co>] [TBW> <Pr>]
@@ -18,7 +18,7 @@
  PS102,005 3sgM ZQt0 [coordin] Q       2      17  7..        |               |      [HWKH <Pr>] [K--<FB <Aj>]
                                -------                       |               |           |+-------------------------------------------------------\
  PS102,005 3sgM WayX [coordin] QN      21     18  9.#        |               |           || [W-<Cj>] [JBC <Pr>] [LBJ <Su>]
-                               -------                       |               |            +-------------------------------------------------------/
+                               -------                       |               |           |+-------------------------------------------------------/
  PS102,005 1sg- xQt0  << ZQt0  Q       2      19  8..        |               |          [KJ <Cj>] [CKXTJ <Pr>]
  PS102,005 ---- InfC [object ] Q       2      20  9..        |               |              [M->KL <Pr>] [LXMJ <Ob>]
  PS102,006 3sgF xQtX  << ZIm0  Q       2      21  5..        |              [M-QWL >NXTJ <Aj>] [DBQH <Pr>] [<YMJ <Su>] [L-BFRJ <Co>]
@@ -26,9 +26,9 @@
  PS102,007 1sg- ZQt0  << ZQt0  Q       2      23  7..        |                   |  [HJJTJ <Pr>] [K-KWS XRBWT <PC>]
  PS102,008 1sg- ZQt0  << ZQt0  Q       2      24  8..        |                   |      [CQDTJ <Pr>]
                                -------                       |                   |        +-------------------------------------------------------\
- PS102,008 1sg- Way0  << ZQt0  QN      2      25  9..        |                   |       || [W-<Cj>] [>HJH <Pr>] [K-YPWR <PC>]
- PS102,008 -sgM Ptcp [attrib.] QN      2      26 10..        |                   |       ||     [BWDD <PC>] [<L GG <Lo>]
-                               -------                       |                            +-------------------------------------------------------/
+ PS102,008 1sg- Way0  << ZQt0  QN      2      25  9..        |                   |        | [W-<Cj>] [>HJH <Pr>] [K-YPWR <PC>]
+ PS102,008 -sgM Ptcp [attrib.] QN      2      26 10..        |                   |        |     [BWDD <PC>] [<L GG <Lo>]
+                               -------                       |                   |        +-------------------------------------------------------/
  PS102,009 3pl- xQtX  << xQtX  Q       2      27  6..        |                  [KL H-JWM <Ti>] [XRPWNJ <PO>] [>WJBJ <Su>]
  PS102,009 3pl- XQtl  << xQtX  Q       2      28  8..        |                       |  [MHWLLJ <Su>] [BJ <Co>] [NCB<W <Pr>]
  PS102,010 1sg- xQt0  << XQtl  Q       2      29  9..        |                       |      [KJ <Cj>] [>PR <Ob>] [K--LXM <Aj>] [>KLTJ <Pr>]
@@ -36,8 +36,8 @@
  PS102,011 ---- Ellp  << xQt0  Q       2      31 11l.        |                       |           |  [M-PNJ Z<MK W-QYPK <Aj>]
  PS102,011 2sgM xQt0  << xQt0  Q       2      32 10..        |                       |          [KJ <Cj>] [NF>TNJ <PO>]
                                -------                       |                       |            +-----------------------------------------------\
- PS102,011 2sgM Way0 [coordin] QN      2      33 11..        |                       |           || [W-<Cj>] [TCLJKNJ <PO>]
-                               -------                       |                                    +-----------------------------------------------/
+ PS102,011 2sgM Way0 [coordin] QN      2      33 11..        |                       |            | [W-<Cj>] [TCLJKNJ <PO>]
+                               -------                       |                       |            +-----------------------------------------------/
  PS102,012 ---- NmCl  << xQtX  Q       2      34  7..        |                      [JMJ <Su>] [K-YL NVWJ <PC>]
  PS102,012 1sg- WXYq  << NmCl  Q       2      35  8..        |                          [W-<Cj>] [>NJ <Su>] [K--<FB <Aj>] [>JBC <Pr>]
  PS102,013 ---- Defc  << Voct  Q       2      36  1d.       [W-<Cj>] [>TH <Su>]

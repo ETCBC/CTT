@@ -22,7 +22,7 @@
  JOZ 05,04 ---- Defc  << CPen  N       13     20  7d.    |   |           |   |   |  [H-ZKRJM <sp>]
  JOZ 05,04 3pl- XQtl [resumpt] N       13     21  6..    |   |           |   |  [KL >NCJ H-MLXMH <Su>] [MTW <Pr>] [B--MDBR / B--DRK <sp><Lo>]
  JOZ 05,04 ---- InfC [adjunct] N       13     22  7..    |   |           |   |      [B-Y>TM <Ps>] [M-MYRJM <Co>]
- JOZ 05,05 3pl- xQtX  << CPen  N       13     23  5..    |   |           |  [KJ <Cj>] [MLJM <PC>] [HJW <Pr>] [KL H-<M <Su>]
+ JOZ 05,05 3plM xQtX  << CPen  N       13     23  5..    |   |           |  [KJ <Cj>] [MLJM <PC>] [HJW <Pr>] [KL H-<M <Su>]
  JOZ 05,05 -plM Ptcp [attrib.] N       13     24  7..    |   |           |       |  [H-<Re>] [JY>JM <PC>]
  JOZ 05,05 ---- Defc  << xQtX  N       13     25  6d.    |   |           |      [W-<Cj>] [KL H-<M <Su>]
  JOZ 05,05 -plM AjCl [attrib.] N       13     26  8..    |   |           |           |  [H-<Re>] [JLDJM <PC>] [B--MDBR / B--DRK <sp><Lo>]
@@ -39,7 +39,7 @@
  JOZ 05,06 ---- Defc  << InfC  N       13     37 10d.    |   |                           |      [>RY ZBT XLB W-DBC <sp>]
  JOZ 05,07 3sgM WxQ0  << xQtX  N       13     38  8..    |   |                          [W-<Cj>] [>T BNJHM <Ob>] [HQJM <Pr>] [TXTM <Co>]
  JOZ 05,07 3sgM xQtX  << WxQ0  N       13     39  9..    |   |                              [>TM <Ob>] [ML <Pr>] [JHWC< <Su>]
- JOZ 05,07 3pl- xQt0  << xQtX  N       13     40 10..    |   |                                  [KJ <Cj>] [<RLJM <PC>] [HJW <Pr>]
+ JOZ 05,07 3plM xQt0  << xQtX  N       13     40 10..    |   |                                  [KJ <Cj>] [<RLJM <PC>] [HJW <Pr>]
  JOZ 05,07 3pl- xQt0  << xQt0  N       13     41 11..    |   |                                      [KJ <Cj>] [L> <Ng>] [MLW <Pr>] [>WTM <Ob>] [B--DRK <Lo>]
  JOZ 05,08 3sgM Way0  << WayX  N       14     42  1.#    |  [W-<Cj>] [JHJ <Pr>]
  JOZ 05,08 3pl- xQtX [adjunct] N       14     43  3..    |   |   |  [K->CR <Cj>] [TMW <Pr>] [KL H-GWJ <Su>]
@@ -48,8 +48,8 @@
  JOZ 05,08 ---- InfC [adjunct] N       14     46  3..    |   |      [<D XJWTM <Ps>]
  JOZ 05,09 3sgM WayX  << Way0  N       15     47  1.#    |  [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L JHWC< <Co>]
                                =======                   |       |+===============================================================================\
- JOZ 05,09 1sg- xQt0  <<  [Q]  NQ      151    48  3.q    |        | [H-JWM <Ti>] [GLWTJ <Pr>] [>T XRPT MYRJM <Ob>] [M-<LJKM <Co>]
-                               =======                   |        +===============================================================================/
+ JOZ 05,09 1sg- xQt0  <<  [Q]  NQ      151    48  3.q    |       || [H-JWM <Ti>] [GLWTJ <Pr>] [>T XRPT MYRJM <Ob>] [M-<LJKM <Co>]
+                               =======                   |       |+===============================================================================/
  JOZ 05,09 3sgM Way0  << WayX  N       15     49  2..    |      [W-<Cj>] [JQR> <Pr>] [CM H-MQWM H-HW> <Ob>] [GLGL <Ob>] [<D H-JWM H-ZH <Ti>]
  JOZ 05,10 3plM WayX  << Way0  N       152    50  3.#    |          [W-<Cj>] [JXNW <Pr>] [BNJ JFR>L <Su>] [B--GLGL <Co>]
  JOZ 05,10 3plM Way0  << WayX  N       152    51  4..    |              [W-<Cj>] [J<FW <Pr>] [>T H-PSX <Ob>] [B->RB<H <FR JWM / L--XDC / B--<RB <sp><sp><Ti>] [B-<RBWT JRJXW <Lo>]
@@ -69,18 +69,18 @@
                                =======                       |   |+===============================================================================\
  JOZ 05,13 ---- NmCl  <<  [Q]  NQ      211    65  3.q        |   || [H-<Qu>] [LNW <PC>] [>TH <Su>]
  JOZ 05,13 ---- NmCl  << NmCl  NQ      211    66  4..        |   ||     [>M <Cj>] [L-YRJNW <PC>]
-                               =======                       |    +===============================================================================/
+                               =======                       |   |+===============================================================================/
  JOZ 05,14 3sgM Way0  << Way0  N       212    67  2.#        |  [W-<Cj>] [J>MR <Pr>]
                                =======                       |    +===============================================================================\
- JOZ 05,14 ---- NmCl  <<  [Q]  NQ      2121   68  3.q        |   || [L> <Ng>]
- JOZ 05,14 ---- NmCl  << NmCl  NQ      2121   69  5..        |   ||      |  [KJ <Cj>] [>NJ <Su>] [FR YB> JHWH <PC>]
- JOZ 05,14 1sg- xQt0  << NmCl  NQ      2121   70  4..        |   ||     [<TH <Mo>] [B>TJ <Pr>]
+ JOZ 05,14 ---- NmCl  <<  [Q]  NQ      2121   68  3.q        |    | [L> <Ng>]
+ JOZ 05,14 ---- NmCl  << NmCl  NQ      2121   69  5..        |    |      |  [KJ <Cj>] [>NJ <Su>] [FR YB> JHWH <PC>]
+ JOZ 05,14 1sg- xQt0  << NmCl  NQ      2121   70  4..        |    |     [<TH <Mo>] [B>TJ <Pr>]
                                =======                       |    +===============================================================================/
  JOZ 05,14 3sgM WayX  << WayX  N       22     71  1.#       [W-<Cj>] [JPL <Pr>] [JHWC< <Su>] [>L PNJW <Co>] [>RYH <Co>]
  JOZ 05,14 3sgM Way0  << WayX  N       22     72  2..        |  [W-<Cj>] [JCTXW <Pr>]
  JOZ 05,14 3sgM Way0  << Way0  N       22     73  2..        |  [W-<Cj>] [J>MR <Pr>] [LW <Co>]
                                =======                       |    +===============================================================================\
- JOZ 05,14 -sgM Ptcp  <<  [Q]  NQ      221    74  3.q        |   || [MH <Ob>] [>DNJ <Su>] [MDBR <PC>] [>L <BDW <Co>]
+ JOZ 05,14 -sgM Ptcp  <<  [Q]  NQ      221    74  3.q        |    | [MH <Ob>] [>DNJ <Su>] [MDBR <PC>] [>L <BDW <Co>]
                                =======                       |    +===============================================================================/
  JOZ 05,15 3sgM WayX  << WayX  N       23     75  1.#       [W-<Cj>] [J>MR <Pr>] [FR YB> JHWH <Su>] [>L JHWC< <Co>]
                                =======                       |+===================================================================================\
@@ -88,5 +88,5 @@
  JOZ 05,15 ---- CPen  << ZIm0  NQ      231    77  3c.        ||     [KJ <Cj>] [H-MQWM <Fr>]
  JOZ 05,15 -sgM Ptcp [attrib.] NQ      231    78  5..        ||          |  [>CR <Re>] [>TH <Su>] [<MD <PC>] [<LJW <Co>]
  JOZ 05,15 ---- NmCl [resumpt] NQ      231    79  4..        ||         [QDC <PC>] [HW> <Su>]
-                               =======                        +===================================================================================/
+                               =======                       |+===================================================================================/
  JOZ 05,15 3sgM WayX  << WayX  N       24     80  1.#       [W-<Cj>] [J<F <Pr>] [JHWC< <Su>] [KN <Mo>]

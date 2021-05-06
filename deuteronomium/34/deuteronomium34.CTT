@@ -5,15 +5,15 @@
  DEUT34,03 ---- Ellp  << Ellp  N       2       5  1l.    |  [W-<Cj>] [>T H-NGB W->T H-KKR / BQ<T JRXW / <JR H-TMRJM / <D Y<R <sp><ap><sp><Ob>]
  DEUT34,04 3sgM WayX  << WayX  N       3       6  0.#   [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>LJW <Co>]
                                =======                   |+=======================================================================================\
- DEUT34,04 ---- NmCl  <<  [Q]  NQ      31      7  1.q     | [Z>T <Su>] [H->RY <PC>]
- DEUT34,04 1sg- xQt0 [attrib.] NQ      31      8  3..     |      |  [>CR <Re>] [NCB<TJ <Pr>] [L->BRHM L-JYXQ W-L-J<QB <Co>]
- DEUT34,04 ---- InfC [adjunct] NQ      31      9  4..     |      |      [L->MR <Pr>]
+ DEUT34,04 ---- NmCl  <<  [Q]  NQ      31      7  1.q    || [Z>T <Su>] [H->RY <PC>]
+ DEUT34,04 1sg- xQt0 [attrib.] NQ      31      8  3..    ||      |  [>CR <Re>] [NCB<TJ <Pr>] [L->BRHM L-JYXQ W-L-J<QB <Co>]
+ DEUT34,04 ---- InfC [adjunct] NQ      31      9  4..    ||      |      [L->MR <Pr>]
                                =======                   ||      |        +====================================================================\
- DEUT34,04 1sg- xYq0  <<  [Q]  NQQ     311    10  5.q     |      |       || [L-ZR<K <Co>] [>TNNH <PO>]
-                               =======                   ||               +====================================================================/
- DEUT34,04 1sg- ZQt0  << NmCl  NQ      31     11  2..     |     [HR>JTJK <PO>] [B-<JNJK <Aj>]
- DEUT34,04 2sgM WxY0  << ZQt0  NQ      31     12  3..     |         [W-<Cj>] [CMH <Co>] [L> <Ng>] [T<BR <Pr>]
-                               =======                    +=======================================================================================/
+ DEUT34,04 1sg- xYq0  <<  [Q]  NQQ     311    10  5.q    ||      |        | [L-ZR<K <Co>] [>TNNH <PO>]
+                               =======                   ||      |        +====================================================================/
+ DEUT34,04 1sg- ZQt0  << NmCl  NQ      31     11  2..    ||     [HR>JTJK <PO>] [B-<JNJK <Aj>]
+ DEUT34,04 2sgM WxY0  << ZQt0  NQ      31     12  3..    ||         [W-<Cj>] [CMH <Co>] [L> <Ng>] [T<BR <Pr>]
+                               =======                   |+=======================================================================================/
  DEUT34,05 3sgM WayX  << WayX  N       4      13  0.#   [W-<Cj>] [JMT <Pr>] [CM <Lo>] [MCH / <BD JHWH <ap><Su>] [B->RY MW>B <Aj>] [<L PJ JHWH <Aj>]
  DEUT34,06 3sgM Way0  << WayX  N       4      14  5..        |   |   |   |  [W-<Cj>] [JQBR <Pr>] [>TW <Ob>] [B--GJ / B->RY MW>B / MWL BJT_P<WR <sp><sp><Lo>]
  DEUT34,06 3sgM WxQX  << Way0  N       4      15  6..        |   |   |   |      [W-<Cj>] [L> <Ng>] [JD< <Pr>] [>JC <Su>] [>T QBRTW <Ob>] [<D H-JWM H-ZH <Ti>]

@@ -7,14 +7,14 @@
  ESR 09,02 3pl- xQt0  << xQtX  QQ      11      6  4..    |        |     [KJ <Cj>] [NF>W <Pr>] [M-BNTJHM <Aj>] [LHM W-L-BNJHM <Co>]
  ESR 09,02 3pl- WQtX  << xQt0  QQ      11      7  6..    |        |          |  [W-<Cj>] [HT<RBW <Pr>] [ZR< H-QDC <Su>] [B-<MJ H->RYWT <Co>]
  ESR 09,02 3sgF WXQt  << xQt0  QQ      111     8  5.#    |        |         [W-<Cj>] [JD H-FRJM W-H-SGNJM <Su>] [HJTH <Pr>] [B--M<L H-ZH <Aj>] [R>CWNH <PC>]
-                               =======                            +===============================================================================/
+                               =======                   |        +===============================================================================/
  ESR 09,03 ---- Defc  << Defc  Q       1       9  0d.   [W-<Cj>]
  ESR 09,03 ---- InfC [adjunct] Q       1      10  5.\        |   |   |   |  [K-CM<J <Ps>] [>T H-DBR H-ZH <Ob>]
  ESR 09,03 1sg- ZQt0  << Defc  Q       1      11  4..        |   |   |  [QR<TJ <Pr>] [>T BGDJ W-M<JLJ <Ob>]
                                -------                       |   |+-------------------------------------------------------------------------------\
  ESR 09,03 1sg- Way0  << Defc  QN      1      12  3..        |   || [W-<Cj>] [>MRVH <Pr>] [M-F<R R>CJ W-ZQNJ <Co>]
  ESR 09,03 1sg- Way0  << Way0  QN      1      13  3..        |   || [W-<Cj>] [>CBH <Pr>] [MCWMM <Pj>]
-                               -------                       |    +-------------------------------------------------------------------------------/
+                               -------                       |   |+-------------------------------------------------------------------------------/
  ESR 09,04 3plM WxYX  << Defc  Q       1      14  2..        |  [W-<Cj>] [>LJ <Co>] [J>SPW <Pr>] [KL <Su>]
  ESR 09,04 -sgM AjCl [reg/rec] Q       1      15  4..        |       |  [XRD <PC>] [B-DBRJ >LHJ JFR>L <Co>] [<L M<L H-GWLH <Aj>]
  ESR 09,04 -sgM Ptcp  << WxYX  Q       1      16  3..        |      [W-<Cj>] [>NJ <Su>] [JCB <PC>] [MCWMM <Pj>] [<D L-MNXT H-<RB <Ti>]
@@ -45,12 +45,12 @@
  ESR 09,09 ---- NmCl  << xQtX  QNQ     12     39  9..         |   |  |       |              [KJ <Cj>] [<BDJM <PC>] [>NXNW <Su>]
  ESR 09,09 3sgM WxQX  << NmCl  QNQ     12     40 10..         |   |  |       |                  [W-<Cj>] [B-<BDTNW <Aj>] [L> <Ng>] [<ZBNW <PO>] [>LHJNW <Su>]
                                -------                        |   |  |       |                    +-----------------------------------------\
- ESR 09,09 3sgM Way0  << WxQX  QNQN    12     41 11..         |   |  |       |                   || [W-<Cj>] [JV <Pr>] [<LJNW <Co>] [XSD <Ob>] [L-PNJ MLKJ PRS <Aj>]
- ESR 09,09 ---- InfC [adjunct] QNQN    12     42 12..         |   |  |       |                   ||     [L-TT <Pr>] [LNW <Co>] [MXJH <Ob>]
- ESR 09,09 ---- InfC [adjunct] QNQN    12     43 13..         |   |  |       |                   ||         [L-RWMM <Pr>] [>T BJT >LHJNW <Ob>]
- ESR 09,09 ---- InfC [coordin] QNQN    12     44 14..         |   |  |       |                   ||             [W-<Cj>] [L-H<MJD <Pr>] [>T XRBTJW <Ob>]
- ESR 09,09 ---- InfC [coordin] QNQN    12     45 14..         |   |  |       |                   ||             [W-<Cj>] [L-TT <Pr>] [LNW <Co>] [GDR <Ob>] [B-JHWDH W-B-JRWCLM <Lo>]
-                               -------                        |   |  |                            +-----------------------------------------/
+ ESR 09,09 3sgM Way0  << WxQX  QNQN    12     41 11..         |   |  |       |                    | [W-<Cj>] [JV <Pr>] [<LJNW <Co>] [XSD <Ob>] [L-PNJ MLKJ PRS <Aj>]
+ ESR 09,09 ---- InfC [adjunct] QNQN    12     42 12..         |   |  |       |                    |     [L-TT <Pr>] [LNW <Co>] [MXJH <Ob>]
+ ESR 09,09 ---- InfC [adjunct] QNQN    12     43 13..         |   |  |       |                    |         [L-RWMM <Pr>] [>T BJT >LHJNW <Ob>]
+ ESR 09,09 ---- InfC [coordin] QNQN    12     44 14..         |   |  |       |                    |             [W-<Cj>] [L-H<MJD <Pr>] [>T XRBTJW <Ob>]
+ ESR 09,09 ---- InfC [coordin] QNQN    12     45 14..         |   |  |       |                    |             [W-<Cj>] [L-TT <Pr>] [LNW <Co>] [GDR <Ob>] [B-JHWDH W-B-JRWCLM <Lo>]
+                               -------                        |   |  |       |                    +-----------------------------------------/
  ESR 09,10 ---- MSyn  << ZQt0  QNQ     12     46  5m.         |   |  |      [W-<Cj>] [<TH <Ti>]
  ESR 09,10 1pl- xYq0  << MSyn  QNQ     12     47  6..         |   |  |          [MH <Ob>] [N>MR <Pr>]
  ESR 09,10 ---- Voct  << xYq0  QNQ     12     48 10ve         |   |  |               |   |   |  [>LHJNW <Vo>]
@@ -59,19 +59,19 @@
  ESR 09,11 2sgM xQt0 [attrib.] QNQ     12     51  9..         |   |  |               |      [>CR <Re>] [YWJT <Pr>] [B-JD <BDJK / H-NBJ>JM <ap><Co>]
  ESR 09,11 ---- InfC [adjunct] QNQ     12     52 10..         |   |  |               |          [L->MR <Pr>]
                                =======                        |   |  |               |            +=========================================\
- ESR 09,11 ---- CPen  <<  [Q]  QNQQ    122    53 11cq         |   |  |               |           || [H->RY <Fr>]
- ESR 09,11 -plM Ptcp [attrib.] QNQQ    122    54 14..         |   |  |               |           ||      |   |  [>CR <Re>] [>TM <Su>] [B>JM <PC>]
- ESR 09,11 ---- InfC [adjunct] QNQQ    122    55 15..         |   |  |               |           ||      |   |      [L-RCTH <PO>]
- ESR 09,11 ---- NmCl [resumpt] QNQQ    122    56 13..         |   |  |               |           ||      |  [>RY NDH <PC>] [HJ> <Su>] [B-NDT <MJ H->RYWT / B-TW<BTJHM <sp><Aj>]
- ESR 09,11 3pl- xQt0 [attrib.] QNQQ    122    57 14..         |   |  |               |           ||      |      [>CR <Re>] [ML>WH <PO>] [M-PH / >L PH <sp><Aj>] [B-VM>TM <Co>]
- ESR 09,12 ---- MSyn  << CPen  QNQQ    122    58 12m.         |   |  |               |           ||     [W-<Cj>] [<TH <Ti>]
- ESR 09,12 2plM xYq0  << MSyn  QNQQ    122    59 13..         |   |  |               |           ||         [BNWTJKM <Ob>] [>L <Ng>] [TTNW <Pr>] [L-BNJHM <Co>]
- ESR 09,12 2plM WxY0  << xYq0  QNQQ    122    60 15..         |   |  |               |           ||              |  [W-<Cj>] [BNTJHM <Ob>] [>L <Ng>] [TF>W <Pr>] [L-BNJKM <Co>]
- ESR 09,12 2plM WxY0  << xYq0  QNQQ    122    61 14..         |   |  |               |           ||             [W-<Cj>] [L> <Ng>] [TDRCW <Pr>] [CLMM W-VWBTM <Ob>] [<D <WLM <Ti>]
- ESR 09,12 2plM xYq0  << WxY0  QNQQ    122    62 15..         |   |  |               |           ||                 [LM<N <Cj>] [TXZQW <Pr>]
- ESR 09,12 2plM WQt0  << xYq0  QNQQ    122    63 16..         |   |  |               |           ||                     [W-<Cj>] [>KLTM <Pr>] [>T VWB H->RY <Ob>]
- ESR 09,12 2plM WQt0  << WQt0  QNQQ    122    64 16..         |   |  |               |           ||                     [W-<Cj>] [HWRCTM <Pr>] [L-BNJKM <Co>] [<D <WLM <Ti>]
-                               =======                        |   |  |                            +=========================================/
+ ESR 09,11 ---- CPen  <<  [Q]  QNQQ    122    53 11cq         |   |  |               |            | [H->RY <Fr>]
+ ESR 09,11 -plM Ptcp [attrib.] QNQQ    122    54 14..         |   |  |               |            |      |   |  [>CR <Re>] [>TM <Su>] [B>JM <PC>]
+ ESR 09,11 ---- InfC [adjunct] QNQQ    122    55 15..         |   |  |               |            |      |   |      [L-RCTH <PO>]
+ ESR 09,11 ---- NmCl [resumpt] QNQQ    122    56 13..         |   |  |               |            |      |  [>RY NDH <PC>] [HJ> <Su>] [B-NDT <MJ H->RYWT / B-TW<BTJHM <sp><Aj>]
+ ESR 09,11 3pl- xQt0 [attrib.] QNQQ    122    57 14..         |   |  |               |            |      |      [>CR <Re>] [ML>WH <PO>] [M-PH / >L PH <sp><Aj>] [B-VM>TM <Co>]
+ ESR 09,12 ---- MSyn  << CPen  QNQQ    122    58 12m.         |   |  |               |            |     [W-<Cj>] [<TH <Ti>]
+ ESR 09,12 2plM xYq0  << MSyn  QNQQ    122    59 13..         |   |  |               |            |         [BNWTJKM <Ob>] [>L <Ng>] [TTNW <Pr>] [L-BNJHM <Co>]
+ ESR 09,12 2plM WxY0  << xYq0  QNQQ    122    60 15..         |   |  |               |            |              |  [W-<Cj>] [BNTJHM <Ob>] [>L <Ng>] [TF>W <Pr>] [L-BNJKM <Co>]
+ ESR 09,12 2plM WxY0  << xYq0  QNQQ    122    61 14..         |   |  |               |            |             [W-<Cj>] [L> <Ng>] [TDRCW <Pr>] [CLMM W-VWBTM <Ob>] [<D <WLM <Ti>]
+ ESR 09,12 2plM xYq0  << WxY0  QNQQ    122    62 15..         |   |  |               |            |                 [LM<N <Cj>] [TXZQW <Pr>]
+ ESR 09,12 2plM WQt0  << xYq0  QNQQ    122    63 16..         |   |  |               |            |                     [W-<Cj>] [>KLTM <Pr>] [>T VWB H->RY <Ob>]
+ ESR 09,12 2plM WQt0  << WQt0  QNQQ    122    64 16..         |   |  |               |            |                     [W-<Cj>] [HWRCTM <Pr>] [L-BNJKM <Co>] [<D <WLM <Ti>]
+                               =======                        |   |  |               |            +=========================================/
  ESR 09,13 ---- CPen  << xYq0  QNQ     12     65  7c.         |   |  |              [W-<Cj>] [>XRJ KL <PC>]
  ESR 09,13 -sgM Ptcp [reg/rec] QNQ     12     66  9..         |   |  |                   |  [H-<Re>] [B> <PC>] [<LJNW <Co>] [B-M<FJNW H-R<JM W-B->CMTNW H-GDLH <Aj>]
  ESR 09,13 ---- Defc  << Ptcp  QNQ     12     67 10d.         |   |  |                   |      [KJ <Cj>] [>TH <Su>]

@@ -2,7 +2,7 @@ RICHT05,01 3sgF WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [TCR <Pr>] [DBW
 RICHT05,01 ---- InfC [adjunct] N       1       2  1..    |  [L->MR <Pr>]
                                =======                   |    +===================================================================================\
 RICHT05,02 ---- InfC [adjunct] NQ      11      3  3.\    |    |  |  [B-PR< <Pr>] [PR<WT <Ob>] [B-JFR>L <Co>]
-RICHT05,02 ---- InfC [coordin] NQ      11      4  4..    |    |  |      [B-HTNDB <Pr>] [<M <Su>]
+RICHT05,02 ---- InfC [coordin] NQ      11      4  4..    |    |  |   |  [B-HTNDB <Pr>] [<M <Su>]
 RICHT05,02 2plM ZIm0  <<  [Q]  NQ      11      5  2.q    |    | [BRKW <Pr>] [JHWH <Ob>]
 RICHT05,03 2plM ZIm0  << ZIm0  NQ      11      6  3..    |    |  |  [CM<W <Pr>]
 RICHT05,03 ---- Voct  << ZIm0  NQ      11      7  4v.    |    |  |   |  [MLKJM <Vo>]
@@ -13,7 +13,7 @@ RICHT05,03 1sg- XYqt [resumpt] NQ      11     11  7..    |    |  |           |  
 RICHT05,03 1sg- ZYq0 [coordin] NQ      11     12  8..    |    |  |           |   |      [>ZMR <Pr>] [L-JHWH / >LHJ JFR>L <ap><Co>]
 RICHT05,04 ---- Voct  << CPen  NQ      11     13  6v.    |    |  |           |  [JHWH <Vo>]
 RICHT05,04 ---- InfC [adjunct] NQ      11     14  9.\    |    |  |           |       |   |  [B-Y>TK <Ps>] [M-F<JR <Co>]
-RICHT05,04 ---- InfC [coordin] NQ      11     15 10..    |    |  |           |       |   |      [B-Y<DK <Ps>] [M-FDH >DWM <Co>]
+RICHT05,04 ---- InfC [coordin] NQ      11     15 10..    |    |  |           |       |   |   |  [B-Y<DK <Ps>] [M-FDH >DWM <Co>]
 RICHT05,04 3sgF XQtl [ref.Voc] NQ      11     16  8..    |    |  |           |       |  [>RY <Su>] [R<CH <Pr>]
 RICHT05,04 3pl- XQtl [coordin] NQ      11     17  9..    |    |  |           |       |      [GM CMJM <Su>] [NVPW <Pr>]
 RICHT05,04 3pl- XQtl [coordin] NQ      11     18  9..    |    |  |           |       |      [GM <BJM <Su>] [NVPW <Pr>] [MJM <Ob>]
@@ -114,22 +114,22 @@ RICHT05,28 3sgF xQt0  << xQt0  NQ      111   112  5.#    |    |          |  [B<D
                                -------                   |    |          |    +----------------------------------------------------------------\
 RICHT05,28 3sgF WayX  << xQt0  NQN     111   113  6..    |    |          |    | [W-<Cj>] [TJBB <Pr>] [>M SJSR> <Su>] [B<D H->CNB <Co>]
                                =======                   |    |          |    |      |+=====================================================\
-RICHT05,28 3sgM xQtX  <<  [Q]  NQNQ    1111  114  8.q    |    |          |    |       | [MDW< <Qu>] [BCC <Pr>] [RKBW <Su>]
-RICHT05,28 ---- InfC [adjunct] NQNQ    1111  115 10..    |    |          |    |       |      |  [L-BW> <Pr>]
-RICHT05,28 3pl- xQtX  << xQtX  NQNQ    1111  116  9..    |    |          |    |       |     [MDW< <Qu>] [>XRW <Pr>] [P<MJ MRKBWTJW <Su>]
-                               =======                   |    |          |    |       +=====================================================/
-RICHT05,29 3plF XYqt  << WayX  NQND    111   117  7..    |    |          |    |     [XKMWT FRWTJH <Su>] [T<NJNH <Pr>]
-RICHT05,29 3sgF XYqt  << XYqt  NQND    111   118  9..    |    |          |    |       |  |  [>P HJ> <Su>] [TCJB <Pr>] [>MRJH <Ob>] [LH <Co>]
-                               =======                   |    |          |    |       +==================================================\
-RICHT05,30 3plM xYq0  <<  [Q]  NQNDQ   1112  119  8.q    |    |          |    |       | [H-<Qu>] [L> <Ng>] [JMY>W <Pr>]
-RICHT05,30 3plM ZYq0 [coordin] NQNDQ   1112  120 10..    |    |          |    |       |      |  [JXLQW <Pr>] [CLL <Ob>]
-RICHT05,30 ---- NmCl  << xYq0  NQNDQ   1112  121  9..    |    |          |    |       |     [RXM / RXMTJM <sp><Su>] [L-R>C GBR <PC>]
-RICHT05,30 ---- NmCl  << NmCl  NQNDQ   1112  122  9..    |    |          |    |       |     [CLL YB<JM <Su>] [L-SJSR> / CLL YB<JM RQMH <sp><PC>]
-RICHT05,30 ---- NmCl  << NmCl  NQNDQ   1112  123  9..    |    |          |    |       |     [YB< RQMTJM <Su>] [L-YW>RJ CLL <PC>]
-                               -------                   |    |               +----------------------------------------------------------------/
+RICHT05,28 3sgM xQtX  <<  [Q]  NQNQ    1111  114  8.q    |    |          |    |      || [MDW< <Qu>] [BCC <Pr>] [RKBW <Su>]
+RICHT05,28 ---- InfC [adjunct] NQNQ    1111  115 10..    |    |          |    |      ||      |  [L-BW> <Pr>]
+RICHT05,28 3pl- xQtX  << xQtX  NQNQ    1111  116  9..    |    |          |    |      ||     [MDW< <Qu>] [>XRW <Pr>] [P<MJ MRKBWTJW <Su>]
+                               -------                   |    |          |    |   +---------------------------------------------------------\
+RICHT05,29 3plF XYqt  << WayX  NQND    111   117  7..    |    |          |    |   | [XKMWT FRWTJH <Su>] [T<NJNH <Pr>]
+RICHT05,29 3sgF XYqt  << XYqt  NQND    111   118  9..    |    |          |    |   |      |  [>P HJ> <Su>] [TCJB <Pr>] [>MRJH <Ob>] [LH <Co>]
+                               =======                   |    |          |    |   |   +==================================================\
+RICHT05,30 3plM xYq0  <<  [Q]  NQNDQ   1112  119  8.q    |    |          |    |   |   | [H-<Qu>] [L> <Ng>] [JMY>W <Pr>]
+RICHT05,30 3plM ZYq0 [coordin] NQNDQ   1112  120 10..    |    |          |    |   |   |      |  [JXLQW <Pr>] [CLL <Ob>]
+RICHT05,30 ---- NmCl  << xYq0  NQNDQ   1112  121  9..    |    |          |    |   |   |     [RXM / RXMTJM <sp><Su>] [L-R>C GBR <PC>]
+RICHT05,30 ---- NmCl  << NmCl  NQNDQ   1112  122  9..    |    |          |    |   |   |     [CLL YB<JM <Su>] [L-SJSR> / CLL YB<JM RQMH <sp><PC>]
+RICHT05,30 ---- NmCl  << NmCl  NQNDQ   1112  123  9..    |    |          |    |   |   |     [YB< RQMTJM <Su>] [L-YW>RJ CLL <PC>]
+                               -------                   |    |          |    +----------------------------------------------------------------/
 RICHT05,31 3plM xYqX  << ZYqX  NQ      11    124  4..    |    |         [KN <Mo>] [J>BDW <Pr>] [KL >WJBJK <Su>]
 RICHT05,31 ---- Voct  << xYqX  NQ      11    125  6v.    |    |              |  [JHWH <Vo>]
 RICHT05,31 ---- NmCl  << xYqX  NQ      11    126  5..    |    |             [W-<Cj>] [>HBJW <Su>]
 RICHT05,31 ---- InfC [predic.] NQ      11    127  6..    |    |                 [K-Y>T <Pr>] [H-CMC <Su>] [B-GBRTW <Aj>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
 RICHT05,31 3sgF WayX  << WayX  N       2     128  0.#   [W-<Cj>] [TCQV <Pr>] [H->RY <Su>] [>RB<JM CNH <Ti>]

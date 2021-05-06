@@ -1,15 +1,15 @@
  GEN 12,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L >BRM <Co>]
                                =======                   |+=======================================================================================\
- GEN 12,01 2sgM ZIm0  <<  [Q]  NQ      11      2  1.q     | [LK <Pr>] [LK <sc>] [M->RYK W-M-MWLDTK W-M-BJT >BJK <Co>] [>L H->RY <Co>]
- GEN 12,01 1sg- xYq0 [attrib.] NQ      11      3  4..     |      |   |  [>CR <Re>] [>R>K <PO>]
- GEN 12,02 1sg- WYq0  << ZIm0  NQ      11      4  3..     |      |  [W-<Cj>] [><FK <PO>] [L-GWJ GDWL <Co>]
- GEN 12,02 1sg- WYq0  << WYq0  NQ      11      5  3..     |      |  [W-<Cj>] [>BRKK <PO>]
- GEN 12,02 1sg- WYq0  << WYq0  NQ      11      6  4..     |      |      [W-<Cj>] [>GDLH <Pr>] [CMK <Ob>]
- GEN 12,02 2sgM WIm0  << ZIm0  NQ      11      7  2..     |     [W-<Cj>] [HJH <Pr>] [BRKH <PC>]
- GEN 12,03 1sg- WYq0  << WIm0  NQ      11      8  3..     |         [W-<Cj>] [>BRKH <Pr>] [MBRKJK <Ob>]
- GEN 12,03 1sg- WxY0  << WYq0  NQ      11      9  5..     |              |  [W-<Cj>] [MQLLK <Ob>] [>>R <Pr>]
- GEN 12,03 3pl- WQtX  << WYq0  NQ      11     10  4..     |             [W-<Cj>] [NBRKW <Pr>] [BK <Co>] [KL MCPXT H->DMH <Su>]
-                               =======                    +=======================================================================================/
+ GEN 12,01 2sgM ZIm0  <<  [Q]  NQ      11      2  1.q    || [LK <Pr>] [LK <sc>] [M->RYK W-M-MWLDTK W-M-BJT >BJK <Co>] [>L H->RY <Co>]
+ GEN 12,01 1sg- xYq0 [attrib.] NQ      11      3  4..    ||      |   |  [>CR <Re>] [>R>K <PO>]
+ GEN 12,02 1sg- WYq0  << ZIm0  NQ      11      4  3..    ||      |  [W-<Cj>] [><FK <PO>] [L-GWJ GDWL <Co>]
+ GEN 12,02 1sg- WYq0  << WYq0  NQ      11      5  3..    ||      |  [W-<Cj>] [>BRKK <PO>]
+ GEN 12,02 1sg- WYq0  << WYq0  NQ      11      6  4..    ||      |      [W-<Cj>] [>GDLH <Pr>] [CMK <Ob>]
+ GEN 12,02 2sgM WIm0  << ZIm0  NQ      11      7  2..    ||     [W-<Cj>] [HJH <Pr>] [BRKH <PC>]
+ GEN 12,03 1sg- WYq0  << WIm0  NQ      11      8  3..    ||         [W-<Cj>] [>BRKH <Pr>] [MBRKJK <Ob>]
+ GEN 12,03 1sg- WxY0  << WYq0  NQ      11      9  5..    ||              |  [W-<Cj>] [MQLLK <Ob>] [>>R <Pr>]
+ GEN 12,03 3pl- WQtX  << WYq0  NQ      11     10  4..    ||             [W-<Cj>] [NBRKW <Pr>] [BK <Co>] [KL MCPXT H->DMH <Su>]
+                               =======                   |+=======================================================================================/
  GEN 12,04 3sgM WayX  << WayX  N       2      11  0.#   [W-<Cj>] [JLK <Pr>] [>BRM <Su>]
  GEN 12,04 3sgM xQtX [adjunct] N       2      12  3..    |   |   |  [K->CR <Cj>] [DBR <Pr>] [>LJW <Co>] [JHWH <Su>]
  GEN 12,04 3sgM WayX  << WayX  N       21     13  2.#    |   |  [W-<Cj>] [JLK <Pr>] [>TW <Aj>] [LWV <Su>]
@@ -47,21 +47,21 @@
  GEN 12,11 ---- InfC [adjunct] N       71     43  4..        |   |      [L-BW> <Pr>] [MYRJMH <Co>]
  GEN 12,11 3sgM Way0  << Way0  N       71     44  2..        |  [W-<Cj>] [J>MR <Pr>] [>L FRJ / >CTW <ap><Co>]
                                =======                       |    +===============================================================================\
- GEN 12,11 1sg- xQt0  <<  [Q]  NQ      711    45  3.q        |   || [HNH <Ij>] [N> <Ij>] [JD<TJ <Pr>]
- GEN 12,11 ---- NmCl [object ] NQ      711    46  6..        |   ||      |   |  [KJ <Cj>] [>CH JPT MR>H <PC>] [>T <Su>]
- GEN 12,12 3sgM WQt0  << xQt0  NQ      711    47  5..        |   ||      |  [W-<Cj>] [HJH <Pr>]
- GEN 12,12 3plM xYqX [adjunct] NQ      711    48  7..        |   ||      |       |  [KJ <Cj>] [JR>W <Pr>] [>TK <Ob>] [H-MYRJM <Su>]
- GEN 12,12 3pl- WQt0  << WQt0  NQ      711    49  6..        |   ||      |      [W-<Cj>] [>MRW <Pr>]
+ GEN 12,11 1sg- xQt0  <<  [Q]  NQ      711    45  3.q        |    | [HNH <Ij>] [N> <Ij>] [JD<TJ <Pr>]
+ GEN 12,11 ---- NmCl [object ] NQ      711    46  6..        |    |      |   |  [KJ <Cj>] [>CH JPT MR>H <PC>] [>T <Su>]
+ GEN 12,12 3sgM WQt0  << xQt0  NQ      711    47  5..        |    |      |  [W-<Cj>] [HJH <Pr>]
+ GEN 12,12 3plM xYqX [adjunct] NQ      711    48  7..        |    |      |       |  [KJ <Cj>] [JR>W <Pr>] [>TK <Ob>] [H-MYRJM <Su>]
+ GEN 12,12 3pl- WQt0  << WQt0  NQ      711    49  6..        |    |      |      [W-<Cj>] [>MRW <Pr>]
                                =======                       |    |      |       |+============================================================\
- GEN 12,12 ---- NmCl  <<  [Q]  NQQ     7111   50  7.q        |   ||      |        | [>CTW <PC>] [Z>T <Su>]
-                               =======                       |    |      |        +============================================================/
- GEN 12,12 3pl- WQt0  << WQt0  NQ      711    51  6..        |   ||      |      [W-<Cj>] [HRGW <Pr>] [>TJ <Ob>]
- GEN 12,12 3plM WxY0  << WQt0  NQ      711    52  7..        |   ||      |          [W-<Cj>] [>TK <Ob>] [JXJW <Pr>]
- GEN 12,13 2sgF ZIm0  << xQt0  NQ      711    53  4..        |   ||     [>MRJ <Pr>] [N> <Ij>]
- GEN 12,13 ---- NmCl [object ] NQ      711    54  6..        |   ||          |  [>XTJ <PC>] [>T <Su>]
- GEN 12,13 3sgM xYq0  << ZIm0  NQ      711    55  5..        |   ||         [LM<N <Cj>] [JJVB <Pr>] [LJ <Co>] [B-<BWRK <Aj>]
- GEN 12,13 3sgF WQtX  << xYq0  NQ      711    56  6..        |   ||             [W-<Cj>] [XJTH <Pr>] [NPCJ <Su>] [B-GLLK <Aj>]
-                               =======                            +===============================================================================/
+ GEN 12,12 ---- NmCl  <<  [Q]  NQQ     7111   50  7.q        |    |      |       || [>CTW <PC>] [Z>T <Su>]
+                               =======                       |    |      |       |+============================================================/
+ GEN 12,12 3pl- WQt0  << WQt0  NQ      711    51  6..        |    |      |      [W-<Cj>] [HRGW <Pr>] [>TJ <Ob>]
+ GEN 12,12 3plM WxY0  << WQt0  NQ      711    52  7..        |    |      |          [W-<Cj>] [>TK <Ob>] [JXJW <Pr>]
+ GEN 12,13 2sgF ZIm0  << xQt0  NQ      711    53  4..        |    |     [>MRJ <Pr>] [N> <Ij>]
+ GEN 12,13 ---- NmCl [object ] NQ      711    54  6..        |    |          |  [>XTJ <PC>] [>T <Su>]
+ GEN 12,13 3sgM xYq0  << ZIm0  NQ      711    55  5..        |    |         [LM<N <Cj>] [JJVB <Pr>] [LJ <Co>] [B-<BWRK <Aj>]
+ GEN 12,13 3sgF WQtX  << xYq0  NQ      711    56  6..        |    |             [W-<Cj>] [XJTH <Pr>] [NPCJ <Su>] [B-GLLK <Aj>]
+                               =======                       |    +===============================================================================/
  GEN 12,14 3sgM Way0  << Way0  N       72     57  1.#       [W-<Cj>] [JHJ <Pr>]
  GEN 12,14 ---- InfC [adjunct] N       72     58  3..            |  [K-BW> <Pr>] [>BRM <Su>] [MYRJMH <Co>]
  GEN 12,14 3plM WayX  << Way0  N       72     59  2..           [W-<Cj>] [JR>W <Pr>] [H-MYRJM <Su>] [>T H->CH <Ob>]
@@ -81,14 +81,14 @@
  GEN 12,19 2sgM xQt0  << xQt0  NQ      7231   72  7..            |    |      |      [LMH <Qu>] [>MRT <Pr>]
                                =======                           |    |      |           |+====================================================\
  GEN 12,19 ---- NmCl  <<  [Q]  NQQ     72311  73  9.q            |    |      |           || [>XTJ <PC>] [HW> <Su>]
-                               =======                           |    |      |            +====================================================/
- GEN 12,19 1sg- Way0  << xQt0  NQN     7231   74  8..            |    |      |          [W-<Cj>] [>QX <Pr>] [>TH <Ob>] [LJ <sc>] [L->CH <Co>]
-                               -------                           |    |                   +----------------------------------------------------/
+                               -------                           |    |      |        +--------------------------------------------------------\
+ GEN 12,19 1sg- Way0  << xQt0  NQN     7231   74  8..            |    |      |        | [W-<Cj>] [>QX <Pr>] [>TH <Ob>] [LJ <sc>] [L->CH <Co>]
+                               -------                           |    |      |        +--------------------------------------------------------/
  GEN 12,19 ---- MSyn  << xQt0  NQ      7231   75  5m.            |    |     [W-<Cj>] [<TH <Ti>]
  GEN 12,19 ---- NmCl  << MSyn  NQ      7231   76  6..            |    |         [HNH <Ij>] [>CTK <Su>]
  GEN 12,19 2sgM ZIm0  << NmCl  NQ      7231   77  7..            |    |             [QX <Pr>]
  GEN 12,19 2sgM WIm0  << ZIm0  NQ      7231   78  8..            |    |                 [W-<Cj>] [LK <Pr>]
-                               =======                                +===========================================================================/
+                               =======                           |    +===========================================================================/
  GEN 12,20 3sgM WayX  << WayX  N       723    79  2..           [W-<Cj>] [JYW <Pr>] [<LJW <Co>] [PR<H <Su>] [>NCJM <Ob>]
  GEN 12,20 3plM Way0  << WayX  N       7232   80  3.#               [W-<Cj>] [JCLXW <Pr>] [>TW W->T >CTW W->T KL <Ob>]
  GEN 12,20 ---- NmCl [reg/rec] N       7232   81  4..                   [>CR <Re>] [LW <PC>]

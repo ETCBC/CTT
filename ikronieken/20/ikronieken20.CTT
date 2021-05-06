@@ -17,8 +17,8 @@
  ICHR20,03 3sgM ZQt0  << Defc  N       13     17  5..    |   |           |  [HWYJ> <Pr>]
  ICHR20,03 3sgM Way0  << Defc  N       13     18  4..    |   |          [W-<Cj>] [JFR <Pr>] [B--MGRH W-B-XRJYJ H-BRZL W-B--MGRWT <Aj>]
                                -------                   |   |            +-----------------------------------------------------------------------\
- ICHR20,03 3sgM WxYX  << Way0  ND      13     19  5..    |   |           || [W-<Cj>] [KN <Mo>] [J<FH <Pr>] [DWJD <Su>] [L-KL <RJ BNJ <MWN <Co>]
-                               -------                   |                +-----------------------------------------------------------------------/
+ ICHR20,03 3sgM WxYX  << Way0  ND      13     19  5..    |   |            | [W-<Cj>] [KN <Mo>] [J<FH <Pr>] [DWJD <Su>] [L-KL <RJ BNJ <MWN <Co>]
+                               -------                   |   |            +-----------------------------------------------------------------------/
  ICHR20,03 3sgM WayX  << WayX  N       14     20  1.#    |  [W-<Cj>] [JCB <Pr>] [DWJD W-KL H-<M <Su>] [JRWCLM <Co>]
  ICHR20,04 3sgM Way0  << Way0  N       1      21  0..   [W-<Cj>] [JHJ <Pr>] [>XRJ-KN <Ti>]
  ICHR20,04 3sgF WayX  << Way0  N       15     22  1.#       [W-<Cj>] [T<MD <Pr>] [MLXMH <Su>] [B-GZR / <M PLCTJM <sp><Lo>]

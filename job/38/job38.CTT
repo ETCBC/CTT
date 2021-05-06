@@ -17,21 +17,22 @@
  IOB 38,07 ---- InfC [adjunct] NQ      11     16 10..         |              |               |  [B-RN <Pr>] [JXD <Mo>] [KWKBJ BQR <Su>]
                                -------                        |              |               |    +--------------------------------------------\
  IOB 38,07 3plM WayX [coordin] NQN     111    17 11.#         |              |               |    | [W-<Cj>] [JRJ<W <Pr>] [KL BNJ >LHJM <Su>]
- IOB 38,08 3sgM Way0 [coordin] NQN     11     18  9..         |              |              [W-<Cj>] [JSK <Pr>] [B-DLTJM <Aj>] [JM <Ob>]
- IOB 38,08 ---- InfC [adjunct] NQN     11     19 11..         |              |                    | [B-GJXW <Ps>]
-                               -------                        |              |                   ||   +-------------------------------------\
- IOB 38,08 3sgM xYq0 [coordin] NQND    11     20 12..         |              |                    |   | [M-RXM <Co>] [JY> <Pr>]
-                               -------                        |              |                    |   +-------------------------------------/
- IOB 38,09 ---- InfC [adjunct] NQN     11     21 10..         |              |                  [B-FWMJ <Ps>] [<NN <Ob>] [LBCW <Ob>]
- IOB 38,09 ---- Ellp  << InfC  NQN     11     22 12l.         |              |                    |  |  [W-<Cj>] [<RPL <Ob>] [XTLTW <Ob>]
- IOB 38,10 1sg- Way0 [coordin] NQN     11     23 11..         |              |                    | [W-<Cj>] [>CBR <Pr>] [<LJW <Aj>] [XQJ <Ob>]
- IOB 38,10 1sg- Way0 [coordin] NQN     11     24 11..         |              |                    | [W-<Cj>] [>FJM <Pr>] [BRJX W-DLTJM <Ob>]
- IOB 38,11 1sg- Way0 [coordin] NQN     11     25 11..         |              |                    | [W-<Cj>] [>MR <Pr>]
-                               =======                        |              |                    |   +=====================================\
- IOB 38,11 2sgM xYq0  <<  [Q]  NQNQ    112    26 12.q         |              |                    |   | [<D PH <Co>] [TBW> <Pr>]
- IOB 38,11 2sgM WxY0  << xYq0  NQNQ    112    27 14..         |              |                    |   |      |  [W-<Cj>] [L> <Ng>] [TSJP <Pr>]
- IOB 38,11 3sgM WxY0  << xYq0  NQNQ    112    28 13..         |              |                    |   |     [W-<Cj>] [P> <Mo>] [JCJT <Pr>] [B-G>WN GLJK <Co>]
-                               -------                        |                                   +--------------------------------------------/
+                               -------                        |              |            +----------------------------------------------------\
+ IOB 38,08 3sgM Way0 [coordin] NQN     11     18  9..         |              |            | [W-<Cj>] [JSK <Pr>] [B-DLTJM <Aj>] [JM <Ob>]
+ IOB 38,08 ---- InfC [adjunct] NQN     11     19 11..         |              |            |      |  [B-GJXW <Ps>]
+                               -------                        |              |            |      |    +-------------------------------------\
+ IOB 38,08 3sgM xYq0 [coordin] NQND    11     20 12..         |              |            |      |    | [M-RXM <Co>] [JY> <Pr>]
+                               -------                        |              |            |      |    +-------------------------------------/
+ IOB 38,09 ---- InfC [adjunct] NQN     11     21 10..         |              |            |     [B-FWMJ <Ps>] [<NN <Ob>] [LBCW <Ob>]
+ IOB 38,09 ---- Ellp  << InfC  NQN     11     22 12l.         |              |            |          |  [W-<Cj>] [<RPL <Ob>] [XTLTW <Ob>]
+ IOB 38,10 1sg- Way0 [coordin] NQN     11     23 11..         |              |            |         [W-<Cj>] [>CBR <Pr>] [<LJW <Aj>] [XQJ <Ob>]
+ IOB 38,10 1sg- Way0 [coordin] NQN     11     24 11..         |              |            |         [W-<Cj>] [>FJM <Pr>] [BRJX W-DLTJM <Ob>]
+ IOB 38,11 1sg- Way0 [coordin] NQN     11     25 11..         |              |            |         [W-<Cj>] [>MR <Pr>]
+                               =======                        |              |            |           +=====================================\
+ IOB 38,11 2sgM xYq0  <<  [Q]  NQNQ    112    26 12.q         |              |            |           | [<D PH <Co>] [TBW> <Pr>]
+ IOB 38,11 2sgM WxY0  << xYq0  NQNQ    112    27 14..         |              |            |           |      |  [W-<Cj>] [L> <Ng>] [TSJP <Pr>]
+ IOB 38,11 3sgM WxY0  << xYq0  NQNQ    112    28 13..         |              |            |           |     [W-<Cj>] [P> <Mo>] [JCJT <Pr>] [B-G>WN GLJK <Co>]
+                               -------                        |              |            +----------------------------------------------------/
  IOB 38,12 2sgM xQt0  << xQt0  NQ      11     29  5..         |             [H-<Qu>] [M-JMJK <Aj>] [YWJT <Pr>] [BQR <Ob>]
  IOB 38,12 2sgM ZQt0 [coordin] NQ      11     30  9..         |                  |   |   |  [JD<T-<Pr>] [H CXR <Ob>] [MQMW <Ob>]
  IOB 38,13 ---- InfC [adjunct] NQ      11     31 10..         |                  |   |   |      [L->XZ <Pr>] [B-KNPWT H->RY <Co>]
@@ -92,7 +93,7 @@
  IOB 38,35 3plM WYq0  << WYq0  NQ      11     86 13..         |                                      |   |  [W-<Cj>] [J>MRW <Pr>] [LK <Co>]
                                =======                        |                                      |   |    +================================\
  IOB 38,35 ---- NmCl  <<  [Q]  NQQ     113    87 14.q         |                                      |   |    | [HNNW <Is>]
-                               =======                        |                                      |        +================================/
+                               =======                        |                                      |   |    +================================/
  IOB 38,36 3sgM XQtl  << xYq0  NQ      11     88 12..         |                                      |  [MJ <Su>] [CT <Pr>] [B--VXWT <Co>] [XKMH <Ob>]
  IOB 38,36 3sgM XQtl  << XQtl  NQ      11     89 14..         |                                      |       |  [>W <Cj>] [MJ <Su>] [NTN <Pr>] [L--FKWJ <Co>] [BJNH <Ob>]
  IOB 38,37 3sgM XYqt  << XQtl  NQ      11     90 13..         |                                      |      [MJ <Su>] [JSPR <Pr>] [CXQJM <Ob>] [B-XKMH <Aj>]

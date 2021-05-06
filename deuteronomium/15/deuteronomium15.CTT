@@ -35,7 +35,7 @@
  DEUT15,09 ---- InfC [adjunct] Q       1      35 10..    |                           |       |  [L->MR <Pr>]
                                =======                   |                           |       |    +===============================================\
  DEUT15,09 3sgF ZQtX  <<  [Q]  QQ      11     36 11.q    |                           |       |    | [QRBH <Pr>] [CNT H-CB< / CNT H-CMVH <ap><Su>]
-                               =======                   |                           |            +===============================================/
+                               =======                   |                           |       |    +===============================================/
  DEUT15,09 3sgF WQtX  << xYqX  Q       1      37  9..    |                           |      [W-<Cj>] [R<H <Pr>] [<JNK <Su>] [B->XJK H->BJWN <Co>]
  DEUT15,09 2sgM WxY0  << WQtX  Q       1      38 10..    |                           |          [W-<Cj>] [L> <Ng>] [TTN <Pr>] [LW <Co>]
  DEUT15,09 3sgM WQt0  << WxY0  Q       1      39 11..    |                           |              [W-<Cj>] [QR> <Pr>] [<LJK <Co>] [>L JHWH <Co>]
@@ -49,7 +49,7 @@
  DEUT15,11 ---- InfC [adjunct] Q       1      47 10..    |                                      [L->MR <Pr>]
                                =======                   |                                        +===============================================\
  DEUT15,11 2sgM xYq0  <<  [Q]  QQ      12     48 11.q    |                                        | [PTX <Mo>] [TPTX <Pr>] [>T JDK <Ob>] [L->XJK L-<NJK W-L->BJNK <Co>] [B->RYK <Lo>]
-                               =======                                                            +===============================================/
+                               =======                   |                                        +===============================================/
  DEUT15,12 3sgM xYqX  << xYq0  Q       2      49  0.#   [KJ <Cj>] [JMKR <Pr>] [LK <Co>] [>XJK / H-<BRJ >W H-<BRJH <ap><Su>]
  DEUT15,12 3sgM WQt0  << xYqX  Q       2      50  3..    |   |   |  [W-<Cj>] [<BDK <PO>] [CC CNJM <Ti>]
  DEUT15,12 2sgM WxY0  << xYqX  Q       2      51  2..    |   |  [W-<Cj>] [B--CNH H-CBJ<T <Ti>] [TCLXNW <PO>] [XPCJ <Pj>] [M-<MK <Co>]
@@ -63,13 +63,13 @@
  DEUT15,15 2sgM xQt0 [object ] Q       2      59  7..    |       |   |       |      [KJ <Cj>] [<BD <PC>] [HJJT <Pr>] [B->RY MYRJM <Lo>]
                                -------                   |       |   |       |        +-----------------------------------------------------------\
  DEUT15,15 3sgM WayX [coordin] QN      21     60  8.#    |       |   |       |        | [W-<Cj>] [JPDK <PO>] [JHWH / >LHJK <ap><Su>]
-                               -------                   |       |   |                +-----------------------------------------------------------/
+                               -------                   |       |   |       |        +-----------------------------------------------------------/
  DEUT15,15 -sgM Ptcp  << xYq0  Q       2      61  5..    |       |   |      [<L KN <Aj>] [>NKJ <Su>] [MYWK <po>] [>T H-DBR H-ZH <Ob>] [H-JWM <Ti>]
  DEUT15,16 3sgM MSyn  << Defc  Q       2      62  3m.    |       |  [W-<Cj>] [HJH <Pr>]
  DEUT15,16 3sgM xYq0  << MSyn  Q       2      63  4..    |       |      [KJ <Cj>] [J>MR <Pr>] [>LJK <Co>]
                                =======                   |       |           |   |+===============================================================\
- DEUT15,16 1sg- xYq0  <<  [Q]  QQ      22     64  7.q    |       |           |    | [L> <Ng>] [>Y> <Pr>] [M-<MK <Co>]
-                               =======                   |       |           |    +===============================================================/
+ DEUT15,16 1sg- xYq0  <<  [Q]  QQ      22     64  7.q    |       |           |   || [L> <Ng>] [>Y> <Pr>] [M-<MK <Co>]
+                               =======                   |       |           |   |+===============================================================/
  DEUT15,16 3sgM xQt0  << xYq0  Q       2      65  6..    |       |           |  [KJ <Cj>] [>HBK <PO>]
  DEUT15,16 ---- Ellp  << xQt0  Q       2      66  8l.    |       |           |       |  [W-<Cj>] [>T BJTK <Ob>]
  DEUT15,16 3sgM xQt0  << xQt0  Q       2      67  7..    |       |           |      [KJ <Cj>] [VWB <Pr>] [LW <Co>] [<MK <Aj>]

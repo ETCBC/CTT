@@ -2,49 +2,51 @@
  PS042,001 ---- NmCl  << NmCl  ?       1       2  1..    |  [MFKJL / L-BNJ QRX <sp><PC>]
  PS042,002 ---- CPen  << NmCl  ?       2       3  0cN   [K->JL <Fr>]
  PS042,002 3sgF ZYq0 [attrib.] ?       2       4  5..        |   |   |   |  [T<RG <Pr>] [<L >PJQJ MJM <Co>]
-                               =======                 ==============================================================================================/
- PS042,002 3sgF XYqt [resumpt] Q       2       5  4..        |   |   |  [KN <Mo>] [NPCJ <Su>] [T<RG <Pr>] [>LJK <Co>]
- PS042,002 ---- Voct  << XYqt  Q       2       6  5v.        |   |   |      [>LHJM <Vo>]
-                               =======                 ==============================================================================================/
- PS042,003 3sgF ZQtX  << CPen  ?Q      21      7  3.#        |   |  [YM>H <Pr>] [NPCJ <Su>] [L->LHJM / L->L XJ <ap><Co>]
- PS042,003 1sg- xYq0  << ZQtX  ?Q      21      8  5..        |   |       |  [MTJ <Qu>] [>BW> <Pr>]
- PS042,003 1sg- WYq0 [coordin] ?Q      21      9  6..        |   |       |      [W-<Cj>] [>R>H <Pr>] [PNJ >LHJM <Co>]
- PS042,004 3sgF ZQtX  << ZQtX  ?Q      21     10  4..        |   |      [HJTH <Pr>] [LJ <Co>] [DM<TJ <Su>] [LXM <PC>] [JWMM W-LJLH <Ti>]
- PS042,004 ---- InfC [adjunct] ?Q      21     11  6..        |   |           |  [B->MR <Pr>] [>LJ <Co>] [KL H-JWM <Ti>]
-                               =======                       |   |           |     ============================================================\
- PS042,004 ---- NmCl  <<  [Q]  ?QQ     211    12  7.q        |   |           |      [>JH <PC>] [>LHJK <Su>]
-                               =======                       |   |                 ============================================================/
- PS042,005 1sg- xYq0  << ZQtX  ?Q      21     13  5..        |   |          [>LH <Ob>] [>ZKRH <Pr>]
- PS042,005 1sg- WYq0  << xYq0  ?Q      21     14  7..        |   |               |  [W-<Cj>] [>CPKH <Pr>] [<LJ <Co>] [NPCJ <Ob>]
- PS042,005 1sg- xYq0 [object ] ?Q      21     15  6..        |   |              [KJ <Cj>] [><BR <Pr>] [B--SK <Aj>]
- PS042,005 1sg- ZYq0 [coordin] ?Q      21     16  7..        |   |                  [>DDM <PO>] [<D BJT >LHJM <Co>] [B-QWL RNH W-TWDH <Aj>] [HMWN XWGG <Aj>]
- PS042,006 2sgF xYq0  << CPen  ?Q      22     17  2.#        |  [MH <Qu>] [TCTWXXJ <Pr>]
- PS042,006 ---- Voct  << xYq0  ?Q      22     18  5v.        |       |   |  [NPCJ <Vo>]
-                               -------                       |       | ------------------------------------------------------------------------\
- PS042,006 2sgF Way0 [coordin] ?QN     22     19  4..        |       |  [W-<Cj>] [THMJ <Pr>] [<LJ <Co>]
-                               -------                       |         ------------------------------------------------------------------------/
- PS042,006 2sgF ZIm0  << xYq0  ?Q      22     20  3..        |      [HWXJLJ <Pr>] [L->LHJM <Co>]
- PS042,006 1sg- xYq0  << ZIm0  ?Q      22     21  4..        |          [KJ <Cj>] [<WD <Mo>] [>WDNW / JCW<WT PNJW <ss><PO>]
- PS042,007 ---- Voct  << CPen  ?Q      23     22  1v#       [>LHJ <Vo>]
- PS042,007 3sgF XYqt  << Voct  ?Q      23     23  4..            |   |  [<LJ <Co>] [NPCJ <Su>] [TCTWXX <Pr>]
- PS042,007 1sg- xYq0  << XYqt  ?Q      23     24  5..            |   |      [<L KN <Aj>] [>ZKRK <PO>] [M->RY JRDN W-XRMWNJM / M-HR MY<R <pa><Lo>]
- PS042,008 -sgM Ptcp  << xYq0  ?Q      23     25  6..            |   |          [THWM <Su>] [>L THWM <Co>] [QWR> <PC>] [L-QWL YNWRJK <Aj>]
- PS042,008 3pl- XQtl  << Ptcp  ?Q      23     26  7..            |   |              [KL MCBRJK W-GLJK <Su>] [<LJ <Co>] [<BRW <Pr>]
- PS042,009 3sgM xYqX  << Voct  ?Q      231    27  3.#            |  [JWMM <Mo>] [JYWH <Pr>] [JHWH <Su>] [XSDW <Ob>]
- PS042,009 ---- NmCl  << xYqX  ?Q      231    28  5..            |       |  [W-<Cj>] [B--LJLH <Ti>] [CJRH <Su>] [<MJ <PC>]
- PS042,009 ---- Ellp  << NmCl  ?Q      231    29  6l.            |       |      [TPLH / L->L XJJ <sp><Su>]
- PS042,010 1sg- ZYq0  << xYqX  ?Q      231    30  4..            |      [>WMRH <Pr>] [L->L <Co>]
-                               =======                           |         ====================================================================\
- PS042,010 ---- Voct  <<  [Q]  ?QQ     2311   31  5vq            |          [SL<J <Vo>]
- PS042,010 2sgM xQt0 [ref.Voc] ?QQ     2311   32  6..            |              [LMH <Qu>] [CKXTNJ <PO>]
- PS042,010 1sg- xYq0  << xQt0  ?QQ     2311   33  7..            |                  [LMH <Qu>] [QDR <Pj>] [>LK <Pr>] [B-LXY >WJB <Aj>]
- PS042,011 3pl- xQtX  << xYq0  ?QQ     2311   34  8..            |                      [B-RYX / B-<YMWTJ <sp><Aj>] [XRPWNJ <PO>] [YWRRJ <Su>]
- PS042,011 ---- InfC [adjunct] ?QQ     2311   35  9..            |                          [B->MRM <PO>] [>LJ <Co>] [KL H-JWM <Ti>]
-                               =======                           |                             =============================================\
- PS042,011 ---- NmCl  <<  [Q]  ?QQQ    23111  36 10.q            |                              [>JH <PC>] [>LHJK <Su>]
-                               =======                                     ====================================================================/
- PS042,012 2sgF xYq0  << Voct  ?Q      232    37  2.#           [MH <Qu>] [TCTWXXJ <Pr>]
- PS042,012 ---- Voct  << xYq0  ?Q      232    38  5v.                |   |  [NPCJ <Vo>]
- PS042,012 2sgF WxY0  << xYq0  ?Q      232    39  4..                |  [W-<Cj>] [MH <Qu>] [THMJ <Pr>] [<LJ <Co>]
- PS042,012 2sgF ZIm0  << xYq0  ?Q      232    40  3..               [HWXJLJ <Pr>] [L->LHJM <Co>]
- PS042,012 1sg- xYq0  << ZIm0  ?Q      232    41  4..                   [KJ <Cj>] [<WD <Mo>] [>WDNW / JCW<T PNJ W->LHJ <ss><PO>]
+                               =======                       |   |   |+==============================================================================\
+ PS042,002 3sgF XYqt [resumpt] Q       2       5  4..        |   |   || [KN <Mo>] [NPCJ <Su>] [T<RG <Pr>] [>LJK <Co>]
+ PS042,002 ---- Voct  << XYqt  Q       2       6  5v.        |   |   ||     [>LHJM <Vo>]
+                               =======                       |   |+===============================================================================\
+ PS042,003 3sgF ZQtX  << CPen  ?Q      21      7  3.#        |   || [YM>H <Pr>] [NPCJ <Su>] [L->LHJM / L->L XJ <ap><Co>]
+ PS042,003 1sg- xYq0  << ZQtX  ?Q      21      8  5..        |   ||      |  [MTJ <Qu>] [>BW> <Pr>]
+ PS042,003 1sg- WYq0 [coordin] ?Q      21      9  6..        |   ||      |      [W-<Cj>] [>R>H <Pr>] [PNJ >LHJM <Co>]
+ PS042,004 3sgF ZQtX  << ZQtX  ?Q      21     10  4..        |   ||     [HJTH <Pr>] [LJ <Co>] [DM<TJ <Su>] [LXM <PC>] [JWMM W-LJLH <Ti>]
+ PS042,004 ---- InfC [adjunct] ?Q      21     11  6..        |   ||          |  [B->MR <Pr>] [>LJ <Co>] [KL H-JWM <Ti>]
+                               =======                       |   ||          |    +============================================================\
+ PS042,004 ---- NmCl  <<  [Q]  ?QQ     211    12  7.q        |   ||          |    | [>JH <PC>] [>LHJK <Su>]
+                               =======                       |   ||          |    +============================================================/
+ PS042,005 1sg- xYq0  << ZQtX  ?Q      21     13  5..        |   ||         [>LH <Ob>] [>ZKRH <Pr>]
+ PS042,005 1sg- WYq0  << xYq0  ?Q      21     14  7..        |   ||              |  [W-<Cj>] [>CPKH <Pr>] [<LJ <Co>] [NPCJ <Ob>]
+ PS042,005 1sg- xYq0 [object ] ?Q      21     15  6..        |   ||             [KJ <Cj>] [><BR <Pr>] [B--SK <Aj>]
+ PS042,005 1sg- ZYq0 [coordin] ?Q      21     16  7..        |   ||                 [>DDM <PO>] [<D BJT >LHJM <Co>] [B-QWL RNH W-TWDH <Aj>] [HMWN XWGG <Aj>]
+                               =======                       |+===================================================================================\
+ PS042,006 2sgF xYq0  << CPen  ?Q      22     17  2.#        || [MH <Qu>] [TCTWXXJ <Pr>]
+ PS042,006 ---- Voct  << xYq0  ?Q      22     18  5v.        ||      |   |  [NPCJ <Vo>]
+                               -------                       ||      |+------------------------------------------------------------------------\
+ PS042,006 2sgF Way0 [coordin] ?QN     22     19  4..        ||      || [W-<Cj>] [THMJ <Pr>] [<LJ <Co>]
+                               -------                       ||      |+------------------------------------------------------------------------/
+ PS042,006 2sgF ZIm0  << xYq0  ?Q      22     20  3..        ||     [HWXJLJ <Pr>] [L->LHJM <Co>]
+ PS042,006 1sg- xYq0  << ZIm0  ?Q      22     21  4..        ||         [KJ <Cj>] [<WD <Mo>] [>WDNW / JCW<WT PNJW <ss><PO>]
+                               =======                    +=======================================================================================\
+ PS042,007 ---- Voct  << CPen  ?Q      23     22  1v#     | [>LHJ <Vo>]
+ PS042,007 3sgF XYqt  << Voct  ?Q      23     23  4..     |      |   |  [<LJ <Co>] [NPCJ <Su>] [TCTWXX <Pr>]
+ PS042,007 1sg- xYq0  << XYqt  ?Q      23     24  5..     |      |   |      [<L KN <Aj>] [>ZKRK <PO>] [M->RY JRDN W-XRMWNJM / M-HR MY<R <pa><Lo>]
+ PS042,008 -sgM Ptcp  << xYq0  ?Q      23     25  6..     |      |   |          [THWM <Su>] [>L THWM <Co>] [QWR> <PC>] [L-QWL YNWRJK <Aj>]
+ PS042,008 3pl- XQtl  << Ptcp  ?Q      23     26  7..     |      |   |              [KL MCBRJK W-GLJK <Su>] [<LJ <Co>] [<BRW <Pr>]
+ PS042,009 3sgM xYqX  << Voct  ?Q      231    27  3.#     |      |  [JWMM <Mo>] [JYWH <Pr>] [JHWH <Su>] [XSDW <Ob>]
+ PS042,009 ---- NmCl  << xYqX  ?Q      231    28  5..     |      |       |  [W-<Cj>] [B--LJLH <Ti>] [CJRH <Su>] [<MJ <PC>]
+ PS042,009 ---- Ellp  << NmCl  ?Q      231    29  6l.     |      |       |      [TPLH / L->L XJJ <sp><Su>]
+ PS042,010 1sg- ZYq0  << xYqX  ?Q      231    30  4..     |      |      [>WMRH <Pr>] [L->L <Co>]
+                               =======                    |      |        +====================================================================\
+ PS042,010 ---- Voct  <<  [Q]  ?QQ     2311   31  5vq     |      |        | [SL<J <Vo>]
+ PS042,010 2sgM xQt0 [ref.Voc] ?QQ     2311   32  6..     |      |        |     [LMH <Qu>] [CKXTNJ <PO>]
+ PS042,010 1sg- xYq0  << xQt0  ?QQ     2311   33  7..     |      |        |         [LMH <Qu>] [QDR <Pj>] [>LK <Pr>] [B-LXY >WJB <Aj>]
+ PS042,011 3pl- xQtX  << xYq0  ?QQ     2311   34  8..     |      |        |             [B-RYX / B-<YMWTJ <sp><Aj>] [XRPWNJ <PO>] [YWRRJ <Su>]
+ PS042,011 ---- InfC [adjunct] ?QQ     2311   35  9..     |      |        |                 [B->MRM <PO>] [>LJ <Co>] [KL H-JWM <Ti>]
+                               =======                    |      |        |                   +=============================================\
+ PS042,011 ---- NmCl  <<  [Q]  ?QQQ    23111  36 10.q     |      |        |                   | [>JH <PC>] [>LHJK <Su>]
+                               =======                    |      |        +====================================================================/
+ PS042,012 2sgF xYq0  << Voct  ?Q      232    37  2.#     |     [MH <Qu>] [TCTWXXJ <Pr>]
+ PS042,012 ---- Voct  << xYq0  ?Q      232    38  5v.     |          |   |  [NPCJ <Vo>]
+ PS042,012 2sgF WxY0  << xYq0  ?Q      232    39  4..     |          |  [W-<Cj>] [MH <Qu>] [THMJ <Pr>] [<LJ <Co>]
+ PS042,012 2sgF ZIm0  << xYq0  ?Q      232    40  3..     |         [HWXJLJ <Pr>] [L->LHJM <Co>]
+ PS042,012 1sg- xYq0  << ZIm0  ?Q      232    41  4..     |             [KJ <Cj>] [<WD <Mo>] [>WDNW / JCW<T PNJ W->LHJ <ss><PO>]

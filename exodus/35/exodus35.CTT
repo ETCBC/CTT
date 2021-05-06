@@ -10,7 +10,7 @@
  EXO 35,02 -sgM Ptcp [reg/rec] NQ      11      9  8.e    |    |              |       |  [H-<Re>] [<FH <PC>] [BW <Aj>] [ML>KH <Ob>]
  EXO 35,02 3sgM ZYq0  << Defc  NQ      11     10  7..    |    |              |      [JWMT <Pr>]
  EXO 35,03 2plM xYq0  << WxYX  NQ      11     11  5..    |    |             [L> <Ng>] [TB<RW <Pr>] [>C <Ob>] [B-KL MCBTJKM <Aj>] [B-JWM H-CBT <Ti>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  EXO 35,04 3sgM WayX  << WayX  N       2      12  0.#   [W-<Cj>] [J>MR <Pr>] [MCH <Su>] [>L KL <DT BNJ JFR>L <Co>]
  EXO 35,04 ---- InfC [adjunct] N       2      13  1..    |  [L->MR <Pr>]
                                =======                   |    +===================================================================================\
@@ -41,7 +41,7 @@
  EXO 35,19 ---- InfC [specif.] NQQ     211    37 16.e    |    |           |                                          |  [L-CRT <Pr>] [B--QDC <Aj>]
  EXO 35,19 ---- Defc  << Ellp  NQQ     211    38 15d.    |    |           |                                         [>T BGDJ H-QDC / L->HRN / H-KHN / W-/ >T BGDJ BNJW <pa><cj><ap><sp><pa>]
  EXO 35,19 ---- InfC [adjunct] NQQ     211    39 16..    |    |           |                                             [L-KHN <Pr>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  EXO 35,20 3plM WayX  << WayX  N       3      40  0.#   [W-<Cj>] [JY>W <Pr>] [KL <DT BNJ JFR>L <Su>] [M-L-PNJ MCH <Co>]
  EXO 35,21 3plM WayX  << WayX  N       4      41  0.#   [W-<Cj>] [JB>W <Pr>] [KL >JC <Su>]
  EXO 35,21 3sgM xQtX [attrib.] N       4      42  2..    |   |  [>CR <Re>] [NF>W <PO>] [LBW <Su>]

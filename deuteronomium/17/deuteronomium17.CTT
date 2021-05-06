@@ -12,7 +12,7 @@
  DEUT17,03 3sgM Way0  << Way0  QN      2      11  6..    |   |   |           || [W-<Cj>] [J<BD <Pr>] [>LHJM >XRJM <Ob>]
  DEUT17,03 3sgM Way0  << Way0  QN      2      12  6..    |   |   |           || [W-<Cj>] [JCTXW <Pr>] [LHM / W-/ L--CMC >W L--JRX >W L-KL YB> H-CMJM <pa><cj><Co>]
  DEUT17,03 1sg- xQt0 [attrib.] QN      2      13  7..    |   |   |           ||     [>CR <Re>] [L> <Ng>] [YWJTJ <Pr>]
-                               -------                   |   |   |            +-------------------------------------------------------------------/
+                               -------                   |   |   |           |+-------------------------------------------------------------------/
  DEUT17,04 3sgM WQt0  << xYq0  Q       2      14  5..    |   |   |          [W-<Cj>] [HGD <Pr>] [LK <Co>]
  DEUT17,04 2sgM WQt0  << WQt0  Q       2      15  6..    |   |   |              [W-<Cj>] [CM<T <Pr>]
  DEUT17,04 2sgM WQt0  << WQt0  Q       2      16  6..    |   |   |              [W-<Cj>] [DRCT <Pr>] [HJVB <Mo>]
@@ -71,9 +71,9 @@
  DEUT17,14 2sgM WQt0  << WQt0  Q       4      69  3..        |      [W-<Cj>] [JCBTH <Pr>] [BH <Co>]
  DEUT17,14 2sgM WQt0  << WQt0  Q       4      70  3..        |      [W-<Cj>] [>MRT <Pr>]
                                =======                       |        +===========================================================================\
- DEUT17,14 1sg- ZYq0  <<  [Q]  QQ      41     71  4.q        |       || [>FJMH <Pr>] [<LJ <Co>] [MLK <Ob>] [K-KL H-GWJM <Aj>]
- DEUT17,14 ---- NmCl [attrib.] QQ      41     72  5..        |       ||     [>CR <Re>] [SBJBTJ <PC>]
-                               =======                                +===========================================================================/
+ DEUT17,14 1sg- ZYq0  <<  [Q]  QQ      41     71  4.q        |        | [>FJMH <Pr>] [<LJ <Co>] [MLK <Ob>] [K-KL H-GWJM <Aj>]
+ DEUT17,14 ---- NmCl [attrib.] QQ      41     72  5..        |        |     [>CR <Re>] [SBJBTJ <PC>]
+                               =======                       |        +===========================================================================/
  DEUT17,15 2sgM xYq0  << xYq0  Q       4      73  1..       [FWM <Mo>] [TFJM <Pr>] [<LJK <Co>] [MLK <Ob>]
  DEUT17,15 3sgM xYqX [attrib.] Q       4      74  5..            |   |   |  [>CR <Re>] [JBXR <Pr>] [JHWH / >LHJK <ap><Su>] [BW <Co>]
  DEUT17,15 2sgM xYq0  << xYq0  Q       4      75  4..            |   |  [M-QRB >XJK <Aj>] [TFJM <Pr>] [<LJK <Co>] [MLK <Ob>]
@@ -87,7 +87,7 @@
                                =======                           |       |    +===================================================================\
  DEUT17,16 2plM xYq0  <<  [Q]  QQ      421    83  6.q            |       |    | [L> <Ng>] [TSPWN <Pr>]
  DEUT17,16 ---- InfC [adjunct] QQ      421    84  7..            |       |    |     [L-CWB <Pr>] [B--DRK H-ZH <Co>] [<WD <Mo>]
-                               =======                           |            +===================================================================/
+                               =======                           |       |    +===================================================================/
  DEUT17,17 3sgM WxY0  << WxY0  Q       4      85  4..            |      [W-<Cj>] [L> <Ng>] [JRBH <Pr>] [LW <Co>] [NCJM <Ob>]
  DEUT17,17 3sgM WxYX  << WxY0  Q       4      86  5..            |          [W-<Cj>] [L> <Ng>] [JSWR <Pr>] [LBBW <Su>]
  DEUT17,17 3sgM WxY0  << WxYX  Q       4      87  6..            |              [W-<Cj>] [KSP W-ZHB <Ob>] [L> <Ng>] [JRBH <Pr>] [LW <Co>] [M>D <Mo>]

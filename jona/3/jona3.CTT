@@ -5,7 +5,7 @@ JONA 03,02 2sgM ZIm0  <<  [Q]  NQ      11      3  2.q    |    | [QWM <Pr>]
 JONA 03,02 2sgM ZIm0  << ZIm0  NQ      11      4  2..    |    | [LK <Pr>] [>L NJNWH / H-<JR H-GDWLH <ap><Co>]
 JONA 03,02 2sgM WIm0  << ZIm0  NQ      11      5  3..    |    |     [W-<Cj>] [QR> <Pr>] [>LJH <Co>] [>T H-QRJ>H <Ob>]
 JONA 03,02 -sgM Ptcp [attrib.] NQ      11      6  4..    |    |         [>CR <Re>] [>NKJ <Su>] [DBR <PC>] [>LJK <Co>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
 JONA 03,03 3sgM WayX  << WayX  N       2       7  0.#   [W-<Cj>] [JQM <Pr>] [JWNH <Su>]
 JONA 03,03 3sgM Way0  << WayX  N       2       8  1..    |  [W-<Cj>] [JLK <Pr>] [>L NJNWH <Co>] [K-DBR JHWH <Aj>]
 JONA 03,03 3sgF WXQt  << Way0  N       21      9  2.#    |      [W-<Cj>] [NJNWH <Su>] [HJTH <Pr>] [<JR GDWLH <PC>] [L->LHJM <Aj>]
@@ -17,7 +17,7 @@ JONA 03,04 3sgM Way0  << Way0  N       3      14  1..    |  [W-<Cj>] [J>MR <Pr>]
                                =======                   |    +===================================================================================\
 JONA 03,04 ---- NmCl  <<  [Q]  NQ      31     15  2.q    |    | [<WD <Mo>] [>RB<JM JWM <PC>]
 JONA 03,04 -sgF Ptcp  << NmCl  NQ      31     16  3..    |    |     [W-<Cj>] [NJNWH <Su>] [NHPKT <PC>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
 JONA 03,05 3plM WayX  << WayX  N       4      17  0.#   [W-<Cj>] [J>MJNW <Pr>] [>NCJ NJNWH <Su>] [B->LHJM <Co>]
 JONA 03,05 3plM Way0  << WayX  N       4      18  1..    |  [W-<Cj>] [JQR>W <Pr>] [YWM <Ob>]
 JONA 03,05 3plM Way0  << Way0  N       4      19  1..    |  [W-<Cj>] [JLBCW <Pr>] [FQJM <Ob>] [M-GDWLM W-<D QVNM <Aj>]
@@ -45,7 +45,7 @@ JONA 03,09 3sgM ZYq0  << Ptcp  NQQ     511    38  6..    |    |       |         
 JONA 03,09 3sgM WQtX  << ZYq0  NQQ     511    39  8..    |    |       |              |  [W-<Cj>] [NXM <Pr>] [H->LHJM <Su>]
 JONA 03,09 3sgM WQt0  << ZYq0  NQQ     511    40  7..    |    |       |             [W-<Cj>] [CB <Pr>] [M-XRWN >PW <Co>]
 JONA 03,09 1pl- WxY0  << WQt0  NQQ     511    41  8..    |    |       |                 [W-<Cj>] [L> <Ng>] [N>BD <Pr>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
 JONA 03,10 3sgM WayX  << WayX  N       6      42  0.#   [W-<Cj>] [JR> <Pr>] [H->LHJM <Su>] [>T M<FJHM <Ob>]
 JONA 03,10 3pl- xQt0 [object ] N       6      43  1..    |  [KJ <Cj>] [CBW <Pr>] [M-DRKM H-R<H <Co>]
 JONA 03,10 3sgM WayX  << WayX  N       7      44  0.#   [W-<Cj>] [JNXM <Pr>] [H->LHJM <Su>] [<L H-R<H <Co>]

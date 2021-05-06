@@ -79,7 +79,7 @@
  LEV 18,25 3sgF WayX  << xQtX  NQQN    1111   76  9.#         |       |              |    | [W-<Cj>] [TVM> <Pr>] [H->RY <Su>]
  LEV 18,25 1sg- Way0  << WayX  NQQN    1111   77 10..         |       |              |    |     [W-<Cj>] [>PQD <Pr>] [<WNH <Ob>] [<LJH <Co>]
  LEV 18,25 3sgF WayX  << Way0  NQQN    11111  78 10.#         |       |              |    |     [W-<Cj>] [TQ> <Pr>] [H->RY <Su>] [>T JCBJH <Ob>]
-                               -------                        |       |                   +-------------------------------------------------/
+                               -------                        |       |              |    +-------------------------------------------------/
  LEV 18,26 2plM WQtX  << xYq0  NQQ     111    79  7..         |       |             [W-<Cj>] [CMRTM <Pr>] [>TM <Su>] [>T XQTJ W->T MCPVJ <Ob>]
  LEV 18,26 2plM WxY0  << WQtX  NQQ     111    80 11..         |       |                  |   |   |  [W-<Cj>] [L> <Ng>] [T<FW <Pr>] [M-KL H-TW<BT H->LH <Co>] [H->ZRX W-H-GR <Aj>]
  LEV 18,26 -sgM Ptcp [attrib.] NQQ     111    81 12..         |       |                  |   |   |      [H-<Re>] [GR <PC>] [B-TWKKM <Co>]
@@ -87,7 +87,7 @@
  LEV 18,27 ---- NmCl [attrib.] NQQ     111    83 12..         |       |                  |   |       |  [>CR <Re>] [L-PNJKM <PC>]
                                -------                        |       |                  |   |    +-----------------------------------------\
  LEV 18,27 3sgF WayX  << xQtX  NQQN    1112   84 11.#         |       |                  |   |    | [W-<Cj>] [TVM> <Pr>] [H->RY <Su>]
-                               -------                        |       |                  |        +-----------------------------------------/
+                               -------                        |       |                  |   |    +-----------------------------------------/
  LEV 18,28 3sgF WxYX  << WQtX  NQQ     111    85  9..         |       |                  |  [W-<Cj>] [L> <Ng>] [TQJ> <Pr>] [H->RY <Su>] [>TKM <Ob>]
  LEV 18,28 ---- InfC [adjunct] NQQ     111    86 12..         |       |                  |       |   |  [B-VM>KM <Ps>] [>TH <Ob>]
  LEV 18,28 3sgF xQt0 [adjunct] NQQ     111    87 11..         |       |                  |       |  [K->CR <Cj>] [Q>H <Pr>] [>T H-GWJ <Ob>]

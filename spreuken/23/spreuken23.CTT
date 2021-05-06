@@ -19,11 +19,12 @@
  PRO 23,07 3sgM xQt0 [predic.] Q       1      19  9..            |   |   |   |   |       |  [KMW <Cj>] [C<R <Pr>] [B-NPCW <Aj>]
  PRO 23,07 ---- NmCl [resumpt] Q       1      20  8..            |   |   |   |   |      [KN <PC>] [HW> <Su>]
                                =======                           |   |   |   |+===================================================================\
- PRO 23,07 2sgM ZIm0  <<  [Q]  QQ      11     21  6.q            |   |   |    | [>KL <Pr>]
- PRO 23,07 2sgM WIm0  << ZIm0  QQ      11     22  8..            |   |   |    |      |  [W-<Cj>] [CTH <Pr>]
+ PRO 23,07 2sgM ZIm0  <<  [Q]  QQ      11     21  6.q            |   |   |   || [>KL <Pr>]
+ PRO 23,07 2sgM WIm0  << ZIm0  QQ      11     22  8..            |   |   |   ||      |  [W-<Cj>] [CTH <Pr>]
+                               =======                           |   |   |   ||   +==================================================================\
+ PRO 23,07 3sgM ZYq0  << ZIm0  Q       111    23  7.#            |   |   |   ||   | [J>MR <Pr>] [LK <Co>]
+ PRO 23,07 ---- NmCl  << ZYq0  Q       111    24  8..            |   |   |   ||   |     [W-<Cj>] [LBW <Su>] [BL <Ng>] [<MK <PC>]
                                =======                           |   |   |   |+===================================================================/
- PRO 23,07 3sgM ZYq0  << ZIm0  Q       111    23  7.#            |   |   |   |      [J>MR <Pr>] [LK <Co>]
- PRO 23,07 ---- NmCl  << ZYq0  Q       111    24  8..            |   |   |   |          [W-<Cj>] [LBW <Su>] [BL <Ng>] [<MK <PC>]
  PRO 23,08 2sgM xQt0  << xYq0  Q       1      25  5..            |   |   |  [PTK <Ob>] [>KLT <Pr>]
  PRO 23,08 2sgM ZYq0  << xQt0  Q       1      26  7..            |   |   |       |  [TQJ>NH <PO>]
  PRO 23,08 2sgM WQt0  << xQt0  Q       1      27  6..            |   |   |      [W-<Cj>] [CXT <Pr>] [DBRJK H-N<JMJM <Ob>]

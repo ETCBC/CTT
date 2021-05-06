@@ -31,18 +31,18 @@
  CAN 06,09 -sgF AjCl  << NmCl  Q       21     31  6..    |               |      [BRH <PC>] [HJ> <Su>] [L-JWLDTH <Co>]
  CAN 06,09 3pl- ZQtX  << NmCl  Q       21     32  4..    |              [R>WH <PO>] [BNWT <Su>]
                                -------                   |                   |   |+---------------------------------------------------------------\
- CAN 06,09 3plM Way0  << ZQtX  QN      21     33  7..    |                   |    | [W-<Cj>] [J>CRWH <PO>]
-                               -------                   |                   |    +---------------------------------------------------------------/
+ CAN 06,09 3plM Way0  << ZQtX  QN      21     33  7..    |                   |   || [W-<Cj>] [J>CRWH <PO>]
+                               -------                   |                   |   |+---------------------------------------------------------------/
  CAN 06,09 ---- Ellp  << ZQtX  Q       21     34  6l.    |                   |  [MLKWT W-PJLGCJM <Su>]
                                -------                   |                   |    +---------------------------------------------------------------\
  CAN 06,09 3plM Way0  << Ellp  QN      21     35  7..    |                   |    | [W-<Cj>] [JHLLWH <PO>]
-                               =======                   |                        +===============================================================/
- CAN 06,10 ---- Defc  <<  [Q]  QQ      211    36  5dq    |                  [MJ Z>T <Su>]
- CAN 06,10 -sgF Ptcp [attrib.] QQ      211    37  7.e    |                        | [H-<Re>] [NCQPH <PC>] [KMW CXR <Co>]
- CAN 06,10 -sgF AjCl  << Defc  QQ      211    38  6..    |                      [JPH <PC>] [K--LBNH <Aj>]
- CAN 06,10 -sgF AjCl [coordin] QQ      211    39  6..    |                      [BRH <PC>] [K--XMH <Aj>]
- CAN 06,10 -sgF AjCl [coordin] QQ      211    40  6..    |                      [>JMH <PC>] [K--NDGLWT <Aj>]
-                               =======                                            +===============================================================/
+                               =======                   |                +=======================================================================\
+ CAN 06,10 ---- Defc  <<  [Q]  QQ      211    36  5dq    |                | [MJ Z>T <Su>]
+ CAN 06,10 -sgF Ptcp [attrib.] QQ      211    37  7.e    |                |      |  [H-<Re>] [NCQPH <PC>] [KMW CXR <Co>]
+ CAN 06,10 -sgF AjCl  << Defc  QQ      211    38  6..    |                |     [JPH <PC>] [K--LBNH <Aj>]
+ CAN 06,10 -sgF AjCl [coordin] QQ      211    39  6..    |                |     [BRH <PC>] [K--XMH <Aj>]
+ CAN 06,10 -sgF AjCl [coordin] QQ      211    40  6..    |                |     [>JMH <PC>] [K--NDGLWT <Aj>]
+                               =======                   |                +=======================================================================/
  CAN 06,11 1sg- xQt0  << XQtl  Q       3      41  0.#   [>L GNT >GWZ <Co>] [JRDTJ <Pr>]
  CAN 06,11 ---- InfC [adjunct] Q       3      42  2..        |  [L-R>WT <Pr>] [B->BJ H-NXL <Co>]
  CAN 06,11 ---- InfC [coordin] Q       3      43  2..        |  [L-R>WT <Pr>]

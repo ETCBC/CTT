@@ -36,7 +36,7 @@
  DEUT25,07 ---- InfC [adjunct] DQ      11     35 11..            |               |   |    |      |  [L-HQJM <Pr>] [L->XJW <Co>] [CM <Ob>] [B-JFR>L <Aj>]
  DEUT25,07 3sgM xQt0  << ZQtX  DQ      11     36 10..            |               |   |    |     [L> <Ng>] [>BH <Pr>]
  DEUT25,07 ---- InfC [subject] DQ      11     37 11..            |               |   |    |         [JBMJ <PO>]
-                               =======                           |               |        +=======================================================/
+                               =======                           |               |   |    +=======================================================/
  DEUT25,08 3pl- WQtX  << WQtX  D       1      38  7..            |               |  [W-<Cj>] [QR>W <Pr>] [LW <Co>] [ZQNJ <JRW <Su>]
  DEUT25,08 3pl- WQt0  << WQtX  D       1      39  8..            |               |      [W-<Cj>] [DBRW <Pr>] [>LJW <Co>]
  DEUT25,08 3sgM WQt0  << WQt0  D       1      40  9..            |               |          [W-<Cj>] [<MD <Pr>]
@@ -44,16 +44,16 @@
                                =======                           |               |            +===================================================\
  DEUT25,08 1sg- xQt0  <<  [Q]  DQ      12     42 10.q            |               |            | [L> <Ng>] [XPYTJ <Pr>]
  DEUT25,08 ---- InfC [adjunct] DQ      12     43 11..            |               |            |     [L-QXTH <PO>]
-                               =======                           |                            +===================================================/
+                               =======                           |               |            +===================================================/
  DEUT25,09 3sgF WQtX  << WQtX  D       1      44  6..            |              [W-<Cj>] [NGCH <Pr>] [JBMTW <Su>] [>LJW <Co>] [L-<JNJ H-ZQNJM <Aj>]
  DEUT25,09 3sgF WQt0  << WQtX  D       1      45  7..            |                  [W-<Cj>] [XLYH <Pr>] [N<LW <Ob>] [M-<L RGLW <Co>]
  DEUT25,09 3sgF WQt0  << WQt0  D       1      46  7..            |                  [W-<Cj>] [JRQH <Pr>] [B-PNJW <Co>]
  DEUT25,09 3sgF WQt0  << WQt0  D       1      47  7..            |                  [W-<Cj>] [<NTH <Pr>]
  DEUT25,09 3sgF WQt0  << WQt0  D       1      48  7..            |                  [W-<Cj>] [>MRH <Pr>]
                                =======                           |                       |+=======================================================\
- DEUT25,09 3sgM xYq0  <<  [Q]  DQ      13     49  9.q            |                        | [KKH <Mo>] [J<FH <Pr>] [L-->JC <Co>]
- DEUT25,09 3sgM xYq0 [attrib.] DQ      13     50 10..            |                        |     [>CR <Re>] [L> <Ng>] [JBNH <Pr>] [>T BJT >XJW <Ob>]
-                               =======                           |                        +=======================================================/
+ DEUT25,09 3sgM xYq0  <<  [Q]  DQ      13     49  9.q            |                       || [KKH <Mo>] [J<FH <Pr>] [L-->JC <Co>]
+ DEUT25,09 3sgM xYq0 [attrib.] DQ      13     50 10..            |                       ||     [>CR <Re>] [L> <Ng>] [JBNH <Pr>] [>T BJT >XJW <Ob>]
+                               =======                           |                       |+=======================================================/
  DEUT25,10 3sgM WQtX  << WQt0  D       1      51  8..            |                      [W-<Cj>] [NQR> <Pr>] [CMW <Su>] [B-JFR>L <Co>]
  DEUT25,10 ---- Ellp  << WQtX  D       1      52  9l.            |                          [BJT XLWY H-N<L <Ob>]
  DEUT25,11 3plM xYqX  << xYqX  D       14     53  2.#           [KJ <Cj>] [JNYW <Pr>] [>NCJM <Su>] [JXDW / >JC W->XJW <sp><Mo>]
@@ -75,9 +75,9 @@
  DEUT25,17 ---- InfC [adjunct] D       16     69  6..                |       |  [B-Y>TKM <Ps>] [M-MYRJM <Co>]
  DEUT25,18 3sgM xQt0 [object ] D       16     70  5..                |      [>CR <Re>] [QRK <PO>] [B--DRK <Lo>]
                                -------                               |           |   |+-----------------------------------------------------------\
- DEUT25,18 3sgM Way0 [coordin] DN      16     71  8..                |           |    | [W-<Cj>] [JZNB <Pr>] [BK <Co>] [KL <Ob>]
- DEUT25,18 -plM Ptcp [reg/rec] DN      16     72  9..                |           |    |     [H-<Re>] [NXCLJM <PC>] [>XRJK <Aj>]
-                               -------                               |           |    +-----------------------------------------------------------/
+ DEUT25,18 3sgM Way0 [coordin] DN      16     71  8..                |           |   || [W-<Cj>] [JZNB <Pr>] [BK <Co>] [KL <Ob>]
+ DEUT25,18 -plM Ptcp [reg/rec] DN      16     72  9..                |           |   ||     [H-<Re>] [NXCLJM <PC>] [>XRJK <Aj>]
+                               -------                               |           |   |+-----------------------------------------------------------/
  DEUT25,18 -sgM AjCl  << xQt0  D       16     73  7..                |           |  [W-<Cj>] [>TH <Su>] [<JP W-JG< <PC>]
  DEUT25,18 3sgM WxQ0  << xQt0  D       16     74  6..                |          [W-<Cj>] [L> <Ng>] [JR> <Pr>] [>LHJM <Ob>]
  DEUT25,19 3sgM WQt0  << InfA  D       16     75  3..               [W-<Cj>] [HJH <Pr>]

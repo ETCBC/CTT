@@ -25,7 +25,7 @@
  DEUT08,03 3sgM xYqX [object ] QN      1      24  8..        |       |       ||         [KJ <Cj>] [L> <Ng>] [<L H-LXM <Co>] [L-BDW <Aj>] [JXJH <Pr>] [H->DM <Su>]
                                -------                       |       |       ||           +----------------------------------------------------\
  DEUT08,03 3sgM xYqX [coordin] QND     1      25  9..        |       |       ||           | [KJ <Cj>] [<L KL MWY> PJ JHWH <Co>] [JXJH <Pr>] [H->DM <Su>]
-                               -------                       |       |        +-------------------------------------------------------------------/
+                               -------                       |       |       |+-------------------------------------------------------------------/
  DEUT08,04 3sgF XQtl  << xQtX  Q       1      26  5..        |       |      [FMLTK <Su>] [L> <Ng>] [BLTH <Pr>] [M-<LJK <Aj>]
  DEUT08,04 3sgF WXQt  << XQtl  Q       1      27  6..        |       |          [W-<Cj>] [RGLK <Su>] [L> <Ng>] [BYQH <Pr>] [ZH <Mo>] [>RB<JM CNH <Ti>]
  DEUT08,05 2sgM WQt0  << WQt0  Q       1      28  3..        |      [W-<Cj>] [JD<T <Pr>] [<M LBBK <Aj>]
@@ -75,7 +75,7 @@
  DEUT08,17 2sgM WQt0  << WQt0  Q       1      72  5..            |          [W-<Cj>] [>MRT <Pr>] [B-LBBK <Co>]
                                =======                           |            +===================================================================\
  DEUT08,17 3sgM XQtl  <<  [Q]  QQ      11     73  6.q            |            | [KXJ W-<YM JDJ <Su>] [<FH <Pr>] [LJ <Co>] [>T H-XJL H-ZH <Ob>]
-                               =======                                        +===================================================================/
+                               =======                           |            +===================================================================/
  DEUT08,18 2sgM WQt0  << ZIm0  Q       1      74  2..           [W-<Cj>] [ZKRT <Pr>] [>T JHWH / >LHJK <ap><Ob>]
  DEUT08,18 ---- NmCl  << WQt0  Q       1      75  4..                |  [KJ <Cj>] [HW> <Su>]
  DEUT08,18 -sgM Ptcp [predic.] Q       1      76  5..                |      [H-<Re>] [NTN <PC>] [LK <Co>] [KX <Ob>]

@@ -26,7 +26,7 @@
  NUM 01,15 ---- NmCl  << NmCl  NQ      11     25  6..    |    |              |  [L-NPTLJ <PC>] [>XJR< / BN <JNN <ap><Su>]
  NUM 01,16 ---- NmCl  << NmCl  NQ      11     26  5..    |    |             [>LH <Su>] [QRJ>J H-<DH / NFJ>J MVWT >BWTM <ap><PC>]
  NUM 01,16 ---- NmCl  << NmCl  NQ      11     27  6..    |    |                 [R>CJ >LPJ JFR>L <PC>] [HM <Su>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  NUM 01,17 3sgM WayX  << WayX  N       2      28  0.#   [W-<Cj>] [JQX <Pr>] [MCH W->HRN <Su>] [>T H->NCJM H->LH <Ob>]
  NUM 01,17 3pl- xQt0 [attrib.] N       2      29  2..    |   |  [>CR <Re>] [NQBW <Pr>] [B-CMWT <Co>]
  NUM 01,18 3pl- WxQ0  << WayX  N       21     30  1.#    |  [W-<Cj>] [>T KL H-<DH <Ob>] [HQHJLW <Pr>] [B->XD / L--XDC H-CNJ <sp><Ti>]
@@ -102,7 +102,7 @@
  NUM 01,53 3plM WXYq  << WQtX  NQ      31     99  4..    |    |      |  [W-<Cj>] [H-LWJM <Su>] [JXNW <Pr>] [SBJB / L-MCKN H-<DT <sp><Co>]
  NUM 01,53 3sgM WxYX  << WXYq  NQ      31    100  5..    |    |      |      [W-<Cj>] [L> <Ng>] [JHJH <Pr>] [QYP <Su>] [<L <DT BNJ JFR>L <PC>]
  NUM 01,53 3pl- WQtX  << WQtX  NQ      31    101  3..    |    |     [W-<Cj>] [CMRW <Pr>] [H-LWJM <Su>] [>T MCMRT MCKN H-<DWT <Ob>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  NUM 01,54 3plM WayX  << WayX  N       4     102  0.#   [W-<Cj>] [J<FW <Pr>] [BNJ JFR>L <Su>] [K-KL <Aj>]
  NUM 01,54 3sgM xQtX [reg/rec] N       4     103  2..        |  [>CR <Re>] [YWH <Pr>] [JHWH <Su>] [>T MCH <Ob>]
  NUM 01,54 3pl- xQt0  << WayX  N       4     104  1..       [KN <Mo>] [<FW <Pr>]

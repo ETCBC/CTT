@@ -6,7 +6,7 @@
  JES 56,01 ---- InfC [adjunct] ?Q      11      5  5..    |   ||          |  [L-BW> <Pr>]
  JES 56,01 ---- Ellp  << AjCl  ?Q      11      6  4l.    |   ||         [W-<Cj>] [YDQTJ <Su>]
  JES 56,01 ---- InfC [adjunct] ?Q      11      7  5..    |   ||             [L-HGLWT <Pr>]
-                               =======                   |    +===================================================================================/
+                               =======                   |   |+===================================================================================/
  JES 56,02 ---- NmCl  << xQtX  ?       1       8  1..    |  [>CRJ >NWC <PC>]
  JES 56,02 3sgM ZYq0 [attrib.] ?       1       9  5..    |       |   |   |  [J<FH <Pr>] [Z>T <Ob>]
  JES 56,02 ---- Ellp  << NmCl  ?       1      10  4l.    |       |   |  [W-<Cj>] [BN >DM <Su>]
@@ -20,39 +20,39 @@
  JES 56,03 ---- InfC [adjunct] ?       1      18  5..    |           |   |  [L->MR <Pr>]
                                =======                   |           |   |    +===================================================================\
  JES 56,03 3sgM xYqX  <<  [Q]  ?Q      12     19  6.q    |           |   |    | [HBDL <Mo>] [JBDJLNJ <PO>] [JHWH <Su>] [M-<L <MW <Co>]
-                               =======                   |           |        +===================================================================/
+                               =======                   |           |   |    +===================================================================/
  JES 56,03 3sgM WxYX  << WxYX  ?       1      20  4..    |           |  [W-<Cj>] [>L <Ng>] [J>MR <Pr>] [H-SRJS <Su>]
                                =======                   |           |    +=======================================================================\
  JES 56,03 ---- NmCl  <<  [Q]  ?Q      13     21  5.q    |           |    | [HN <Ij>] [>NJ <Su>] [<Y JBC <PC>]
-                               =======                   |                +=======================================================================/
+                               =======                   |           |    +=======================================================================/
  JES 56,04 3sgM xQtX  << WxYX  ?       1      22  3..    |          [KJ <Cj>] [KH <Mo>] [>MR <Pr>] [JHWH <Su>] [L--SRJSJM <Co>]
-                               =======                 ==============================================================================================/
- JES 56,04 3plM xYq0 [attrib.] Q       1      23  5..    |               |  [>CR <Re>] [JCMRW <Pr>] [>T CBTWTJ <Ob>]
- JES 56,04 3pl- WQt0 [coordin] Q       1      24  6..    |               |      [W-<Cj>] [BXRW <Pr>]
- JES 56,04 1sg- xQt0 [complm.] Q       1      25  8..    |               |           |  [B->CR <Re>] [XPYTJ <Pr>]
- JES 56,04 -plM Ptcp [coordin] Q       1      26  7..    |               |          [W-<Cj>] [MXZJQJM <PC>] [B-BRJTJ <Co>]
-                               =======                 ==============================================================================================/
- JES 56,05 1sg- WQt0  <<  [Q]  ?Q      14     27  4.q    |              [W-<Cj>] [NTTJ <Pr>] [LHM <Co>] [B-BJTJ W-B-XWMTJ <Lo>] [JD W-CM <Ob>]
- JES 56,05 -sgM AjCl [attrib.] ?Q      14     28  7..    |                   |   |  [VWB <PC>] [M-BNJM W-M-BNWT <Aj>]
- JES 56,05 1sg- xYq0  << WQt0  ?Q      14     29  6..    |                   |  [CM <WLM <Ob>] [>TN <Pr>] [LW <Co>]
- JES 56,05 3sgM xYq0 [attrib.] ?Q      14     30  7..    |                   |      [>CR <Re>] [L> <Ng>] [JKRT <Pr>]
- JES 56,06 ---- CPen  << WQt0  ?Q      14     31  5c.    |                  [W-<Cj>] [BNJ H-NKR <Fr>]
- JES 56,06 -plM Ptcp [attrib.] ?Q      14     32  8..    |                       |   |  [H-<Re>] [NLWJM <PC>] [<L JHWH <Co>]
- JES 56,06 ---- InfC [adjunct] ?Q      14     33  9..    |                       |   |      [L-CRTW <PO>]
- JES 56,06 ---- InfC [coordin] ?Q      14     34 11..    |                       |   |           |  [W-<Cj>] [L->HBH <Pr>] [>T CM JHWH <Ob>]
- JES 56,06 ---- InfC [coordin] ?Q      14     35 10.e    |                       |   |          [L-HJWT <Pr>] [LW <Co>] [L-<BDJM <PC>]
- JES 56,06 ---- Defc  << CPen  ?Q      14     36  7d.    |                       |  [KL <sp>]
- JES 56,06 -sgM Ptcp [reg/rec] ?Q      14     37  8..    |                       |      [CMR <PC>] [CBT <Ob>]
- JES 56,06 ---- InfC [adjunct] ?Q      14     38 10..    |                       |           |  [M-XLLW <PO>]
- JES 56,06 -plM Ptcp [coordin] ?Q      14     39  9..    |                       |          [W-<Cj>] [MXZJQJM <PC>] [B-BRJTJ <Co>]
- JES 56,07 1sg- WQt0 [resumpt] ?Q      14     40  6..    |                      [W-<Cj>] [HBJ>WTJM <PO>] [>L HR QDCJ <Co>]
- JES 56,07 1sg- WQt0 [coordin] ?Q      14     41  8..    |                           |  [W-<Cj>] [FMXTJM <PO>] [B-BJT TPLTJ <Lo>]
- JES 56,07 ---- NmCl  << WQt0  ?Q      14     42  7..    |                          [<WLTJHM W-ZBXJHM <Su>] [L-RYWN <PC>] [<L MZBXJ <Aj>]
- JES 56,07 3sgM XYqt  << NmCl  ?Q      14     43  9..    |                               |  [KJ <Cj>] [BJTJ <Su>] [BJT TPLH <Ob>] [JQR> <Pr>] [L-KL H-<MJM <Aj>]
- JES 56,08 ---- MSyn  << XYqt  ?Q      14     44 10m.    |                               |      [N>M >DNJ JHWH <PC>]
- JES 56,08 -sgM Ptcp [attrib.] ?Q      14     45 11..    |                               |          [MQBY <PC>] [NDXJ JFR>L <Ob>]
- JES 56,08 1sg- xYq0  << NmCl  ?Q      14     46  8..    |                              [<WD <Mo>] [>QBY <Pr>] [<LJW <Co>] [L-NQBYJW <Aj>]
-                               =======                 ==============================================================================================/
+                               =======                   |               |+==========================================================================\
+ JES 56,04 3plM xYq0 [attrib.] Q       1      23  5..    |               || [>CR <Re>] [JCMRW <Pr>] [>T CBTWTJ <Ob>]
+ JES 56,04 3pl- WQt0 [coordin] Q       1      24  6..    |               ||     [W-<Cj>] [BXRW <Pr>]
+ JES 56,04 1sg- xQt0 [complm.] Q       1      25  8..    |               ||          |  [B->CR <Re>] [XPYTJ <Pr>]
+ JES 56,04 -plM Ptcp [coordin] Q       1      26  7..    |               ||         [W-<Cj>] [MXZJQJM <PC>] [B-BRJTJ <Co>]
+                               =======                   |            +===========================================================================\
+ JES 56,05 1sg- WQt0  <<  [Q]  ?Q      14     27  4.q    |            | [W-<Cj>] [NTTJ <Pr>] [LHM <Co>] [B-BJTJ W-B-XWMTJ <Lo>] [JD W-CM <Ob>]
+ JES 56,05 -sgM AjCl [attrib.] ?Q      14     28  7..    |            |      |   |  [VWB <PC>] [M-BNJM W-M-BNWT <Aj>]
+ JES 56,05 1sg- xYq0  << WQt0  ?Q      14     29  6..    |            |      |  [CM <WLM <Ob>] [>TN <Pr>] [LW <Co>]
+ JES 56,05 3sgM xYq0 [attrib.] ?Q      14     30  7..    |            |      |      [>CR <Re>] [L> <Ng>] [JKRT <Pr>]
+ JES 56,06 ---- CPen  << WQt0  ?Q      14     31  5c.    |            |     [W-<Cj>] [BNJ H-NKR <Fr>]
+ JES 56,06 -plM Ptcp [attrib.] ?Q      14     32  8..    |            |          |   |  [H-<Re>] [NLWJM <PC>] [<L JHWH <Co>]
+ JES 56,06 ---- InfC [adjunct] ?Q      14     33  9..    |            |          |   |      [L-CRTW <PO>]
+ JES 56,06 ---- InfC [coordin] ?Q      14     34 11..    |            |          |   |           |  [W-<Cj>] [L->HBH <Pr>] [>T CM JHWH <Ob>]
+ JES 56,06 ---- InfC [coordin] ?Q      14     35 10.e    |            |          |   |          [L-HJWT <Pr>] [LW <Co>] [L-<BDJM <PC>]
+ JES 56,06 ---- Defc  << CPen  ?Q      14     36  7d.    |            |          |  [KL <sp>]
+ JES 56,06 -sgM Ptcp [reg/rec] ?Q      14     37  8..    |            |          |      [CMR <PC>] [CBT <Ob>]
+ JES 56,06 ---- InfC [adjunct] ?Q      14     38 10..    |            |          |           |  [M-XLLW <PO>]
+ JES 56,06 -plM Ptcp [coordin] ?Q      14     39  9..    |            |          |          [W-<Cj>] [MXZJQJM <PC>] [B-BRJTJ <Co>]
+ JES 56,07 1sg- WQt0 [resumpt] ?Q      14     40  6..    |            |         [W-<Cj>] [HBJ>WTJM <PO>] [>L HR QDCJ <Co>]
+ JES 56,07 1sg- WQt0 [coordin] ?Q      14     41  8..    |            |              |  [W-<Cj>] [FMXTJM <PO>] [B-BJT TPLTJ <Lo>]
+ JES 56,07 ---- NmCl  << WQt0  ?Q      14     42  7..    |            |             [<WLTJHM W-ZBXJHM <Su>] [L-RYWN <PC>] [<L MZBXJ <Aj>]
+ JES 56,07 3sgM XYqt  << NmCl  ?Q      14     43  9..    |            |                  |  [KJ <Cj>] [BJTJ <Su>] [BJT TPLH <Ob>] [JQR> <Pr>] [L-KL H-<MJM <Aj>]
+ JES 56,08 ---- MSyn  << XYqt  ?Q      14     44 10m.    |            |                  |      [N>M >DNJ JHWH <PC>]
+ JES 56,08 -sgM Ptcp [attrib.] ?Q      14     45 11..    |            |                  |          [MQBY <PC>] [NDXJ JFR>L <Ob>]
+ JES 56,08 1sg- xYq0  << NmCl  ?Q      14     46  8..    |            |                 [<WD <Mo>] [>QBY <Pr>] [<LJW <Co>] [L-NQBYJW <Aj>]
+                               =======                +==============================================================================================\
  JES 56,09 ---- Voct  << xQtX  Q       2      47  0v#   [KL XJTW FDJ <Vo>]
  JES 56,09 2plM ZIm0 [ref.Voc] Q       2      48  3..        |   |  [>TJW <Pr>]
  JES 56,09 ---- InfC [adjunct] Q       2      49  4..        |   |      [L->KL <Pr>]
@@ -66,7 +66,7 @@
  JES 56,10 -plM Ptcp  << Ptcp  Q       2      57  6..            |           |  [CKBJM <PC>]
  JES 56,10 -plM Ptcp  << Ptcp  Q       2      58  6..            |           |  [>HBJ <PC>]
  JES 56,10 ---- InfC [complm.] Q       2      59  7..            |           |      [L-NWM <Pr>]
- JES 56,11 -sgF AjCl  << NmCl  Q       2      60  5..            |          [W-<Cj>] [H-KLBJM <Su>] [<ZJ NPC <PC>]
+ JES 56,11 ---- AjCl  << NmCl  Q       2      60  5..            |          [W-<Cj>] [H-KLBJM <Su>] [<ZJ NPC <PC>]
  JES 56,11 3pl- xQt0  << AjCl  Q       2      61  6..            |              [L> <Ng>] [JD<W <Pr>] [FB<H <Ob>]
  JES 56,11 ---- NmCl  << AjCl  Q       2      62  2..           [W-<Cj>] [HMH <Su>] [R<JM <PC>]
  JES 56,11 3pl- xQt0  << NmCl  Q       2      63  4..                |  [L> <Ng>] [JD<W <Pr>]
@@ -78,4 +78,4 @@
  JES 56,12 1sg- ZYq0  << ZIm0  QQ      21     68  5..                 |     [>QXH <Pr>] [JJN <Ob>]
  JES 56,12 1pl- WYq0  << ZYq0  QQ      21     69  7..                 |          |  [W-<Cj>] [NSB>H <Pr>] [CKR <Ob>]
  JES 56,12 3sgM WQtX  << ZYq0  QQ      21     70  6..                 |         [W-<Cj>] [HJH <Pr>] [K-ZH <PC>] [JWM MXR <Su>]
- JES 56,12 -sgM AjCl [coordin] QQ      21     71  7..                 |             [GDWL JTR M>D <PC>]
+ JES 56,12 ---- AjCl [coordin] QQ      21     71  7..                 |             [GDWL JTR M>D <PC>]

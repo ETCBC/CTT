@@ -20,16 +20,16 @@
  IOB 16,07 2sgM ZQt0  << xQt0  NQ      11     19  7..         |      |       |   |  [HCMWT <Pr>] [KL <DTJ <Ob>]
                                -------                        |      |       |   |    +--------------------------------------------------------\
  IOB 16,08 2sgM Way0  << ZQt0  NQN     11     20  8..         |      |       |   |    | [W-<Cj>] [TQMVNJ <PO>]
-                               -------                        |      |       |        +--------------------------------------------------------/
+                               -------                        |      |       |   |    +--------------------------------------------------------/
  IOB 16,08 3sgM xQt0  << xQt0  NQ      11     21  6..         |      |       |  [L-<D <PC>] [HJH <Pr>]
                                -------                        |      |       |       |   |+----------------------------------------------------\
- IOB 16,08 3sgM WayX  << xQt0  NQN     111    22  9.#         |      |       |       |    | [W-<Cj>] [JQM <Pr>] [BJ <Co>] [KXCJ <Su>]
-                               -------                        |      |       |       |    +----------------------------------------------------/
+ IOB 16,08 3sgM WayX  << xQt0  NQN     111    22  9.#         |      |       |       |   || [W-<Cj>] [JQM <Pr>] [BJ <Co>] [KXCJ <Su>]
+                               -------                        |      |       |       |   |+----------------------------------------------------/
  IOB 16,08 3sgM xYq0  << xQt0  NQ      11     23  8..         |      |       |       |  [B-PNJ <Co>] [J<NH <Pr>]
  IOB 16,09 3sgM XQtl  << xQt0  NQ      11     24  7..         |      |       |      [>PW <Su>] [VRP <Pr>]
                                -------                        |      |       |           |+----------------------------------------------------\
- IOB 16,09 3sgM Way0  << XQtl  NQN     11     25  9..         |      |       |            | [W-<Cj>] [JFVMNJ <PO>]
-                               -------                        |      |       |            +----------------------------------------------------/
+ IOB 16,09 3sgM Way0  << XQtl  NQN     11     25  9..         |      |       |           || [W-<Cj>] [JFVMNJ <PO>]
+                               -------                        |      |       |           |+----------------------------------------------------/
  IOB 16,09 3sgM ZQt0  << XQtl  NQ      11     26  8..         |      |       |          [XRQ <Pr>] [<LJ <Co>] [B-CNJW <Aj>]
  IOB 16,09 3sgM XYqt  << ZQt0  NQ      11     27  9..         |      |       |              [YRJ <Su>] [JLVWC <Pr>] [<JNJW <Ob>] [LJ <Co>]
  IOB 16,10 3pl- ZQt0  << XYqt  NQ      11     28 10..         |      |       |                  [P<RW <Pr>] [<LJ <Co>] [B-PJHM <Co>]
@@ -37,22 +37,22 @@
  IOB 16,10 3plM xYq0  << xQt0  NQ      11     30 12..         |      |       |                          [JXD <Mo>] [<LJ <Co>] [JTML>WN <Pr>]
  IOB 16,11 3sgM ZYqX  << xQt0  NQ      11     31  5..         |      |      [JSGJRNJ <PO>] [>L <Su>] [>L <WJL <Co>]
  IOB 16,11 3sgM WxY0  << ZYqX  NQ      11     32  8..         |      |           |   |  [W-<Cj>] [<L JDJ RC<JM <Co>] [JRVNJ <PO>]
- IOB 16,12 1sg- xQt0  << ZYqX  NQ      11     33  7..         |      |           |  [CLW <PC>] [HJJTJ <Pr>]
+ IOB 16,12 1sgM xQt0  << ZYqX  NQ      11     33  7..         |      |           |  [CLW <PC>] [HJJTJ <Pr>]
                                -------                        |      |           |       |   |+------------------------------------------------\
- IOB 16,12 3sgM Way0  << xQt0  NQN     11     34 10..         |      |           |       |    | [W-<Cj>] [JPRPRNJ <PO>]
-                               -------                        |      |           |       |    +------------------------------------------------/
+ IOB 16,12 3sgM Way0  << xQt0  NQN     11     34 10..         |      |           |       |   || [W-<Cj>] [JPRPRNJ <PO>]
+                               -------                        |      |           |       |   |+------------------------------------------------/
  IOB 16,12 3sgM WQt0  << xQt0  NQ      11     35  9..         |      |           |       |  [W-<Cj>] [>XZ <Pr>] [B-<RPJ <Co>]
                                -------                        |      |           |       |    +------------------------------------------------\
  IOB 16,12 3sgM Way0  << WQt0  NQN     11     36 10..         |      |           |       |    | [W-<Cj>] [JPYPYNJ <PO>]
  IOB 16,12 3sgM Way0  << Way0  NQN     11     37 10..         |      |           |       |    | [W-<Cj>] [JQJMNJ <PO>] [LW <sc>] [L-MVRH <Aj>]
                                -------                        |      |           |       |    |   +-----------------------------------------\
- IOB 16,13 3plM ZYqX  << Way0  NQND    11     38 11..         |      |           |       |    |  || [JSBW <Pr>] [<LJ <Co>] [RBJW <Su>]
- IOB 16,13 3sgM ZYq0  << ZYqX  NQND    11     39 12..         |      |           |       |    |  ||     [JPLX <Pr>] [KLJWTJ <Ob>]
- IOB 16,13 3sgM WxY0  << ZYq0  NQND    11     40 13..         |      |           |       |    |  ||      |  [W-<Cj>] [L> <Ng>] [JXMWL <Pr>]
- IOB 16,13 3sgM ZYq0  << ZYq0  NQND    11     41 12..         |      |           |       |    |  ||     [JCPK <Pr>] [L-->RY <Co>] [MRRTJ <Ob>]
- IOB 16,14 3sgM ZYq0  << ZYq0  NQND    11     42 13..         |      |           |       |    |  ||         [JPRYNJ <PO>] [PRY <Ob>] [<L PNJ PRY <Aj>]
- IOB 16,14 3sgM ZYq0  << ZYq0  NQND    11     43 14..         |      |           |       |    |  ||             [JRY <Pr>] [<LJ <Co>] [K-GBWR <Aj>]
-                               -------                        |      |           |            +------------------------------------------------/
+ IOB 16,13 3plM ZYqX  << Way0  NQND    11     38 11..         |      |           |       |    |   | [JSBW <Pr>] [<LJ <Co>] [RBJW <Su>]
+ IOB 16,13 3sgM ZYq0  << ZYqX  NQND    11     39 12..         |      |           |       |    |   |     [JPLX <Pr>] [KLJWTJ <Ob>]
+ IOB 16,13 3sgM WxY0  << ZYq0  NQND    11     40 13..         |      |           |       |    |   |      |  [W-<Cj>] [L> <Ng>] [JXMWL <Pr>]
+ IOB 16,13 3sgM ZYq0  << ZYq0  NQND    11     41 12..         |      |           |       |    |   |     [JCPK <Pr>] [L-->RY <Co>] [MRRTJ <Ob>]
+ IOB 16,14 3sgM ZYq0  << ZYq0  NQND    11     42 13..         |      |           |       |    |   |         [JPRYNJ <PO>] [PRY <Ob>] [<L PNJ PRY <Aj>]
+ IOB 16,14 3sgM ZYq0  << ZYq0  NQND    11     43 14..         |      |           |       |    |   |             [JRY <Pr>] [<LJ <Co>] [K-GBWR <Aj>]
+                               -------                        |      |           |       |    +------------------------------------------------/
  IOB 16,15 1sg- xQt0  << xQt0  NQ      11     44  8..         |      |           |      [FQ <Ob>] [TPRTJ <Pr>] [<LJ GLDJ <Co>]
  IOB 16,15 1sg- WQt0  << xQt0  NQ      11     45 10..         |      |           |           |  [W-<Cj>] [<LLTJ <Pr>] [B--<PR <Co>] [QRNJ <Ob>]
  IOB 16,16 3pl- XQtl  << xQt0  NQ      11     46  9..         |      |           |          [PNJ <Su>] [XMRMRH <Pr>] [MNJ BKJ <Aj>]

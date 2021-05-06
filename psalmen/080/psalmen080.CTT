@@ -2,7 +2,7 @@
  PS080,001 ---- NmCl  << NmCl  ?       1       2  2..    |   |  [>L CCNJM <Aj>]
  PS080,001 ---- NmCl  << NmCl  ?       1       3  1..    |  [<DWT / L->SP <sp><PC>]
  PS080,001 ---- NmCl  << NmCl  ?       1       4  1..    |  [MZMWR <PC>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PS080,002 ---- Voct  << NmCl  Q       2       5  0vN   [R<H JFR>L <Vo>]
  PS080,002 2sgM ZIm0 [ref.Voc] Q       2       6  3..        |   |  [H>ZJNH <Pr>]
  PS080,002 -sgM Voct  << Voct  Q       2       7  2v.        |  [NHG <PC>] [K--Y>N <Aj>] [JWSP <Ob>]
@@ -18,10 +18,10 @@
  PS080,005 2sgM xQt0 [ref.Voc] Q       2      17  3..        |      [<D MTJ <Ti>] [<CNT <Pr>] [B-TPLT <MK <Co>]
  PS080,006 2sgM ZQt0  << xQt0  Q       2      18  4..        |          [H>KLTM <PO>] [LXM DM<H <Ob>]
                                -------                       |            +-----------------------------------------------------------------------\
- PS080,006 2sgM Way0  << ZQt0  QN      2      19  5..        |           || [W-<Cj>] [TCQMW <PO>] [B-DM<WT CLJC <Co>]
+ PS080,006 2sgM Way0  << ZQt0  QN      2      19  5..        |            | [W-<Cj>] [TCQMW <PO>] [B-DM<WT CLJC <Co>]
                                -------                       |            |   +----------------------------------------------------------------\
- PS080,007 2sgM ZYq0  << Way0  QND     2      20  6..        |           ||   | [TFJMNW <PO>] [MDWN <Ob>] [L-CKNJNW <Co>]
- PS080,007 3plM WXYq  << ZYq0  QND     2      21  7..        |           ||   |     [W-<Cj>] [>JBJNW <Su>] [JL<GW <Pr>] [LMW <Co>]
+ PS080,007 2sgM ZYq0  << Way0  QND     2      20  6..        |            |   | [TFJMNW <PO>] [MDWN <Ob>] [L-CKNJNW <Co>]
+ PS080,007 3plM WXYq  << ZYq0  QND     2      21  7..        |            |   |     [W-<Cj>] [>JBJNW <Su>] [JL<GW <Pr>] [LMW <Co>]
                                -------                       |            +-----------------------------------------------------------------------/
  PS080,008 ---- Voct  << Voct  Q       2      22  1v.       [>LHJM YB>WT <Vo>]
  PS080,008 2sgM ZIm0 [ref.Voc] Q       2      23  3..        |   |  [HCJBNW <PO>]
@@ -31,17 +31,17 @@
  PS080,009 2sgM ZYq0  << xYq0  Q       2      27  4..        |       |  [TGRC <Pr>] [GWJM <Ob>]
                                -------                       |       |       |+-------------------------------------------------------------------\
  PS080,009 2sgM Way0  << ZYq0  QN      2      28  6..        |       |       || [W-<Cj>] [TV<H <PO>]
-                               -------                       |       |        +-------------------------------------------------------------------/
+                               -------                       |       |       |+-------------------------------------------------------------------/
  PS080,010 2sgM ZQt0  << ZYq0  Q       2      29  5..        |       |      [PNJT <Pr>] [L-PNJH <Co>]
                                -------                       |       |        +-------------------------------------------------------------------\
- PS080,010 3sgF Way0  << ZQt0  QN      2      30  6..        |       |       || [W-<Cj>] [TCRC <Pr>] [CRCJH <Ob>]
- PS080,010 3sgF Way0  << Way0  QN      2      31  6..        |       |       || [W-<Cj>] [TML> <Pr>] [>RY <Ob>]
- PS080,011 3pl- ZQtX  << Way0  QN      2      32  8..        |       |       ||      |  [KSW <Pr>] [HRJM <Su>] [YLH <Ob>]
- PS080,011 ---- Ellp  << ZQtX  QN      2      33  9l.        |       |       ||      |      [W-<Cj>] [<NPJH <Ob>] [>RZJ >L <Su>]
+ PS080,010 3sgF Way0  << ZQt0  QN      2      30  6..        |       |        | [W-<Cj>] [TCRC <Pr>] [CRCJH <Ob>]
+ PS080,010 3sgF Way0  << Way0  QN      2      31  6..        |       |        | [W-<Cj>] [TML> <Pr>] [>RY <Ob>]
+ PS080,011 3pl- ZQtX  << Way0  QN      2      32  8..        |       |        |      |  [KSW <Pr>] [HRJM <Su>] [YLH <Ob>]
+ PS080,011 ---- Ellp  << ZQtX  QN      2      33  9l.        |       |        |      |      [W-<Cj>] [<NPJH <Ob>] [>RZJ >L <Su>]
                                -------                       |       |        |   +------------------------------------------------------------\
- PS080,012 3sgF ZYq0  << Way0  QND     2      34  7..        |       |       ||   | [TCLX <Pr>] [QYJRH <Ob>] [<D JM <Co>]
- PS080,012 ---- Ellp  << ZYq0  QND     2      35  8l.        |       |       ||   |     [W-<Cj>] [>L NHR <Co>] [JWNQWTJH <Ob>]
-                               -------                       |                +-------------------------------------------------------------------/
+ PS080,012 3sgF ZYq0  << Way0  QND     2      34  7..        |       |        |   | [TCLX <Pr>] [QYJRH <Ob>] [<D JM <Co>]
+ PS080,012 ---- Ellp  << ZYq0  QND     2      35  8l.        |       |        |   |     [W-<Cj>] [>L NHR <Co>] [JWNQWTJH <Ob>]
+                               -------                       |       |        +-------------------------------------------------------------------/
  PS080,013 2sgM xQt0  << xYq0  Q       2      36  3..        |      [LMH <Qu>] [PRYT <Pr>] [GDRJH <Ob>]
  PS080,013 3pl- WQtX [coordin] Q       2      37  5..        |           |  [W-<Cj>] [>RWH <PO>] [KL <BRJ DRK <Su>]
  PS080,014 3sgM ZYqX [coordin] Q       2      38  4..        |          [JKRSMNH <PO>] [XZJR / M-J<R <sp><Su>]

@@ -17,7 +17,7 @@
  NUM 25,05 2plM ZIm0  <<  [Q]  NQ      321    14  3.q        |   || [HRGW <Pr>]
  NUM 25,05 ---- Ellp [adjunct] NQ      321    15  4l.        |   ||     [>JC <Su>] [>NCJW <Ob>]
  NUM 25,05 -plM Ptcp [attrib.] NQ      321    16  5..        |   ||         [H-<Re>] [NYMDJM <PC>] [L-B<L_P<WR <Co>]
-                               =======                       |    +===============================================================================/
+                               =======                       |   |+===============================================================================/
  NUM 25,06 3sgM WXQt  << WayX  N       32     17  2..        |  [W-<Cj>] [HNH <Ij>] [>JC / M-BNJ JFR>L <sp><Su>] [B> <Pr>]
  NUM 25,06 3sgM Way0  << WXQt  N       32     18  3..        |      [W-<Cj>] [JQRB <Pr>] [>L >XJW <Co>] [>T H-MDJNJT <Ob>] [L-<JNJ MCH / W-/ L-<JNJ KL <DT BNJ JFR>L <pa><cj><Aj>]
  NUM 25,06 -plM Ptcp  << Way0  N       32     19  6..        |           |   |  [W-<Cj>] [HMH <Su>] [BKJM <PC>] [PTX >HL MW<D <Lo>]
@@ -33,16 +33,16 @@
  NUM 25,10 3sgM WayX  << WayX  N       324    29  5.#        |           |  [W-<Cj>] [JDBR <Pr>] [JHWH <Su>] [>L MCH <Co>]
  NUM 25,10 ---- InfC [adjunct] N       324    30  6..        |           |      [L->MR <Pr>]
                                =======                       |           |        +===============================================================\
- NUM 25,11 3sgM XQtl  <<  [Q]  NQ      3241   31  7.q        |           |       || [PJNXS / BN >L<ZR / BN >HRN / H-KHN <ap><ap><ap><Su>] [HCJB <Pr>] [>T XMTJ <Ob>] [M-<L BNJ JFR>L <Co>]
- NUM 25,11 ---- InfC [adjunct] NQ      3241   32 10..        |           |       ||      |   |  [B-QN>W <Ps>] [>T QN>TJ <Ob>] [B-TWKM <Lo>]
- NUM 25,11 1sg- WxQ0  << XQtl  NQ      3241   33  9..        |           |       ||      |  [W-<Cj>] [L> <Ng>] [KLJTJ <Pr>] [>T BNJ JFR>L <Ob>] [B-QN>TJ <Aj>]
- NUM 25,12 2sgM xIm0  << XQtl  NQ      3241   34  8..        |           |       ||     [LKN <Mo>] [>MR <Pr>]
+ NUM 25,11 3sgM XQtl  <<  [Q]  NQ      3241   31  7.q        |           |        | [PJNXS / BN >L<ZR / BN >HRN / H-KHN <ap><ap><ap><Su>] [HCJB <Pr>] [>T XMTJ <Ob>] [M-<L BNJ JFR>L <Co>]
+ NUM 25,11 ---- InfC [adjunct] NQ      3241   32 10..        |           |        |      |   |  [B-QN>W <Ps>] [>T QN>TJ <Ob>] [B-TWKM <Lo>]
+ NUM 25,11 1sg- WxQ0  << XQtl  NQ      3241   33  9..        |           |        |      |  [W-<Cj>] [L> <Ng>] [KLJTJ <Pr>] [>T BNJ JFR>L <Ob>] [B-QN>TJ <Aj>]
+ NUM 25,12 2sgM xIm0  << XQtl  NQ      3241   34  8..        |           |        |     [LKN <Mo>] [>MR <Pr>]
                                =======                       |           |        |       +====================================================\
- NUM 25,12 -sgM Ptcp  <<  [Q]  NQQ     32411  35  9.q        |           |       ||       | [HNNJ <Is>] [NTN <PC>] [LW <Co>] [>T BRJTJ <Ob>] [CLWM <Ob>]
- NUM 25,13 3sgF WQtX  << Ptcp  NQQ     32411  36 10..        |           |       ||       |     [W-<Cj>] [HJTH <Pr>] [LW W-L-ZR<W / >XRJW <sp><PC>] [BRJT KHNT <WLM <Su>]
- NUM 25,13 3sgM xQt0 [adjunct] NQQ     32411  37 11..        |           |       ||       |         [TXT >CR <Cj>] [QN> <Pr>] [L->LHJW <Co>]
+ NUM 25,12 -sgM Ptcp  <<  [Q]  NQQ     32411  35  9.q        |           |        |       | [HNNJ <Is>] [NTN <PC>] [LW <Co>] [>T BRJTJ <Ob>] [CLWM <Ob>]
+ NUM 25,13 3sgF WQtX  << Ptcp  NQQ     32411  36 10..        |           |        |       |     [W-<Cj>] [HJTH <Pr>] [LW W-L-ZR<W / >XRJW <sp><PC>] [BRJT KHNT <WLM <Su>]
+ NUM 25,13 3sgM xQt0 [adjunct] NQQ     32411  37 11..        |           |        |       |         [TXT >CR <Cj>] [QN> <Pr>] [L->LHJW <Co>]
                                -------                       |           |        |       |           +-------------------------------------\
- NUM 25,13 3sgM Way0 [coordin] NQQN    32411  38 12..        |           |       ||       |           | [W-<Cj>] [JKPR <Pr>] [<L BNJ JFR>L <Co>]
+ NUM 25,13 3sgM Way0 [coordin] NQQN    32411  38 12..        |           |        |       |           | [W-<Cj>] [JKPR <Pr>] [<L BNJ JFR>L <Co>]
                                =======                       |           |        +===============================================================/
  NUM 25,14 ---- Defc  << Way0  N       32     39  4d.        |          [W-<Cj>] [CM >JC JFR>L <Su>]
  NUM 25,14 -sgM Ptcp [attrib.] N       32     40  7..        |           |   |   |  [H-<Re>] [MKH <PC>]
@@ -61,5 +61,5 @@
  NUM 25,18 3pl- xQt0 [attrib.] NQ      331    52  7.e            |    |          |  [>CR <Re>] [NKLW <Pr>] [LKM <Co>]
  NUM 25,18 ---- Defc  << Ptcp  NQ      331    53  6d.            |    |         [<L DBR P<WR W-<L DBR KZBJ / BT NFJ> MDJN / >XTM <ap><ap><Aj>]
  NUM 25,18 -sgF Ptcp [attrib.] NQ      331    54  7..            |    |             [H-<Re>] [MKH <PC>] [B-JWM H-MGPH <Ti>] [<L DBR P<WR <Aj>]
-                               =======                                +===========================================================================/
+                               =======                           |    +===========================================================================/
  NUM 25,19 3sgM Way0  << WayX  N       33     55  2..           [W-<Cj>] [JHJ <Pr>] [>XRJ H-MGPH <Ti>]

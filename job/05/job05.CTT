@@ -6,21 +6,22 @@
  IOB 05,03 1sg- XQtl  << ZIm0  Q       1       6  1..       [>NJ <Su>] [R>JTJ <Pr>] [>WJL <Ob>]
  IOB 05,03 -sgM Ptcp [attrib.] Q       1       7  4..            |   |  [MCRJC <PC>]
                                -------                           |+-------------------------------------------------------------------------------\
- IOB 05,03 1sg- Way0  << XQtl  QN      1       8  3..             | [W-<Cj>] [>QWB <Pr>] [NWHW <Ob>] [PT>M <Mo>]
+ IOB 05,03 1sg- Way0  << XQtl  QN      1       8  3..            || [W-<Cj>] [>QWB <Pr>] [NWHW <Ob>] [PT>M <Mo>]
                                -------                           ||      |+--------------------------------------------------------------------\
- IOB 05,04 3plM ZYqX  << Way0  QND     1       9  5..             |      || [JRXQW <Pr>] [BNJW <Su>] [M-JC< <Co>]
- IOB 05,04 3plM WYq0  << ZYqX  QND     1      10  7..             |      ||      |  [W-<Cj>] [JDK>W <Pr>] [B--C<R <Co>]
- IOB 05,04 -sgM Ptcp  << WYq0  QND     1      11  8..             |      ||      |   |  [W-<Cj>] [>JN <NC>] [MYJL <PC>]
- IOB 05,05 ---- NmCl [object ] QND     1      12  7.\             |      ||      |  [>CR <Re>] [QYJRW <PC>]
- IOB 05,05 3sgM XYqt  << ZYqX  QND     1      13  6..             |      ||     [R<B <Su>] [J>KL <Pr>]
- IOB 05,05 3sgM WxY0  << XYqt  QND     1      14  8..             |      ||          |  [W-<Cj>] [>L M-YNJM <Co>] [JQXHW <PO>]
- IOB 05,05 3sgM WQtX  << XYqt  QND     1      15  7..             |      ||         [W-<Cj>] [C>P <Pr>] [YMJM <Su>] [XJLM <Ob>]
- IOB 05,06 3sgM xYqX  << Way0  QND     1      16  4..             |     [KJ <Cj>] [L> <Ng>] [JY> <Pr>] [M-<PR <Co>] [>WN <Su>]
- IOB 05,06 3sgM WxYX  << xYqX  QND     1      17  6..             |      ||  |  [W-<Cj>] [M->DMH <Co>] [L> <Ng>] [JYMX <Pr>] [<ML <Su>]
- IOB 05,07 3sgM XQtl  << xYqX  QND     1      18  5..             |      || [KJ <Cj>] [>DM <Su>] [L-<ML <Co>] [JWLD <Pr>]
- IOB 05,07 3plM WXYq  << XQtl  QND     1      19  6..             |      ||     [W-<Cj>] [BNJ RCP <Su>] [JGBJHW <Pr>]
- IOB 05,07 ---- InfC [object ] QND     1      20  7..             |      ||         [<WP <Pr>]
-                               -------                            +-------------------------------------------------------------------------------/
+ IOB 05,04 3plM ZYqX  << Way0  QND     1       9  5..            ||      || [JRXQW <Pr>] [BNJW <Su>] [M-JC< <Co>]
+ IOB 05,04 3plM WYq0  << ZYqX  QND     1      10  7..            ||      ||      |  [W-<Cj>] [JDK>W <Pr>] [B--C<R <Co>]
+ IOB 05,04 -sgM Ptcp  << WYq0  QND     1      11  8..            ||      ||      |      [W-<Cj>] [>JN <NC>] [MYJL <PC>]
+ IOB 05,05 ---- NmCl [object ] QND     1      12  7.\            ||      ||      |  [>CR <Re>] [QYJRW <PC>]
+ IOB 05,05 3sgM XYqt  << ZYqX  QND     1      13  6..            ||      ||     [R<B <Su>] [J>KL <Pr>]
+ IOB 05,05 3sgM WxY0  << XYqt  QND     1      14  8..            ||      ||          |  [W-<Cj>] [>L M-YNJM <Co>] [JQXHW <PO>]
+ IOB 05,05 3sgM WQtX  << XYqt  QND     1      15  7..            ||      ||         [W-<Cj>] [C>P <Pr>] [YMJM <Su>] [XJLM <Ob>]
+                               -------                           ||   +------------------------------------------------------------------------\
+ IOB 05,06 3sgM xYqX  << Way0  QND     1      16  4..            ||   | [KJ <Cj>] [L> <Ng>] [JY> <Pr>] [M-<PR <Co>] [>WN <Su>]
+ IOB 05,06 3sgM WxYX  << xYqX  QND     1      17  6..            ||   |      |  [W-<Cj>] [M->DMH <Co>] [L> <Ng>] [JYMX <Pr>] [<ML <Su>]
+ IOB 05,07 3sgM XQtl  << xYqX  QND     1      18  5..            ||   |     [KJ <Cj>] [>DM <Su>] [L-<ML <Co>] [JWLD <Pr>]
+ IOB 05,07 3plM WXYq  << XQtl  QND     1      19  6..            ||   |         [W-<Cj>] [BNJ RCP <Su>] [JGBJHW <Pr>]
+ IOB 05,07 ---- InfC [object ] QND     1      20  7..            ||   |             [<WP <Pr>]
+                               -------                           |+-------------------------------------------------------------------------------/
  IOB 05,08 1sg- XYqt  << XQtl  Q       11     21  2.#           [>WLM <Mo>] [>NJ <Su>] [>DRC <Pr>] [>L >L <Co>]
  IOB 05,08 1sg- WxY0  << XYqt  Q       11     22  4..                |  [W-<Cj>] [>L >LHJM <Co>] [>FJM <Pr>] [DBRTJ <Ob>]
  IOB 05,09 -sgM Ptcp [attrib.] Q       11     23  6..                |       |  [<FH <PC>] [GDLWT <Ob>]
@@ -41,7 +42,7 @@
  IOB 05,15 ---- Ellp  << Way0  QN      11     37  9l.                |            |      |  [W-<Cj>] [M-JD XZQ <Co>] [>BJWN <Ob>]
  IOB 05,16 3sgF WayX  << Way0  QN      112    38  8.#                |            |     [W-<Cj>] [THJ <Pr>] [L--DL <Co>] [TQWH <Su>]
  IOB 05,16 3sgF WXQt  << WayX  QN      1121   39  9.#                |            |         [W-<Cj>] [<LTH <Su>] [QPYH <Pr>] [PJH <Ob>]
-                               -------                                            +---------------------------------------------------------------/
+                               -------                               |            +---------------------------------------------------------------/
  IOB 05,17 ---- NmCl  << XYqt  Q       113    40  3.#               [HNH <Ij>] [>CRJ >NWC <Su>]
  IOB 05,17 3sgM ZYqX [attrib.] Q       113    41  8..                    |   |   |   |  [JWKXNW <PO>] [>LWH <Su>]
  IOB 05,17 2sgM WxY0  << NmCl  Q       113    42  7..                    |   |   |  [W-<Cj>] [MWSR CDJ <Ob>] [>L <Ng>] [TM>S <Pr>]

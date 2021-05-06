@@ -31,7 +31,7 @@
  ICHR26,10 ---- NmCl  << NmCl  ?       1      31  6..        |   |           |  [CMRJ <Su>] [H-R>C <PC>]
  ICHR26,10 3sgM xQtX  << NmCl  ?       1      32  7..        |   |           |   |  [KJ <Cj>] [L> <Ng>] [HJH <Pr>] [BKWR <Su>]
                                -------                       |   |           |   |    +-----------------------------------------------------------\
- ICHR26,10 3sgM WayX  << xQtX  ?N      11     33  8.#        |   |           |   |   || [W-<Cj>] [JFJMHW <PO>] [>BJHW <Su>] [L-R>C <Co>]
+ ICHR26,10 3sgM WayX  << xQtX  ?N      11     33  8.#        |   |           |   |    | [W-<Cj>] [JFJMHW <PO>] [>BJHW <Su>] [L-R>C <Co>]
                                -------                       |   |           |   |    +-----------------------------------------------------------/
  ICHR26,11 ---- NmCl  << NmCl  ?       1      34  6..        |   |           |  [XLQJHW <Su>] [H-CNJ <PC>]
  ICHR26,11 ---- NmCl  << NmCl  ?       1      35  6..        |   |           |  [VBLJHW <Su>] [H-CLCJ <PC>]
@@ -39,24 +39,24 @@
  ICHR26,11 ---- NmCl  << NmCl  ?       1      37  5..        |   |          [KL BNJM W->XJM / L-XSH <sp><Su>] [CLCH <FR <PC>]
  ICHR26,12 ---- NmCl  << NmCl  ?       1      38  6..        |   |              [L->LH <PC>] [MXLQWT H-C<RJM / L-R>CJ H-GBRJM / MCMRWT / L-<MT >XJHM <sp><sp><sp><Su>]
  ICHR26,12 ---- InfC [adjunct] ?       1      39  8..        |   |                   |  [L-CRT <Pr>] [B-BJT JHWH <Co>]
-                               =======                 ==============================================================================================/
- ICHR26,13 3plM Way0  << NmCl  N       1      40  7..        |   |                  [W-<Cj>] [JPJLW <Pr>] [GWRLWT <Ob>] [K--QVN / K--GDWL <pa><Aj>] [L-BJT >BWTM <Co>] [L-C<R W-C<R <Co>]
- ICHR26,14 3sgM WayX  << Way0  N       12     41  8.#        |   |                      [W-<Cj>] [JPL <Pr>] [H-GWRL <Su>] [MZRXH <Co>] [L-CLMJHW <Aj>]
- ICHR26,14 ---- NmCl  << WayX  N       12     42  9..        |   |                          [W-<Cj>] [ZKRJHW / BNW <ap><Su>] [JW<Y / B-FKL <sp><PC>]
- ICHR26,14 3pl- ZQt0  << NmCl  N       12     43 10..        |   |                              [HPJLW <Pr>] [GWRLWT <Ob>]
- ICHR26,14 3sgM WayX  << ZQt0  N       121    44 15.#        |   |                                   |   |   |   |  [W-<Cj>] [JY> <Pr>] [GWRLW <Su>] [YPWNH <Co>]
- ICHR26,15 ---- Ellp  << ZQt0  N       12     45 14l.        |   |                                   |   |   |  [L-<BD_>DM <Aj>] [NGBH <Co>]
- ICHR26,15 ---- Ellp  << Ellp  N       12     46 15l.        |   |                                   |   |   |      [W-<Cj>] [L-BNJW <Aj>] [BJT H->SPJM <Co>]
- ICHR26,16 ---- Ellp  << ZQt0  N       12     47 13l.        |   |                                   |   |  [L-CPJM W-L-XSH <Aj>] [L--M<RB <Co>] [<M C<R CLKT / B--MSLH <sp><Aj>]
- ICHR26,16 -sgF Ptcp [attrib.] N       12     48 14..        |   |                                   |   |      [H-<Re>] [<WLH <PC>] [MCMR / L-<MT MCMR <sp><Aj>]
- ICHR26,17 ---- NmCl  << ZQt0  N       12     49 12..        |   |                                   |  [L--MZRX <PC>] [H-LWJM / CCH <sp><Su>]
- ICHR26,17 ---- NmCl  << NmCl  N       12     50 13..        |   |                                   |      [L--YPWNH <PC>] [L--JWM <Ti>] [>RB<H <Su>]
- ICHR26,17 ---- NmCl  << NmCl  N       12     51 13..        |   |                                   |      [L--NGBH <PC>] [L--JWM <Ti>] [>RB<H <Su>]
- ICHR26,17 ---- NmCl  << NmCl  N       12     52 14..        |   |                                   |          [W-<Cj>] [L-->SPJM <PC>] [CNJM CNJM <Su>]
- ICHR26,18 ---- NmCl  << ZQt0  N       12     53 11..        |   |                                  [L--PRBR / L--M<RB <sp><PC>]
- ICHR26,18 ---- NmCl  << NmCl  N       12     54 12..        |   |                                      [>RB<H <Su>] [L--MSLH <PC>]
- ICHR26,18 ---- NmCl  << NmCl  N       12     55 12..        |   |                                      [CNJM <Su>] [L--PRBR <PC>]
-                               =======                 ==============================================================================================/
+                               -------                       |   |                +------------------------------------------------------------------\
+ ICHR26,13 3plM Way0  << NmCl  N       1      40  7..        |   |                | [W-<Cj>] [JPJLW <Pr>] [GWRLWT <Ob>] [K--QVN / K--GDWL <pa><Aj>] [L-BJT >BWTM <Co>] [L-C<R W-C<R <Co>]
+ ICHR26,14 3sgM WayX  << Way0  N       12     41  8.#        |   |                |     [W-<Cj>] [JPL <Pr>] [H-GWRL <Su>] [MZRXH <Co>] [L-CLMJHW <Aj>]
+ ICHR26,14 ---- NmCl  << WayX  N       12     42  9..        |   |                |         [W-<Cj>] [ZKRJHW / BNW <ap><Su>] [JW<Y / B-FKL <sp><PC>]
+ ICHR26,14 3pl- ZQt0  << NmCl  N       12     43 10..        |   |                |             [HPJLW <Pr>] [GWRLWT <Ob>]
+ ICHR26,14 3sgM WayX  << ZQt0  N       121    44 15.#        |   |                |                  |   |   |   |  [W-<Cj>] [JY> <Pr>] [GWRLW <Su>] [YPWNH <Co>]
+ ICHR26,15 ---- Ellp  << ZQt0  N       12     45 14l.        |   |                |                  |   |   |  [L-<BD_>DM <Aj>] [NGBH <Co>]
+ ICHR26,15 ---- Ellp  << Ellp  N       12     46 15l.        |   |                |                  |   |   |      [W-<Cj>] [L-BNJW <Aj>] [BJT H->SPJM <Co>]
+ ICHR26,16 ---- Ellp  << ZQt0  N       12     47 13l.        |   |                |                  |   |  [L-CPJM W-L-XSH <Aj>] [L--M<RB <Co>] [<M C<R CLKT / B--MSLH <sp><Aj>]
+ ICHR26,16 -sgF Ptcp [attrib.] N       12     48 14..        |   |                |                  |   |      [H-<Re>] [<WLH <PC>] [MCMR / L-<MT MCMR <sp><Aj>]
+ ICHR26,17 ---- NmCl  << ZQt0  N       12     49 12..        |   |                |                  |  [L--MZRX <PC>] [H-LWJM / CCH <sp><Su>]
+ ICHR26,17 ---- NmCl  << NmCl  N       12     50 13..        |   |                |                  |      [L--YPWNH <PC>] [L--JWM <Ti>] [>RB<H <Su>]
+ ICHR26,17 ---- NmCl  << NmCl  N       12     51 13..        |   |                |                  |      [L--NGBH <PC>] [L--JWM <Ti>] [>RB<H <Su>]
+ ICHR26,17 ---- NmCl  << NmCl  N       12     52 14..        |   |                |                  |          [W-<Cj>] [L-->SPJM <PC>] [CNJM CNJM <Su>]
+ ICHR26,18 ---- NmCl  << ZQt0  N       12     53 11..        |   |                |                 [L--PRBR / L--M<RB <sp><PC>]
+ ICHR26,18 ---- NmCl  << NmCl  N       12     54 12..        |   |                |                     [>RB<H <Su>] [L--MSLH <PC>]
+ ICHR26,18 ---- NmCl  << NmCl  N       12     55 12..        |   |                |                     [CNJM <Su>] [L--PRBR <PC>]
+                               -------                       |   |                +------------------------------------------------------------------/
  ICHR26,19 ---- NmCl  << NmCl  ?       1      56  2..        |  [>LH <Su>] [MXLQWT H-C<RJM / L-BNJ H-QRXJ W-L-BNJ MRRJ <sp><PC>]
  ICHR26,20 ---- NmCl  << NmCl  ?       1      57  1..       [W-<Cj>] [H-LWJM <Su>]
  ICHR26,20 ---- NmCl  << NmCl  ?       1      58  4..            |   |  [>XJH <Su>] [<L >WYRWT BJT H->LHJM W-L->YRWT H-QDCJM <PC>]
@@ -86,7 +86,7 @@
  ICHR26,31 3pl- xQt0  << NmCl  ?       1      82  4..                |  [B-CNT H->RB<JM / L-MLKWT DWJD <sp><Ti>] [NDRCW <Pr>]
                                -------                               |    +-----------------------------------------------------------------------\
  ICHR26,31 3sgM WayX  << xQt0  ?N      13     83  5.#                |    | [W-<Cj>] [JMY> <Pr>] [BHM <Co>] [GBWRJ XJL <Su>] [B-J<ZJR GL<D <Lo>]
-                               -------                                    +-----------------------------------------------------------------------/
+                               -------                               |    +-----------------------------------------------------------------------/
  ICHR26,32 ---- NmCl  << NmCl  ?       1      84  3..               [W-<Cj>] [>XJW <Su>] [BNJ XJL / >LPJM W-CB< M>WT / R>CJ H->BWT <sp><sp><PC>]
                                -------                                +---------------------------------------------------------------------------\
  ICHR26,32 3sgM WayX  << NmCl  ?N      14     85  4.#                 | [W-<Cj>] [JPQJDM <PO>] [DWJD / H-MLK <ap><Su>] [<L H-R>WBNJ W-H-GDJ W-XYJ CBV H-MNCJ <Co>] [L-KL DBR H->LHJM W-DBR H-MLK <Co>]

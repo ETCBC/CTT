@@ -7,7 +7,7 @@
                                =======                        |      |   |   |        +========================================================\
  EZE 18,02 3plM XYqt  <<  [Q]  NQQ     111     6  8.q         |      |   |   |        | [>BWT <Su>] [J>KLW <Pr>] [BSR <Ob>]
  EZE 18,02 3plF WXYq  << XYqt  NQQ     111     7  9..         |      |   |   |        |     [W-<Cj>] [CNJ H-BNJM <Su>] [TQHJNH <Pr>]
-                               =======                        |      |   |            +========================================================/
+                               =======                        |      |   |   |        +========================================================/
  EZE 18,03 -sgM AjCl  << NmCl  NQ      11      8  5..         |      |   |  [XJ <PC>] [>NJ <Su>]
  EZE 18,03 ---- NmCl  << AjCl  NQ      11      9  7..         |      |   |       |  [N>M >DNJ JHWH <PC>]
  EZE 18,03 3sgM xYq0  << AjCl  NQ      11     10  6..         |      |   |      [>M <Cj>] [JHJH <Pr>] [LKM <PC>] [<WD <Mo>]
@@ -60,10 +60,10 @@
  EZE 18,13 3sgM XYqt  << xYq0  NQ      11     57 12..         |      |               |                  [DMJW <Su>] [BW <PC>] [JHJH <Pr>]
  EZE 18,14 3sgM WxQ0  << WQt0  NQ      11     58  7..         |      |              [W-<Cj>] [HNH <Ij>] [HWLJD <Pr>] [BN <Ob>]
                                -------                        |      |                   |+----------------------------------------------------\
- EZE 18,14 3sgM Way0  << WxQ0  NQN     11     59  9..         |      |                    | [W-<Cj>] [JR> <Pr>] [>T KL XV>T >BJW <Ob>]
- EZE 18,14 3sgM xQt0 [attrib.] NQN     11     60 10..         |      |                    |  |  [>CR <Re>] [<FH <Pr>]
- EZE 18,14 3sgM Way0  << Way0  NQN     11     61  9..         |      |                    | [W-<Cj>] [JR>H <Pr>]
-                               -------                        |      |                    +----------------------------------------------------/
+ EZE 18,14 3sgM Way0  << WxQ0  NQN     11     59  9..         |      |                   || [W-<Cj>] [JR> <Pr>] [>T KL XV>T >BJW <Ob>]
+ EZE 18,14 3sgM xQt0 [attrib.] NQN     11     60 10..         |      |                   ||  |  [>CR <Re>] [<FH <Pr>]
+ EZE 18,14 3sgM Way0  << Way0  NQN     11     61  9..         |      |                   || [W-<Cj>] [JR>H <Pr>]
+                               -------                        |      |                   |+----------------------------------------------------/
  EZE 18,14 3sgM WxY0  << WxQ0  NQ      11     62  8..         |      |                  [W-<Cj>] [L> <Ng>] [J<FH <Pr>] [KHN <Co>]
  EZE 18,15 3sgM xQt0  << WxY0  NQ      11     63 11..         |      |                       |   |  [<L H-HRJM <Co>] [L> <Ng>] [>KL <Pr>]
  EZE 18,15 3sgM WxQ0  << xQt0  NQ      11     64 13..         |      |                       |   |       |  [W-<Cj>] [<JNJW <Ob>] [L> <Ng>] [NF> <Pr>] [>L GLWLJ BJT JFR>L <Co>]
@@ -88,13 +88,13 @@
  EZE 18,18 3sgM WxQ0 [resumpt] NQ      11     83 11..         |      |                              [W-<Cj>] [HNH <Ij>] [MT <Pr>] [B-<WNW <Aj>]
  EZE 18,19 2plM WQt0  << NmCl  NQ      11     84  3..         |     [W-<Cj>] [>MRTM <Pr>]
                                =======                        |      |   |+====================================================================\
- EZE 18,19 3sgM xQtX  <<  [Q]  NQQ     113    85  5.q         |      |    | [MD< <Qu>] [L> <Ng>] [NF> <Pr>] [H-BN <Su>] [B-<WN H->B <Co>]
-                               =======                        |      |    +====================================================================/
+ EZE 18,19 3sgM xQtX  <<  [Q]  NQQ     113    85  5.q         |      |   || [MD< <Qu>] [L> <Ng>] [NF> <Pr>] [H-BN <Su>] [B-<WN H->B <Co>]
+                               =======                        |      |   |+====================================================================/
  EZE 18,19 3sgM WXQt  << WQt0  NQ      114    86  4.#         |      |  [W-<Cj>] [H-BN <Su>] [MCPV W-YDQH <Ob>] [<FH <Pr>]
  EZE 18,19 3sgM xQt0  << WXQt  NQ      114    87  7..         |      |       |   |  [>T KL XQWTJ <Ob>] [CMR <Pr>]
                                -------                        |      |       |   |    +--------------------------------------------------------\
  EZE 18,19 3sgM Way0  << xQt0  NQN     114    88  8..         |      |       |   |    | [W-<Cj>] [J<FH <Pr>] [>TM <Ob>]
-                               -------                        |      |       |        +--------------------------------------------------------/
+                               -------                        |      |       |   |    +--------------------------------------------------------/
  EZE 18,19 3sgM xYq0  << WXQt  NQ      114    89  6..         |      |       |  [XJH <Mo>] [JXJH <Pr>]
  EZE 18,20 ---- CPen  << WXQt  NQ      114    90  5c.         |      |      [H-NPC <Fr>]
  EZE 18,20 -sgF Ptcp [attrib.] NQ      114    91  9..         |      |           |   |   |  [H-<Re>] [XV>T <PC>]
@@ -123,8 +123,8 @@
  EZE 18,23 3sgM WQt0 [coordin] NQ      114   114 11..         |      |                       |      [W-<Cj>] [XJH <Pr>]
  EZE 18,24 ---- Defc  << Ellp  NQ      114   115  9d.         |      |                      [W-<Cj>]
  EZE 18,24 ---- InfC [adjunct] NQ      114   116 13.\         |      |                           |   |   |  [B-CWB <Pr>] [YDJQ <Su>] [M-YDQTW <Co>]
- EZE 18,24 3sgM WQt0 [coordin] NQ      114   117 14..         |      |                           |   |   |      [W-<Cj>] [<FH <Pr>] [<WL <Ob>] [K-KL H-TW<BWT <Co>]
- EZE 18,24 3sgM xQtX [attrib.] NQ      114   118 15.e         |      |                           |   |   |          [>CR <Re>] [<FH <Pr>] [H-RC< <Su>]
+ EZE 18,24 3sgM WQt0 [coordin] NQ      114   117 14..         |      |                           |   |   |   |  [W-<Cj>] [<FH <Pr>] [<WL <Ob>] [K-KL H-TW<BWT <Co>]
+ EZE 18,24 3sgM xQtX [attrib.] NQ      114   118 15.e         |      |                           |   |   |   |      [>CR <Re>] [<FH <Pr>] [H-RC< <Su>]
  EZE 18,24 3sgM ZYq0  << Defc  NQ      114   119 12..         |      |                           |   |  [J<FH <Pr>]
  EZE 18,24 3sgM WQt0  << Defc  NQ      114   120 11..         |      |                           |  [W-<Cj>] [XJ <Pr>]
  EZE 18,24 ---- Defc  << Defc  NQ      114   121 10d.         |      |                          [KL YDQTW <Su>]
@@ -137,36 +137,36 @@
  EZE 18,24 3sgM xYq0 [resumpt] NQ      114   128 12..         |      |                                  [BM <Co>] [JMWT <Pr>]
  EZE 18,25 2plM WQt0  << WQt0  NQ      11    129  3..         |     [W-<Cj>] [>MRTM <Pr>]
                                =======                        |          |+====================================================================\
- EZE 18,25 3sgM xYqX  <<  [Q]  NQQ     115   130  5.q         |           | [L> <Ng>] [JTKN <Pr>] [DRK >DNJ <Su>]
-                               =======                        |           +====================================================================/
+ EZE 18,25 3sgM xYqX  <<  [Q]  NQQ     115   130  5.q         |          || [L> <Ng>] [JTKN <Pr>] [DRK >DNJ <Su>]
+                               =======                        |          |+====================================================================/
  EZE 18,25 2plM ZIm0  << WQt0  NQ      11    131  4..         |         [CM<W <Pr>] [N> <Ij>]
  EZE 18,25 ---- Voct  << ZIm0  NQ      11    132  8v.         |              |   |   |  [BJT JFR>L <Vo>]
  EZE 18,25 3sgM XYqt  << ZIm0  NQ      11    133  7..         |              |   |  [H-<Qu>] [DRKJ <Su>] [L> <Ng>] [JTKN <Pr>]
  EZE 18,25 3plM XYqt  << XYqt  NQ      11    134  8..         |              |   |      [H-<Qu>] [L> <Ng>] [DRKJKM <Su>] [L> <Ng>] [JTKNW <Pr>]
  EZE 18,26 ---- InfC [adjunct] NQ      11    135 10.\         |              |   |           |  [B-CWB <Pr>] [YDJQ <Su>] [M-YDQTW <Co>]
- EZE 18,26 3sgM WQt0 [coordin] NQ      11    136 11..         |              |   |           |      [W-<Cj>] [<FH <Pr>] [<WL <Ob>]
- EZE 18,26 3sgM WQt0 [coordin] NQ      11    137 11..         |              |   |           |      [W-<Cj>] [MT <Pr>] [<LJHM <Aj>]
+ EZE 18,26 3sgM WQt0 [coordin] NQ      11    136 11..         |              |   |           |   |  [W-<Cj>] [<FH <Pr>] [<WL <Ob>]
+ EZE 18,26 3sgM WQt0 [coordin] NQ      11    137 11..         |              |   |           |   |  [W-<Cj>] [MT <Pr>] [<LJHM <Aj>]
  EZE 18,26 ---- Defc  << XYqt  NQ      11    138  9d.         |              |   |          [B-<WLW <Co>]
  EZE 18,26 3sgM xQt0 [attrib.] NQ      11    139 12.e         |              |   |               |   |  [>CR <Re>] [<FH <Pr>]
  EZE 18,26 3sgM ZYq0  << Defc  NQ      11    140 11..         |              |   |               |  [JMWT <Pr>]
  EZE 18,27 ---- Defc  << Defc  NQ      11    141 10d.         |              |   |              [W-<Cj>]
  EZE 18,27 ---- InfC [adjunct] NQ      11    142 14.\         |              |   |                   |   |   |  [B-CWB <Pr>] [RC< <Su>] [M-RC<TW <Co>]
- EZE 18,27 3sgM xQt0 [attrib.] NQ      11    143 16..         |              |   |                   |   |   |       |  [>CR <Re>] [<FH <Pr>]
-                               -------                        |              |   |                   |   |   |    +----------------------------\
- EZE 18,27 3sgM Way0 [coordin] NQN     11    144 15.e         |              |   |                   |   |   |    | [W-<Cj>] [J<F <Pr>] [MCPV W-YDQH <Ob>]
-                               -------                        |              |   |                   |   |        +----------------------------/
+ EZE 18,27 3sgM xQt0 [attrib.] NQ      11    143 16..         |              |   |                   |   |   |   |   |  [>CR <Re>] [<FH <Pr>]
+                               -------                        |              |   |                   |   |   |   |+----------------------------\
+ EZE 18,27 3sgM Way0 [coordin] NQN     11    144 15.e         |              |   |                   |   |   |   || [W-<Cj>] [J<F <Pr>] [MCPV W-YDQH <Ob>]
+                               -------                        |              |   |                   |   |   |   |+----------------------------/
  EZE 18,27 3sgM XYqt  << Defc  NQ      11    145 13..         |              |   |                   |   |  [HW> <Su>] [>T NPCW <Ob>] [JXJH <Pr>]
                                -------                        |              |   |                   |+----------------------------------------\
- EZE 18,28 3sgM Way0  << Defc  NQN     11    146 12..         |              |   |                    | [W-<Cj>] [JR>H <Pr>]
- EZE 18,28 3sgM Way0  << Way0  NQN     11    147 13..         |              |   |                    |     [W-<Cj>] [JCWB <Pr>] [M-KL PC<JW <Co>]
- EZE 18,28 3sgM xQt0 [attrib.] NQN     11    148 14..         |              |   |                    |         [>CR <Re>] [<FH <Pr>]
-                               -------                        |              |   |                    +----------------------------------------/
+ EZE 18,28 3sgM Way0  << Defc  NQN     11    146 12..         |              |   |                   || [W-<Cj>] [JR>H <Pr>]
+ EZE 18,28 3sgM Way0  << Way0  NQN     11    147 13..         |              |   |                   ||     [W-<Cj>] [JCWB <Pr>] [M-KL PC<JW <Co>]
+ EZE 18,28 3sgM xQt0 [attrib.] NQN     11    148 14..         |              |   |                   ||         [>CR <Re>] [<FH <Pr>]
+                               -------                        |              |   |                   |+----------------------------------------/
  EZE 18,28 3sgM xYq0  << Defc  NQ      11    149 11..         |              |   |                  [XJW <Mo>] [JXJH <Pr>]
  EZE 18,28 3sgM xYq0  << xYq0  NQ      11    150 12..         |              |   |                      [L> <Ng>] [JMWT <Pr>]
  EZE 18,29 3pl- WQtX  << ZIm0  NQ      11    151  6..         |              |  [W-<Cj>] [>MRW <Pr>] [BJT JFR>L <Su>]
                                =======                        |              |       |+========================================================\
- EZE 18,29 3sgM xYqX  <<  [Q]  NQQ     116   152  8.q         |              |        | [L> <Ng>] [JTKN <Pr>] [DRK >DNJ <Su>]
-                               =======                        |              |        +========================================================/
+ EZE 18,29 3sgM xYqX  <<  [Q]  NQQ     116   152  8.q         |              |       || [L> <Ng>] [JTKN <Pr>] [DRK >DNJ <Su>]
+                               =======                        |              |       |+========================================================/
  EZE 18,29 3plM XYqt  << WQtX  NQ      11    153  7..         |              |      [H-<Qu>] [DRKJ <Su>] [L> <Ng>] [JTKNW <Pr>]
  EZE 18,29 ---- Voct  << XYqt  NQ      11    154  9v.         |              |           |  [BJT JFR>L <Vo>]
  EZE 18,29 3sgM XYqt  << XYqt  NQ      11    155  8..         |              |          [H-<Qu>] [L> <Ng>] [DRKJKM <Su>] [L> <Ng>] [JTKN <Pr>]

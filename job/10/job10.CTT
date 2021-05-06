@@ -26,7 +26,7 @@
  IOB 10,08 3plM Way0  << XQtl  QQN     11     24 10..         |          |                    | [W-<Cj>] [J<FWNJ <PO>]
  IOB 10,08 ---- NmCl  << Way0  QQN     11     25 12..         |          |                    |      |  [JXD <Mo>] [SBJB <Lo>]
  IOB 10,08 2sgM Way0  << Way0  QQN     11     26 11..         |          |                    |     [W-<Cj>] [TBL<NJ <PO>]
-                               -------                        |                               +------------------------------------------------/
+                               -------                        |          |                    +------------------------------------------------/
  IOB 10,09 2sgM ZIm0  << ZIm0  QQ      11     27  4..         |         [ZKR <Pr>] [N> <Ij>]
  IOB 10,09 2sgM xQt0 [object ] QQ      11     28  6..         |              |  [KJ <Cj>] [K--XMR <Co>] [<FJTNJ <PO>]
  IOB 10,09 2sgM WxY0 [coordin] QQ      11     29  7..         |              |      [W-<Cj>] [>L <PR <Co>] [TCJBNJ <PO>]
@@ -46,7 +46,7 @@
  IOB 10,15 ---- NmCl  << xQt0  QQ      11     43 12..         |                      |               |  [>LLJ <Ij>] [LJ <PC>]
  IOB 10,15 1sg- WQt0  << xQt0  QQ      11     44 11..         |                      |              [W-<Cj>] [YDQTJ <Pr>]
  IOB 10,15 1sg- xYq0  << WQt0  QQ      11     45 12..         |                      |                  [L> <Ng>] [>F> <Pr>] [R>CJ <Ob>]
- IOB 10,15 -sgM AjCl  << xYq0  QQ      11     46 14..         |                      |                       |  [FB< QLWN <PC>]
+ IOB 10,15 ---- AjCl  << xYq0  QQ      11     46 14..         |                      |                       |  [FB< QLWN <PC>]
  IOB 10,15 2sgM WIm0  << AjCl  QQ      11     47 15..         |                      |                       |      [W-<Cj>] [R>H <Pr>] [<NJJ <Ob>]
  IOB 10,16 3sgM WYq0  << xYq0  QQ      11     48 13..         |                      |                      [W-<Cj>] [JG>H <Pr>]
  IOB 10,16 2sgM xYq0  << WYq0  QQ      11     49 14..         |                      |                          [K--CXL <Co>] [TYWDNJ <PO>]

@@ -51,27 +51,27 @@
  DEUT22,14 3sgM WQt0  << WQt0  Q       42     51  7..        |               |   |  [W-<Cj>] [HWYJ> <Pr>] [<LJH <Co>] [CM R< <Ob>]
  DEUT22,14 3sgM WQt0  << WQt0  Q       42     52  7..        |               |   |  [W-<Cj>] [>MR <Pr>]
                                =======                       |               |   |    +===========================================================\
- DEUT22,14 1sg- xQt0  <<  [Q]  QQ      421    53  8.q        |               |   |   || [>T H->CH H-Z>T <Ob>] [LQXTJ <Pr>]
+ DEUT22,14 1sg- xQt0  <<  [Q]  QQ      421    53  8.q        |               |   |    | [>T H->CH H-Z>T <Ob>] [LQXTJ <Pr>]
                                -------                       |               |   |    |   +----------------------------------------------------\
- DEUT22,14 1sg- Way0  << xQt0  QQN     421    54  9..        |               |   |   ||   | [W-<Cj>] [>QRB <Pr>] [>LJH <Co>]
- DEUT22,14 1sg- WxQ0  << Way0  QQN     421    55 10..        |               |   |   ||   |     [W-<Cj>] [L> <Ng>] [MY>TJ <Pr>] [LH <Co>] [BTWLJM <Ob>]
-                               =======                       |               |        +===========================================================/
+ DEUT22,14 1sg- Way0  << xQt0  QQN     421    54  9..        |               |   |    |   | [W-<Cj>] [>QRB <Pr>] [>LJH <Co>]
+ DEUT22,14 1sg- WxQ0  << Way0  QQN     421    55 10..        |               |   |    |   |     [W-<Cj>] [L> <Ng>] [MY>TJ <Pr>] [LH <Co>] [BTWLJM <Ob>]
+                               =======                       |               |   |    +===========================================================/
  DEUT22,15 3sgM WQtX  << WQt0  Q       42     56  6..        |               |  [W-<Cj>] [LQX <Pr>] [>BJ H-N<R W->MH <Su>]
  DEUT22,15 3pl- WQt0  << WQtX  Q       42     57  9..        |               |       |   |  [W-<Cj>] [HWYJ>W <Pr>] [>T BTWLJ H-N<R <Ob>] [>L ZQNJ H-<JR <Co>] [H-C<RH <Lo>]
  DEUT22,16 3sgM WQtX  << WQtX  Q       42     58  8..        |               |       |  [W-<Cj>] [>MR <Pr>] [>BJ H-N<R <Su>] [>L H-ZQNJM <Co>]
                                =======                       |               |       |       |+===================================================\
  DEUT22,16 1sg- xQt0  <<  [Q]  QQ      422    59 10.q        |               |       |       || [>T BTJ <Ob>] [NTTJ <Pr>] [L-->JC H-ZH <Co>] [L->CH <Co>]
                                -------                       |               |       |       ||      |+----------------------------------------\
- DEUT22,16 3sgM Way0  << xQt0  QQN     422    60 12..        |               |       |       ||       | [W-<Cj>] [JFN>H <PO>]
-                               -------                       |               |       |       ||       +----------------------------------------/
+ DEUT22,16 3sgM Way0  << xQt0  QQN     422    60 12..        |               |       |       ||      || [W-<Cj>] [JFN>H <PO>]
+                               -------                       |               |       |       ||      |+----------------------------------------/
  DEUT22,17 ---- MSyn  << xQt0  QQ      422    61 11m.        |               |       |       ||     [W-<Cj>] [HNH <Ij>]
  DEUT22,17 3sgM XQtl  << MSyn  QQ      422    62 12..        |               |       |       ||         [HW> <Su>] [FM <Pr>] [<LJLT DBRJM <Ob>]
  DEUT22,17 ---- InfC [adjunct] QQ      422    63 14..        |               |       |       ||              |  [L->MR <Pr>]
                                =======                       |               |       |       ||              |    +============================\
  DEUT22,17 1sg- xQt0  <<  [Q]  QQQ     4221   64 15.q        |               |       |       ||              |    | [L> <Ng>] [MY>TJ <Pr>] [L-BTK <Co>] [BTWLJM <Ob>]
-                               =======                       |               |       |       ||                   +============================/
+                               =======                       |               |       |       ||              |    +============================/
  DEUT22,17 ---- NmCl  << XQtl  QQ      422    65 13..        |               |       |       ||             [W-<Cj>] [>LH <Su>] [BTWLJ BTJ <PC>]
-                               =======                       |               |       |        +===================================================/
+                               =======                       |               |       |       |+===================================================/
  DEUT22,17 3pl- WQt0  << WQtX  Q       42     66  9..        |               |       |      [W-<Cj>] [PRFW <Pr>] [H-FMLH <Ob>] [L-PNJ ZQNJ H-<JR <Co>]
  DEUT22,18 3pl- WQtX  << WQtX  Q       42     67  7..        |               |      [W-<Cj>] [LQXW <Pr>] [ZQNJ H-<JR H-HW> <Su>] [>T H->JC <Ob>]
  DEUT22,18 3pl- WQt0  << WQtX  Q       42     68  8..        |               |          [W-<Cj>] [JSRW <Pr>] [>TW <Ob>]

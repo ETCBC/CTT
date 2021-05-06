@@ -38,7 +38,7 @@
  EXO 40,15 3pl- WQt0  << WQt0  NQ      11     37  7..    |    |          |          [W-<Cj>] [KHNW <Pr>] [LJ <Co>]
  EXO 40,15 3sgF WQt0  << WQt0  NQ      11     38  4..    |    |         [W-<Cj>] [HJTH <Pr>]
  EXO 40,15 ---- InfC [adjunct] NQ      11     39  5..    |    |             [L-HJT <Pr>] [LHM <sc>] [MCXTM <Su>] [L-KHNT <WLM <Co>] [L-DRTM <Ti>]
-                               =======                        +===================================================================================/
+                               =======                   |    +===================================================================================/
  EXO 40,16 3sgM WayX  << WayX  N       2      40  0.#   [W-<Cj>] [J<F <Pr>] [MCH <Su>]
  EXO 40,16 ---- CPen  << WayX  N       2      41  1c.    |  [K-KL <Fr>]
  EXO 40,16 3sgM xQtX [reg/rec] N       2      42  3..    |       |  [>CR <Re>] [YWH <Pr>] [JHWH <Su>] [>TW <Ob>]
@@ -79,10 +79,10 @@
  EXO 40,30 ---- InfC [adjunct] N       31     77  4..        |   |   |  [L-RXYH <Pr>]
  EXO 40,31 3pl- WQtX  << Way0  N       31     78  3..        |   |  [W-<Cj>] [RXYW <Pr>] [MMNW <Aj>] [MCH W->HRN W-BNJW <Su>] [>T JDJHM W->T RGLJHM <Ob>]
                                -------                       |   |    +---------------------------------------------------------------------------\
- EXO 40,32 ---- InfC [adjunct] ND      31     79  5.\        |   |   ||  |  [B-B>M <Ps>] [>L >HL MW<D <Co>]
- EXO 40,32 ---- InfC [coordin] ND      31     80  6..        |   |   ||  |      [W-<Cj>] [B-QRBTM <Ps>] [>L H-MZBX <Co>]
- EXO 40,32 3plM ZYq0  << WQtX  ND      31     81  4..        |   |   || [JRXYW <Pr>]
- EXO 40,32 3sgM xQtX [adjunct] ND      31     82  5..        |   |   ||     [K->CR <Cj>] [YWH <Pr>] [JHWH <Su>] [>T MCH <Ob>]
+ EXO 40,32 ---- InfC [adjunct] ND      31     79  5.\        |   |    |  |  [B-B>M <Ps>] [>L >HL MW<D <Co>]
+ EXO 40,32 ---- InfC [coordin] ND      31     80  6..        |   |    |  |   |  [W-<Cj>] [B-QRBTM <Ps>] [>L H-MZBX <Co>]
+ EXO 40,32 3plM ZYq0  << WQtX  ND      31     81  4..        |   |    | [JRXYW <Pr>]
+ EXO 40,32 3sgM xQtX [adjunct] ND      31     82  5..        |   |    |     [K->CR <Cj>] [YWH <Pr>] [JHWH <Su>] [>T MCH <Ob>]
                                -------                       |   |    +---------------------------------------------------------------------------/
  EXO 40,33 3sgM Way0  << Way0  N       31     83  2..        |  [W-<Cj>] [JQM <Pr>] [>T H-XYR <Ob>] [SBJB / L--MCKN W-L--MZBX <sp><Mo>]
  EXO 40,33 3sgM Way0  << Way0  N       31     84  2..        |  [W-<Cj>] [JTN <Pr>] [>T MSK C<R H-XYR <Ob>]

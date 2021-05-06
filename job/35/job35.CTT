@@ -4,13 +4,13 @@
  IOB 35,02 2sgM xQt0  <<  [Q]  NQ      11      3  2.q         | [H-<Qu>] [Z>T <Ob>] [XCBT <Pr>] [L-MCPV <Co>]
  IOB 35,02 2sgM ZQt0  << xQt0  NQ      11      4  4..         |      |  [>MRT <Pr>]
                                =======                        |      |       |+================================================================\
- IOB 35,02 ---- NmCl  <<  [Q]  NQQ     111     5  6.q         |      |        | [YDQJ <Su>] [M->L <PC>]
-                               =======                        |      |        +================================================================/
+ IOB 35,02 ---- NmCl  <<  [Q]  NQQ     111     5  6.q         |      |       || [YDQJ <Su>] [M->L <PC>]
+                               =======                        |      |       |+================================================================/
  IOB 35,03 2sgM xYq0  << ZQt0  NQ      11      6  5..         |      |      [KJ <Cj>] [T>MR <Pr>]
                                =======                        |      |           |   |+========================================================\
- IOB 35,03 3sgM xYq0  <<  [Q]  NQQ     112     7  8.q         |      |           |    | [MH <Qu>] [JSKN <Pr>] [LK <Co>]
- IOB 35,03 1sg- xYq0  << xYq0  NQQ     112     8  9..         |      |           |    |     [MH <Qu>] [><JL <Pr>] [M-XV>TJ <Co>]
-                               =======                        |      |           |    +========================================================/
+ IOB 35,03 3sgM xYq0  <<  [Q]  NQQ     112     7  8.q         |      |           |   || [MH <Qu>] [JSKN <Pr>] [LK <Co>]
+ IOB 35,03 1sg- xYq0  << xYq0  NQQ     112     8  9..         |      |           |   ||     [MH <Qu>] [><JL <Pr>] [M-XV>TJ <Co>]
+                               =======                        |      |           |   |+========================================================/
  IOB 35,04 1sg- XYqt  << xYq0  NQ      11      9  7..         |      |           |  [>NJ <Su>] [>CJBK <PO>] [MLJN <Ob>]
  IOB 35,04 ---- Ellp  << XYqt  NQ      11     10  9l.         |      |           |       |  [W-<Cj>] [>T R<JK <Ob>] [<MK <Aj>]
  IOB 35,05 2sgM ZIm0  << XYqt  NQ      113    11  8.#         |      |           |      [HBV <Pr>] [CMJM <Ob>]
@@ -34,15 +34,15 @@
  IOB 35,10 -sgM Ptcp [attrib.] NQQ     1131   28 15..         |      |           |                   |    |      |  [NTN <PC>] [ZMRWT <Ob>] [B--LJLH <Ti>]
  IOB 35,11 -sgM Ptcp [attrib.] NQQ     1131   29 14..         |      |           |                   |    |     [MLPNW <po>] [M-BHMWT >RY <Co>]
  IOB 35,11 3sgM WxY0 [coordin] NQQ     1131   30 15..         |      |           |                   |    |         [W-<Cj>] [M-<WP H-CMJM <Co>] [JXKMNW <PO>]
-                               =======                        |      |           |                        +====================================/
+                               =======                        |      |           |                   |    +====================================/
  IOB 35,12 3plM xYq0  << NmCl  NQ      113    31 11..         |      |           |                  [CM <Mo>] [JY<QW <Pr>]
  IOB 35,12 3sgM WxY0  << xYq0  NQ      113    32 13..         |      |           |                       |  [W-<Cj>] [L> <Ng>] [J<NH <Pr>] [M-PNJ G>WN R<JM <Aj>]
  IOB 35,13 3sgM xYqX  << xYq0  NQ      113    33 12..         |      |           |                      [>K <Mo>] [CW> <Ob>] [L> <Ng>] [JCM< <Pr>] [>L <Su>]
  IOB 35,13 3sgM WXYq  << xYqX  NQ      113    34 13..         |      |           |                          [W-<Cj>] [CDJ <Su>] [L> <Ng>] [JCWRNH <PO>]
  IOB 35,14 2sgM xYq0  << xYq0  NQ      11     35  6..         |      |          [>P <Mo>] [KJ <Cj>] [T>MR <Pr>]
                                =======                        |      |               |+========================================================\
- IOB 35,14 2sgM xYq0  <<  [Q]  NQQ     114    36  8.q         |      |                | [L> <Ng>] [TCWRNW <PO>]
-                               =======                        |      |                +========================================================/
+ IOB 35,14 2sgM xYq0  <<  [Q]  NQQ     114    36  8.q         |      |               || [L> <Ng>] [TCWRNW <PO>]
+                               =======                        |      |               |+========================================================/
  IOB 35,14 ---- NmCl  << xYq0  NQ      11     37  7..         |      |              [DJN <Su>] [L-PNJW <PC>]
  IOB 35,14 2sgM WYq0  << NmCl  NQ      11     38  8..         |      |                  [W-<Cj>] [TXWLL <Pr>] [LW <Co>]
  IOB 35,15 ---- MSyn  << xQt0  NQ      115    39  3m#         |     [W-<Cj>] [<TH <Ti>]

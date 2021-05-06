@@ -1,21 +1,21 @@
  IKON16,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L JHW> / BN XNNJ <ap><PC>] [<L B<C> <Aj>]
  IKON16,01 ---- InfC [adjunct] N       1       2  3..    |   |   |  [L->MR <Pr>]
                                =======                   |   |   |    +===========================================================================\
- IKON16,02 1sg- xQt0 [adjunct] NQ      11      3  5.\    |   |   |   ||  |  [J<N >CR <Cj>] [HRJMTJK <PO>] [MN H-<PR <Co>]
-                               -------                   |   |   |    |  |    +----------------------------------------------------------------\
- IKON16,02 1sg- Way0 [coordin] NQN     11      4  6..    |   |   |   ||  |   || [W-<Cj>] [>TNK <PO>] [NGJD <Ob>] [<L <MJ / JFR>L <ap><Co>]
- IKON16,02 2sgM Way0 [coordin] NQN     11      5  7..    |   |   |   ||  |   ||     [W-<Cj>] [TLK <Pr>] [B-DRK JRB<M <Co>]
- IKON16,02 2sgM Way0 [coordin] NQN     11      6  7..    |   |   |   ||  |   ||     [W-<Cj>] [TXV> <Pr>] [>T <MJ / JFR>L <ap><Ob>]
- IKON16,02 ---- InfC [adjunct] NQN     11      7  8..    |   |   |   ||  |   ||         [L-HK<JSNJ <PO>] [B-XV>TM <Co>]
-                               -------                   |   |   |    |       +----------------------------------------------------------------/
- IKON16,03 -sgM Ptcp  <<  [Q]  NQ      11      8  4.q    |   |   |   || [HNNJ <Is>] [MB<JR <PC>] [>XRJ B<C> W->XRJ BJTW <Co>]
- IKON16,03 1sg- WQt0  << Ptcp  NQ      11      9  6..    |   |   |   ||      |  [W-<Cj>] [NTTJ <Pr>] [>T BJTK <Ob>] [K-BJT JRB<M / BN NBV <ap><Co>]
- IKON16,04 -sgM Ptcp [object ] NQ      11     10  6.\    |   |   |   ||      |  [H-<Re>] [MT <PC>] [L-B<C> <Aj>] [B--<JR <Lo>]
- IKON16,04 3plM ZYqX  << Ptcp  NQ      11     11  5..    |   |   |   ||     [J>KLW <Pr>] [H-KLBJM <Su>]
- IKON16,04 ---- Defc [coordin] NQ      11     12  6d.    |   |   |   ||         [W-<Cj>]
- IKON16,04 -sgM Ptcp [object ] NQ      11     13  8.\    |   |   |   ||              |  [H-<Re>] [MT <PC>] [LW <Aj>] [B--FDH <Lo>]
- IKON16,04 3plM ZYqX  << Defc  NQ      11     14  7..    |   |   |   ||             [J>KLW <Pr>] [<WP H-CMJM <Su>]
-                               =======                   |   |        +===========================================================================/
+ IKON16,02 1sg- xQt0 [adjunct] NQ      11      3  5.\    |   |   |    |  |  [J<N >CR <Cj>] [HRJMTJK <PO>] [MN H-<PR <Co>]
+                               -------                   |   |   |    |  |   |+----------------------------------------------------------------\
+ IKON16,02 1sg- Way0 [coordin] NQN     11      4  6..    |   |   |    |  |   || [W-<Cj>] [>TNK <PO>] [NGJD <Ob>] [<L <MJ / JFR>L <ap><Co>]
+ IKON16,02 2sgM Way0 [coordin] NQN     11      5  7..    |   |   |    |  |   ||     [W-<Cj>] [TLK <Pr>] [B-DRK JRB<M <Co>]
+ IKON16,02 2sgM Way0 [coordin] NQN     11      6  7..    |   |   |    |  |   ||     [W-<Cj>] [TXV> <Pr>] [>T <MJ / JFR>L <ap><Ob>]
+ IKON16,02 ---- InfC [adjunct] NQN     11      7  8..    |   |   |    |  |   ||         [L-HK<JSNJ <PO>] [B-XV>TM <Co>]
+                               -------                   |   |   |    |  |   |+----------------------------------------------------------------/
+ IKON16,03 -sgM Ptcp  <<  [Q]  NQ      11      8  4.q    |   |   |    | [HNNJ <Is>] [MB<JR <PC>] [>XRJ B<C> W->XRJ BJTW <Co>]
+ IKON16,03 1sg- WQt0  << Ptcp  NQ      11      9  6..    |   |   |    |      |  [W-<Cj>] [NTTJ <Pr>] [>T BJTK <Ob>] [K-BJT JRB<M / BN NBV <ap><Co>]
+ IKON16,04 -sgM Ptcp [object ] NQ      11     10  6.\    |   |   |    |      |  [H-<Re>] [MT <PC>] [L-B<C> <Aj>] [B--<JR <Lo>]
+ IKON16,04 3plM ZYqX  << Ptcp  NQ      11     11  5..    |   |   |    |     [J>KLW <Pr>] [H-KLBJM <Su>]
+ IKON16,04 ---- Defc [coordin] NQ      11     12  6d.    |   |   |    |         [W-<Cj>]
+ IKON16,04 -sgM Ptcp [object ] NQ      11     13  8.\    |   |   |    |              |  [H-<Re>] [MT <PC>] [LW <Aj>] [B--FDH <Lo>]
+ IKON16,04 3plM ZYqX  << Defc  NQ      11     14  7..    |   |   |    |             [J>KLW <Pr>] [<WP H-CMJM <Su>]
+                               =======                   |   |   |    +===========================================================================/
  IKON16,05 ---- CPen  << WayX  N       1      15  2c.    |   |  [W-<Cj>] [JTR DBRJ B<C> <Fr>]
  IKON16,05 3sgM WxQ0 [coordin] N       1      16  6.e    |   |       |   |   |  [W-<Cj>] [>CR <Re>] [<FH <Pr>]
  IKON16,05 ---- Defc  << CPen  N       1      17  5d.    |   |       |   |  [W-/ GBWRTW <pa><cj>]
@@ -61,9 +61,9 @@
  IKON16,16 -plM Ptcp [attrib.] N       31     57  6..    |   |   |   |   |   |  [H-<Re>] [XNJM <PC>]
  IKON16,16 ---- InfC [adjunct] N       31     58  5..    |   |   |   |   |  [L->MR <Pr>]
                                =======                   |   |   |   |   |    +===================================================================\
- IKON16,16 3sgM ZQtX  <<  [Q]  NQ      311    59  6.q    |   |   |   |   |   || [QCR <Pr>] [ZMRJ <Su>]
- IKON16,16 3sgM WxQ0  << ZQtX  NQ      311    60  7..    |   |   |   |   |   ||     [W-<Cj>] [GM <Mo>] [HKH <Pr>] [>T H-MLK <Ob>]
-                               =======                   |   |   |   |        +===================================================================/
+ IKON16,16 3sgM ZQtX  <<  [Q]  NQ      311    59  6.q    |   |   |   |   |    | [QCR <Pr>] [ZMRJ <Su>]
+ IKON16,16 3sgM WxQ0  << ZQtX  NQ      311    60  7..    |   |   |   |   |    |     [W-<Cj>] [GM <Mo>] [HKH <Pr>] [>T H-MLK <Ob>]
+                               =======                   |   |   |   |   |    +===================================================================/
  IKON16,16 3plM WayX  << WayX  N       312    61  4.#    |   |   |   |  [W-<Cj>] [JMLKW <Pr>] [KL JFR>L <Su>] [>T <MRJ / FR YB> <sp><Ob>] [<L JFR>L <Co>] [B--JWM H-HW> <Ti>] [B--MXNH <Lo>]
  IKON16,17 3sgM WayX  << WayX  N       32     62  3.#    |   |   |  [W-<Cj>] [J<LH <Pr>] [<MRJ <Su>]
  IKON16,17 ---- NmCl [coordin] N       32     63  7.e    |   |   |       |   |   |  [W-<Cj>] [KL JFR>L <Su>] [<MW <PC>]
@@ -86,18 +86,18 @@
  IKON16,20 3sgM xQt0 [attrib.] N       3      80  4..    |   |       |  [>CR <Re>] [QCR <Pr>]
  IKON16,20 -plM Ptcp [resumpt] N       3      81  3..    |   |      [H-<Qu>] [L> <Ng>] [HM <Su>] [KTWBJM <PC>] [<L SPR DBRJ H-JMJM / L-MLKJ JFR>L <sp><Co>]
                                -------                   |+---------------------------------------------------------------------------------------\
- IKON16,21 3sgM xYqX  << xQtX  ND      33     82  1.#     | [>Z <Mo>] [JXLQ <Pr>] [H-<M / JFR>L <ap><Su>] [L--XYJ <Co>]
- IKON16,21 3sgM XQtl  << xYqX  ND      33     83  2..     |     [XYJ H-<M <Su>] [HJH <Pr>] [>XRJ TBNJ / BN GJNT <ap><PC>]
- IKON16,21 ---- InfC [adjunct] ND      33     84  5..     |          |   |  [L-HMLJKW <PO>]
- IKON16,21 ---- NmCl  << XQtl  ND      33     85  4..     |          |  [W-<Cj>] [H-XYJ <Su>] [>XRJ <MRJ <PC>]
+ IKON16,21 3sgM xYqX  << xQtX  ND      33     82  1.#    || [>Z <Mo>] [JXLQ <Pr>] [H-<M / JFR>L <ap><Su>] [L--XYJ <Co>]
+ IKON16,21 3sgM XQtl  << xYqX  ND      33     83  2..    ||     [XYJ H-<M <Su>] [HJH <Pr>] [>XRJ TBNJ / BN GJNT <ap><PC>]
+ IKON16,21 ---- InfC [adjunct] ND      33     84  5..    ||          |   |  [L-HMLJKW <PO>]
+ IKON16,21 ---- NmCl  << XQtl  ND      33     85  4..    ||          |  [W-<Cj>] [H-XYJ <Su>] [>XRJ <MRJ <PC>]
                                -------                   ||       +----------------------------------------------------------------------------\
- IKON16,22 3sgM WayX  << XQtl  NDN     331    86  3.#     |       | [W-<Cj>] [JXZQ <Pr>] [H-<M <Su>]
- IKON16,22 ---- NmCl [attrib.] NDN     331    87  5.e     |       |  |   |  [>CR <Re>] [>XRJ <MRJ <PC>]
- IKON16,22 ---- Defc  << WayX  NDN     331    88  4d.     |       |  |  [>T H-<M <Ob>]
- IKON16,22 ---- NmCl [attrib.] NDN     331    89  5..     |       |  |      [>CR <Re>] [>XRJ TBNJ / BN GJNT <ap><PC>]
- IKON16,22 3sgM WayX  << WayX  NDN     332    90  3.#     |       | [W-<Cj>] [JMT <Pr>] [TBNJ <Su>]
- IKON16,22 3sgM WayX  << WayX  NDN     333    91  3.#     |       | [W-<Cj>] [JMLK <Pr>] [<MRJ <Su>]
-                               -------                    +---------------------------------------------------------------------------------------/
+ IKON16,22 3sgM WayX  << XQtl  NDN     331    86  3.#    ||       | [W-<Cj>] [JXZQ <Pr>] [H-<M <Su>]
+ IKON16,22 ---- NmCl [attrib.] NDN     331    87  5.e    ||       |  |   |  [>CR <Re>] [>XRJ <MRJ <PC>]
+ IKON16,22 ---- Defc  << WayX  NDN     331    88  4d.    ||       |  |  [>T H-<M <Ob>]
+ IKON16,22 ---- NmCl [attrib.] NDN     331    89  5..    ||       |  |      [>CR <Re>] [>XRJ TBNJ / BN GJNT <ap><PC>]
+ IKON16,22 3sgM WayX  << WayX  NDN     332    90  3.#    ||       | [W-<Cj>] [JMT <Pr>] [TBNJ <Su>]
+ IKON16,22 3sgM WayX  << WayX  NDN     333    91  3.#    ||       | [W-<Cj>] [JMLK <Pr>] [<MRJ <Su>]
+                               -------                   |+---------------------------------------------------------------------------------------/
  IKON16,23 3sgM xQtX  << xQtX  N       4      92  0.#   [B-CNT CLCJM W->XT CNH / L->S> / MLK JHWDH <ap><sp><Ti>] [MLK <Pr>] [<MRJ <Su>] [<L JFR>L <Co>] [CTJM <FRH CNH <Ti>]
  IKON16,23 3sgM xQt0  << xQtX  N       4      93  4..        |   |   |  [B-TRYH <Co>] [MLK <Pr>] [CC CNJM <Ti>]
  IKON16,24 3sgM Way0  << xQt0  N       4      94  5..        |   |   |      [W-<Cj>] [JQN <Pr>] [>T H-HR / CMRWN <ap><Ob>] [M->T CMR <Co>] [B-KKRJM KSP <Aj>]

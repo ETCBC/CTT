@@ -10,18 +10,18 @@
  DEUT11,04 3sgM xQt0 [attrib.] Q       1      10  9..    |   |       |                   |  [>CR <Re>] [HYJP <Pr>] [>T MJ JM SWP <Ob>] [<L PNJHM <Co>]
  DEUT11,04 ---- InfC [adjunct] Q       1      11 11..    |   |       |                   |       |  [B-RDPM <Ps>] [>XRJKM <Co>]
                                -------                   |   |       |                   |    +---------------------------------------------------\
- DEUT11,04 3sgM WayX [coordin] QN      11     12 10.#    |   |       |                   |   || [W-<Cj>] [J>BDM <PO>] [JHWH <Su>] [<D H-JWM H-ZH <Ti>]
+ DEUT11,04 3sgM WayX [coordin] QN      11     12 10.#    |   |       |                   |    | [W-<Cj>] [J>BDM <PO>] [JHWH <Su>] [<D H-JWM H-ZH <Ti>]
                                -------                   |   |       |                   |    +---------------------------------------------------/
  DEUT11,05 3sgM WxQ0 [coordin] Q       1      13  8..    |   |       |                  [W-<Cj>] [>CR <Re>] [<FH <Pr>] [LKM <Co>] [B--MDBR <Lo>]
  DEUT11,05 ---- InfC [adjunct] Q       1      14  9..    |   |       |                   |  [<D B>KM <Ps>] [<D H-MQWM H-ZH <Co>]
  DEUT11,06 3sgM WxQ0 [coordin] Q       1      15  8..    |   |       |                  [W-<Cj>] [>CR <Re>] [<FH <Pr>] [L-DTN W-L->BJRM / BNJ >LJ>B / BN R>WBN <ap><ap><Co>]
  DEUT11,06 3sgF xQtX [attrib.] Q       1      16  9..    |   |       |                      [>CR <Re>] [PYTH <Pr>] [H->RY <Su>] [>T PJH <Ob>]
                                -------                   |   |       |                        +---------------------------------------------------\
- DEUT11,06 3sgF Way0 [coordin] QN      1      17 10..    |   |       |                       || [W-<Cj>] [TBL<M <PO>]
- DEUT11,06 ---- Ellp  << Way0  QN      1      18 11l.    |   |       |                       ||     [W-<Cj>] [>T BTJHM W->T >HLJHM W->T KL H-JQWM <Ob>]
- DEUT11,06 ---- NmCl [attrib.] QN      1      19 13.e    |   |       |                       ||          |  [>CR <Re>] [B-RGLJHM <PC>]
- DEUT11,06 ---- Defc  << Ellp  QN      1      20 12d.    |   |       |                       ||         [B-QRB KL JFR>L <Lo>]
-                               -------                   |   |                                +---------------------------------------------------/
+ DEUT11,06 3sgF Way0 [coordin] QN      1      17 10..    |   |       |                        | [W-<Cj>] [TBL<M <PO>]
+ DEUT11,06 ---- Ellp  << Way0  QN      1      18 11l.    |   |       |                        |     [W-<Cj>] [>T BTJHM W->T >HLJHM W->T KL H-JQWM <Ob>]
+ DEUT11,06 ---- NmCl [attrib.] QN      1      19 13.e    |   |       |                        |          |  [>CR <Re>] [B-RGLJHM <PC>]
+ DEUT11,06 ---- Defc  << Ellp  QN      1      20 12d.    |   |       |                        |         [B-QRB KL JFR>L <Lo>]
+                               -------                   |   |       |                        +---------------------------------------------------/
  DEUT11,07 ---- NmCl  << NmCl  Q       1      21  3..    |   |      [KJ <Cj>] [<JNJKM <Su>]
  DEUT11,07 -plF Ptcp [predic.] Q       1      22  4..    |   |          [H-<Re>] [R>T <PC>] [>T KL M<FH JHWH H-GDL <Ob>]
  DEUT11,07 3sgM xQt0 [attrib.] Q       1      23  5..    |   |              [>CR <Re>] [<FH <Pr>]

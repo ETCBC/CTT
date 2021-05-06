@@ -1,22 +1,22 @@
  PS066,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [L--MNYX <PC>]
  PS066,001 ---- NmCl  << NmCl  ?       1       2  1..    |  [CJR / MZMWR <ap><PC>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PS066,001 2plM ZIm0  << NmCl  Q       2       3  0.N   [HRJ<W <Pr>] [L->LHJM <Co>]
  PS066,001 ---- Voct  << ZIm0  Q       2       4  1v.    |  [KL H->RY <Vo>]
  PS066,002 2plM ZIm0  << ZIm0  Q       2       5  0..   [ZMRW <Pr>] [KBWD CMW <Ob>]
  PS066,002 2plM ZIm0  << ZIm0  Q       2       6  0..   [FJMW <Pr>] [KBWD <Ob>] [THLTW <Ob>]
  PS066,003 2plM ZIm0  << ZIm0  Q       2       7  0..   [>MRW <Pr>] [L->LHJM <Co>]
                                =======                   |+=======================================================================================\
- PS066,003 -sgM AjCl  <<  [Q]  QQ      21      8  1.q     | [MH <Qu>] [NWR> <PC>] [M<FJK <Su>]
- PS066,003 3plM xYqX  << AjCl  QQ      21      9  2..     |     [B-RB <ZK <Aj>] [JKXCW <Pr>] [LK <Co>] [>JBJK <Su>]
- PS066,004 3plM XYqt  << xYqX  QQ      21     10  3..     |         [KL H->RY <Su>] [JCTXWW <Pr>] [LK <Co>]
- PS066,004 3plM WYq0  << XYqt  QQ      21     11  5..     |              |  [W-<Cj>] [JZMRW <Pr>] [LK <Co>]
- PS066,004 3plM ZYq0  << XYqt  QQ      21     12  4..     |             [JZMRW <Pr>] [CMK <Ob>]
- PS066,004 ---- MSyn  << ZYq0  QQ      21     13  5m.     |                 [SLH <Ij>]
-                               =======                    +=======================================================================================/
+ PS066,003 -sgM AjCl  <<  [Q]  QQ      21      8  1.q    || [MH <Qu>] [NWR> <PC>] [M<FJK <Su>]
+ PS066,003 3plM xYqX  << AjCl  QQ      21      9  2..    ||     [B-RB <ZK <Aj>] [JKXCW <Pr>] [LK <Co>] [>JBJK <Su>]
+ PS066,004 3plM XYqt  << xYqX  QQ      21     10  3..    ||         [KL H->RY <Su>] [JCTXWW <Pr>] [LK <Co>]
+ PS066,004 3plM WYq0  << XYqt  QQ      21     11  5..    ||              |  [W-<Cj>] [JZMRW <Pr>] [LK <Co>]
+ PS066,004 3plM ZYq0  << XYqt  QQ      21     12  4..    ||             [JZMRW <Pr>] [CMK <Ob>]
+ PS066,004 ---- MSyn  << ZYq0  QQ      21     13  5m.    ||                 [SLH <Ij>]
+                               =======                   |+=======================================================================================/
  PS066,005 2plM ZIm0  << ZIm0  Q       3      14  0.#   [LKW <Pr>]
  PS066,005 2plM WIm0  << ZIm0  Q       3      15  2..    |   |  [W-<Cj>] [R>W <Pr>] [MP<LWT >LHJM <Ob>]
- PS066,005 -sgF AjCl  << ZIm0  Q       3      16  1..    |  [NWR> <LJLH <PC>] [<L BNJ >DM <Co>]
+ PS066,005 ---- AjCl  << ZIm0  Q       3      16  1..    |  [NWR> <LJLH <PC>] [<L BNJ >DM <Co>]
  PS066,006 3sgM ZQt0  << AjCl  Q       3      17  3..    |       |  [HPK <Pr>] [JM <Ob>] [L-JBCH <Co>]
  PS066,006 3plM xYq0  << ZQt0  Q       3      18  4..    |       |      [B--NHR <Co>] [J<BRW <Pr>] [B-RGL <Aj>]
  PS066,006 1pl- xYq0  << xYq0  Q       3      19  5..    |       |          [CM <Mo>] [NFMXH <Pr>] [BW <Co>]
@@ -39,7 +39,7 @@
  PS066,012 2sgM ZQt0 [coordin] Q       4      36  5..    |   |       |      [HRKBT <Pr>] [>NWC <Ob>] [L-R>CNW <Co>]
  PS066,012 1pl- ZQt0 [coordin] Q       4      37  3..    |   |      [B>NW <Pr>] [B-->C W-B--MJM <Co>]
                                -------                   |   |        +---------------------------------------------------------------------------\
- PS066,012 2sgM Way0 [coordin] QN      4      38  4..    |   |       || [W-<Cj>] [TWYJ>NW <PO>] [L--RWJH <Co>]
+ PS066,012 2sgM Way0 [coordin] QN      4      38  4..    |   |        | [W-<Cj>] [TWYJ>NW <PO>] [L--RWJH <Co>]
                                -------                   |   |        +---------------------------------------------------------------------------/
  PS066,013 1sg- ZYq0  << ZIm0  Q       4      39  1..    |  [>BW> <Pr>] [BJTK <Co>] [B-<WLWT <Aj>]
  PS066,013 1sg- ZYq0  << ZYq0  Q       4      40  1..    |  [>CLM <Pr>] [LK <Co>] [NDRJ <Ob>]

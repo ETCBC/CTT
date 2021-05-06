@@ -14,17 +14,18 @@
  IOB 37,06 3sgM xYq0  << Ptcp  Q       1      14 11..        |                       |   |       |  [KJ <Cj>] [L--CLG <Co>] [J>MR <Pr>]
                                =======                       |                       |   |       |       |+=======================================\
  IOB 37,06 2sgM ZIm0  <<  [Q]  QQ      11     15 13.q        |                       |   |       |       || [HW> <Pr>] [>RY <Ob>]
-                               =======                       |                       |   |       |        +=======================================/
+                               =======                       |                       |   |       |       |+=======================================/
  IOB 37,06 ---- Ellp [coordin] Q       1      16 12l.        |                       |   |       |      [W-<Cj>] [GCM MVR W-GCM MVRWT <ZW <Co>]
  IOB 37,07 3sgM xYq0  << Ptcp  Q       1      17 10..        |                       |   |      [B-JD KL >DM <Co>] [JXTWM <Pr>]
  IOB 37,07 ---- InfC [adjunct] Q       1      18 11..        |                       |   |          [L-D<T <Pr>] [KL >NCJ M<FHW <Su>]
                                -------                       |                       |+-----------------------------------------------------------\
  IOB 37,08 3sgF WayX  << ZYqX  QN      12     19  8.#        |                       || [W-<Cj>] [TB> <Pr>] [XJH <Su>] [BMW >RB <Co>]
                                -------                       |                       ||      |+------------------------------------------------\
- IOB 37,08 3sgF WxY0  << WayX  QND     12     20 10..        |                       ||       | [W-<Cj>] [B-M<WNTJH <Co>] [TCKN <Pr>]
- IOB 37,09 3sgF xYqX  << WayX  QND     12     21  9..        |                       ||     [MN H-XDR <Co>] [TBW> <Pr>] [SWPH <Su>]
- IOB 37,09 ---- Ellp  << xYqX  QND     12     22 10l.        |                       ||       | [W-<Cj>] [M-MZRJM <Co>] [QRH <Su>]
-                               -------                       |                        +-----------------------------------------------------------/
+ IOB 37,08 3sgF WxY0  << WayX  QND     12     20 10..        |                       ||      || [W-<Cj>] [B-M<WNTJH <Co>] [TCKN <Pr>]
+                               -------                       |                       ||   +----------------------------------------------------\
+ IOB 37,09 3sgF xYqX  << WayX  QND     12     21  9..        |                       ||   | [MN H-XDR <Co>] [TBW> <Pr>] [SWPH <Su>]
+ IOB 37,09 ---- Ellp  << xYqX  QND     12     22 10l.        |                       ||   |     [W-<Cj>] [M-MZRJM <Co>] [QRH <Su>]
+                               -------                       |                       |+-----------------------------------------------------------/
  IOB 37,10 3sgM xYq0  << ZYqX  Q       1      23  7..        |                      [M-NCMT >L <Aj>] [JTN <Pr>] [QRX <Ob>]
  IOB 37,10 ---- NmCl  << xYq0  Q       1      24 10..        |                           |   |  [W-<Cj>] [RXB MJM <Su>] [B-MWYQ <PC>]
  IOB 37,11 3sgM xYq0  << xYq0  Q       1      25  9..        |                           |  [>P B-RJ <Co>] [JVRJX <Pr>] [<B <Ob>]
@@ -63,12 +64,12 @@
  IOB 37,21 3sgF WXQt  << AjCl  Q       131    58  6.#                    |      [W-<Cj>] [RWX <Su>] [<BRH <Pr>]
                                -------                                   |        +---------------------------------------------------------------\
  IOB 37,21 3sgF Way0  << WXQt  QN      131    59  7..                    |        | [W-<Cj>] [TVHRM <PO>]
-                               -------                                            +---------------------------------------------------------------/
+                               -------                                   |        +---------------------------------------------------------------/
  IOB 37,22 3sgM XYqt  << xQt0  Q       13     60  4..                   [M-YPWN <Aj>] [ZHB <Su>] [J>TH <Pr>]
  IOB 37,22 ---- NmCl  << XYqt  Q       13     61  5..                       [<L >LWH <PC>] [NWR> HWD <Su>]
  IOB 37,23 ---- Defc  << NmCl  Q       13     62  7d.                            |  [CDJ <Su>]
  IOB 37,23 1pl- xQt0 [attrib.] Q       13     63 10.e                            |       |   |  [L> <Ng>] [MY>NHW <PO>]
- IOB 37,23 -sgM AjCl  << Defc  Q       13     64  9..                            |       |  [FGJ> KX <PC>]
+ IOB 37,23 ---- AjCl  << Defc  Q       13     64  9..                            |       |  [FGJ> KX <PC>]
  IOB 37,23 3sgM WxY0  << Defc  Q       13     65  8..                            |      [W-<Cj>] [MCPV W-RB YDQH <Ob>] [L> <Ng>] [J<NH <Pr>]
  IOB 37,24 3pl- xQtX  << NmCl  Q       13     66  6..                           [LKN <Mo>] [JR>WHW <PO>] [>NCJM <Su>]
  IOB 37,24 3sgM xYq0  << xQtX  Q       13     67  7..                               [L> <Ng>] [JR>H <Pr>] [KL XKMJ LB <Ob>]

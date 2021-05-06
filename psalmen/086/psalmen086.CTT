@@ -1,5 +1,5 @@
  PS086,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [TPLH / L-DWD <sp><PC>]
-                               =======                 ==============================================================================================/
+                               =======                +==============================================================================================\
  PS086,001 2sgM ZIm0  << NmCl  Q       2       2  0.N   [HVH <Pr>]
  PS086,001 ---- Voct  << ZIm0  Q       2       3  3ve    |   |   |  [JHWH <Vo>]
  PS086,001 ---- Defc  << ZIm0  Q       2       4  2d.    |   |  [>ZNK <Ob>]
@@ -19,7 +19,7 @@
  PS086,004 1sg- xYq0  << Defc  Q       2      18  5..            |       |  [NPCJ <Ob>] [>F> <Pr>]
  PS086,005 ---- Defc  << Defc  Q       2      19  4d.            |      [KJ <Cj>] [>TH <Su>]
  PS086,005 ---- Voct  << Defc  Q       2      20  6ve            |           |  [>DNJ <Vo>]
- PS086,005 -sgM AjCl  << Defc  Q       2      21  5..            |          [VWB W-SLX W-RB XSD <PC>] [L-KL QR>JK <Aj>]
+ PS086,005 ---- AjCl  << Defc  Q       2      21  5..            |          [VWB W-SLX W-RB XSD <PC>] [L-KL QR>JK <Aj>]
  PS086,006 2sgM ZIm0  << ZIm0  Q       2      22  2..           [H>ZJNH <Pr>]
  PS086,006 ---- Voct  << ZIm0  Q       2      23  7ve                |   |   |   |  [JHWH <Vo>]
  PS086,006 ---- Defc  << ZIm0  Q       2      24  6d.                |   |   |  [TPLTJ <Ob>]
@@ -57,7 +57,7 @@
  PS086,015 ---- Defc  << Voct  Q       2      56  5d.                       [W-<Cj>] [>TH <Su>]
  PS086,015 ---- Voct  << Defc  Q       2      57  9ve                            |   |   |  [>DNJ <Vo>]
  PS086,015 ---- NmCl  << Defc  Q       2      58  8..                            |   |  [>L RXWM W-XNWN <PC>]
- PS086,015 -sgF AjCl  << Defc  Q       2      59  7..                            |  [>RK >PJM W-RB XSD W->MT <PC>]
+ PS086,015 ---- AjCl  << Defc  Q       2      59  7..                            |  [>RK >PJM W-RB XSD W->MT <PC>]
  PS086,016 2sgM ZIm0  << Defc  Q       2      60  6..                           [PNH <Pr>] [>LJ <Co>]
  PS086,016 2sgM WIm0  << ZIm0  Q       2      61  8..                            |   |  [W-<Cj>] [XNNJ <PO>]
  PS086,016 2sgM ZIm0  << ZIm0  Q       2      62  7..                            |  [TNH <Pr>] [<ZK <Ob>] [L-<BDK <Co>]
