@@ -80,9 +80,9 @@ IICHR06,16 2sgM ZIm0 [ref.Voc] ?NQ     122    67  9..     |               |     
 IICHR06,16 2sgM xQt0 [object ] ?NQ     122    68 10..     |               |          |          [>T >CR <Re>] [DBRT <Pr>] [LW <Co>]
 IICHR06,16 ---- InfC [adjunct] ?NQ     122    69 11..     |               |          |              [L->MR <Pr>]
                                =======                    |               |          |                +=====================================\
-IICHR06,16 3sgM xYq0  <<  [Q]  ?NQQ    1221   70 12.q     |               |          |                | [L> <Ng>] [JKRT <Pr>] [LK <Co>] [>JC <Ob>] [M-L-PNJ <Aj>]
+IICHR06,16 3sgM xYqX  <<  [Q]  ?NQQ    1221   70 12.q     |               |          |                | [L> <Ng>] [JKRT <Pr>] [LK <Co>] [>JC <Su>] [M-L-PNJ <Aj>]
 IICHR06,16 -sgM Ptcp [attrib.] ?NQQ    1221   71 14..     |               |          |                |      |  [JWCB <PC>] [<L KS> JFR>L <Co>]
-IICHR06,16 3plM xYqX  << xYq0  ?NQQ    1221   72 13..     |               |          |                |     [RQ <Mo>] [>M <Cj>] [JCMRW <Pr>] [BNJK <Su>] [>T DRKM <Ob>]
+IICHR06,16 3plM xYqX  << xYqX  ?NQQ    1221   72 13..     |               |          |                |     [RQ <Mo>] [>M <Cj>] [JCMRW <Pr>] [BNJK <Su>] [>T DRKM <Ob>]
 IICHR06,16 ---- InfC [adjunct] ?NQQ    1221   73 14..     |               |          |                |         [L-LKT <Pr>] [B-TWRTJ <Co>]
 IICHR06,16 2sgM xQt0 [adjunct] ?NQQ    1221   74 15..     |               |          |                |             [K->CR <Cj>] [HLKT <Pr>] [L-PNJ <Co>]
                                =======                    |               |          |                +=====================================/
