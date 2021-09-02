@@ -46,7 +46,7 @@
  GEN 24,10 3sgM Way0  << WayX  ?N      16          36  2..     |  |  [W-<Cj>] [JLK <Pr>]
  GEN 24,10 ---- NmCl  << Way0  ?N      16          37  3..     |  |   |  [W-<Cj>] [KL VWB >DNJW <Su>] [B-JDW <PC>]
  GEN 24,10 3sgM Way0  << Way0  ?N      16          38  2..     |  |  [W-<Cj>] [JQM <Pr>]
- GEN 24,10 3sgM Way0  << Way0  ?N      16          39  2..     |  |  [W-<Cj>] [JLK <Pr>] [>L >RM_NHRJM / >L <JR NXWR <sp><Co>]
+ GEN 24,10 3sgM Way0  << Way0  ?N      16          39  2..     |  |  [W-<Cj>] [JLK <Pr>] [>L >RM NHRJM / >L <JR NXWR <sp><Co>]
  GEN 24,11 3sgM Way0  << Way0  ?N      16          40  2..     |  |  [W-<Cj>] [JBRK <Pr>] [H-GMLJM <Ob>] [M-XWY / L--<JR / >L B>R H-MJM <sp><sp><Lo>] [L-<T <RB / L-<T <sp><Ti>]
  GEN 24,11 ---- InfC [reg/rec] ?N      16          41  3..     |  |   |  [Y>T <Pr>] [H-C>BT <Su>]
  GEN 24,12 3sgM Way0  << Way0  ?N      16          42  2..     |  |  [W-<Cj>] [J>MR <Pr>]
