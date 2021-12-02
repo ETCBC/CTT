@@ -98,7 +98,7 @@ IICHR30,23 ---- InfC [adjunct] N       112222    91 10..                        
 IICHR30,23 3plM Way0  << WayX  N       112222    92  9..                            |       |  [W-<Cj>] [J<FW <Pr>] [CB<T JMJM <Ti>] [FMXH <Ob>]
 IICHR30,24 3sgM XQtl  << Way0  N       112222    93 11..                            |       |       |  [KJ <Cj>] [XZQJHW / MLK JHWDH <ap><Su>] [HRJM <Pr>] [L--QHL <Aj>] [>LP PRJM W-CB<T >LPJM Y>N <Ob>]
 IICHR30,24 3pl- WXQt [coordin] N       1122221   94 12.#                            |       |       |      [W-<Cj>] [H-FRJM <Su>] [HRJMW <Pr>] [L--QHL <Aj>] [PRJM >LP W-Y>N <FRT >LPJM <Ob>]
-IICHR30,24 3plM WayX  << Way0  N       1122222   95 10.#                            |       |      [W-<Cj>] [JTQDCW <Pr>] [KHNJM / L-RB <sp><Su>]
+IICHR30,24 3plM WayX  << Way0  N       1122222   95 10.#                            |       |      [W-<Cj>] [JTQDCW <Pr>] [KHNJM <Su>] [L-RB <Aj>]
 IICHR30,25 3plM WayX  << WayX  N       1122223   96  8.#                            |      [W-<Cj>] [JFMXW <Pr>] [KL QHL JHWDH W-H-KHNJM W-H-LWJM W-KL H-QHL <Su>]
 IICHR30,25 -plM Ptcp [attrib.] N       1122223   97 11.e                            |           |   |  [H-<Re>] [B>JM <PC>] [M-JFR>L <Co>]
 IICHR30,25 ---- Defc  << WayX  N       1122223   98 10d.                            |           |  [W-/ H-GRJM <pa><cj>]

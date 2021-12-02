@@ -23,7 +23,7 @@
  ICHR25,08 3plM Way0  << WayX  N       1      23  1..       [W-<Cj>] [JPJLW <Pr>] [GWRLWT MCMRT <Ob>] [L-<MT K--QVN K--GDWL MBJN <M TLMJD <Aj>]
  ICHR25,09 3sgM WayX  << Way0  N       14     24  2.#           [W-<Cj>] [JY> <Pr>] [H-GWRL H-R>CWN / L->SP <sp><Su>] [L-JWSP <Co>]
  ICHR25,09 ---- NmCl  << WayX  N       14     25  3..               [GDLJHW <Su>] [H-CNJ <PC>]
- ICHR25,09 ---- NmCl  << NmCl  N       14     26  5..                    |  [HW> / W-/ >XJW W-BNJW <pa><cj><Su>] [CNJM <FR <PC>]
+ ICHR25,09 ---- NmCl  << NmCl  N       14     26  5..                    |  [HW> W->XJW W-BNJW <Su>] [CNJM <FR <PC>]
  ICHR25,10 ---- NmCl  << NmCl  N       14     27  4..                   [H-CLCJ <Su>] [ZKWR <PC>]
  ICHR25,10 ---- NmCl  << NmCl  N       14     28  6..                    |   |  [BNJW W->XJW <Su>] [CNJM <FR <PC>]
  ICHR25,11 ---- NmCl  << NmCl  N       14     29  5..                    |  [H-RBJ<J <Su>] [L--JYRJ <PC>]
