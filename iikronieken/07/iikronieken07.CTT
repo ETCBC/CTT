@@ -8,7 +8,7 @@ IICHR07,01 3sgF Way0  << WXQt  ?N      11      4  5..        ||      |   || [W-<
 IICHR07,01 3sgM WXQt  << WXQt  ???     111     5  4.#        ||      || [W-<Cj>] [KBWD JHWH <Su>] [ML> <Pr>] [>T H-BJT <Ob>]
                                =======                       ||      |+========================================================================/
 IICHR07,02 3pl- WxQX  << WXQt  ??      11      6  3..        ||     [W-<Cj>] [L> <Ng>] [JKLW <Pr>] [H-KHNJM <Su>]
-IICHR07,02 ---- InfC [object ] ??      11      7  6..        ||          |   |  [L-BW> <Pr>] [>L BJT JHWH <Co>]
+IICHR07,02 ---- InfC [complm.] ??      11      7  6..        ||          |   |  [L-BW> <Pr>] [>L BJT JHWH <Co>]
 IICHR07,02 3sgM xQtX  << WxQX  ??      11      8  5..        ||          |  [KJ <Cj>] [ML> <Pr>] [KBWD JHWH <Su>] [>T BJT JHWH <Ob>]
 IICHR07,03 -plM Ptcp  << WxQX  ??      11      9  4..        ||         [W-<Cj>] [KL BNJ JFR>L <Su>] [R>JM <PC>]
 IICHR07,03 ---- InfC [object ] ??      11     10  6..        ||              |  [B-RDT <Pr>] [H->C W-KBWD JHWH <Su>] [<L H-BJT <Co>]
@@ -42,7 +42,7 @@ IICHR07,07 3sgM xQt0  << WayX  ?N      14     31  3..         |  |  [KJ <Cj>] [<
 IICHR07,07 ---- Defc  << xQt0  ?N      14     32  4d.         |  |      [KJ <Cj>] [MZBX H-NXCT <Su>]
 IICHR07,07 3sgM xQtX [attrib.] ?N      14     33  6.e         |  |           |  [>CR <Re>] [<FH <Pr>] [CLMH <Su>]
 IICHR07,07 3sgM xQt0  << Defc  ?N      14     34  5..         |  |          [L> <Ng>] [JKWL <Pr>]
-IICHR07,07 ---- InfC [object ] ?N      14     35  6..         |  |              [L-HKJL <Pr>] [>T H-<LH W->T H-MNXH W->T H-XLBJM <Ob>]
+IICHR07,07 ---- InfC [complm.] ?N      14     35  6..         |  |              [L-HKJL <Pr>] [>T H-<LH W->T H-MNXH W->T H-XLBJM <Ob>]
 IICHR07,08 3sgM WayX  << WayX  ?N      15     36  2.#         | [W-<Cj>] [J<F <Pr>] [CLMH <Su>] [>T H-XG <Ob>] [B--<T H-HJ> <Ti>] [CB<T JMJM <Ti>]
 IICHR07,08 ---- Ellp  << WayX  ?N      15     37  4l.         |  |   |  [W-<Cj>] [KL JFR>L <Su>] [<MW / QHL GDWL M>D <sp><Aj>]
 IICHR07,08 ---- InfC [adjunct] ?N      15     38  6.e         |  |   |       |  [M-L-BW> <Pr>] [XMT <Co>]

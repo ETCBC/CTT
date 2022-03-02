@@ -56,6 +56,6 @@ IICHR05,13 -sgM AjCl  << InfC  NDN     1221     49 10..     |   |               
 IICHR05,13 ---- NmCl  << AjCl  NDN     1221     50 11..     |   |                      |              [KJ <Cj>] [L-<WLM <PC>] [XSDW <Su>]
 IICHR05,13 3sgM WXQt  << Way0  NDN     12212    51  7.#     |   |                     [W-<Cj>] [H-BJT <Su>] [ML> <Pr>] [<NN <Ob>] [BJT JHWH <Aj>]
 IICHR05,14 3pl- WxQX  << WXQt  NDN     12212    52  8..     |   |                         [W-<Cj>] [L> <Ng>] [JKLW <Pr>] [H-KHNJM <Su>]
-IICHR05,14 ---- InfC [adjunct] NDN     12212    53 10..     |   |                              |  [L-<MWD <Pr>]
+IICHR05,14 ---- InfC [complm.] NDN     12212    53 10..     |   |                              |  [L-<MWD <Pr>]
 IICHR05,14 ---- InfC [adjunct] NDN     12212    54 11..     |   |                              |      [L-CRT <Pr>] [M-PNJ H-<NN <Aj>]
 IICHR05,14 3sgM xQtX  << WxQX  NDN     12212    55  9..     |   |                             [KJ <Cj>] [ML> <Pr>] [KBWD JHWH <Su>] [>T BJT H->LHJM <Ob>]
