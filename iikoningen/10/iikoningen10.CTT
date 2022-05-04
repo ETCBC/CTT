@@ -184,7 +184,7 @@ IIKON10,24 ---- NmCl [resumpt] NQ      162221 143 11..     |  |                 
                                =======                     |  |                       |        +===================================================/
 IIKON10,25 3sgM Way0  << Way0  N       1622   144  7..     |  |                      [W-<Cj>] [JHJ <Pr>]
 IIKON10,25 ---- InfC [adjunct] N       1622   145  9..     |  |                           |  [K-KLTW <Ps>]
-IIKON10,25 ---- InfC [adjunct] N       1622   146 10..     |  |                           |      [L-<FWT <Pr>] [H-<LH <Su>]
+IIKON10,25 ---- InfC [adjunct] N       1622   146 10..     |  |                           |      [L-<FWT <Pr>] [H-<LH <Ob>]
 IIKON10,25 3sgM WayX  << Way0  N       16223  147  8.#     |  |                          [W-<Cj>] [J>MR <Pr>] [JHW> <Su>] [L--RYJM W-L--CLCJM <Co>]
                                =======                     |  |                           |   |+===================================================\
 IIKON10,25 2plM ZIm0  <<  [Q]  NQ      162231 148 10.q     |  |                           |   || [B>W <Pr>]
@@ -209,7 +209,7 @@ IIKON10,29 ---- NmCl [coordin] N       17     165  6..     |  |                 
 IIKON10,30 3sgM WayX  << WayX  N       18     166  1.#     | [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L JHW> <Co>]
                                =======                     |      |+===============================================================================\
 IIKON10,30 2sgM xQt0 [adjunct] NQ      181    167  4.\     |      ||  |  [J<N >CR <Cj>] [HVJBT <Pr>]
-IIKON10,30 ---- InfC [adjunct] NQ      181    168  6..     |      ||  |   |   |  [L-<FWT <Pr>] [H-JCR / B-<JNJ <sp><Su>]
+IIKON10,30 ---- InfC [adjunct] NQ      181    168  6..     |      ||  |   |   |  [L-<FWT <Pr>] [H-JCR / B-<JNJ <sp><Ob>]
 IIKON10,30 ---- Defc [coordin] NQ      181    169  5d.     |      ||  |   |  [K-KL <Aj>]
 IIKON10,30 ---- NmCl [reg/rec] NQ      181    170  7.e     |      ||  |   |       |  [>CR <Re>] [B-LBBJ <PC>]
 IIKON10,30 2sgM ZQt0  << Defc  NQ      181    171  6..     |      ||  |   |      [<FJT <Pr>] [L-BJT >X>B <Co>]

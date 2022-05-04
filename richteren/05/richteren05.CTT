@@ -66,7 +66,7 @@ RICHT05,15 ---- NmCl [resumpt] NQ      11     64 14..    |    |  |           |  
 RICHT05,15 3sgM xQt0  << NmCl  NQ      11     65 15..    |    |  |           |           |           |              [B--<MQ <Co>] [CLX <Pr>] [B-RGLJW <Aj>]
 RICHT05,15 -plM AjCl  << xQtX  NQ      11     66 11..    |    |  |           |           |          [B-PLGWT R>WBN <Aj>] [GDLJM <PC>] [XQQJ LB <Su>]
 RICHT05,16 2sgM xQt0  << AjCl  NQ      11     67 13..    |    |  |           |           |               |  [LMH <Qu>] [JCBT <Pr>] [BJN H-MCPTJM <Co>]
-RICHT05,16 ---- InfC [adjunct] NQ      11     68 14..    |    |  |           |           |               |      [L-CM< <Pr>] [CRQWT <DRJM <Su>]
+RICHT05,16 ---- InfC [adjunct] NQ      11     68 14..    |    |  |           |           |               |      [L-CM< <Pr>] [CRQWT <DRJM <Ob>]
 RICHT05,16 -plM AjCl  << AjCl  NQ      11     69 12..    |    |  |           |           |              [L-PLGWT R>WBN <Aj>] [GDWLJM <PC>] [XQRJ LB <Su>]
 RICHT05,17 3sgM XQtl  << AjCl  NQ      11     70 13..    |    |  |           |           |                  [GL<D <Su>] [B-<BR H-JRDN <Co>] [CKN <Pr>]
 RICHT05,17 ---- CPen  << XQtl  NQ      11     71 15c.    |    |  |           |           |                       |  [W-<Cj>] [DN <Fr>]

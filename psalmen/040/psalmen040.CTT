@@ -1,8 +1,8 @@
  PS040,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [L--MNYX <PC>]
- PS040,001 ---- NmCl  << NmCl  ?       1       2  2..    |   |  [L-DWD <PC>]
- PS040,001 ---- NmCl  << NmCl  ?       1       3  1..    |  [MZMWR <PC>]
+ PS040,001 ---- NmCl  << NmCl  ?       1       2  2..        |  [L-DWD <PC>]
+ PS040,001 ---- NmCl  << NmCl  ?       1       3  1..       [MZMWR <PC>]
                                =======                +==============================================================================================\
- PS040,002 1sg- xQt0  << NmCl  Q       2       4  0.N   [QWH <Mo>] [QWJTJ <Pr>] [JHWH <Ob>]
+ PS040,002 1sg- xQt0  <<  [R]  Q       2       4  0.N   [QWH <Mo>] [QWJTJ <Pr>] [JHWH <Ob>]
                                -------                       |   |+-------------------------------------------------------------------------------\
  PS040,002 3sgM Way0  << xQt0  QN      2       5  3..        |   || [W-<Cj>] [JV <Pr>] [>LJ <Co>]
  PS040,002 3sgM Way0  << Way0  QN      2       6  3..        |   || [W-<Cj>] [JCM< <Pr>] [CW<TJ <Ob>]
@@ -34,7 +34,7 @@
  PS040,008 1sg- xQt0  <<  [Q]  QQ      211    30  6.q            |           || [HNH <Ij>] [B>TJ <Pr>]
  PS040,008 -sgM Ptcp  << xQt0  QQ      211    31  7..            |           ||     [B-MGLT SPR <Co>] [KTWB <PC>] [<LJ <Co>]
                                =======                           |           |+===================================================================/
- PS040,009 ---- InfC [complm.] Q       21     32  6.\            |           |  [L-<FWT <Pr>] [RYWNK <Su>]
+ PS040,009 ---- InfC [complm.] Q       21     32  6.\            |           |  [L-<FWT <Pr>] [RYWNK <Ob>]
  PS040,009 ---- Voct  << InfC  Q       21     33  7v.            |           |   |  [>LHJ <Vo>]
  PS040,009 1sg- ZQt0  << xQt0  Q       21     34  5..            |          [XPYTJ <Pr>]
  PS040,009 ---- NmCl  << ZQt0  Q       21     35  6..            |           |  [W-<Cj>] [TWRTK <Su>] [B-TWK M<J <PC>]

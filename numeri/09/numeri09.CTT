@@ -50,7 +50,7 @@
  NUM 09,13 -sgM AjCl [attrib.] NQQ     1211311  42 16..        |                            |       |      |       |   |  [>CR <Re>] [HW> <Su>] [VHWR <PC>]
  NUM 09,13 3sgM WxQ0 [coordin] NQQ     1211311  43 18..        |                            |       |      |       |   |       |  [W-<Cj>] [B-DRK <PC>] [L> <Ng>] [HJH <Pr>]
  NUM 09,13 3sgM WQt0 [coordin] NQQ     1211311  44 17..        |                            |       |      |       |   |      [W-<Cj>] [XDL <Pr>]
- NUM 09,13 ---- InfC [adjunct] NQQ     1211311  45 18..        |                            |       |      |       |   |          [L-<FWT <Pr>] [H-PSX <Su>]
+ NUM 09,13 ---- InfC [adjunct] NQQ     1211311  45 18..        |                            |       |      |       |   |          [L-<FWT <Pr>] [H-PSX <Ob>]
  NUM 09,13 3sgF WQtX [resumpt] NQQ     1211311  46 15..        |                            |       |      |       |  [W-<Cj>] [NKRTH <Pr>] [H-NPC H-HW> <Su>] [M-<MJH <Co>]
  NUM 09,13 3sgM xQt0  << WQtX  NQQ     1211311  47 16..        |                            |       |      |       |      [KJ <Cj>] [QRBN JHWH <Ob>] [L> <Ng>] [HQRJB <Pr>] [B-M<DW <Aj>]
  NUM 09,13 3sgM xYqX  << CPen  NQQ     1211311  48 14..        |                            |       |      |      [XV>W <Ob>] [JF> <Pr>] [H->JC H-HW> <Su>]
