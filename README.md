@@ -47,7 +47,7 @@ The second subtype indicates the status of the clause atom in the text. The char
 
 Sign | Meaning
 -|-
-# | new paragraph
+\# | new paragraph
 . | _empty_
 N | no connection
 \ | downward connection
