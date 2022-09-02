@@ -73,7 +73,7 @@ IICHR29,16 ---- Defc  << Way0  N       121       61 11d.         |          |   
 IICHR29,16 3plM WayX  << Way0  N       122       62  8.#         |          |           |  [W-<Cj>] [JQBLW <Pr>] [H-LWJM <Su>]
 IICHR29,16 ---- InfC [adjunct] N       122       63  9..         |          |           |      [L-HWYJ> <Pr>] [L-NXL QDRWN <Co>] [XWYH <Co>]
 IICHR29,17 3plM Way0  << Way0  N       12        64  7..         |          |          [W-<Cj>] [JXLW <Pr>] [B->XD / L--XDC H-R>CWN <sp><Ti>]
-IICHR29,17 ---- InfC [adjunct] N       12        65 10..         |          |               |   |  [L-QDC <Pr>]
+IICHR29,17 ---- InfC [complm.] N       12        65 10..         |          |               |   |  [L-QDC <Pr>]
 IICHR29,17 3pl- WxQ0  << Way0  N       12        66  9..         |          |               |  [W-<Cj>] [B-JWM CMWNH / L--XDC <sp><Ti>] [B>W <Pr>] [L->WLM JHWH <Co>]
 IICHR29,17 3plM Way0  << Way0  N       12        67  8..         |          |              [W-<Cj>] [JQDCW <Pr>] [>T BJT JHWH <Ob>] [L-JMJM CMWNH <Ti>]
 IICHR29,17 3pl- WxQ0  << Way0  N       12        68  9..         |          |                  [W-<Cj>] [B-JWM CCH <FR / L--XDC H-R>CWN <sp><Ti>] [KLW <Pr>]

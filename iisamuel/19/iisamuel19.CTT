@@ -73,7 +73,7 @@ IISA 19,10 ---- InfC [adjunct] N       23          59  4..        |          [L-
                                =======                            |            +=======================================================================\
 IISA 19,10 3sgM XQtl  <<  [Q]  NQ      231         60  5.q        |            | [H-MLK <Su>] [HYJLNW <PO>] [M-KP >JBJNW <Co>]
 IISA 19,10 3sgM WXQt  << XQtl  NQ      2311        61  9.#        |            |      |   |   |  [W-<Cj>] [HW> <Su>] [MLVNW <PO>] [M-KP PLCTJM <Co>]
-IISA 19,10 3sgM WxQ0  << XQtl  NQ      231         62  8..        |            |      |   |  [W-<Cj>] [<TH <Ti>] [BRX <Pr>] [MN H->RY <Co>] [M-<L >BCLWM <Aj>]
+IISA 19,10 3sgM WxQ0  << XQtl  NQ      231         62  8..        |            |      |   |  [W-<Cj>] [<TH <Ti>] [BRX <Pr>] [MN H->RY <Co>] [M-<L >BCLWM <Co>]
 IISA 19,11 ---- Defc  << XQtl  NQ      231         63  7d.        |            |      |  [W-<Cj>] [>BCLWM <Su>]
 IISA 19,11 1pl- xQt0 [attrib.] NQ      231         64  9.e        |            |      |       |  [>CR <Re>] [MCXNW <Pr>] [<LJNW <Co>]
 IISA 19,11 3sgM ZQt0  << Defc  NQ      231         65  8..        |            |      |      [MT <Pr>] [B--MLXMH <Co>]

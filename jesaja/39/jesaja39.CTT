@@ -9,7 +9,7 @@
  JES 39,02 3sgM xQt0 [reg/rec] ?N      11      7  4..     |  |       |  [>CR <Re>] [NMY> <Pr>] [B->YRTJW <Co>]
  JES 39,02 3sgM xQtX  << Way0  ?N      11      8  3..     |  |      [L> <Ng>] [HJH <Pr>] [DBR <Su>]
  JES 39,02 3sgM xQtX [attrib.] ?N      11      9  5.e     |  |           |  [>CR <Re>] [L> <Ng>] [HR>M <PO>] [XZQJHW <Su>]
- JES 39,02 ---- Defc  << xQtX  ?N      11     10  4d.     |  |          [B-BJTW W-B-KL MMCLTW <Lo>]
+ JES 39,02 ---- Defc  << xQtX  ?N      11     10  4d.     |  |          [B-BJTW W-B-KL MMCLTW <PC>]
  JES 39,03 3sgM WayX  << WayX  ?N      12     11  1.#     | [W-<Cj>] [JB> <Pr>] [JC<JHW / H-NBJ> <ap><Su>] [>L H-MLK / XZQJHW <ap><Co>]
  JES 39,03 3sgM Way0  << WayX  ?N      12     12  2..     |  |  [W-<Cj>] [J>MR <Pr>] [>LJW <Co>]
                                =======                    |  |   |   |+========================================================================\
@@ -59,4 +59,4 @@
                                =======                    |          |+========================================================================/
  JES 39,08 3sgM Way0  << WayX  ?N      132    43  3..     |         [W-<Cj>] [J>MR <Pr>]
                                =======                    |           +========================================================================\
- JES 39,08 3sgM xYqX  <<  [Q]  ?NQ     1322   44  4.q     |           | [KJ <Cj>] [JHJH <Pr>] [CLWM W->MT <Su>] [B-JMJ <Ti>]
+ JES 39,08 3sgM xYqX  <<  [Q]  ?NQ     1322   44  4.q     |           | [KJ <Cj>] [JHJH <Pr>] [CLWM W->MT <Su>] [B-JMJ <PC>]

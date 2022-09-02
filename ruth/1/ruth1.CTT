@@ -1,6 +1,6 @@
  RUTH01,01 3sgM Way0  <<  [R]  N       1          1  0.N   [W-<Cj>] [JHJ <Pr>] [B-JMJ <Ti>]
  RUTH01,01 ---- InfC [reg/rec] N       1          2  2..        |  [CPV <Pr>] [H-CPVJM <Su>]
- RUTH01,01 3sgM WayX  << Way0  N       11         3  1.#       [W-<Cj>] [JHJ <Pr>] [R<B <Su>] [B-->RY <Lo>]
+ RUTH01,01 3sgM WayX  << Way0  N       11         3  1.#       [W-<Cj>] [JHJ <Pr>] [R<B <Su>] [B-->RY <PC>]
  RUTH01,01 3sgM WayX  << WayX  N       12         4  1.#       [W-<Cj>] [JLK <Pr>] [>JC / M-BJT_LXM JHWDH <sp><Su>]
  RUTH01,01 ---- InfC [adjunct] N       12         5  5.e        |   |   |   |  [L-GWR <Pr>] [B-FDJ MW>B <Co>]
  RUTH01,01 ---- Defc  << WayX  N       12         6  4d.        |   |   |  [HW> W->CTW W-CNJ BNJW <sp>]

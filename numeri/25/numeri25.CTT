@@ -1,6 +1,6 @@
  NUM 25,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JCB <Pr>] [JFR>L <Su>] [B--CVJM <Co>]
  NUM 25,01 3sgM WayX  << WayX  N       11      2  1.#    |  [W-<Cj>] [JXL <Pr>] [H-<M <Su>]
- NUM 25,01 ---- InfC [adjunct] N       11      3  3..    |   |   |  [L-ZNWT <Pr>] [>L BNWT MW>B <Co>]
+ NUM 25,01 ---- InfC [complm.] N       11      3  3..    |   |   |  [L-ZNWT <Pr>] [>L BNWT MW>B <Co>]
  NUM 25,02 3plF Way0  << WayX  N       111     4  2.#    |   |  [W-<Cj>] [TQR>N <Pr>] [L--<M <Co>] [L-ZBXJ >LHJHN <Co>]
  NUM 25,02 3sgM WayX  << WayX  N       12      5  1.#    |  [W-<Cj>] [J>KL <Pr>] [H-<M <Su>]
  NUM 25,02 3plM Way0  << WayX  N       12      6  2..    |      [W-<Cj>] [JCTXWW <Pr>] [L->LHJHN <Co>]

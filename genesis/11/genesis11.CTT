@@ -29,7 +29,7 @@
  GEN 11,06 ---- NmCl  << NmCl  NQ      1151    24  7..    |       |   ||      |   |  [W-<Cj>] [FPH >XT <Su>] [L-KLM <PC>]
  GEN 11,06 ---- NmCl  << NmCl  NQ      1151    25  6..    |       |   ||      |  [W-<Cj>] [ZH <Su>]
  GEN 11,06 ---- InfC [predic.] NQ      1151    26  8..    |       |   ||      |       |  [HXLM <Ps>]
- GEN 11,06 ---- InfC [adjunct] NQ      1151    27  9..    |       |   ||      |       |      [L-<FWT <Pr>]
+ GEN 11,06 ---- InfC [complm.] NQ      1151    27  9..    |       |   ||      |       |      [L-<FWT <Pr>]
  GEN 11,06 3sgM WxYX  << NmCl  NQ      1151    28  7..    |       |   ||      |      [W-<Cj>] [<TH <Ti>] [L> <Ng>] [JBYR <Pr>] [MHM <Co>] [KL <Su>]
  GEN 11,06 3plM xYq0 [reg/rec] NQ      1151    29  8..    |       |   ||      |          [>CR <Re>] [JZMW <Pr>]
  GEN 11,06 ---- InfC [adjunct] NQ      1151    30  9..    |       |   ||      |              [L-<FWT <Pr>]

@@ -22,7 +22,7 @@ RICHT13,05 -sgF Ptcp  << AjCl  NQ      1111    20 12..                    |   | 
 RICHT13,05 3sgM WXYq  << Ptcp  NQ      1111    21 13..                    |   |   |    |                     [W-<Cj>] [MWRH <Su>] [L> <Ng>] [J<LH <Pr>] [<L R>CW <Co>]
 RICHT13,05 3sgM xYqX  << WXYq  NQ      1111    22 14..                    |   |   |    |                         [KJ <Cj>] [NZJR >LHJM <PC>] [JHJH <Pr>] [H-N<R <Su>] [MN H-BVN <Aj>]
 RICHT13,05 3sgM WXYq  << xYqX  NQ      1111    23 15..                    |   |   |    |                             [W-<Cj>] [HW> <Su>] [JXL <Pr>]
-RICHT13,05 ---- InfC [adjunct] NQ      1111    24 16..                    |   |   |    |                                 [L-HWCJ< <Pr>] [>T JFR>L <Ob>] [M-JD PLCTJM <Co>]
+RICHT13,05 ---- InfC [complm.] NQ      1111    24 16..                    |   |   |    |                                 [L-HWCJ< <Pr>] [>T JFR>L <Ob>] [M-JD PLCTJM <Co>]
                                =======                                    |   |   |    +===========================================================/
 RICHT13,06 3sgF WayX  << WayX  N       1112    25  6.#                    |   |  [W-<Cj>] [TB> <Pr>] [H->CH <Su>]
 RICHT13,06 3sgF Way0  << WayX  N       1112    26  7..                    |   |      [W-<Cj>] [T>MR <Pr>] [L->JCH <Co>]
@@ -155,4 +155,4 @@ RICHT13,24 3sgF Way0  << WayX  N       117    124  5..                       [W-
 RICHT13,24 3sgM WayX  << Way0  N       1171   125  6.#                           [W-<Cj>] [JGDL <Pr>] [H-N<R <Su>]
 RICHT13,24 3sgM WayX  << WayX  N       1172   126  6.#                           [W-<Cj>] [JBRKHW <PO>] [JHWH <Su>]
 RICHT13,25 3sgF WayX  << WayX  N       1173   127  6.#                           [W-<Cj>] [TXL <Pr>] [RWX JHWH <Su>]
-RICHT13,25 ---- InfC [adjunct] N       1173   128  7..                               [L-P<MW <PO>] [B-MXNH_DN / BJN YR<H W-BJN >CT>L <sp><Lo>]
+RICHT13,25 ---- InfC [complm.] N       1173   128  7..                               [L-P<MW <PO>] [B-MXNH_DN / BJN YR<H W-BJN >CT>L <sp><Lo>]

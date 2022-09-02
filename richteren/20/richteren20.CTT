@@ -144,7 +144,7 @@ RICHT20,31 3plM WayX  << WayX  N       26161      119  5.#                    | 
 RICHT20,31 ---- InfC [adjunct] N       26161      120  8..                    |   |   |   |  [L-QR>T <Pr>] [H-<M <Ob>]
 RICHT20,31 3pl- ZQt0  << WayX  N       26161      121  7..                    |   |   |  [HNTQW <Pr>] [MN H-<JR <Co>]
 RICHT20,31 3plM Way0  << WayX  N       26161      122  6..                    |   |  [W-<Cj>] [JXLW <Pr>]
-RICHT20,31 ---- InfC [adjunct] N       26161      123  7..                    |   |      [L-HKWT <Pr>] [M-H-<M <Co>] [XLLJM <Ob>] [K-P<M / B-P<M <sp><Lo>] [B--MSLWT <Lo>]
+RICHT20,31 ---- InfC [complm.] N       26161      123  7..                    |   |      [L-HKWT <Pr>] [M-H-<M <Co>] [XLLJM <Ob>] [K-P<M / B-P<M <sp><Lo>] [B--MSLWT <Lo>]
 RICHT20,31 -sgF Ptcp [attrib.] N       26161      124  9..                    |   |           |  [>CR <Re>] [>XT <Su>] [<LH <PC>] [BJT_>L <Co>]
 RICHT20,31 ---- Ellp [coordin] N       26161      125 10le                    |   |           |      [W-<Cj>] [>XT <Su>] [GB<TH <Co>]
 RICHT20,31 ---- Defc  << InfC  N       26161      126  8d.                    |   |          [B--FDH <Lo>] [K-CLCJM >JC / B-JFR>L <sp><Aj>]
@@ -184,7 +184,7 @@ RICHT20,38 ---- InfC [adjunct] NQ      26171121   154  9..                      
                                =======                                                |    +===========================================================/
 RICHT20,39 3sgM WayX  << WayX  N       261712     155  6.#                           [W-<Cj>] [JHPK <Pr>] [>JC JFR>L <Su>] [B--MLXMH <Co>]
 RICHT20,39 3sgM WXQt  << WayX  N       2617121    156  7.#                            |  [W-<Cj>] [BNJMN <Su>] [HXL <Pr>]
-RICHT20,39 ---- InfC [adjunct] N       2617121    157  9..                            |   |   |  [L-HKWT <Pr>] [XLLJM <Ob>] [B->JC JFR>L <Co>] [K-CLCJM >JC <Aj>]
+RICHT20,39 ---- InfC [complm.] N       2617121    157  9..                            |   |   |  [L-HKWT <Pr>] [XLLJM <Ob>] [B->JC JFR>L <Co>] [K-CLCJM >JC <Aj>]
 RICHT20,39 3pl- xQt0  << WXQt  N       2617121    158  8..                            |   |  [KJ <Cj>] [>MRW <Pr>]
                                =======                                                |   |    +=======================================================\
 RICHT20,39 -sgM Ptcp  <<  [Q]  NQ      26171211   159  9.q                            |   |    | [>K NGWP <Mo>] [NGP <PC>] [HW> <Su>] [L-PNJNW <Co>] [K--MLXMH H-R>CNH <Aj>]

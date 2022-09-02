@@ -220,7 +220,7 @@ IIKON10,31 ---- InfC [adjunct] N       18     174  6..     |          |   |   | 
 IIKON10,31 3sgM xQt0  << WXQt  N       18     175  5..     |          |   |  [L> <Ng>] [SR <Pr>] [M-<L XV>WT JRB<M <Co>]
 IIKON10,31 3sgM xQt0 [attrib.] N       18     176  6..     |          |   |      [>CR <Re>] [HXVJ> <Pr>] [>T JFR>L <Ob>]
 IIKON10,32 3sgM xQtX  << WXQt  N       182    177  4.#     |          |  [B--JMJM H-HM <Ti>] [HXL <Pr>] [JHWH <Su>]
-IIKON10,32 ---- InfC [adjunct] N       182    178  6..     |          |       |  [L-QYWT <Pr>] [B-JFR>L <Co>]
+IIKON10,32 ---- InfC [complm.] N       182    178  6..     |          |       |  [L-QYWT <Pr>] [B-JFR>L <Co>]
 IIKON10,32 3sgM WayX  << xQtX  N       1821   179  5.#     |          |      [W-<Cj>] [JKM <PO>] [XZ>L <Su>] [B-KL GBWL JFR>L <Lo>]
 IIKON10,33 ---- NmCl [attrib.] N       1821   180  7..     |          |           |  [MN H-JRDN / MZRX H-CMC <sp><Lo>]
 IIKON10,33 ---- Ellp  << WayX  N       1821   181  6l.     |          |          [>T KL >RY H-GL<D / H-GDJ W-H-R>WBNJ W-H-MNCJ <sp><Ob>]

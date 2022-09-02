@@ -1,6 +1,6 @@
  GEN 06,01 3sgM Way0  <<  [R]  N       1       1  0.N   [W-<Cj>] [JHJ <Pr>]
  GEN 06,01 3sgM xQtX  << Way0  N       1       2  2..    |   |  [KJ <Cj>] [HXL <Pr>] [H->DM <Su>]
- GEN 06,01 ---- InfC [adjunct] N       1       3  4..    |   |       |  [L-RB <Pr>] [<L PNJ H->DMH <Lo>]
+ GEN 06,01 ---- InfC [complm.] N       1       3  4..    |   |       |  [L-RB <Pr>] [<L PNJ H->DMH <Lo>]
  GEN 06,01 3pl- WXQt  << xQtX  N       1       4  3..    |   |      [W-<Cj>] [BNWT <Su>] [JLDW <Pr>] [LHM <Co>]
  GEN 06,02 3plM WayX  << Way0  N       11      5  1.#    |  [W-<Cj>] [JR>W <Pr>] [BNJ H->LHJM <Su>] [>T BNWT H->DM <Ob>]
  GEN 06,02 -plF AjCl [object ] N       11      6  3..    |   |   |  [KJ <Cj>] [VBT <PC>] [HNH <Su>]

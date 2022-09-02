@@ -213,7 +213,7 @@ ISAM 14,34 ---- Defc  << WayX  N       14532      173  9d.    |       |         
 ISAM 14,34 3plM Way0  << WayX  N       14532      174  8..    |       |           |       |  [W-<Cj>] [JCXVW <Pr>] [CM <Lo>]
 ISAM 14,35 3sgM WayX  << WayX  N       145321     175  7.#    |       |           |      [W-<Cj>] [JBN <Pr>] [C>WL <Su>] [MZBX <Ob>] [L-JHWH <Co>]
 ISAM 14,35 3sgM xQt0  << WayX  N       145321     176  8..    |       |           |          [>TW <Ob>] [HXL <Pr>]
-ISAM 14,35 ---- InfC [adjunct] N       145321     177  9..    |       |           |              [L-BNWT <Pr>] [MZBX <Ob>] [L-JHWH <Co>]
+ISAM 14,35 ---- InfC [complm.] N       145321     177  9..    |       |           |              [L-BNWT <Pr>] [MZBX <Ob>] [L-JHWH <Co>]
 ISAM 14,36 3sgM WayX  << WayX  N       1454       178  5.#    |       |          [W-<Cj>] [J>MR <Pr>] [C>WL <Su>]
                                =======                        |       |           |   |   |+===========================================================\
 ISAM 14,36 1pl- ZYq0  <<  [Q]  NQ      14541      179  8.q    |       |           |   |   || [NRDH <Pr>] [>XRJ PLCTJM <Co>] [LJLH <Ti>]

@@ -149,7 +149,7 @@ RICHT16,19 3sgF Way0  << Way0  N       1215    112  7..                |   |    
 RICHT16,19 3sgF Way0  << Way0  N       1215    113  8..                |   |              [W-<Cj>] [TQR> <Pr>] [L-->JC <Co>]
 RICHT16,19 3sgF Way0  << Way0  N       1215    114  8..                |   |              [W-<Cj>] [TGLX <Pr>] [>T CB< MXLPWT R>CW <Ob>]
 RICHT16,19 3sgF Way0  << Way0  N       1215    115  8..                |   |              [W-<Cj>] [TXL <Pr>]
-RICHT16,19 ---- InfC [adjunct] N       1215    116 10..                |   |               |   |  [L-<NWTW <PO>]
+RICHT16,19 ---- InfC [complm.] N       1215    116 10..                |   |               |   |  [L-<NWTW <PO>]
 RICHT16,19 3sgM WayX  << Way0  N       12152   117  9.#                |   |               |  [W-<Cj>] [JSR <Pr>] [KXW <Su>] [M-<LJW <Co>]
 RICHT16,20 3sgF Way0  << Way0  N       1215    118  8..                |   |              [W-<Cj>] [T>MR <Pr>]
                                =======                                 |   |                   |+===================================================\
@@ -170,7 +170,7 @@ RICHT16,21 3plM Way0  << Way0  N       12155   129 11..                |   |    
 RICHT16,21 3plM Way0  << Way0  N       12155   130 12..                |   |                              [W-<Cj>] [J>SRWHW <PO>] [B--NXCTJM <Co>]
 RICHT16,21 3sgM Way0  << Way0  N       12155   131 13..                |   |                                  [W-<Cj>] [JHJ <Pr>] [VWXN <PC>] [B-BJT H->SJRJM <Lo>]
 RICHT16,22 3sgM WayX  << Way0  N       121551  132 14.#                |   |                                      [W-<Cj>] [JXL <Pr>] [F<R R>CW <Su>]
-RICHT16,22 ---- InfC [adjunct] N       121551  133 16..                |   |                                           |  [L-YMX <Pr>]
+RICHT16,22 ---- InfC [complm.] N       121551  133 16..                |   |                                           |  [L-YMX <Pr>]
 RICHT16,22 3sgM xQt0 [adjunct] N       121551  134 15..                |   |                                          [K->CR <Cj>] [GLX <Pr>]
 RICHT16,23 3pl- WXQt  << WayX  N       1216    135  4.#                |  [W-<Cj>] [SRNJ PLCTJM <Su>] [N>SPW <Pr>]
 RICHT16,23 ---- InfC [adjunct] N       1216    136  6..                |       |  [L-ZBX <Pr>] [ZBX GDWL <Ob>] [L-DGWN / >LHJHM <ap><Co>]

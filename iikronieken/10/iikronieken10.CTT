@@ -4,7 +4,7 @@ IICHR10,01 ---- InfC [adjunct] N       1       3  3..    |   |      [L-HMLJK <Pr
 IICHR10,02 3sgM Way0  << WayX  N       11      4  1.#    |  [W-<Cj>] [JHJ <Pr>]
 IICHR10,02 ---- InfC [adjunct] N       11      5  2..    |   |  [K-CM< <Pr>] [JRB<M / BN NBV <ap><Su>]
 IICHR10,02 ---- NmCl  << InfC  N       11      6  3..    |   |      [W-<Cj>] [HW> <Su>] [B-MYRJM <PC>]
-IICHR10,02 3sgM xQt0 [attrib.] N       11      7  4..    |   |          [>CR <Re>] [BRX <Pr>] [M-PNJ CLMH / H-MLK <ap><Aj>]
+IICHR10,02 3sgM xQt0 [attrib.] N       11      7  4..    |   |          [>CR <Re>] [BRX <Pr>] [M-PNJ CLMH / H-MLK <ap><Co>]
 IICHR10,02 3sgM WayX  << Way0  N       12      8  1.#    |  [W-<Cj>] [JCB <Pr>] [JRB<M <Su>] [M-MYRJM <Co>]
 IICHR10,03 3plM Way0  << WayX  N       12      9  2..    |      [W-<Cj>] [JCLXW <Pr>]
 IICHR10,03 3plM Way0  << Way0  N       12     10  2..    |      [W-<Cj>] [JQR>W <Pr>] [LW <Co>]

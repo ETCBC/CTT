@@ -2,7 +2,7 @@
  NEH 04,01 3sgM xQtX [adjunct] N       1       2  2..    |   |  [K->CR <Cj>] [CM< <Pr>] [SNBLV W-VWBJH W-H-<RBJM W-H-<MNJM W-H->CDWDJM <Su>]
  NEH 04,01 3sgF xQtX [object ] N       1       3  3..    |   |      [KJ <Cj>] [<LTH <Pr>] [>RWKH <Su>] [L-XMWT JRWCLM <Aj>]
  NEH 04,01 3pl- xQtX [coordin] N       1       4  4..    |   |          [KJ <Cj>] [HXLW <Pr>] [H-PRYJM <Su>]
- NEH 04,01 ---- InfC [adjunct] N       1       5  5..    |   |              [L-HSTM <Pr>]
+ NEH 04,01 ---- InfC [complm.] N       1       5  5..    |   |              [L-HSTM <Pr>]
  NEH 04,01 3sgM Way0  << Way0  N       1       6  1..    |  [W-<Cj>] [JXR <Pr>] [LHM <Co>] [M>D <Mo>]
  NEH 04,02 3plM WayX  << Way0  N       11      7  3.#    |   |   |  [W-<Cj>] [JQCRW <Pr>] [KLM <Su>] [JXDW <Mo>]
  NEH 04,02 ---- InfC [adjunct] N       11      8  4..    |   |   |      [L-BW> <Pr>]

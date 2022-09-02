@@ -16,7 +16,7 @@ ISAM 22,03 3sgM xYqX [object ] NQ      14     14  5..    |       ||         [MH 
                                =======                   |       |+===============================================================================/
 ISAM 22,04 3sgM Way0  << Way0  N       1      15  2..    |      [W-<Cj>] [JNXM <PO>] [>T PNJ MLK MW>B <Co>]
 ISAM 22,04 3plM Way0  << Way0  N       1      16  3..    |          [W-<Cj>] [JCBW <Pr>] [<MW <Co>] [KL JMJ <Ti>]
-ISAM 22,04 ---- InfC [reg/rec] N       1      17  4..    |              [HJWT <Pr>] [DWD <Su>] [B--MYWDH <Co>]
+ISAM 22,04 ---- InfC [reg/rec] N       1      17  4..    |              [HJWT <Pr>] [DWD <Su>] [B--MYWDH <PC>]
 ISAM 22,05 3sgM WayX  << WayX  N       2      18  0.#   [W-<Cj>] [J>MR <Pr>] [GD / H-NBJ> <ap><Su>] [>L DWD <Co>]
                                =======                   |+=======================================================================================\
 ISAM 22,05 2sgM xYq0  <<  [Q]  NQ      21     19  1.q    || [L> <Ng>] [TCB <Pr>] [B--MYWDH <Co>]
@@ -86,7 +86,7 @@ ISAM 22,14 ---- NmCl [coordin] NQ      31521  69 10..    |           |   |    | 
 ISAM 22,14 -sgM Ptcp [coordin] NQ      31521  70 11..    |           |   |    |      |   |          [W-<Cj>] [SR <PC>] [>L MCM<TK <Co>]
 ISAM 22,14 -sgM Ptcp [coordin] NQ      31521  71 11..    |           |   |    |      |   |          [W-<Cj>] [NKBD <PC>] [B-BJTK <Co>]
 ISAM 22,15 1sg- xQt0  << NmCl  NQ      31521  72  8..    |           |   |    |      |  [H-JWM <Ti>] [HXLTJ <Pr>]
-ISAM 22,15 ---- InfC [adjunct] NQ      31521  73  9..    |           |   |    |      |      [L-C>WL <Pr>] [LW <Co>] [B->LHJM <Co>]
+ISAM 22,15 ---- InfC [complm.] NQ      31521  73  9..    |           |   |    |      |      [L-C>WL <Pr>] [LW <Co>] [B->LHJM <Co>]
 ISAM 22,15 ---- NmCl  << NmCl  NQ      31521  74  7..    |           |   |    |     [XLJLH <Ij>] [LJ <PC>]
 ISAM 22,15 3sgM xYqX  << NmCl  NQ      31521  75  8..    |           |   |    |         [>L <Ng>] [JFM <Pr>] [H-MLK <Su>] [B-<BDW <Co>] [DBR / B-KL BJT >BJ <sp><Ob>]
 ISAM 22,15 3sgM xQtX  << xYqX  NQ      31521  76  9..    |           |   |    |             [KJ <Cj>] [L> <Ng>] [JD< <Pr>] [<BDK <Su>] [B-KL Z>T <Aj>] [DBR QVN >W GDWL <Ob>]
