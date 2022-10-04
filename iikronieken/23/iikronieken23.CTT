@@ -85,7 +85,7 @@ IICHR23,15 3plM Way0  << WayX  N       1133    73  5..     |              |  [W-
 IICHR23,15 3sgF Way0  << Way0  N       1133    74  7..     |              |       |  [W-<Cj>] [TBW> <Pr>] [>L MBW> C<R H-SWSJM / BJT H-MLK <sp><Co>]
 IICHR23,15 3plM Way0  << Way0  N       1133    75  6..     |              |      [W-<Cj>] [JMJTWH <PO>] [CM <Lo>]
 IICHR23,16 3sgM WayX  << WayX  N       1134    76  4.#     |             [W-<Cj>] [JKRT <Pr>] [JHWJD< <Su>] [BRJT <Ob>] [BJNW W-BJN KL H-<M W-BJN H-MLK <Co>]
-IICHR23,16 ---- InfC [adjunct] N       1134    77  7..     |                  |   |  [L-HJWT <Pr>] [L-<M / L-JHWH <sp><PC>]
+IICHR23,16 ---- InfC [adjunct] N       1134    77  7..     |                  |   |  [L-HJWT <Pr>] [L-<M <PC>] [L-JHWH <Co>]
 IICHR23,17 3plM WayX  << WayX  N       11341   78  6.#     |                  |  [W-<Cj>] [JB>W <Pr>] [KL H-<M <Su>] [BJT H-B<L <Co>]
 IICHR23,17 3plM Way0  << WayX  N       11341   79  7..     |                  |      [W-<Cj>] [JTYHW <PO>]
 IICHR23,17 3pl- WxQ0  << Way0  N       11341   80  8..     |                  |          [W-<Cj>] [>T MZBXTJW W->T YLMJW <Ob>] [CBRW <Pr>]
