@@ -6,7 +6,7 @@ JONA 04,02 3sgM Way0  << Way0  N       1       4  2..    |   |  [W-<Cj>] [J>MR <
 JONA 04,02 ---- NmCl  <<  [Q]  NQ      11      5  3.q    |   |    | [>NH <Ij>]
 JONA 04,02 ---- Voct  << NmCl  NQ      11      6  6v.    |   |    |      |   |  [JHWH <Vo>]
 JONA 04,02 ---- NmCl  << NmCl  NQ      11      7  5..    |   |    |      |  [H-<Qu>] [LW> <Ng>] [ZH <Su>] [DBRJ <PC>]
-JONA 04,02 ---- InfC [adjunct] NQ      11      8  7..    |   |    |      |       |  [<D HJWTJ <Ps>] [<L >DMTJ <Co>]
+JONA 04,02 ---- InfC [adjunct] NQ      11      8  7..    |   |    |      |       |  [<D HJWTJ <Ps>] [<L >DMTJ <PC>]
 JONA 04,02 1sg- xQt0  << NmCl  NQ      11      9  6..    |   |    |      |      [<L KN <Aj>] [QDMTJ <Pr>]
 JONA 04,02 ---- InfC [adjunct] NQ      11     10  8..    |   |    |      |           |  [L-BRX <Pr>] [TRCJCH <Lo>]
 JONA 04,02 1sg- xQt0  << xQt0  NQ      11     11  7..    |   |    |      |          [KJ <Cj>] [JD<TJ <Pr>]
@@ -17,7 +17,7 @@ JONA 04,02 -sgM Ptcp  << AjCl  NQ      11     15 11..    |   |    |      |      
 JONA 04,03 ---- MSyn  << NmCl  NQ      11     16  4m.    |   |    |     [W-<Cj>] [<TH <Ti>]
 JONA 04,03 ---- Voct  << MSyn  NQ      11     17  6v.    |   |    |          |  [JHWH <Vo>]
 JONA 04,03 2sgM ZIm0  << MSyn  NQ      11     18  5..    |   |    |         [QX <Pr>] [N> <Ij>] [>T NPCJ <Ob>] [MMNJ <Co>]
-JONA 04,03 -sgM AjCl  << ZIm0  NQ      11     19  6..    |   |    |             [KJ <Cj>] [VWB <PC>] [MWTJ <Su>] [M-XJJ <Co>]
+JONA 04,03 -sgM AjCl  << ZIm0  NQ      11     19  6..    |   |    |             [KJ <Cj>] [VWB <PC>] [MWTJ <Su>] [M-XJJ <Aj>]
                                =======                   |   |    +===============================================================================/
 JONA 04,04 3sgM WayX  << Way0  N       12     20  1.#    |  [W-<Cj>] [J>MR <Pr>] [JHWH <Su>]
                                =======                   |    +===================================================================================\
@@ -29,11 +29,11 @@ JONA 04,05 3sgM Way0  << WayX  N       2      24  1..    |  [W-<Cj>] [JCB <Pr>] 
 JONA 04,05 3sgM Way0  << Way0  N       2      25  1..    |  [W-<Cj>] [J<F <Pr>] [LW <sc>] [CM <Lo>] [SKH <Ob>]
 JONA 04,05 3sgM Way0  << Way0  N       2      26  1..    |  [W-<Cj>] [JCB <Pr>] [TXTJH <Co>] [B--YL <Aj>]
 JONA 04,05 3sgM xYq0 [adjunct] N       2      27  2..    |      [<D >CR <Cj>] [JR>H <Pr>]
-JONA 04,05 3sgM XYqt [object ] N       2      28  3..    |          [MH <Su>] [JHJH <Pr>] [B--<JR <Co>]
+JONA 04,05 3sgM XYqt [object ] N       2      28  3..    |          [MH <Su>] [JHJH <Pr>] [B--<JR <PC>]
 JONA 04,06 3sgM WayX  << WayX  N       3      29  0.#   [W-<Cj>] [JMN <Pr>] [JHWH / >LHJM <ap><Su>] [QJQJWN <Ob>]
-JONA 04,06 3sgM Way0  << WayX  N       3      30  2..    |   |  [W-<Cj>] [J<L <Pr>] [M-<L L-JWNH <Aj>]
-JONA 04,06 ---- InfC [adjunct] N       3      31  3..    |   |      [L-HJWT <Pr>] [YL <Su>] [<L R>CW <Aj>]
-JONA 04,06 ---- InfC [adjunct] N       3      32  4..    |   |          [L-HYJL <Pr>] [LW <Aj>] [M-R<TW <Co>]
+JONA 04,06 3sgM Way0  << WayX  N       3      30  2..    |   |  [W-<Cj>] [J<L <Pr>] [M-<L L-JWNH <Co>]
+JONA 04,06 ---- InfC [adjunct] N       3      31  3..    |   |      [L-HJWT <Pr>] [YL <Su>] [<L R>CW <PC>]
+JONA 04,06 ---- InfC [adjunct] N       3      32  4..    |   |          [L-HYJL <Pr>] [LW <Co>] [M-R<TW <Co>]
 JONA 04,06 3sgM WayX  << WayX  N       31     33  1.#    |  [W-<Cj>] [JFMX <Pr>] [JWNH <Su>] [<L H-QJQJWN <Co>] [FMXH GDWLH <Ob>]
 JONA 04,07 3sgM WayX  << WayX  N       4      34  0.#   [W-<Cj>] [JMN <Pr>] [H->LHJM <Su>] [TWL<T <Ob>]
 JONA 04,07 ---- InfC [adjunct] N       4      35  3..        |   |  [B-<LWT <Pr>] [H-CXR <Su>] [L--MXRT <Ti>]
@@ -48,12 +48,12 @@ JONA 04,08 3sgM Way0  << Way0  N       411    43  3..        |      [W-<Cj>] [JC
 JONA 04,08 ---- InfC [adjunct] N       411    44  4..        |       |  [L-MWT <Pr>]
 JONA 04,08 3sgM Way0  << Way0  N       411    45  3..        |      [W-<Cj>] [J>MR <Pr>]
                                =======                       |        +===========================================================================\
-JONA 04,08 -sgM AjCl  <<  [Q]  NQ      4111   46  4.q        |        | [VWB <PC>] [MWTJ <Su>] [M-XJJ <Co>]
+JONA 04,08 -sgM AjCl  <<  [Q]  NQ      4111   46  4.q        |        | [VWB <PC>] [MWTJ <Su>] [M-XJJ <Aj>]
                                =======                       |        +===========================================================================/
 JONA 04,09 3sgM WayX  << WayX  N       42     47  1.#       [W-<Cj>] [J>MR <Pr>] [>LHJM <Su>] [>L JWNH <Co>]
                                =======                       |   |+===============================================================================\
 JONA 04,09 ---- InfA  <<  [Q]  NQ      421    48  3.q        |   || [H-<Qu>] [HJVB <Pr>]
-JONA 04,09 3sgM ZQt0  << InfA  NQ      421    49  4..        |   ||     [XRH <Pr>] [LK <Aj>] [<L H-QJQJWN <Co>]
+JONA 04,09 3sgM ZQt0  << InfA  NQ      421    49  4..        |   ||     [XRH <Pr>] [LK <Co>] [<L H-QJQJWN <Aj>]
                                =======                       |   |+===============================================================================/
 JONA 04,09 3sgM Way0  << WayX  N       42     50  2..        |  [W-<Cj>] [J>MR <Pr>]
                                =======                       |    +===============================================================================\
@@ -70,6 +70,6 @@ JONA 04,10 3sgM WXQt [coordin] NQ      4311   58  5.#         |      |      [W-<
 JONA 04,11 ---- CPen  << XQtl  NQ      431    59  3c.         |     [W-<Cj>] [>NJ <Fr>]
 JONA 04,11 1sg- xYq0 [resumpt] NQ      431    60  4..         |         [L> <Ng>] [>XWS <Pr>] [<L NJNWH / H-<JR H-GDWLH <ap><Co>]
 JONA 04,11 ---- NmCl [attrib.] NQ      431    61  5..         |             [>CR <Re>] [JC <eX>] [BH <PC>]
-JONA 04,11 ---- InfA [subject] NQ      431    62  6..         |                 [HRBH <Pr>] [M-CTJM <FRH RBW <Co>] [>DM <Su>]
-JONA 04,11 3sgM xQt0 [attrib.] NQ      431    63  8.e         |                      |  [>CR <Re>] [L> <Ng>] [JD< <Pr>] [BJN JMJNW <Aj>] [L-FM>LW <Aj>]
+JONA 04,11 ---- InfA [subject] NQ      431    62  6..         |                 [HRBH <Pr>] [M-CTJM <FRH RBW >DM <Aj>]
+JONA 04,11 3sgM xQt0 [attrib.] NQ      431    63  8.e         |                      |  [>CR <Re>] [L> <Ng>] [JD< <Pr>] [BJN JMJNW / L-FM>LW <sp><Co>]
 JONA 04,11 ---- Defc  << InfA  NQ      431    64  7d.         |                     [W-/ BHMH RBH <pa><cj>]
