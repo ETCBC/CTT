@@ -44,7 +44,7 @@
  IKON06,11 ---- InfC [adjunct] N       2      42  1..    |  [L->MR <Pr>]
                                =======                   |    +===================================================================================\
  IKON06,12 ---- CPen  <<  [Q]  NQ      21     43  2cq    |    | [H-BJT H-ZH <Fr>]
- IKON06,12 ---- NmCl [attrib.] NQ      21     44  4..    |    |      |  [>CR <Re>] [>TH <Su>] [BNH <PC>]
+ IKON06,12 -sgM Ptcp [attrib.] NQ      21     44  4..    |    |      |  [>CR <Re>] [>TH <Su>] [BNH <PC>]
  IKON06,12 2sgM xYq0 [resumpt] NQ      21     45  3..    |    |     [>M <Cj>] [TLK <Pr>] [B-XQTJ <Co>]
  IKON06,12 2sgM WxY0 [coordin] NQ      21     46  5..    |    |          |  [W-<Cj>] [>T MCPVJ <Ob>] [T<FH <Pr>]
  IKON06,12 2sgM WQt0 [coordin] NQ      21     47  6..    |    |          |      [W-<Cj>] [CMRT <Pr>] [>T KL MYWTJ <Ob>]
