@@ -45,7 +45,7 @@
  EZE 01,12 ---- Defc  << NmCl  ND      1      42  9d.            |                   |   || [W-<Cj>]
  EZE 01,12 ---- Ellp [adjunct] ND      1      43 12l\            |                   |   ||      |   |  [>JC <Su>] [>L <BR PNJW <Co>]
  EZE 01,12 3plM ZYq0  << Defc  ND      1      44 11..            |                   |   ||      |  [JLKW <Pr>]
- EZE 01,12 3sgM xYqX [complm.] ND      1      45 11.\            |                   |   ||      |  [>L >CR <Re>] [JHJH <Pr>] [CMH <Mo>] [H-RWX <Su>]
+ EZE 01,12 3sgM xYqX [complm.] ND      1      45 11.\            |                   |   ||      |  [>L >CR <Re>] [JHJH <Pr>] [CMH <PC>] [H-RWX <Su>]
  EZE 01,12 ---- InfC [adjunct] ND      1      46 12..            |                   |   ||      |   |  [L-LKT <Pr>]
  EZE 01,12 3plM ZYq0  << Defc  ND      1      47 10..            |                   |   ||     [JLKW <Pr>]
  EZE 01,12 3plM xYq0  << ZYq0  ND      1      48 11..            |                   |   ||         [L> <Ng>] [JSBW <Pr>]
@@ -87,7 +87,7 @@
                                -------                           |       |   |           |+-------------------------------------------------------\
  EZE 01,19 3plM ZYqX  << InfC  ND      1      78  9..            |       |   |           || [JNF>W <Pr>] [H->WPNJM <Su>]
                                -------                           |       |   |        +-----------------------------------------------------------\
- EZE 01,20 3sgM xYqX [complm.] ND      1      79  9.\            |       |   |        |  |  [<L >CR <Re>] [JHJH <Pr>] [CM <Mo>] [H-RWX <Su>]
+ EZE 01,20 3sgM xYqX [complm.] ND      1      79  9.\            |       |   |        |  |  [<L >CR <Re>] [JHJH <Pr>] [CM <PC>] [H-RWX <Su>]
  EZE 01,20 ---- InfC [adjunct] ND      1      80 10..            |       |   |        |  |   |  [L-LKT <Pr>]
  EZE 01,20 3plM ZYq0  << InfC  ND      1      81  8..            |       |   |        | [JLKW <Pr>]
  EZE 01,20 ---- NmCl  << ZYq0  ND      1      82 11..            |       |   |        |  |   |   |  [CMH <PC>] [H-RWX <Su>]

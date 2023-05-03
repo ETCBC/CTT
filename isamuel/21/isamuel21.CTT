@@ -45,7 +45,7 @@ ISAM 21,06 ---- NmCl  << WayX  NQN     122311  32  9..        |   |   |    |    
 ISAM 21,06 3sgM WxY0  << Ptcp  NQ      12231   33  7..        |   |   |    |         [W-<Cj>] [>P <Mo>] [KJ <Cj>] [H-JWM <Ti>] [JQDC <Pr>] [B--KLJ <Co>]
                                =======                        |   |   |    +=======================================================================/
 ISAM 21,07 3sgM WayX  << WayX  N       1224    34  3.#        |   |  [W-<Cj>] [JTN <Pr>] [LW <Co>] [H-KHN <Su>] [QDC <Ob>]
-ISAM 21,07 3sgM xQtX  << WayX  N       1224    35  4..        |   |      [KJ <Cj>] [L> <Ng>] [HJH <Pr>] [CM <Lo>] [LXM <Su>]
+ISAM 21,07 3sgM xQtX  << WayX  N       1224    35  4..        |   |      [KJ <Cj>] [L> <Ng>] [HJH <Pr>] [CM <PC>] [LXM <Su>]
 ISAM 21,07 ---- Ellp  << xQtX  N       1224    36  6l.        |   |           |  [KJ >M <Cj>] [LXM H-PNJM <Su>]
 ISAM 21,07 -plM Ptcp [attrib.] N       1224    37  7..        |   |           |      [H-<Re>] [MWSRJM <PC>] [M-L-PNJ JHWH <Co>]
 ISAM 21,07 ---- InfC [adjunct] N       1224    38  8..        |   |           |          [L-FWM <Pr>] [LXM XM <Ob>] [B-JWM <Ti>]
