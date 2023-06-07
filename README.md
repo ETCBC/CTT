@@ -12,6 +12,10 @@ CTT stands for Coded Text Tabulated. It is a human-readable ASCII file which off
 8. Tabulation and Subtypes
 9. Hierarchy with surface text and parsing labels
 
+## Field 3. Clause Atom Type of the daughter
+A list of the clause atom types can be found, for instance, at
+https://etcbc.github.io/bhsa/features/typ.
+
 ## Field 4. Indication of the mother
 This can be either:
 1. the clause atom type of the mother, for example `WayX`;
@@ -55,7 +59,12 @@ e | embedding
 p | proleptic ellipsis
 q | direct speech
 
-## Field 9. Parsing Labels
+## Field 9. Hierarchy with surface text and parsing labels
+### Text Block Borders
+The horizontal lines group clauses of the same text type, where
+`-----` is used for narrative and discursive blocks and `=====`
+for direct speech blocks. The borders are condensed, that is,
+when they coincide, only the outer border is drawn.
 
 ### Phrase Atom Relations
 Label | Meaning
