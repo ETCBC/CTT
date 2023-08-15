@@ -5,8 +5,8 @@
  RUTH03,01 3sgM xYq0 [attrib.] NQ      11       4  5..    |   ||      |      [>CR <Re>] [JJVB <Pr>] [LK <Co>]
  RUTH03,02 ---- MSyn  << Voct  NQ      11       5  3m.    |   ||     [W-<Cj>] [<TH <Ti>]
  RUTH03,02 ---- NmCl  << MSyn  NQ      11       6  4..    |   ||         [H-<Qu>] [L> <Ng>] [B<Z <Su>] [MD<TNW <PC>]
- RUTH03,02 2sgF xQt0 [attrib.] NQ      11       7  6..    |   ||              |  [>CR <Re>] [HJJT <Pr>] [>T N<RWTJW <Co>]
- RUTH03,02 -sgM Ptcp  << NmCl  NQ      11       8  5..    |   ||             [HNH <Ij>] [HW> <Su>] [ZRH <PC>] [>T GRN H-F<RJM <Lo>] [H-LJLH <Ti>]
+ RUTH03,02 2sgF xQt0 [attrib.] NQ      11       7  6..    |   ||              |  [>CR <Re>] [HJJT <Pr>] [>T N<RWTJW <PC>]
+ RUTH03,02 -sgM Ptcp  << NmCl  NQ      11       8  5..    |   ||             [HNH <Ij>] [HW> <Su>] [ZRH <PC>] [>T GRN H-F<RJM <Ob>] [H-LJLH <Ti>]
  RUTH03,03 2sgF WQt0  << Ptcp  NQ      11       9  7..    |   ||                  |  [W-<Cj>] [RXYT <Pr>]
  RUTH03,03 2sgF WQt0  << WQt0  NQ      11      10  7..    |   ||                  |  [W-<Cj>] [SKT <Pr>]
  RUTH03,03 2sgF WQt0  << WQt0  NQ      11      11  7..    |   ||                  |  [W-<Cj>] [FMT <Pr>] [FMLTK <Ob>] [<LJK <Co>]
@@ -18,7 +18,7 @@
  RUTH03,04 3sgM WYq0  << xYq0  NQ      11      17  8..    |   ||                      |  [W-<Cj>] [JHJ <Pr>]
  RUTH03,04 ---- InfC [adjunct] NQ      11      18 10..    |   ||                      |       |  [B-CKBW <Ps>]
  RUTH03,04 2sgF WQt0  << WYq0  NQ      11      19  9..    |   ||                      |      [W-<Cj>] [JD<T <Pr>] [>T H-MQWM <Ob>]
- RUTH03,04 3sgM xYq0 [attrib.] NQ      11      20 10..    |   ||                      |       |  [>CR <Re>] [JCKB <Pr>] [CM <Lo>]
+ RUTH03,04 3sgM xYq0 [attrib.] NQ      11      20 10..    |   ||                      |       |  [>CR <Re>] [JCKB <Pr>] [CM <Co>]
  RUTH03,04 2sgF WQt0  << WQt0  NQ      11      21  9..    |   ||                      |      [W-<Cj>] [B>T <Pr>]
  RUTH03,04 2sgF WQt0  << WQt0  NQ      11      22  9..    |   ||                      |      [W-<Cj>] [GLJT <Pr>] [MRGLTJW <Ob>]
  RUTH03,04 2sgF WQt0  << WQt0  NQ      11      23  9..    |   ||                      |      [W-<Cj>] [CKBTJ <Pr>]
@@ -32,7 +32,7 @@
  RUTH03,05 1sg- ZYq0  << Defc  NQ      12      29  3..    |   ||     [><FH <Pr>]
                                =======                    |   |+===================================================================================/
  RUTH03,06 3sgF Way0  << Way0  N       13      30  1.#    |  [W-<Cj>] [TRD <Pr>] [H-GRN <Co>]
- RUTH03,06 3sgF Way0  << Way0  N       13      31  2..    |      [W-<Cj>] [T<F <Pr>] [K-KL <Co>]
+ RUTH03,06 3sgF Way0  << Way0  N       13      31  2..    |      [W-<Cj>] [T<F <Pr>] [K-KL <Aj>]
  RUTH03,06 3sgF xQtX [reg/rec] N       13      32  3..    |          [>CR <Re>] [YWTH <PO>] [XMWTH <Su>]
  RUTH03,07 3sgM WayX  << WayX  N       2       33  0.#   [W-<Cj>] [J>KL <Pr>] [B<Z <Su>]
  RUTH03,07 3sgM Way0  << WayX  N       2       34  2..    |   |  [W-<Cj>] [JCT <Pr>]
@@ -46,7 +46,7 @@
  RUTH03,08 3sgM WayX  << Way0  N       31      42  1.#       [W-<Cj>] [JXRD <Pr>] [H->JC <Su>]
  RUTH03,08 3sgM Way0  << WayX  N       31      43  2..           [W-<Cj>] [JLPT <Pr>]
  RUTH03,08 ---- MSyn  << Way0  N       31      44  3m.            |  [W-<Cj>] [HNH <Ij>]
- RUTH03,08 -sgF Ptcp  << MSyn  N       31      45  4..            |      [>CH <Su>] [CKBT <PC>] [MRGLTJW <Lo>]
+ RUTH03,08 -sgF Ptcp  << MSyn  N       31      45  4..            |      [>CH <Su>] [CKBT <PC>] [MRGLTJW <Co>]
  RUTH03,09 3sgM Way0  << Way0  N       31      46  2..           [W-<Cj>] [J>MR <Pr>]
                                =======                                |+===========================================================================\
  RUTH03,09 ---- NmCl  <<  [Q]  NQ      311     47  4.q                || [MJ <PC>] [>T <Su>]
@@ -89,7 +89,7 @@
  RUTH03,13 -sgM AjCl  << WQtX  NQ      313     80 11..                    ||      |                  [XJ <PC>] [JHWH <Su>]
  RUTH03,13 2sgF ZIm0  << ZIm0  NQ      313     81  6..                    ||     [CKBJ <Pr>] [<D H-BQR <Ti>]
                                =======                                    |+=======================================================================/
- RUTH03,14 3sgF Way0  << Way0  N       314     82  4.#                   [W-<Cj>] [TCKB <Pr>] [MRGLTW <Lo>] [<D H-BQR <Ti>]
+ RUTH03,14 3sgF Way0  << Way0  N       314     82  4.#                   [W-<Cj>] [TCKB <Pr>] [MRGLTW <Co>] [<D H-BQR <Ti>]
  RUTH03,14 3sgF Way0  << Way0  N       314     83  4..                   [W-<Cj>] [TQM <Pr>]
                                -------                                    |+-----------------------------------------------------------------------\
  RUTH03,14 3sgM xYqX  << Way0  ND      314     84  5..                    || [B-VRWM <Cj>] [JKJR <Pr>] [>JC <Su>] [>T R<HW <Ob>]
@@ -102,7 +102,7 @@
  RUTH03,15 3sgM Way0  << Way0  N       315     88  4..                   [W-<Cj>] [J>MR <Pr>]
                                =======                                    |+=======================================================================\
  RUTH03,15 2sgF ZIm0  <<  [Q]  NQ      3152    89  5.q                    || [HBJ <Pr>] [H-MVPXT <Ob>]
- RUTH03,15 ---- NmCl [attrib.] NQ      3152    90  7..                    ||      |  [>CR <Re>] [<LJK <Co>]
+ RUTH03,15 ---- NmCl [attrib.] NQ      3152    90  7..                    ||      |  [>CR <Re>] [<LJK <PC>]
  RUTH03,15 2sgF WIm0  << ZIm0  NQ      3152    91  6..                    ||     [W-<Cj>] [>XZJ <Pr>] [BH <Co>]
                                =======                                    |+=======================================================================/
  RUTH03,15 3sgF Way0  << Way0  N       316     92  4.#                   [W-<Cj>] [T>XZ <Pr>] [BH <Co>]

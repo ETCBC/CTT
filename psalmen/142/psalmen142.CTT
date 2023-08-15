@@ -2,7 +2,7 @@
  PS142,001 ---- InfC [adjunct] ?       1       2  1..    |  [B-HJWTW <Ps>] [B--M<RH <PC>]
  PS142,001 ---- NmCl  << NmCl  ?       1       3  0..   [TPLH <PC>]
                                =======                +==============================================================================================\
- PS142,002 1sg- xYq0  << NmCl  Q       2       4  0.N   [QWLJ <Aj>] [>L JHWH <Co>] [>Z<Q <Pr>]
+ PS142,002 1sg- xYq0  <<  [R]  Q       2       4  0.N   [QWLJ <Aj>] [>L JHWH <Co>] [>Z<Q <Pr>]
  PS142,002 1sg- xYq0  << xYq0  Q       2       5  0..   [QWLJ <Aj>] [>L JHWH <Co>] [>TXNN <Pr>]
  PS142,003 1sg- ZYq0  << xYq0  Q       2       6  1..       [>CPK <Pr>] [L-PNJW <Co>] [FJXJ <Ob>]
  PS142,003 1sg- xYq0  << ZYq0  Q       2       7  2..           [YRTJ <Ob>] [L-PNJW <Co>] [>GJD <Pr>]
@@ -13,7 +13,7 @@
  PS142,004 3pl- ZQt0  << Defc  Q       21     12  7..                    |   |      [VMNW <Pr>] [PX <Ob>] [LJ <Co>]
  PS142,005 2sgM ZIm0  << WXQt  Q       21     13  5..                    |  [HBJV <Pr>] [JMJN <Ob>]
  PS142,005 2sgM WIm0  << ZIm0  Q       21     14  7..                    |       |  [W-<Cj>] [R>H <Pr>]
- PS142,005 ---- NmCl  << ZIm0  Q       21     15  6..                    |      [W-<Cj>] [>JN <NC>] [LJ <Co>] [MKJR <Su>]
+ PS142,005 ---- NmCl  << ZIm0  Q       21     15  6..                    |      [W-<Cj>] [>JN <NC>] [LJ <PC>] [MKJR <Su>]
  PS142,005 3sgM ZQtX  << NmCl  Q       21     16  8..                    |           |  [>BD <Pr>] [MNWS <Su>] [MMNJ <Co>]
  PS142,005 ---- NmCl  << NmCl  Q       21     17  7..                    |          [>JN <NC>] [DWRC / L-NPCJ <sp><Su>]
  PS142,006 1sg- ZQt0  << WXQt  Q       21     18  4..                   [Z<QTJ <Pr>] [>LJK <Co>]
