@@ -1,5 +1,5 @@
  EZE 32,01 3sgM Way0  <<  [R]  N       1       1  0.N   [W-<Cj>] [JHJ <Pr>] [B-CTJ <FRH CNH <Co>] [B-CNJ <FR XDC <Ti>] [B->XD / L--XDC <sp><Ti>]
- EZE 32,01 3sgM ZQtX  << Way0  N       1       2  1..    |  [HJH <Pr>] [DBR JHWH <Su>] [>LJ <Co>]
+ EZE 32,01 3sgM ZQtX  << Way0  N       1       2  1..    |  [HJH <Pr>] [DBR JHWH <Su>] [>LJ <PC>]
  EZE 32,01 ---- InfC [adjunct] N       1       3  2..    |      [L->MR <Pr>]
                                =======                   |        +===============================================================================\
  EZE 32,02 ---- Voct  <<  [Q]  NQ      11      4  3vq    |        | [BN >DM <Vo>]
@@ -73,7 +73,7 @@
  EZE 32,16 ---- MSyn  << NmCl  NQ      11     65  6m.    |        |             [N>M >DNJ JHWH <Su>]
                                =======                   |        +===============================================================================/
  EZE 32,17 3sgM Way0  << Way0  N       1      66  0..   [W-<Cj>] [JHJ <Pr>] [B-CTJ <FRH CNH <Co>] [B-XMCH <FR / L--XDC <sp><Ti>]
- EZE 32,17 3sgM ZQtX  << Way0  N       1      67  1..       [HJH <Pr>] [DBR JHWH <Su>] [>LJ <Co>]
+ EZE 32,17 3sgM ZQtX  << Way0  N       1      67  1..       [HJH <Pr>] [DBR JHWH <Su>] [>LJ <PC>]
  EZE 32,17 ---- InfC [adjunct] N       1      68  2..           [L->MR <Pr>]
                                =======                            +===============================================================================\
  EZE 32,18 ---- Voct  <<  [Q]  NQ      12     69  3vq             | [BN >DM <Vo>]

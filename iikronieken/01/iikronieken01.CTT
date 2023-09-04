@@ -60,7 +60,7 @@ IICHR01,13 ---- Defc  << WayX  N       112      51  5d.    |           |   |  [J
 IICHR01,13 ---- Ellp  << WayX  N       112      52  4l.    |           |  [M-L-PNJ >HL MW<D <Co>]
 IICHR01,13 3sgM Way0  << WayX  N       112      53  3..    |          [W-<Cj>] [JMLK <Pr>] [<L JFR>L <Co>]
 IICHR01,14 3sgM WayX  << WayX  N       2        54  0.#   [W-<Cj>] [J>SP <Pr>] [CLMH <Su>] [RKB W-PRCJM <Ob>]
-IICHR01,14 3sgM WayX  << WayX  N       21       55  2.#    |   |  [W-<Cj>] [JHJ <Pr>] [LW <Co>] [>LP W->RB< M>WT RKB W-CNJM <FR >LP PRCJM <Su>]
+IICHR01,14 3sgM WayX  << WayX  N       21       55  2.#    |   |  [W-<Cj>] [JHJ <Pr>] [LW <PC>] [>LP W->RB< M>WT RKB W-CNJM <FR >LP PRCJM <Su>]
 IICHR01,14 3sgM Way0  << WayX  N       21       56  3..    |   |      [W-<Cj>] [JNJXM <PO>] [B-<RJ H-RKB / W-/ <M H-MLK / B-JRWCLM <sp><pa><cj><Co>]
 IICHR01,15 3sgM WayX  << WayX  N       22       57  1.#    |  [W-<Cj>] [JTN <Pr>] [H-MLK <Su>] [>T H-KSP W->T H-ZHB <Ob>] [B-JRWCLM <Lo>] [K-->BNJM <Co>]
 IICHR01,15 3sgM WxQ0  << WayX  N       22       58  3..    |       |  [W-<Cj>] [>T H->RZJM <Ob>] [NTN <Pr>] [K--CQMJM <Co>]

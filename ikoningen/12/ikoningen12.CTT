@@ -134,7 +134,7 @@
  IKON12,21 -sgM Ptcp [attrib.] N       2      112  4..    |   |       |  [<FH <PC>] [MLXMH <Ob>]
  IKON12,21 ---- InfC [adjunct] N       2      113  3..    |   |      [L-HLXM <Pr>] [<M BJT JFR>L <Co>]
  IKON12,21 ---- InfC [adjunct] N       2      114  4..    |   |          [L-HCJB <Pr>] [>T H-MLWKH <Ob>] [L-RXB<M / BN CLMH <ap><Co>]
- IKON12,22 3sgM WayX  << WayX  N       21     115  1.#    |  [W-<Cj>] [JHJ <Pr>] [DBR H->LHJM <Su>] [>L CM<JH / >JC H->LHJM <ap><Co>]
+ IKON12,22 3sgM WayX  << WayX  N       21     115  1.#    |  [W-<Cj>] [JHJ <Pr>] [DBR H->LHJM <Su>] [>L CM<JH / >JC H->LHJM <ap><PC>]
  IKON12,22 ---- InfC [adjunct] N       21     116  3..    |       |  [L->MR <Pr>]
                                =======                    |       |    +===========================================================================\
  IKON12,23 2sgM ZIm0  <<  [Q]  NQ      211    117  4.q    |       |    | [>MR <Pr>] [>L RXB<M / BN CLMH / MLK JHWDH / W-/ >L KL BJT JHWDH W-BNJMJN W-JTR H-<M <pa><cj><ap><ap><Co>]

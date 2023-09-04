@@ -1,4 +1,4 @@
- EZE 33,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <Co>]
+ EZE 33,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <PC>]
  EZE 33,01 ---- InfC [adjunct] N       1       2  1..    |  [L->MR <Pr>]
                                =======                   |    +===================================================================================\
  EZE 33,02 ---- Voct  <<  [Q]  NQ      11      3  2vq    |    | [BN >DM <Vo>]
@@ -154,7 +154,7 @@
  EZE 33,22 ---- InfC [adjunct] N       22    127  6..        |           |      [<D BW> <Pr>] [>LJ <Co>] [B--BQR <Ti>]
  EZE 33,22 3sgM WayX  << WXQt  N       221   128  4.#        |          [W-<Cj>] [JPTX <Pr>] [PJ <Su>]
  EZE 33,22 1sg- WxQ0  << WayX  N       221   129  5..        |              [W-<Cj>] [L> <Ng>] [N>LMTJ <Pr>] [<WD <Mo>]
- EZE 33,23 3sgM WayX  << Way0  N       23    130  1.#       [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <Co>]
+ EZE 33,23 3sgM WayX  << Way0  N       23    130  1.#       [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <PC>]
  EZE 33,23 ---- InfC [adjunct] N       23    131  2..           [L->MR <Pr>]
                                =======                            +===============================================================================\
  EZE 33,24 ---- Voct  <<  [Q]  NQ      231   132  3vq             | [BN >DM <Vo>]

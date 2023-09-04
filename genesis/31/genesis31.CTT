@@ -141,7 +141,7 @@
  GEN 31,28 2sgM xQt0  << xQt0  NQ      61       114  5..    |   ||      |   |  [<TH <Mo>] [HSKLT <Pr>]
  GEN 31,28 ---- InfC [object ] NQ      61       115  6..    |   ||      |   |      [<FW <Pr>]
  GEN 31,29 ---- NmCl  << xQt0  NQ      61       116  4..    |   ||      |  [JC <eX>] [L->L JDJ <PC>]
- GEN 31,29 ---- InfC [adjunct] NQ      61       117  6..    |   ||      |       |  [L-<FWT <Pr>] [<MKM <Co>] [R< <Ob>]
+ GEN 31,29 ---- InfC [subject] NQ      61       117  6..    |   ||      |       |  [L-<FWT <Pr>] [<MKM <Co>] [R< <Ob>]
  GEN 31,29 3sgM WXQt  << NmCl  NQ      611      118  5.#    |   ||      |      [W-<Cj>] [>LHJ >BJKM <Su>] [>MC <Ti>] [>MR <Pr>] [>LJ <Co>]
  GEN 31,29 ---- InfC [adjunct] NQ      611      119  6..    |   ||      |          [L->MR <Pr>]
                                =======                      |   ||      |            +============================================================\

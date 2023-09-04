@@ -1,4 +1,4 @@
- ZACH01,01 3sgM xQtX  <<  [R]  ?       1        1  0.N   [B--XDC H-CMJNJ / B-CNT CTJM / L-DRJWC <sp><sp><Ti>] [HJH <Pr>] [DBR JHWH <Su>] [>L ZKRJH / BN BRKJH / BN <DW / H-NBJ> <ap><ap><ap><Co>]
+ ZACH01,01 3sgM xQtX  <<  [R]  ?       1        1  0.N   [B--XDC H-CMJNJ / B-CNT CTJM / L-DRJWC <sp><sp><Ti>] [HJH <Pr>] [DBR JHWH <Su>] [>L ZKRJH / BN BRKJH / BN <DW / H-NBJ> <ap><ap><ap><PC>]
  ZACH01,01 ---- InfC [adjunct] ?       1        2  1..    |  [L->MR <Pr>]
                                =======                    |    +===================================================================================\
  ZACH01,02 3sgM ZQtX  <<  [Q]  ?Q      11       3  2.q    |    | [QYP <Pr>] [JHWH <Su>] [<L >BWTJKM <Co>] [QYP <Ob>]
@@ -40,7 +40,7 @@
                                =======                    |    +===================================================================================/
  ZACH01,07 ---- Defc  << xQtX  ?       2       30  0d#   [B-JWM <FRJM W->RB<H / L-<CTJ <FR XDC <sp><Ti>]
  ZACH01,07 ---- NmCl  << Defc  ?       2       31  2.e        |  [HW> <Su>] [XDC CBV <PC>]
- ZACH01,07 3sgM ZQtX  << Defc  ?       2       32  1..       [B-CNT CTJM / L-DRJWC <sp><sp>] [HJH <Pr>] [DBR JHWH <Su>] [>L ZKRJH / BN BRKJHW / BN <DW> / H-NBJ> <ap><ap><ap><Co>]
+ ZACH01,07 3sgM ZQtX  << Defc  ?       2       32  1..       [B-CNT CTJM / L-DRJWC <sp><sp>] [HJH <Pr>] [DBR JHWH <Su>] [>L ZKRJH / BN BRKJHW / BN <DW> / H-NBJ> <ap><ap><ap><PC>]
  ZACH01,07 ---- InfC [adjunct] ?       2       33  2..           [L->MR <Pr>]
                                =======                             +===============================================================================\
  ZACH01,08 1sg- ZQt0  <<  [Q]  ?Q      21      34  3.q             | [R>JTJ <Pr>] [H-LJLH <Ti>]

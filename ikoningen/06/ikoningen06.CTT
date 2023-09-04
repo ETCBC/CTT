@@ -40,7 +40,7 @@
  IKON06,10 3sgM Way0  << Way0  N       1      38  1..    |  [W-<Cj>] [JBN <Pr>] [>T H-JYW< <Ob>] [<L KL H-BJT <Co>]
  IKON06,10 ---- NmCl  << Way0  N       1      39  3..    |       |  [XMC >MWT <PC>] [QWMTW <Su>]
  IKON06,10 3sgM Way0  << Way0  N       1      40  2..    |      [W-<Cj>] [J>XZ <Pr>] [>T H-BJT <Ob>] [B-<YJ >RZJM <Co>]
- IKON06,11 3sgM WayX  << Way0  N       2      41  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L CLMH <Co>]
+ IKON06,11 3sgM WayX  << Way0  N       2      41  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L CLMH <PC>]
  IKON06,11 ---- InfC [adjunct] N       2      42  1..    |  [L->MR <Pr>]
                                =======                   |    +===================================================================================\
  IKON06,12 ---- CPen  <<  [Q]  NQ      21     43  2cq    |    | [H-BJT H-ZH <Fr>]

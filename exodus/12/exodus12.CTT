@@ -127,8 +127,8 @@
  EXO 12,29 ---- Defc  << Defc  N       32     118  4d.        |          [W-/ KL BKWR BHMH <pa><cj>]
  EXO 12,30 3sgM WayX  << Way0  N       33     119  1.#       [W-<Cj>] [JQM <Pr>] [PR<H <Su>] [LJLH / HW> W-KL <BDJW W-KL MYRJM <sp><Ti>]
  EXO 12,30 3sgF WayX  << WayX  N       331    120  3.#            |  [W-<Cj>] [THJ <Pr>] [Y<QH GDLH <Su>] [B-MYRJM <PC>]
- EXO 12,30 ---- NmCl  << WayX  N       331    121  4..            |      [KJ <Cj>] [>JN <NC>] [BJT <PC>]
- EXO 12,30 -sgM Ptcp [attrib.] N       331    122  5..            |          [>CR <Re>] [>JN <NC>] [CM <Lo>] [MT <PC>]
+ EXO 12,30 ---- NmCl  << WayX  N       331    121  4..            |      [KJ <Cj>] [>JN <NC>] [BJT <Su>]
+ EXO 12,30 ---- NmCl [attrib.] N       331    122  5..            |          [>CR <Re>] [>JN <NC>] [CM <PC>] [MT <Su>]
  EXO 12,31 3sgM Way0  << WayX  N       33     123  2..           [W-<Cj>] [JQR> <Pr>] [L-MCH W-L->HRN <Co>] [LJLH <Ti>]
  EXO 12,31 3sgM Way0  << Way0  N       33     124  2..           [W-<Cj>] [J>MR <Pr>]
                                =======                            |   |+===========================================================================\

@@ -1,5 +1,5 @@
  JER 18,01 ---- NmCl  <<  [R]  ?       1        1  0.N   [H-DBR <Su>]
- JER 18,01 3sgM xQt0 [attrib.] ?       1        2  3..        |   |  [>CR <Re>] [HJH <Pr>] [>L JRMJHW <Co>] [M->T JHWH <Aj>]
+ JER 18,01 3sgM xQt0 [attrib.] ?       1        2  3..        |   |  [>CR <Re>] [HJH <Pr>] [>L JRMJHW <PC>] [M->T JHWH <Aj>]
  JER 18,01 ---- InfC [adjunct] ?       1        3  2..        |  [L->MR <Pr>]
                                =======                        |    +===============================================================================\
  JER 18,02 2sgM ZIm0  <<  [Q]  ?Q      11       4  3.q        |    | [QWM <Pr>]
@@ -15,7 +15,7 @@
  JER 18,04 3sgM Way0  << WQt0  N       1       13  6..     |      |              [W-<Cj>] [J<FHW <PO>] [KLJ >XR <Ob>]
  JER 18,04 3sgM xQt0 [adjunct] N       1       14  7..     |      |                  [K->CR <Cj>] [JCR <Pr>] [B-<JNJ H-JWYR <Co>]
  JER 18,04 ---- InfC [adjunct] N       1       15  8..     |      |                      [L-<FWT <Pr>]
- JER 18,05 3sgM WayX  << Way0  N       12      16  2.#     |     [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <Co>]
+ JER 18,05 3sgM WayX  << Way0  N       12      16  2.#     |     [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <PC>]
  JER 18,05 ---- InfC [adjunct] N       12      17  4..     |          |  [L->MWR <Pr>]
                                =======                     |          |    +=======================================================================\
  JER 18,06 1sg- xYq0  <<  [Q]  NQ      121     18  5.q     |          |    | [H-<Qu>] [K--JWYR H-ZH <Aj>] [L> <Ng>] [>WKL <Pr>]

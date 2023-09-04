@@ -1,4 +1,4 @@
- EZE 12,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <Co>]
+ EZE 12,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <PC>]
  EZE 12,01 ---- InfC [adjunct] N       1       2  2..    |   |  [L->MR <Pr>]
                                =======                   |   |    +===============================================================================\
  EZE 12,02 ---- Voct  <<  [Q]  NQ      11      3  3vq    |   |    | [BN >DM <Vo>]
@@ -33,7 +33,7 @@
  EZE 12,07 1sg- WxQ0  << xQt0  N       12     31  4..    |           |  [W-<Cj>] [B--<RB <Ti>] [XTRTJ <Pr>] [LJ <sc>] [B--QJR <Co>] [B-JD <Aj>]
  EZE 12,07 1sg- xQt0  << xQt0  N       12     32  3..    |          [B--<LVH <Aj>] [HWY>TJ <Pr>]
  EZE 12,07 1sg- xQt0  << xQt0  N       12     33  4..    |              [<L KTP <Co>] [NF>TJ <Pr>] [L-<JNJHM <Aj>]
- EZE 12,08 3sgM WayX  << WayX  N       2      34  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <Co>] [B--BQR <Ti>]
+ EZE 12,08 3sgM WayX  << WayX  N       2      34  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <PC>] [B--BQR <Ti>]
  EZE 12,08 ---- InfC [adjunct] N       2      35  1..    |  [L->MR <Pr>]
                                =======                   |    +===================================================================================\
  EZE 12,09 ---- Voct  <<  [Q]  NQ      21     36  2vq    |    | [BN >DM <Vo>]
@@ -82,7 +82,7 @@
  EZE 12,16 3pl- WQt0  << xYq0  NQQ     213    73 12..    |    |       |                                 [W-<Cj>] [JD<W <Pr>]
  EZE 12,16 ---- NmCl [object ] NQQ     213    74 13..    |    |       |                                     [KJ <Cj>] [>NJ <Su>] [JHWH <PC>]
                                =======                   |    +===================================================================================/
- EZE 12,17 3sgM WayX  << WayX  N       3      75  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <Co>]
+ EZE 12,17 3sgM WayX  << WayX  N       3      75  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <PC>]
  EZE 12,17 ---- InfC [adjunct] N       3      76  1..    |  [L->MR <Pr>]
                                =======                   |    +===================================================================================\
  EZE 12,18 ---- Voct  <<  [Q]  NQ      31     77  2vq    |    | [BN >DM <Vo>]
@@ -103,7 +103,7 @@
  EZE 12,20 2plM WQt0  << xYq0  NQQQ    3111   90  7..    |    |           |   |     [W-<Cj>] [JD<TM <Pr>]
  EZE 12,20 ---- NmCl [object ] NQQQ    3111   91  8..    |    |           |   |         [KJ <Cj>] [>NJ <Su>] [JHWH <PC>]
                                =======                   |    +===================================================================================/
- EZE 12,21 3sgM WayX  << WayX  N       4      92  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <Co>]
+ EZE 12,21 3sgM WayX  << WayX  N       4      92  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <PC>]
  EZE 12,21 ---- InfC [adjunct] N       4      93  1..    |  [L->MR <Pr>]
                                =======                   |    +===================================================================================\
  EZE 12,22 ---- Voct  <<  [Q]  NQ      41     94  2vq    |    | [BN >DM <Vo>]
@@ -139,7 +139,7 @@
  EZE 12,25 1sg- WQt0  << ZYq0  NQ      41    117 12..    |    |                                         [W-<Cj>] [<FJTJW <PO>]
  EZE 12,25 ---- MSyn  << WQt0  NQ      41    118 13m.    |    |                                             [N>M >DNJ JHWH <PC>]
                                =======                   |    +===================================================================================/
- EZE 12,26 3sgM WayX  << WayX  N       5     119  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <Co>]
+ EZE 12,26 3sgM WayX  << WayX  N       5     119  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <PC>]
  EZE 12,26 ---- InfC [adjunct] N       5     120  1..       [L->MR <Pr>]
                                =======                        +===================================================================================\
  EZE 12,27 ---- Voct  <<  [Q]  NQ      51    121  2vq         | [BN >DM <Vo>]

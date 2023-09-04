@@ -5,7 +5,7 @@
  IKON17,01 3sgM xYqX  << AjCl  NQ      11      4  2..    ||     [>M <Cj>] [JHJH <Pr>] [H-CNJM H->LH <Ti>] [VL W-MVR <Su>]
  IKON17,01 ---- NmCl  << xYqX  NQ      11      5  3..    ||         [KJ >M <Cj>] [L-PJ DBRJ <Aj>]
                                =======                   |+=======================================================================================/
- IKON17,02 3sgM WayX  << WayX  N       2       6  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJW <Co>]
+ IKON17,02 3sgM WayX  << WayX  N       2       6  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJW <PC>]
  IKON17,02 ---- InfC [adjunct] N       2       7  2..    |   |  [L->MR <Pr>]
                                =======                   |   |    +===============================================================================\
  IKON17,03 2sgM ZIm0  <<  [Q]  NQ      21      8  3.q    |   |    | [LK <Pr>] [M-ZH <Co>]
@@ -30,7 +30,7 @@
  IKON17,07 3sgM Way0  << Way0  N       2      24  2..    |      [W-<Cj>] [JHJ <Pr>] [M-QY JMJM <Ti>]
  IKON17,07 3sgM WayX  << Way0  N       22     25  3.#    |          [W-<Cj>] [JJBC <Pr>] [H-NXL <Su>]
  IKON17,07 3sgM xQtX  << WayX  N       22     26  4..    |              [KJ <Cj>] [L> <Ng>] [HJH <Pr>] [GCM <Su>] [B-->RY <PC>]
- IKON17,08 3sgM WayX  << WayX  N       3      27  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJW <Co>]
+ IKON17,08 3sgM WayX  << WayX  N       3      27  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJW <PC>]
  IKON17,08 ---- InfC [adjunct] N       3      28  3..        |   |  [L->MR <Pr>]
                                =======                       |   |    +===========================================================================\
  IKON17,09 2sgM ZIm0  <<  [Q]  NQ      31     29  4.q        |   |    | [QWM <Pr>]

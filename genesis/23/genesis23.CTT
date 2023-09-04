@@ -31,7 +31,7 @@
  GEN 23,08 ---- InfC [adjunct] N       5      27  4..    |       |      [L->MR <Pr>]
                                =======                   |       |        +=======================================================================\
  GEN 23,08 ---- NmCl  <<  [Q]  NQ      51     28  5.q    |       |        | [>M <Cj>] [JC <eX>] [>T NPCKM <PC>]
- GEN 23,08 ---- InfC [adjunct] NQ      51     29  7..    |       |        |      |  [L-QBR <Pr>] [>T MTJ <Ob>] [M-L-PNJ <Co>]
+ GEN 23,08 ---- InfC [subject] NQ      51     29  7..    |       |        |      |  [L-QBR <Pr>] [>T MTJ <Ob>] [M-L-PNJ <Co>]
  GEN 23,08 2plM ZIm0  << NmCl  NQ      51     30  6..    |       |        |     [CM<WNJ <PO>]
  GEN 23,08 2plM WIm0  << ZIm0  NQ      51     31  7..    |       |        |         [W-<Cj>] [PG<W <Pr>] [LJ <Aj>] [B-<PRWN / BN YXR <ap><Co>]
  GEN 23,09 3sgM WYq0  << WIm0  NQ      51     32  8..    |       |        |             [W-<Cj>] [JTN <Pr>] [LJ <Co>] [>T M<RT H-MKPLH <Ob>]

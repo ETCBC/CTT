@@ -144,7 +144,7 @@
  IKON13,19 3sgM Way0  << Way0  ?N      19     111  6..        |    |             [W-<Cj>] [JCT <Pr>] [MJM <Ob>]
  IKON13,20 3sgM MSyn  << Way0  ?N      19     112  7m.        |    |                 [W-<Cj>] [JHJ <Pr>]
  IKON13,20 -plM Ptcp  << MSyn  ?N      19     113 10..        |    |                      |   |  [HM <Su>] [JCBJM <PC>] [>L H-CLXN <Co>]
- IKON13,20 3sgM WayX  << MSyn  ?N      199    114  9.#        |    |                      |  [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L H-NBJ> <Co>]
+ IKON13,20 3sgM WayX  << MSyn  ?N      199    114  9.#        |    |                      |  [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L H-NBJ> <PC>]
  IKON13,20 3sgM xQt0 [attrib.] ?N      199    115 11..        |    |                      |       |  [>CR <Re>] [HCJBW <PO>]
  IKON13,21 3sgM Way0  << WayX  ?N      199    116 10..        |    |                      |      [W-<Cj>] [JQR> <Pr>] [>L >JC H->LHJM <Co>]
  IKON13,21 3sgM xQt0 [attrib.] ?N      199    117 12..        |    |                      |           |  [>CR <Re>] [B> <Pr>] [M-JHWDH <Co>]

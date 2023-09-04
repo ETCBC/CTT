@@ -50,8 +50,8 @@ IICHR02,10 3sgM xQt0  <<  [Q]  NQ      1121   43  5.q        |       |    | [B->
 IICHR02,11 3sgM WayX  << WayX  N       113    44  3.#        |      [W-<Cj>] [J>MR <Pr>] [XWRM <Su>]
                                =======                       |        +===========================================================================\
 IICHR02,11 -sgM Ptcp  <<  [Q]  NQ      1131   45  4.q        |        | [BRWK <PC>] [JHWH / >LHJ JFR>L <ap><Su>]
-IICHR02,11 3sgM xQt0 [attrib.] NQ      1131   46  7..        |        |      |   |  [>CR <Re>] [<FH <Pr>] [>T H-CMJM W->T H->RY <Ob>]
-IICHR02,11 3sgM xQt0 [attrib.] NQ      1131   47  6..        |        |      |  [>CR <Re>] [NTN <Pr>] [L-DWJD / H-MLK <ap><Co>] [BN XKM <Ob>]
+IICHR02,11 3sgM xQt0 [attrib.] NQ      1131   46  6..        |        |      |  [>CR <Re>] [<FH <Pr>] [>T H-CMJM W->T H->RY <Ob>]
+IICHR02,11 3sgM xQt0 [coordin] NQ      1131   47  6..        |        |      |  [>CR <Re>] [NTN <Pr>] [L-DWJD / H-MLK <ap><Co>] [BN XKM <Ob>]
 IICHR02,11 -sgM Ptcp [attrib.] NQ      1131   48  8..        |        |      |       |  [JWD< <PC>] [FKL W-BJNH <Ob>]
 IICHR02,11 3sgM xYq0 [attrib.] NQ      1131   49  7..        |        |      |      [>CR <Re>] [JBNH <Pr>] [BJT / L-JHWH / W-/ BJT / L-MLKWTW <sp><pa><cj><sp><Ob>]
 IICHR02,12 ---- MSyn  << Ptcp  NQ      1131   50  5m.        |        |     [W-<Cj>] [<TH <Ti>]

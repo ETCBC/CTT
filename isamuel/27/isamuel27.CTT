@@ -1,9 +1,9 @@
 ISAM 27,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [J>MR <Pr>] [DWD <Su>] [>L LBW <Co>]
                                =======                   |+=======================================================================================\
 ISAM 27,01 1sg- xYq0  <<  [Q]  NQ      11      2  1.q    || [<TH <Mo>] [>SPH <Pr>] [JWM >XD <Ti>] [B-JD C>WL <Co>]
-ISAM 27,01 -sgM AjCl  << xYq0  NQ      11      3  2..    ||     [>JN <NC>] [LJ <Co>] [VWB <PC>]
-ISAM 27,01 1sg- xYq0  << AjCl  NQ      11      4  4..    ||          |  [KJ <Cj>] [HMLV <Mo>] [>MLV <Pr>] [>L >RY PLCTJM <Co>]
-ISAM 27,01 3sgM WQtX  << AjCl  NQ      11      5  3..    ||         [W-<Cj>] [NW>C <Pr>] [MMNJ <Co>] [C>WL <Su>]
+ISAM 27,01 ---- NmCl  << xYq0  NQ      11      3  2..    ||     [>JN <NC>] [LJ <PC>] [VWB <Su>]
+ISAM 27,01 1sg- xYq0  << NmCl  NQ      11      4  4..    ||          |  [KJ <Cj>] [HMLV <Mo>] [>MLV <Pr>] [>L >RY PLCTJM <Co>]
+ISAM 27,01 3sgM WQtX  << NmCl  NQ      11      5  3..    ||         [W-<Cj>] [NW>C <Pr>] [MMNJ <Co>] [C>WL <Su>]
 ISAM 27,01 ---- InfC [adjunct] NQ      11      6  5..    ||              |  [L-BQCNJ <PO>] [<WD <Mo>] [B-KL GBWL JFR>L <Co>]
 ISAM 27,01 1sg- WQt0  << WQtX  NQ      11      7  4..    ||             [W-<Cj>] [NMLVTJ <Pr>] [M-JDW <Co>]
                                =======                   |+=======================================================================================/

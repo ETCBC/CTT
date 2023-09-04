@@ -90,7 +90,7 @@
  JER 33,18 -sgM Ptcp [coordin] NQQ     115    76  8..    |    |       |              |  [W-<Cj>] [<FH <PC>] [ZBX <Ob>]
  JER 33,18 ---- Ellp  << Ptcp  NQQ     115    77  7l.    |    |       |             [KL H-JMJM <Ti>]
                                =======                   |    +===================================================================================/
- JER 33,19 3sgM WayX  << WayX  N       2      78  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L JRMJHW <Co>]
+ JER 33,19 3sgM WayX  << WayX  N       2      78  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L JRMJHW <PC>]
  JER 33,19 ---- InfC [adjunct] N       2      79  1..    |  [L->MWR <Pr>]
                                =======                   |    +===================================================================================\
  JER 33,20 3sgM xQtX  <<  [Q]  NQ      21     80  2.q    |    | [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
@@ -106,7 +106,7 @@
  JER 33,22 1sg- xYq0  << XYqt  NQQ     211    89  5..    |    |   |         [KN <Mo>] [>RBH <Pr>] [>T ZR< DWD / <BDJ / W-/ >T H-LWJM <pa><cj><ap><Ob>]
  JER 33,22 -plM Ptcp [attrib.] NQQ     211    90  6..    |    |   |             [MCRTJ <PC>] [>TJ <Ob>]
                                =======                   |    +===================================================================================/
- JER 33,23 3sgM WayX  << WayX  N       3      91  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L JRMJHW <Co>]
+ JER 33,23 3sgM WayX  << WayX  N       3      91  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L JRMJHW <PC>]
  JER 33,23 ---- InfC [adjunct] N       3      92  1..       [L->MR <Pr>]
                                =======                        +===================================================================================\
  JER 33,24 2sgM xQt0  <<  [Q]  NQ      31     93  2.q         | [H-<Qu>] [LW> <Ng>] [R>JT <Pr>]

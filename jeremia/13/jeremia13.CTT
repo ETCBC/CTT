@@ -8,7 +8,7 @@
  JER 13,02 1sg- Way0  << xQtX  QN      1         6  2..    |   || [W-<Cj>] [>QNH <Pr>] [>T H->ZWR <Ob>] [K-DBR JHWH <Aj>]
  JER 13,02 1sg- Way0  << Way0  QN      1         7  2..    |   || [W-<Cj>] [>FM <Pr>] [<L MTNJ <Co>]
                                -------                     |+---------------------------------------------------------------------------------------\
- JER 13,03 3sgM WayX  << xQtX  QN      12        8  1.#    || [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <Co>] [CNJT <Mo>]
+ JER 13,03 3sgM WayX  << xQtX  QN      12        8  1.#    || [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <PC>] [CNJT <Mo>]
  JER 13,03 ---- InfC [adjunct] QN      12        9  4..    ||  |   |   |  [L->MR <Pr>]
                                =======                     ||  |   |   |    +====================================================================\
  JER 13,04 2sgM ZIm0  <<  [Q]  QNQ     121      10  5.q    ||  |   |   |    | [QX <Pr>] [>T H->ZWR <Ob>]
@@ -39,7 +39,7 @@
                                -------                     ||  |                    +------------------------------------------------------------\
  JER 13,07 3sgM xYq0  << ZQtX  QND     122      32  7..    ||  |                    | [L> <Ng>] [JYLX <Pr>] [L--KL <Co>]
                                -------                     ||  |                    +------------------------------------------------------------/
- JER 13,08 3sgM WayX  << WayX  QN      13       33  1.#    || [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <Co>]
+ JER 13,08 3sgM WayX  << WayX  QN      13       33  1.#    || [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>LJ <PC>]
  JER 13,08 ---- InfC [adjunct] QN      13       34  2..    ||     [L->MR <Pr>]
                                =======                     ||       +============================================================================\
  JER 13,09 3sgM xQtX  <<  [Q]  QNQ     131      35  3.q    ||       | [KH <Mo>] [>MR <Pr>] [JHWH <Su>]

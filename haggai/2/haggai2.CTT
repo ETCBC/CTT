@@ -42,7 +42,7 @@
  HAG 02,09 1sg- WxY0  << xYqX  ?QQQQ   11111  38 15..    |    |       |                       |           |         [W-<Cj>] [B--MQWM H-ZH <Co>] [>TN <Pr>] [CLWM <Ob>]
  HAG 02,09 ---- MSyn  << WxY0  ?QQQQ   11111  39 16m.    |    |       |                       |           |             [N>M JHWH YB>WT <PC>]
                                =======                   |    +===================================================================================/
- HAG 02,10 3sgM xQtX  << xQtX  ?       2      40  0.#   [B-<FRJM W->RB<H / L--TCJ<J / B-CNT CTJM / L-DRJWC <sp><sp><sp><Ti>] [HJH <Pr>] [DBR JHWH <Su>] [>L XGJ / H-NBJ> <ap><Co>]
+ HAG 02,10 3sgM xQtX  << xQtX  ?       2      40  0.#   [B-<FRJM W->RB<H / L--TCJ<J / B-CNT CTJM / L-DRJWC <sp><sp><sp><Ti>] [HJH <Pr>] [DBR JHWH <Su>] [>L XGJ / H-NBJ> <ap><PC>]
  HAG 02,10 ---- InfC [adjunct] ?       2      41  3..        |   |  [L->MR <Pr>]
                                =======                       |   |    +===========================================================================\
  HAG 02,11 3sgM xQtX  <<  [Q]  ?Q      21     42  4.q        |   |    | [KH <Mo>] [>MR <Pr>] [JHWH YB>WT <Su>]
@@ -99,7 +99,7 @@
  HAG 02,19 3sgM WXQt  << NmCl  ?NQ     22211  83 11.#        ||           |              |          [W-<Cj>] [<D <Cj>] [H-GPN W-H-T>NH W-H-RMWN W-<Y H-ZJT <Su>] [L> <Ng>] [NF> <Pr>]
  HAG 02,19 1sg- xYq0  << ZIm0  ?NQ     2221   84  8..        ||           |             [MN H-JWM H-ZH <Ti>] [>BRK <Pr>]
                                -------                    +---------------------------------------------------------------------------------------\
- HAG 02,20 3sgM WayX  << xQtX  ?N      23     85  1.#     | [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [CNJT <Mo>] [>L XGJ <Co>] [B-<FRJM W->RB<H / L--XDC <sp><Ti>]
+ HAG 02,20 3sgM WayX  << xQtX  ?N      23     85  1.#     | [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [CNJT <Mo>] [>L XGJ <PC>] [B-<FRJM W->RB<H / L--XDC <sp><Ti>]
  HAG 02,20 ---- InfC [adjunct] ?N      23     86  2..     |     [L->MR <Pr>]
                                =======                    |       +============================================================================\
  HAG 02,21 2sgM ZIm0  <<  [Q]  ?NQ     231    87  3.q     |       | [>MR <Pr>] [>L ZRBBL / PXT JHWDH <ap><Co>]

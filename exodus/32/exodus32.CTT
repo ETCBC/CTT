@@ -10,7 +10,7 @@
  EXO 32,01 ---- CPen  << ZIm0  NQ      111      9  4c.    |   |    |     [KJ <Cj>] [ZH / MCH / H->JC <ap><ap><Fr>]
  EXO 32,01 3sgM xQt0 [attrib.] NQ      111     10  6..    |   |    |          |  [>CR <Re>] [H<LNW <PO>] [M->RY MYRJM <Co>]
  EXO 32,01 1pl- xQt0 [resumpt] NQ      111     11  5..    |   |    |         [L> <Ng>] [JD<NW <Pr>]
- EXO 32,01 3sgM XQtl [object ] NQ      111     12  6..    |   |    |             [MH <Su>] [HJH <Pr>] [LW <Co>]
+ EXO 32,01 3sgM XQtl [object ] NQ      111     12  6..    |   |    |             [MH <Su>] [HJH <Pr>] [LW <PC>]
                                =======                    |   |    +===============================================================================/
  EXO 32,02 3sgM WayX  << WayX  N       12      13  1.#    |  [W-<Cj>] [J>MR <Pr>] [>LHM <Co>] [>HRN <Su>]
                                =======                    |       |+===============================================================================\
@@ -156,7 +156,7 @@
  EXO 32,23 ---- CPen  << ZIm0  NQNQ    72211  127  8c.    |   |    |       |  |   ||     [KJ <Cj>] [ZH / MCH / H->JC <ap><ap><Fr>]
  EXO 32,23 3sgM xQt0 [attrib.] NQNQ    72211  128 10..    |   |    |       |  |   ||          |  [>CR <Re>] [H<LNW <PO>] [M->RY MYRJM <Co>]
  EXO 32,23 1pl- xQt0 [resumpt] NQNQ    72211  129  9..    |   |    |       |  |   ||         [L> <Ng>] [JD<NW <Pr>]
- EXO 32,23 3sgM XQtl [object ] NQNQ    72211  130 10..    |   |    |       |  |   ||             [MH <Su>] [HJH <Pr>] [LW <Co>]
+ EXO 32,23 3sgM XQtl [object ] NQNQ    72211  130 10..    |   |    |       |  |   ||             [MH <Su>] [HJH <Pr>] [LW <PC>]
                                =======                    |   |    |       |  |   |+=========================================================/
  EXO 32,24 1sg- Way0  << Way0  NQN     72212  131  6.#    |   |    |       |  |  [W-<Cj>] [>MR <Pr>] [LHM <Co>]
                                =======                    |   |    |       |  |    +=========================================================\

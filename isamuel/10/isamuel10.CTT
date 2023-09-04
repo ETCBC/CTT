@@ -71,7 +71,7 @@ ISAM 10,11 -sgM Ptcp  << NmCl  N       12111    65 15..    |                    
 ISAM 10,11 3sgM WayX  << Way0  N       121111   66 13.#    |                           |           |       |  [W-<Cj>] [J>MR <Pr>] [H-<M <Su>]
 ISAM 10,11 ---- Ellp [adjunct] N       121111   67 15l.    |                           |           |       |   |   |  [>JC <Su>] [>L R<HW <Co>]
                                =======                     |                           |           |       |   |+===================================\
-ISAM 10,11 3sgM XQtl  <<  [Q]  NQ      1211111  68 14.q    |                           |           |       |   || [MH ZH <Su>] [HJH <Pr>] [L-BN QJC <Co>]
+ISAM 10,11 3sgM XQtl  <<  [Q]  NQ      1211111  68 14.q    |                           |           |       |   || [MH ZH <Su>] [HJH <Pr>] [L-BN QJC <PC>]
 ISAM 10,11 ---- NmCl  << XQtl  NQ      1211111  69 15..    |                           |           |       |   ||     [H-<Qu>] [GM C>WL <Su>] [B--NBJ>JM <PC>]
                                =======                     |                           |           |       |   |+===================================/
 ISAM 10,12 3sgM WayX  << WayX  N       121112   70 13.#    |                           |           |       |  [W-<Cj>] [J<N <Pr>] [>JC / M-CM <sp><Su>]

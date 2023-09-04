@@ -119,7 +119,7 @@
  IKON21,16 3sgM WayX  << Way0  N       171    92  3.#    |          [W-<Cj>] [JQM <Pr>] [>X>B <Su>]
  IKON21,16 ---- InfC [adjunct] N       171    93  4..    |              [L-RDT <Pr>] [>L KRM NBWT / H-JZR<>LJ <ap><Co>]
  IKON21,16 ---- InfC [adjunct] N       171    94  5..    |                  [L-RCTW <PO>]
- IKON21,17 3sgM WayX  << Way0  N       2      95  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L >LJHW / H-TCBJ <ap><Co>]
+ IKON21,17 3sgM WayX  << Way0  N       2      95  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L >LJHW / H-TCBJ <ap><PC>]
  IKON21,17 ---- InfC [adjunct] N       2      96  4..    |   |   |   |  [L->MR <Pr>]
                                =======                   |   |   |   |    +=======================================================================\
  IKON21,18 2sgM ZIm0  <<  [Q]  NQ      21     97  5.q    |   |   |   |    | [QWM <Pr>]
@@ -195,7 +195,7 @@
  IKON21,27 3sgM Way0  << Way0  N       24    154  3..    |       |  [W-<Cj>] [JYWM <Pr>]
  IKON21,27 3sgM Way0  << Way0  N       24    155  3..    |       |  [W-<Cj>] [JCKB <Pr>] [B--FQ <Co>]
  IKON21,27 3sgM Way0  << Way0  N       24    156  2..    |      [W-<Cj>] [JHLK <Pr>] [>V <Mo>]
- IKON21,28 3sgM WayX  << WayX  N       3     157  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L >LJHW / H-TCBJ <ap><Co>]
+ IKON21,28 3sgM WayX  << WayX  N       3     157  0.#   [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L >LJHW / H-TCBJ <ap><PC>]
  IKON21,28 ---- InfC [adjunct] N       3     158  1..       [L->MR <Pr>]
                                =======                        +===================================================================================\
  IKON21,29 2sgM xQt0  <<  [Q]  NQ      31    159  2.q         | [H-<Qu>] [R>JT <Pr>]

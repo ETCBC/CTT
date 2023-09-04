@@ -4,7 +4,7 @@ IICHR11,01 ---- Ellp  << Way0  N       1       3  5l.    |   |       |   |  [M>H
 IICHR11,01 -sgM Ptcp [attrib.] N       1       4  6..    |   |       |   |      [<FH <PC>] [MLXMH <Ob>]
 IICHR11,01 ---- InfC [adjunct] N       1       5  4..    |   |       |  [L-HLXM <Pr>] [<M JFR>L <Co>]
 IICHR11,01 ---- InfC [adjunct] N       1       6  3..    |   |      [L-HCJB <Pr>] [>T H-MMLKH <Ob>] [L-RXB<M <Co>]
-IICHR11,02 3sgM WayX  << WayX  N       11      7  1.#    |  [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L CM<JHW / >JC H->LHJM <ap><Co>]
+IICHR11,02 3sgM WayX  << WayX  N       11      7  1.#    |  [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L CM<JHW / >JC H->LHJM <ap><PC>]
 IICHR11,02 ---- InfC [adjunct] N       11      8  3..    |       |  [L->MR <Pr>]
                                =======                   |       |    +===========================================================================\
 IICHR11,03 2sgM ZIm0  <<  [Q]  NQ      111     9  4.q    |       |    | [>MR <Pr>] [>L RXB<M / BN CLMH / MLK JHWDH / W-/ >L KL JFR>L / B-JHWDH W-BNJMN <sp><pa><cj><ap><ap><Co>]
@@ -35,7 +35,7 @@ IICHR11,11 3sgM Way0  << Way0  N       2      30  2..    |   |  [W-<Cj>] [JTN <P
 IICHR11,12 ---- Ellp  << Way0  N       2      31  4l.    |   |       |  [W-<Cj>] [B-KL <JR W-<JR <Co>] [YNWT W-RMXJM <Ob>]
 IICHR11,12 3sgM Way0  << Way0  N       2      32  3..    |   |      [W-<Cj>] [JXZQM <PO>]
 IICHR11,12 ---- InfA [adjunct] N       2      33  4..    |   |          [L-HRBH <Pr>] [M>D <Mo>]
-IICHR11,12 3sgM WayX  << WayX  N       21     34  1.#    |  [W-<Cj>] [JHJ <Pr>] [LW <Co>] [JHWDH W-BNJMN <Su>]
+IICHR11,12 3sgM WayX  << WayX  N       21     34  1.#    |  [W-<Cj>] [JHJ <Pr>] [LW <PC>] [JHWDH W-BNJMN <Su>]
 IICHR11,13 ---- Defc  << WayX  N       21     35  2d.    |      [W-<Cj>] [H-KHNJM W-H-LWJM <Su>]
 IICHR11,13 ---- NmCl [attrib.] N       21     36  6.e    |           |   |   |  [>CR <Re>] [B-KL JFR>L <PC>]
 IICHR11,13 3pl- ZQt0  << Defc  N       21     37  5..    |           |   |  [HTJYBW <Pr>] [<LJW <Co>] [M-KL GBWLM <Aj>]

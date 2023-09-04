@@ -1,5 +1,5 @@
  ZACH07,01 3sgM Way0  <<  [R]  N       1         1  0.N   [W-<Cj>] [JHJ <Pr>] [B-CNT >RB< / L-DRJWC / H-MLK <ap><sp><Ti>]
- ZACH07,01 3sgM ZQtX  << Way0  N       1         2  2..        |  [HJH <Pr>] [DBR JHWH <Su>] [>L ZKRJH <Co>] [B->RB<H / L--XDC H-TC<J / B-KSLW <sp><sp><Ti>]
+ ZACH07,01 3sgM ZQtX  << Way0  N       1         2  2..        |  [HJH <Pr>] [DBR JHWH <Su>] [>L ZKRJH <PC>] [B->RB<H / L--XDC H-TC<J / B-KSLW <sp><sp><Ti>]
  ZACH07,02 3sgM WayX  << Way0  N       11        3  1.#       [W-<Cj>] [JCLX <Pr>] [BJT_>L <Su>] [FR_>YR W-RGM_MLK W->NCJW <Ob>]
  ZACH07,02 ---- InfC [adjunct] N       11        4  2..        |  [L-XLWT <Pr>] [>T PNJ JHWH <Ob>]
  ZACH07,03 ---- InfC [adjunct] N       11        5  3..        |      [L->MR <Pr>] [>L H-KHNJM <Co>]
@@ -11,7 +11,7 @@
  ZACH07,03 ---- InfC [adjunct] NQ      111      10  6..        |        |      |  [HNZR <Pr>]
  ZACH07,03 1sg- xQt0 [adjunct] NQ      111      11  5..        |        |     [K->CR <Cj>] [<FJTJ <Pr>] [ZH <Ob>] [K-MH CNJM <Ti>]
                                =======                         |        +===========================================================================/
- ZACH07,04 3sgM WayX  << WayX  N       12       12  1.#       [W-<Cj>] [JHJ <Pr>] [DBR JHWH YB>WT <Su>] [>LJ <Co>]
+ ZACH07,04 3sgM WayX  << WayX  N       12       12  1.#       [W-<Cj>] [JHJ <Pr>] [DBR JHWH YB>WT <Su>] [>LJ <PC>]
  ZACH07,04 ---- InfC [adjunct] N       12       13  2..           [L->MR <Pr>]
                                =======                              +===============================================================================\
  ZACH07,05 2sgM ZIm0  <<  [Q]  NQ      121      14  3.q             | [>MR <Pr>] [>L KL <M H->RY W->L H-KHNJM <Co>]
@@ -33,7 +33,7 @@
  ZACH07,07 -sgF InfC [adjunct] NQQ     1211     29 11..             |       |                  |      [B-HJWT <Pr>] [JRWCLM <Su>] [JCBT W-CLWH <PC>]
  ZACH07,07 -sgM Ptcp [coordin] NQQ     1211     30 12..             |       |                  |          [W-<Cj>] [<RJH / SBJBTJH / W-/ H-NGB W-H-CPLH <pa><cj><sp><Su>] [JCB <PC>]
                                -------                              |       |               +-------------------------------------------------\
- ZACH07,08 3sgM WayX  << Ellp  NQQN    12111    31  9.#             |       |               | [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L ZKRJH <Co>]
+ ZACH07,08 3sgM WayX  << Ellp  NQQN    12111    31  9.#             |       |               | [W-<Cj>] [JHJ <Pr>] [DBR JHWH <Su>] [>L ZKRJH <PC>]
  ZACH07,08 ---- InfC [adjunct] NQQN    12111    32 11..             |       |               |  |   |  [L->MR <Pr>]
                                =======                              |       |               |  |   |    +==================================\
  ZACH07,09 3sgM xQtX  <<  [Q]  NQQNQ   121111   33 12.q             |       |               |  |   |    | [KH <Mo>] [>MR <Pr>] [JHWH YB>WT <Su>]
