@@ -203,7 +203,7 @@
  DEUT04,40 2sgM WxY0 [coordin] Q       113   188 10..    |                                      [W-<Cj>] [LM<N <Cj>] [T>RJK <Pr>] [JMJM <Ob>] [<L H->DMH <Lo>]
  DEUT04,40 -sgM Ptcp [attrib.] Q       113   189 11..    |                                          [>CR <Re>] [JHWH / >LHJK <ap><Su>] [NTN <PC>] [LK <Co>] [KL H-JMJM <Ti>]
  DEUT04,41 3sgM xYqX  << MSyn  Q       2     190  0.#   [>Z <Ti>] [JBDJL <Pr>] [MCH <Su>] [CLC <RJM <Ob>] [B-<BR H-JRDN / MZRXH CMC <sp><Lo>]
- DEUT04,42 ---- InfC [adjunct] Q       2     191  3..        |   |  [L-NS <Pr>] [CMH <Mo>] [RWYX <Su>]
+ DEUT04,42 ---- InfC [adjunct] Q       2     191  3..        |   |  [L-NS <Pr>] [CMH <Co>] [RWYX <Su>]
  DEUT04,42 3sgM xYq0 [attrib.] Q       2     192  4..        |   |      [>CR <Re>] [JRYX <Pr>] [>T R<HW <Ob>] [B-BLJ D<T <Aj>]
  DEUT04,42 -sgM Ptcp  << xYq0  Q       2     193  6..        |   |           |  [W-<Cj>] [HW> <Su>] [L> <Ng>] [FN> <PC>] [LW <Co>] [M-TMWL CLCWM <Ti>]
  DEUT04,42 3sgM WQt0 [coordin] Q       2     194  5..        |   |          [W-<Cj>] [NS <Pr>] [>L >XT MN H-<RJM H->L <Co>]
