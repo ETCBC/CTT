@@ -66,9 +66,9 @@
  NAH 03,15 2sgM ZIm0  << xIm0  ?Q      112    61  6..     |                     [HTKBD <Pr>] [K--JLQ <Aj>]
  NAH 03,15 2sgF ZIm0  << ZIm0  ?Q      112    62  7..     |                         [HTKBDJ <Pr>] [K-->RBH <Aj>]
  NAH 03,16 2sgF ZQt0  << ZIm0  ?Q      112    63  8..     |                             [HRBJT <Pr>] [RKLJK <Ob>] [M-KWKBJ H-CMJM <Aj>]
- NAH 03,16 3sgM xQt0  << ZQt0  ?Q      112    64 10..     |                                  |  [JLQ <Ob>] [PCV <Pr>]
+ NAH 03,16 3sgM XQtl  << ZQt0  ?Q      112    64 10..     |                                  |  [JLQ <Su>] [PCV <Pr>]
                                -------                    |                                  |    +--------------------------------------------\
- NAH 03,16 3sgM Way0  << xQt0  ?QN     112    65 11..     |                                  |    | [W-<Cj>] [J<P <Pr>]
+ NAH 03,16 3sgM Way0  << XQtl  ?QN     112    65 11..     |                                  |    | [W-<Cj>] [J<P <Pr>]
                                -------                    |                                  |    +--------------------------------------------/
  NAH 03,17 ---- NmCl  << ZQt0  ?Q      112    66  9..     |                                 [MNZRJK <Su>] [K-->RBH <PC>]
  NAH 03,17 ---- NmCl  << NmCl  ?Q      112    67 12..     |                                      |   |  [W-<Cj>] [VPSRJK <Su>] [K-GWB GBJ <PC>]

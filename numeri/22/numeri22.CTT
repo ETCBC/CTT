@@ -119,7 +119,7 @@
  NUM 22,20 ---- InfC [adjunct] NQ      2922      96  9.e            |   |        |      |   |  [L-QR> <Pr>] [LK <Co>]
  NUM 22,20 3pl- ZQtX  << Defc  NQ      2922      97  8..            |   |        |      |  [B>W <Pr>] [H->NCJM <Su>]
  NUM 22,20 2sgM ZIm0  << Defc  NQ      2922      98  7..            |   |        |     [QWM <Pr>]
- NUM 22,20 2sgM ZIm0  << ZIm0  NQ      2922      99  7..            |   |        |     [LK <Pr>] [>TM <Co>]
+ NUM 22,20 2sgM ZIm0  << ZIm0  NQ      2922      99  7..            |   |        |     [LK <Pr>] [>TM <Aj>]
  NUM 22,20 ---- CPen  << ZIm0  NQ      2922     100  8c.            |   |        |         [W-<Cj>] [>K >T H-DBR <Fr>]
  NUM 22,20 1sg- xYq0 [attrib.] NQ      2922     101 10..            |   |        |              |  [>CR <Re>] [>DBR <Pr>] [>LJK <Co>]
  NUM 22,20 2sgM xYq0 [resumpt] NQ      2922     102  9..            |   |        |             [>TW <Ob>] [T<FH <Pr>]
@@ -160,7 +160,7 @@
  NUM 22,28 3sgF Way0  << WayX  N       293132   136  8..            |   |           |   |  [W-<Cj>] [T>MR <Pr>] [L-BL<M <Co>]
                                =======                              |   |           |   |       |+===================================================\
  NUM 22,28 1sg- xQt0  <<  [Q]  NQ      2931321  137 10.q            |   |           |   |       || [MH <Ob>] [<FJTJ <Pr>] [LK <Co>]
- NUM 22,28 2sgM xQt0  << xQt0  NQ      2931321  138 11..            |   |           |   |       ||     [KJ <Cj>] [HKJTNJ <PO>] [ZH <Mo>] [CLC RGLJM <Mo>]
+ NUM 22,28 2sgM xQt0  << xQt0  NQ      2931321  138 11..            |   |           |   |       ||     [KJ <Cj>] [HKJTNJ <PO>] [ZH CLC RGLJM <Mo>]
                                =======                              |   |           |   |       |+===================================================/
  NUM 22,29 3sgM WayX  << Way0  N       2931322  139  9.#            |   |           |   |      [W-<Cj>] [J>MR <Pr>] [BL<M <Su>] [L-->TWN <Co>]
                                =======                              |   |           |   |       |+===================================================\
@@ -187,12 +187,12 @@
  NUM 22,31 3sgM Way0  << Way0  N       293133   155  8..            |   |           |      [W-<Cj>] [JCTXW <Pr>] [L->PJW <Co>]
  NUM 22,32 3sgM WayX  << WayX  N       29314    156  6.#            |   |          [W-<Cj>] [J>MR <Pr>] [>LJW <Co>] [ML>K JHWH <Su>]
                                =======                              |   |           |+===============================================================\
- NUM 22,32 2sgM xQt0  <<  [Q]  NQ      293141   157  7.q            |   |           || [<L MH <Aj>] [HKJT <Pr>] [>T >TNK <Ob>] [ZH <Mo>] [CLWC RGLJM <Mo>]
+ NUM 22,32 2sgM xQt0  <<  [Q]  NQ      293141   157  7.q            |   |           || [<L MH <Aj>] [HKJT <Pr>] [>T >TNK <Ob>] [ZH CLWC RGLJM <Mo>]
  NUM 22,32 1sg- XQtl  << xQt0  NQ      293141   158  8..            |   |           ||     [HNH <Ij>] [>NKJ <Su>] [JY>TJ <Pr>] [L-FVN <Aj>]
  NUM 22,32 3sgM xQtX  << XQtl  NQ      293141   159 10..            |   |           ||          |  [KJ <Cj>] [JRV <Pr>] [H-DRK <Su>] [L-NGDJ <Co>]
                                -------                              |   |           ||       +----------------------------------------------------\
  NUM 22,33 3sgF WayX  << XQtl  NQN     2931411  160  9.#            |   |           ||       | [W-<Cj>] [TR>NJ <PO>] [H->TWN <Su>]
- NUM 22,33 3sgF Way0  << WayX  NQN     2931411  161 11..            |   |           ||       |      |  [W-<Cj>] [TV <Pr>] [L-PNJ <Co>] [ZH <Mo>] [CLC RGLJM <Mo>]
+ NUM 22,33 3sgF Way0  << WayX  NQN     2931411  161 11..            |   |           ||       |      |  [W-<Cj>] [TV <Pr>] [L-PNJ <Co>] [ZH CLC RGLJM <Mo>]
  NUM 22,33 3sgF xQt0  << WayX  NQN     2931411  162 10..            |   |           ||       |     [>WLJ <Mo>] [NVTH <Pr>] [M-PNJ <Co>]
  NUM 22,33 1sg- xQt0  << xQt0  NQN     2931411  163 11..            |   |           ||       |         [KJ <Cj>] [<TH <Ti>] [GM >TKH <Ob>] [HRGTJ <Pr>]
  NUM 22,33 1sg- WxQ0  << xQt0  NQN     2931411  164 12..            |   |           ||       |             [W-<Cj>] [>WTH <Ob>] [HXJJTJ <Pr>]

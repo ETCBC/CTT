@@ -8,7 +8,7 @@
  DEUT08,01 2plM WQt0  << WQt0  Q       1       8  4..        |       |  [W-<Cj>] [JRCTM <Pr>] [>T H->RY <Ob>]
  DEUT08,01 3sgM xQtX [attrib.] Q       1       9  5..        |       |      [>CR <Re>] [NCB< <Pr>] [JHWH <Su>] [L->BTJKM <Co>]
  DEUT08,02 2sgM WQt0  << xYq0  Q       1      10  3..        |      [W-<Cj>] [ZKRT <Pr>] [>T KL H-DRK <Ob>]
- DEUT08,02 3sgM xQtX [attrib.] Q       1      11  4..        |       |  [>CR <Re>] [HLJKK <PO>] [JHWH / >LHJK <ap><Su>] [ZH <Mo>] [>RB<JM CNH <Ti>] [B--MDBR <Lo>]
+ DEUT08,02 3sgM xQtX [attrib.] Q       1      11  4..        |       |  [>CR <Re>] [HLJKK <PO>] [JHWH / >LHJK <ap><Su>] [ZH >RB<JM CNH <Ti>] [B--MDBR <Lo>]
  DEUT08,02 ---- InfC [adjunct] Q       1      12  7..        |       |       |   |  [LM<N <NTK <PO>]
  DEUT08,02 ---- InfC [adjunct] Q       1      13  8..        |       |       |   |      [L-NSTK <PO>]
  DEUT08,02 ---- InfC [adjunct] Q       1      14  9..        |       |       |   |          [L-D<T <Pr>]
@@ -27,7 +27,7 @@
  DEUT08,03 3sgM xYqX [coordin] QND     1      25  9..        |       |       ||           | [KJ <Cj>] [<L KL MWY> PJ JHWH <Co>] [JXJH <Pr>] [H->DM <Su>]
                                -------                       |       |       |+-------------------------------------------------------------------/
  DEUT08,04 3sgF XQtl  << xQtX  Q       1      26  5..        |       |      [FMLTK <Su>] [L> <Ng>] [BLTH <Pr>] [M-<LJK <Aj>]
- DEUT08,04 3sgF WXQt  << XQtl  Q       1      27  6..        |       |          [W-<Cj>] [RGLK <Su>] [L> <Ng>] [BYQH <Pr>] [ZH <Mo>] [>RB<JM CNH <Ti>]
+ DEUT08,04 3sgF WXQt  << XQtl  Q       1      27  6..        |       |          [W-<Cj>] [RGLK <Su>] [L> <Ng>] [BYQH <Pr>] [ZH >RB<JM CNH <Ti>]
  DEUT08,05 2sgM WQt0  << WQt0  Q       1      28  3..        |      [W-<Cj>] [JD<T <Pr>] [<M LBBK <Aj>]
  DEUT08,05 ---- Defc [object ] Q       1      29  4d.        |       |  [KJ <Cj>]
  DEUT08,05 3sgM xYqX [adjunct] Q       1      30  6.\        |       |       |  [K->CR <Cj>] [JJSR <Pr>] [>JC <Su>] [>T BNW <Ob>]
