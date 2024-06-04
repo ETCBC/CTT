@@ -1,9 +1,9 @@
  PS015,001 ---- NmCl  <<  [R]  ?       1       1  0.N   [MZMWR / L-DWD <sp><PC>]
                                =======                +==============================================================================================\
- PS015,001 ---- Voct  << NmCl  Q       2       2  0vN   [JHWH <Vo>]
+ PS015,001 ---- Voct  <<  [R]  Q       2       2  0vN   [JHWH <Vo>]
  PS015,001 3sgM XYqt [ref.Voc] Q       2       3  1..       [MJ <Su>] [JGWR <Pr>] [B->HLK <Co>]
  PS015,001 3sgM XYqt  << XYqt  Q       2       4  1..       [MJ <Su>] [JCKN <Pr>] [B-HR QDCK <Co>]
- PS015,002 -sgM Ptcp  << XYqt  Q       2       5  3..            |  [HWLK <PC>] [TMJM <Ob>]
+ PS015,002 -sgM Ptcp  << XYqt  Q       2       5  3..            |  [HWLK <PC>] [TMJM <Mo>]
  PS015,002 -sgM Ptcp  << Ptcp  Q       2       6  6..            |       |   |  [W-<Cj>] [P<L <PC>] [YDQ <Ob>]
  PS015,002 -sgM Ptcp  << Ptcp  Q       2       7  6..            |       |   |  [W-<Cj>] [DBR <PC>] [>MT <Ob>] [B-LBBW <Co>]
  PS015,003 3sgM xQt0  << Ptcp  Q       2       8  5..            |       |  [L> <Ng>] [RGL <Pr>] [<L LCNW <Co>]

@@ -79,7 +79,7 @@ IICHR35,21 ---- Voct  << NmCl  NQ      13      75 10v.        |           |    |
 IICHR35,21 ---- NmCl  << NmCl  NQ      13      76  9..        |           |    |      |   |  [L> <Ng>] [<LJK <PC>] [>TH <Su>] [H-JWM <Ti>]
 IICHR35,21 ---- NmCl  << NmCl  NQ      13      77 10..        |           |    |      |   |      [KJ <Cj>] [>L BJT MLXMTJ <PC>]
 IICHR35,21 3sgM WXQt  << NmCl  NQ      131     78  8.#        |           |    |      |  [W-<Cj>] [>LHJM <Su>] [>MR <Pr>]
-IICHR35,21 ---- InfC [complm.] NQ      131     79  9..        |           |    |      |      [L-BHLNJ <Ps>]
+IICHR35,21 ---- InfC [complm.] NQ      131     79  9..        |           |    |      |      [L-BHLNJ <PO>]
 IICHR35,21 2sgM ZIm0  << NmCl  NQ      13      80  7..        |           |    |     [XDL <Pr>] [LK <Aj>] [M->LHJM <Co>]
 IICHR35,21 ---- NmCl [attrib.] NQ      13      81  9..        |           |    |          |  [>CR <Re>] [<MJ <PC>]
 IICHR35,21 3sgM WxY0  << ZIm0  NQ      13      82  8..        |           |    |         [W-<Cj>] [>L <Ng>] [JCXJTK <PO>]
