@@ -1,7 +1,7 @@
  IOB 02,01 3sgM Way0  <<  [R]  N       1        1  0.N   [W-<Cj>] [JHJ <Pr>] [H-JWM <Ti>]
  IOB 02,01 3plM WayX  << Way0  N       11       2  1.#       [W-<Cj>] [JB>W <Pr>] [BNJ H->LHJM <Su>]
  IOB 02,01 ---- InfC [adjunct] N       11       3  3..        |   |  [L-HTJYB <Pr>] [<L JHWH <Co>]
- IOB 02,01 3sgM WayX  << WayX  N       111      4  2.#        |  [W-<Cj>] [JBW> <Pr>] [GM H-FVN <Su>] [B-TKM <Aj>]
+ IOB 02,01 3sgM WayX  << WayX  N       111      4  2.#        |  [W-<Cj>] [JBW> <Pr>] [GM H-FVN <Su>] [B-TKM <Co>]
  IOB 02,01 ---- InfC [adjunct] N       111      5  4..        |   |   |  [L-HTJYB <Pr>] [<L JHWH <Co>]
  IOB 02,02 3sgM WayX  << WayX  N       1111     6  3.#        |   |  [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L H-FVN <Co>]
                                =======                        |   |   |   |+=======================================================================\

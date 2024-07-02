@@ -71,8 +71,8 @@
  THR 01,12 2plM ZIm0  << NmCl  Q       31     63  2..    |      [HBJVW <Pr>]
  THR 01,12 2plM WIm0  << ZIm0  Q       31     64  3..    |       |  [W-<Cj>] [R>W <Pr>]
  THR 01,12 ---- NmCl [object ] Q       31     65  5..    |       |       |  [>M <Cj>] [JC <eX>] [MK>WB <Su>] [K-MK>BJ <Aj>]
- THR 01,12 3sgM xQt0 [attrib.] Q       31     66  7..    |       |       |       |  [>CR <Re>] [<WLL <Pr>] [LJ <Co>]
- THR 01,12 3sgM xQtX [attrib.] Q       31     67  6..    |       |       |      [>CR <Re>] [HWGH <Pr>] [JHWH <Su>] [B-JWM XRWN >PW <Ti>]
+ THR 01,12 3sgM xQt0 [attrib.] Q       31     66  6..    |       |       |      [>CR <Re>] [<WLL <Pr>] [LJ <Co>]
+ THR 01,12 3sgM xQtX [coordin] Q       31     67  7..    |       |       |          [>CR <Re>] [HWGH <Pr>] [JHWH <Su>] [B-JWM XRWN >PW <Ti>]
  THR 01,13 3sgM xQt0  << WIm0  Q       311    68  4.#    |       |      [M-MRWM <Co>] [CLX <Pr>] [>C <Ob>] [B-<YMTJ <Aj>]
                                -------                   |       |           |   |+---------------------------------------------------------------\
  THR 01,13 3sgM Way0  << xQt0  QN      311    69  7..    |       |           |   || [W-<Cj>] [JRDNH <PO>]

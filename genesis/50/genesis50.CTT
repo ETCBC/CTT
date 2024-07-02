@@ -38,10 +38,10 @@
                                =======                   |    +===================================================================================/
  GEN 50,07 3sgM WayX  << WayX  N       3      30  0..   [W-<Cj>] [J<L <Pr>] [JWSP <Su>]
  GEN 50,07 ---- InfC [adjunct] N       3      31  3..    |   |   |  [L-QBR <Pr>] [>T >BJW <Ob>]
- GEN 50,07 3plM WayX  << WayX  N       33     32  2.#    |   |  [W-<Cj>] [J<LW <Pr>] [>TW <Co>] [KL <BDJ PR<H ZQNJ BJTW W-KL ZQNJ >RY MYRJM <Su>]
+ GEN 50,07 3plM WayX  << WayX  N       33     32  2.#    |   |  [W-<Cj>] [J<LW <Pr>] [>TW <Aj>] [KL <BDJ PR<H ZQNJ BJTW W-KL ZQNJ >RY MYRJM <Su>]
  GEN 50,08 ---- Ellp  << WayX  N       33     33  5l.    |   |       |   |  [W-<Cj>] [KL BJT JWSP W->XJW W-BJT >BJW <Su>]
  GEN 50,08 3pl- xQt0  << Ellp  N       33     34  6..    |   |       |   |      [RQ VPM W-Y>NM W-BQRM <Ob>] [<ZBW <Pr>] [B->RY GCN <Co>]
- GEN 50,09 3sgM WayX  << WayX  N       331    35  4.#    |   |       |  [W-<Cj>] [J<L <Pr>] [<MW <Co>] [GM RKB GM PRCJM <Su>]
+ GEN 50,09 3sgM WayX  << WayX  N       331    35  4.#    |   |       |  [W-<Cj>] [J<L <Pr>] [<MW <Aj>] [GM RKB GM PRCJM <Su>]
  GEN 50,09 3sgM WayX  << WayX  N       332    36  4.#    |   |       |  [W-<Cj>] [JHJ <Pr>] [H-MXNH <Su>] [KBD M>D <PC>]
  GEN 50,10 3plM Way0  << WayX  N       33     37  3..    |   |      [W-<Cj>] [JB>W <Pr>] [<D GRN H->VD <Co>]
  GEN 50,10 ---- NmCl [attrib.] N       33     38  4..    |   |       |  [>CR <Re>] [B-<BR H-JRDN <PC>]
@@ -50,7 +50,7 @@
  GEN 50,11 3sgM WayX  << Way0  N       34     41  2.#    |   |  [W-<Cj>] [JR> <Pr>] [JWCB H->RY / H-KN<NJ <sp><Su>] [>T H->BL <Ob>] [B-GRN H->VD <Lo>]
  GEN 50,11 3plM Way0  << WayX  N       34     42  4..    |   |       |  [W-<Cj>] [J>MRW <Pr>]
                                =======                   |   |       |    +=======================================================================\
- GEN 50,11 ---- NmCl  <<  [Q]  NQ      341    43  5.q    |   |       |    | [>BL KBD <PC>] [ZH <Su>] [L-MYRJM <Co>]
+ GEN 50,11 ---- NmCl  <<  [Q]  NQ      341    43  5.q    |   |       |    | [>BL KBD <PC>] [ZH <Su>] [L-MYRJM <Aj>]
                                =======                   |   |       |    +=======================================================================/
  GEN 50,11 3sgM xQt0  << WayX  N       34     44  3..    |   |      [<L KN <Aj>] [QR> <Pr>] [CMH <Ob>] [>BL_MYRJM <Ob>]
  GEN 50,11 ---- NmCl [attrib.] N       34     45  4..    |   |          [>CR <Re>] [B-<BR H-JRDN <PC>]
@@ -61,7 +61,7 @@
  GEN 50,13 3sgM xQtX [attrib.] N       351    50  5.e    |               |  [>CR <Re>] [QNH <Pr>] [>BRHM <Su>] [>T H-FDH <Ob>] [L->XZT QBR <Co>] [M->T <PRN / H-XTJ <ap><Aj>]
  GEN 50,13 ---- Defc  << Way0  N       351    51  4d.    |              [<L PNJ MMR> <Lo>]
  GEN 50,14 3sgM WayX  << WayX  N       4      52  0.#   [W-<Cj>] [JCB <Pr>] [JWSP <Su>] [MYRJMH / HW> W->XJW W-KL <sp><Co>]
- GEN 50,14 -plM Ptcp [reg/rec] N       4      53  3..    |   |   |  [H-<Re>] [<LJM <PC>] [>TW <Co>]
+ GEN 50,14 -plM Ptcp [reg/rec] N       4      53  3..    |   |   |  [H-<Re>] [<LJM <PC>] [>TW <Aj>]
  GEN 50,14 ---- InfC [adjunct] N       4      54  4..    |   |   |      [L-QBR <Pr>] [>T >BJW <Ob>]
  GEN 50,14 ---- InfC [adjunct] N       4      55  2..    |   |  [>XRJ QBRW <Ps>] [>T >BJW <Ob>]
  GEN 50,15 3plM WayX  << WayX  N       41     56  1.#    |  [W-<Cj>] [JR>W <Pr>] [>XJ JWSP <Su>]
@@ -111,7 +111,7 @@
  GEN 50,22 3sgM WayX  << WayX  N       5      89  0.#   [W-<Cj>] [JCB <Pr>] [JWSP <Su>] [B-MYRJM / HW> W-BJT >BJW <sp><Co>]
  GEN 50,22 3sgM WayX  << WayX  N       6      90  0.#   [W-<Cj>] [JXJ <Pr>] [JWSP <Su>] [M>H W-<FR CNJM <Ti>]
  GEN 50,23 3sgM WayX  << WayX  N       61     91  1.#    |  [W-<Cj>] [JR> <Pr>] [JWSP <Su>] [L->PRJM <Co>] [BNJ CLCJM <Ob>]
- GEN 50,23 3pl- XQtl  << WayX  N       61     92  2..    |   |  [GM BNJ MKJR / BN MNCH <ap><Su>] [JLDW <Pr>] [<L BRKJ JWSP <Co>]
+ GEN 50,23 3pl- XQtl  << WayX  N       61     92  2..    |   |  [GM BNJ MKJR / BN MNCH <ap><Su>] [JLDW <Pr>] [<L BRKJ JWSP <Aj>]
  GEN 50,24 3sgM WayX  << WayX  N       62     93  1.#    |  [W-<Cj>] [J>MR <Pr>] [JWSP <Su>] [>L >XJW <Co>]
                                =======                   |   |+===================================================================================\
  GEN 50,24 -sgM Ptcp  <<  [Q]  NQ      621    94  2.q    |   || [>NKJ <Su>] [MT <PC>]

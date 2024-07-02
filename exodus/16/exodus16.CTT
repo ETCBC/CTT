@@ -153,15 +153,15 @@
  EXO 16,24 3plM Way0  << Way0  N       1453112   128  6.#            |              [W-<Cj>] [JNJXW <Pr>] [>TW <Ob>] [<D H-BQR <Ti>]
  EXO 16,24 3sgM xQtX [adjunct] N       1453112   129  8..            |                   |  [K->CR <Cj>] [YWH <Pr>] [MCH <Su>]
  EXO 16,24 3sgM WxQ0  << Way0  N       1453112   130  7..            |                  [W-<Cj>] [L> <Ng>] [HB>JC <Pr>]
- EXO 16,24 3sgF WXQt  << WxQ0  N       1453112   131  8..            |                      [W-<Cj>] [RMH <Su>] [L> <Ng>] [HJTH <Pr>] [BW <Aj>]
+ EXO 16,24 3sgF WXQt  << WxQ0  N       1453112   131  8..            |                      [W-<Cj>] [RMH <Su>] [L> <Ng>] [HJTH <Pr>] [BW <PC>]
  EXO 16,25 3sgM WayX  << WayX  N       146       132  2.#           [W-<Cj>] [J>MR <Pr>] [MCH <Su>]
                                =======                               |   |+===========================================================================\
  EXO 16,25 2plM ZIm0  <<  [Q]  NQ      1461      133  4.q            |   || [>KLHW <PO>] [H-JWM <Ti>]
  EXO 16,25 ---- NmCl  << ZIm0  NQ      1461      134  7..            |   ||      |   |  [KJ <Cj>] [CBT <Su>] [H-JWM <Ti>] [L-JHWH <PC>]
  EXO 16,25 2plM xYq0  << ZIm0  NQ      1461      135  6..            |   ||      |  [H-JWM <Ti>] [L> <Ng>] [TMY>HW <PO>] [B--FDH <Lo>]
  EXO 16,26 2plM xYq0  << ZIm0  NQ      1461      136  5..            |   ||     [CCT JMJM <Ti>] [TLQVHW <PO>]
- EXO 16,26 ---- NmCl  << xYq0  NQ      1461      137  6..            |   ||         [W-<Cj>] [B--JWM H-CBJ<J <Ti>] [CBT <PC>]
- EXO 16,26 3sgM xYq0  << NmCl  NQ      1461      138  7..            |   ||             [L> <Ng>] [JHJH <Pr>] [BW <Aj>]
+ EXO 16,26 ---- NmCl  << xYq0  NQ      1461      137  6..            |   ||         [W-<Cj>] [B--JWM H-CBJ<J <PC>] [CBT <Su>]
+ EXO 16,26 3sgM xYq0  << NmCl  NQ      1461      138  7..            |   ||             [L> <Ng>] [JHJH <Pr>] [BW <PC>]
                                =======                               |   |+===========================================================================/
  EXO 16,27 3sgM Way0  << WayX  N       1462      139  3.#            |  [W-<Cj>] [JHJ <Pr>]
  EXO 16,27 3pl- xQtX  << Way0  N       1462      140  4..            |   |  [B--JWM H-CBJ<J <Ti>] [JY>W <Pr>] [MN H-<M <Su>]

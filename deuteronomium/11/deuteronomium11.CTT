@@ -42,7 +42,7 @@
  DEUT11,10 ---- NmCl [resumpt] Q       1      38  5..    |               |  [L> <Ng>] [K->RY MYRJM <PC>] [HW> <Su>]
  DEUT11,10 2plM xQt0 [attrib.] Q       1      39  7..    |               |       |  [>CR <Re>] [JY>TM <Pr>] [M-CM <Co>]
  DEUT11,10 2sgM xYq0 [attrib.] Q       1      40  6..    |               |      [>CR <Re>] [TZR< <Pr>] [>T ZR<K <Ob>]
- DEUT11,10 2sgM WQt0 [coordin] Q       1      41  7..    |               |          [W-<Cj>] [HCQJT <Pr>] [B-RGLK <Co>] [K-GN H-JRQ <Aj>]
+ DEUT11,10 2sgM WQt0 [coordin] Q       1      41  7..    |               |          [W-<Cj>] [HCQJT <Pr>] [B-RGLK <Aj>] [K-GN H-JRQ <Aj>]
  DEUT11,11 ---- Defc  << CPen  Q       1      42  4d.    |              [W-<Cj>] [H->RY <Su>]
  DEUT11,11 -plM Ptcp [attrib.] Q       1      43  8..    |                   |   |   |  [>CR <Re>] [>TM <Su>] [<BRJM <PC>] [CMH <Co>]
  DEUT11,11 ---- InfC [adjunct] Q       1      44  9.e    |                   |   |   |      [L-RCTH <PO>]

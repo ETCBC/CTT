@@ -88,7 +88,7 @@ ISAM 01,16 1sg- xQt0  << xYq0  NQ      12241   69 14..            |   |   |     
 ISAM 01,17 3sgM WayX  << WayX  N       1225    70 10.#            |   |   |                      [W-<Cj>] [J<N <Pr>] [<LJ <Su>]
 ISAM 01,17 3sgM Way0  << WayX  N       1225    71 11..            |   |   |                          [W-<Cj>] [J>MR <Pr>]
                                =======                            |   |   |                               |+=======================================\
-ISAM 01,17 2sgF ZIm0  <<  [Q]  NQ      12251   72 13.q            |   |   |                               || [LKJ <Pr>] [L-CLWM <Co>]
+ISAM 01,17 2sgF ZIm0  <<  [Q]  NQ      12251   72 13.q            |   |   |                               || [LKJ <Pr>] [L-CLWM <Aj>]
 ISAM 01,17 3sgM WXYq  << ZIm0  NQ      12251   73 14..            |   |   |                               ||     [W-<Cj>] [>LHJ JFR>L <Su>] [JTN <Pr>] [>T CLTK <Ob>]
 ISAM 01,17 2sgF xQt0 [attrib.] NQ      12251   74 15..            |   |   |                               ||         [>CR <Re>] [C>LT <Pr>] [M-<MW <Co>]
                                =======                            |   |   |                               |+=======================================/
