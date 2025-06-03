@@ -89,7 +89,7 @@
  GEN 26,18 3sgM Way0  << WayX  N       7      69  1..    |  [W-<Cj>] [JXPR <Pr>] [>T B>RT H-MJM <Ob>]
  GEN 26,18 3pl- xQt0 [attrib.] N       7      70  2..    |   |  [>CR <Re>] [XPRW <Pr>] [B-JMJ >BRHM / >BJW <ap><Ti>]
  GEN 26,18 3plM WayX [coordin] N       71     71  3.#    |   |      [W-<Cj>] [JSTMWM <PO>] [PLCTJM <Su>] [>XRJ MWT >BRHM <Ti>]
- GEN 26,18 3sgM Way0  << Way0  N       7      72  1..    |  [W-<Cj>] [JQR> <Pr>] [LHN <Co>] [CMWT / K--CMT <sp><Ob>]
+ GEN 26,18 3sgM Way0  << Way0  N       7      72  1..    |  [W-<Cj>] [JQR> <Pr>] [LHN <Co>] [CMWT <Ob>] [K--CMT <Aj>]
  GEN 26,18 3sgM xQtX [attrib.] N       7      73  2..    |      [>CR <Re>] [QR> <Pr>] [LHN <Co>] [>BJW <Su>]
  GEN 26,19 3plM WayX  << WayX  N       8      74  0.#   [W-<Cj>] [JXPRW <Pr>] [<BDJ JYXQ <Su>] [B--NXL <Co>]
  GEN 26,19 3plM Way0  << WayX  N       8      75  3..    |   |   |  [W-<Cj>] [JMY>W <Pr>] [CM <Co>] [B>R MJM XJJM <Ob>]
