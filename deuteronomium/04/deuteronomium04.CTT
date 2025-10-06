@@ -43,7 +43,7 @@
  DEUT04,08 ---- NmCl  << NmCl  Q       11     41  8..    |       |   |                  [W-<Cj>] [MJ <PC>] [GWJ GDWL <Su>]
  DEUT04,08 ---- NmCl [attrib.] Q       11     42  9..    |       |   |                      [>CR <Re>] [LW <PC>] [XQJM W-MCPVJM YDJQM <Su>] [K-KL H-TWRH H-Z>T <Aj>]
  DEUT04,08 -sgM Ptcp [attrib.] Q       11     43 10..    |       |   |                          [>CR <Re>] [>NKJ <Su>] [NTN <PC>] [L-PNJKM <Co>] [H-JWM <Ti>]
- DEUT04,09 2sgM xIm0  << ZIm0  Q       112    44  3.#    |       |  [RQ <Mo>] [HCMR <Pr>] [LK <Co>]
+ DEUT04,09 2sgM xIm0  << ZIm0  Q       112    44  3.#    |       |  [RQ <Mo>] [HCMR <Pr>] [LK <sc>]
  DEUT04,09 2sgM WIm0  << xIm0  Q       112    45  7..    |       |       |   |   |  [W-<Cj>] [CMR <Pr>] [NPCK <Ob>] [M>D <Mo>]
  DEUT04,09 2sgM xYq0 [adjunct] Q       112    46  6..    |       |       |   |  [PN <Cj>] [TCKX <Pr>] [>T H-DBRJM <Ob>]
  DEUT04,09 3pl- xQtX [attrib.] Q       112    47  9..    |       |       |   |       |   |  [>CR <Re>] [R>W <Pr>] [<JNJK <Su>]
@@ -116,7 +116,7 @@
  DEUT04,22 ---- NmCl  << Ptcp  QN      11231 106  8..    |       |            |         [W-<Cj>] [>TM <Su>] [<BRJM <PC>]
  DEUT04,22 2plM WQt0  << NmCl  QN      11231 107  9..    |       |            |             [W-<Cj>] [JRCTM <Pr>] [>T H->RY H-VWBH H-Z>T <Ob>]
                                -------                   |       |            +-------------------------------------------------------------------/
- DEUT04,23 2plM ZIm0  << ZIm0  Q       11    108  2..    |      [HCMRW <Pr>] [LKM <Co>]
+ DEUT04,23 2plM ZIm0  << ZIm0  Q       11    108  2..    |      [HCMRW <Pr>] [LKM <sc>]
  DEUT04,23 2plM xYq0 [adjunct] Q       11    109  5..    |           |   |  [PN <Cj>] [TCKXW <Pr>] [>T BRJT JHWH / >LHJKM <ap><Ob>]
  DEUT04,23 3sgM xQt0 [attrib.] Q       11    110  7..    |           |   |       |  [>CR <Re>] [KRT <Pr>] [<MKM <Co>]
  DEUT04,23 2plM WQt0 [coordin] Q       11    111  6..    |           |   |      [W-<Cj>] [<FJTM <Pr>] [LKM <Co>] [PSL / TMWNT KL <sp><Ob>]

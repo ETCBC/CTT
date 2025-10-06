@@ -116,7 +116,7 @@
  GEN 31,24 3sgM WayX  << Way0  N       421       96  3.#    |          [W-<Cj>] [JB> <Pr>] [>LHJM <Su>] [>L LBN / H->RMJ <ap><Co>] [B-XLM <Aj>] [H-LJLH <Ti>]
  GEN 31,24 3sgM Way0  << WayX  N       421       97  4..    |              [W-<Cj>] [J>MR <Pr>] [LW <Co>]
                                =======                      |                +=======================================================================\
- GEN 31,24 2sgM ZIm0  <<  [Q]  NQ      4211      98  5.q    |                | [HCMR <Pr>] [LK <Co>]
+ GEN 31,24 2sgM ZIm0  <<  [Q]  NQ      4211      98  5.q    |                | [HCMR <Pr>] [LK <sc>]
  GEN 31,24 2sgM xYq0 [adjunct] NQ      4211      99  6..    |                |     [PN <Cj>] [TDBR <Pr>] [<M J<QB <Co>] [M-VWB / <D R< <sp><Aj>]
                                =======                      |                +=======================================================================/
  GEN 31,25 3sgM WayX  << WayX  N       5        100  0.#   [W-<Cj>] [JFG <Pr>] [LBN <Su>] [>T J<QB <Ob>]
@@ -145,7 +145,7 @@
  GEN 31,29 3sgM WXQt  << NmCl  NQ      611      118  5.#    |   ||      |      [W-<Cj>] [>LHJ >BJKM <Su>] [>MC <Ti>] [>MR <Pr>] [>LJ <Co>]
  GEN 31,29 ---- InfC [adjunct] NQ      611      119  6..    |   ||      |          [L->MR <Pr>]
                                =======                      |   ||      |            +============================================================\
- GEN 31,29 2sgM ZIm0  <<  [Q]  NQQ     6111     120  7.q    |   ||      |            | [HCMR <Pr>] [LK <Co>]
+ GEN 31,29 2sgM ZIm0  <<  [Q]  NQQ     6111     120  7.q    |   ||      |            | [HCMR <Pr>] [LK <sc>]
  GEN 31,29 ---- InfC [adjunct] NQQ     6111     121  8..    |   ||      |            |     [M-DBR <Pr>] [<M J<QB <Co>] [M-VWB / <D R< <sp><Aj>]
                                =======                      |   ||      |            +============================================================/
  GEN 31,30 ---- MSyn  << xQt0  NQ      61       122  3m.    |   ||     [W-<Cj>] [<TH <Ti>]
