@@ -45,7 +45,7 @@
  RUTH04,05 3sgM WayX  << Way0  N       17     34  1.#    || [W-<Cj>] [J>MR <Pr>] [B<Z <Su>]
                                =======                   ||  |+===================================================================================\
  RUTH04,05 ---- NmCl  <<  [Q]  NQ      171    35  2.q    ||  || [B-JWM <Ti>]
- RUTH04,05 ---- InfC [adjunct] NQ      171    36  4..    ||  ||      |  [QNWTK <Ps>] [H-FDH <Ob>] [M-JD N<MJ <Co>]
+ RUTH04,05 ---- InfC [adjunct] NQ      171    36  4..    ||  ||      |  [QNWTK <Ps>] [H-FDH <Ob>] [M-JD N<MJ <Aj>]
  RUTH04,05 2sgM WxQ0  << NmCl  NQ      171    37  3..    ||  ||     [W-<Cj>] [M->T RWT / H-MW>BJH / >CT H-MT <ap><ap><Ob>] [QNJTJ <Pr>]
  RUTH04,05 ---- InfC [adjunct] NQ      171    38  4..    ||  ||         [L-HQJM <Pr>] [CM H-MT <Ob>] [<L NXLTW <Co>]
                                =======                   ||  |+===================================================================================/
@@ -75,8 +75,8 @@
  RUTH04,09 ---- NmCl [reg/rec] NQ      1101   57  6.e    ||  ||  |       |   |  [>CR <Re>] [L->LJMLK <PC>]
  RUTH04,09 ---- Defc  << xQt0  NQ      1101   58  5d.    ||  ||  |       |  [W-/ >T KL <pa><cj>]
  RUTH04,09 ---- NmCl [reg/rec] NQ      1101   59  7.e    ||  ||  |       |       |  [>CR <Re>] [L-KLJWN W-MXLWN <PC>]
- RUTH04,09 ---- Defc  << Defc  NQ      1101   60  6d.    ||  ||  |       |      [M-JD N<MJ <Co>]
- RUTH04,10 1sg- WxQ0  << xQt0  NQ      1101   61  4..    ||  ||  |      [W-<Cj>] [GM >T RWT / H-M>BJH / >CT MXLWN <ap><ap><Ob>] [QNJTJ <Pr>] [LJ <sc>] [L->CH <Co>]
+ RUTH04,09 ---- Defc  << Defc  NQ      1101   60  6d.    ||  ||  |       |      [M-JD N<MJ <Aj>]
+ RUTH04,10 1sg- WxQ0  << xQt0  NQ      1101   61  4..    ||  ||  |      [W-<Cj>] [GM >T RWT / H-M>BJH / >CT MXLWN <ap><ap><Ob>] [QNJTJ <Pr>] [LJ <sc>] [L->CH <Aj>]
  RUTH04,10 ---- InfC [adjunct] NQ      1101   62  5..    ||  ||  |          [L-HQJM <Pr>] [CM H-MT <Ob>] [<L NXLTW <Co>]
  RUTH04,10 3sgM WxYX  << InfC  NQ      1101   63  6..    ||  ||  |              [W-<Cj>] [L> <Ng>] [JKRT <Pr>] [CM H-MT <Su>] [M-<M >XJW W-M-C<R MQWMW <Co>]
  RUTH04,10 ---- NmCl  << NmCl  NQ      1101   64  2..    ||  || [<DJM <PC>] [>TM <Su>] [H-JWM <Ti>]

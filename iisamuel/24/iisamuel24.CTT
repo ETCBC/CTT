@@ -60,7 +60,7 @@ IISA 24,12 2sgM WQt0  << InfA  NQ      14211    49  8..    |                   |
 IISA 24,12 3sgM xQtX  <<  [Q]  NQQ     142111   50  9.q    |                   |    |       | [KH <Mo>] [>MR <Pr>] [JHWH <Su>]
                                =======                     |                   |    |       |   +=============================================\
 IISA 24,12 -sgM Ptcp  <<  [Q]  NQQQ    1421111  51 10.q    |                   |    |       |   | [CLC <Ob>] [>NKJ <Su>] [NWVL <PC>] [<LJK <Co>]
-IISA 24,12 2sgM ZIm0  << Ptcp  NQQQ    1421111  52 11..    |                   |    |       |   |     [BXR <Pr>] [LK <Co>] [>XT / MHM <sp><Ob>]
+IISA 24,12 2sgM ZIm0  << Ptcp  NQQQ    1421111  52 11..    |                   |    |       |   |     [BXR <Pr>] [LK <sc>] [>XT / MHM <sp><Ob>]
 IISA 24,12 1sg- WYq0  << ZIm0  NQQQ    1421111  53 12..    |                   |    |       |   |         [W-<Cj>] [><FH <Pr>] [LK <Co>]
                                =======                     |                   |    +===============================================================/
 IISA 24,13 3sgM WayX  << WXQt  N       14212    54  5.#    |                  [W-<Cj>] [JB> <Pr>] [GD <Su>] [>L DWD <Co>]
@@ -125,7 +125,7 @@ IISA 24,21 3sgM xQtX  <<  [Q]  NQ      222231  101  6.q    |           |   |    
                                =======                     |           |   |    +===================================================================/
 IISA 24,21 3sgM WayX  << WayX  N       2223    102  4.#    |           |  [W-<Cj>] [J>MR <Pr>] [DWD <Su>]
                                =======                     |           |   |   |+===================================================================\
-IISA 24,21 ---- InfC  <<  [Q]  NQ      22231   103  6.q    |           |   |   || [L-QNWT <Pr>] [M-<MK <Co>] [>T H-GRN <Ob>]
+IISA 24,21 ---- InfC  <<  [Q]  NQ      22231   103  6.q    |           |   |   || [L-QNWT <Pr>] [M-<MK <Aj>] [>T H-GRN <Ob>]
 IISA 24,21 ---- InfC [adjunct] NQ      22231   104  7..    |           |   |   ||     [L-BNWT <Pr>] [MZBX <Ob>] [L-JHWH <Co>]
 IISA 24,21 3sgF WYqX  << InfC  NQ      22231   105  8..    |           |   |   ||         [W-<Cj>] [T<YR <Pr>] [H-MGPH <Su>] [M-<L H-<M <Co>]
                                =======                     |           |   |   |+===================================================================/
@@ -147,7 +147,7 @@ IISA 24,23 3sgM XYqt  <<  [Q]  NQ      222331  116  6.q    |           |   |    
 IISA 24,24 3sgM WayX  << WayX  N       2224    117  4.#    |           |  [W-<Cj>] [J>MR <Pr>] [H-MLK <Su>] [>L >RWNH <Co>]
                                =======                     |           |    +=======================================================================\
 IISA 24,24 ---- NmCl  <<  [Q]  NQ      22241   118  5.q    |           |    | [L> <Ng>]
-IISA 24,24 1sg- xYq0  << NmCl  NQ      22241   119  7..    |           |    |      |  [KJ <Cj>] [QNW <Mo>] [>QNH <Pr>] [M->WTK <Co>] [B-MXJR <Aj>]
+IISA 24,24 1sg- xYq0  << NmCl  NQ      22241   119  7..    |           |    |      |  [KJ <Cj>] [QNW <Mo>] [>QNH <Pr>] [M->WTK <Aj>] [B-MXJR <Aj>]
 IISA 24,24 1sg- WxY0  << NmCl  NQ      22241   120  6..    |           |    |     [W-<Cj>] [L> <Ng>] [><LH <Pr>] [L-JHWH / >LHJ <ap><Co>] [<LWT <Ob>] [XNM <Mo>]
                                =======                     |           |    +=======================================================================/
 IISA 24,24 3sgM WayX  << WXQt  N       2225    121  3.#    |          [W-<Cj>] [JQN <Pr>] [DWD <Su>] [>T H-GRN W->T H-BQR <Ob>] [B-KSP CQLJM XMCJM <Aj>]

@@ -125,7 +125,7 @@
  IKON11,30 3sgM Way0  << WayX  ?N      13722   111  8..    ||                  |          [W-<Cj>] [JQR<H <PO>] [CNJM <FR QR<JM <Aj>]
  IKON11,31 3sgM Way0  << Way0  ?N      13722   112  9..    ||                  |              [W-<Cj>] [J>MR <Pr>] [L-JRB<M <Co>]
                                =======                     ||                  |                +================================================\
- IKON11,31 2sgM ZIm0  <<  [Q]  ?NQ     137221  113 10.q    ||                  |                | [QX <Pr>] [LK <Co>] [<FRH QR<JM <Ob>]
+ IKON11,31 2sgM ZIm0  <<  [Q]  ?NQ     137221  113 10.q    ||                  |                | [QX <Pr>] [LK <sc>] [<FRH QR<JM <Ob>]
  IKON11,31 3sgM xQtX  << ZIm0  ?NQ     137221  114 11..    ||                  |                |     [KJ <Cj>] [KH <Mo>] [>MR <Pr>] [JHWH / >LHJ JFR>L <ap><Su>]
                                =======                     ||                  |                |       +=====================================\
  IKON11,31 -sgM Ptcp  <<  [Q]  ?NQQ    1372211 115 12.q    ||                  |                |       | [HNNJ <Is>] [QR< <PC>] [>T H-MMLKH <Ob>] [M-JD CLMH <Co>]
@@ -148,7 +148,7 @@
  IKON11,35 1sg- WQt0  << WQt0  ?NQQ    1372211 130 16..    ||                  |                |       |          |      [W-<Cj>] [NTTJH <PO>] [LK <Co>] [>T <FRT H-CBVJM <Ob>]
  IKON11,36 1sg- WxY0  << WQt0  ?NQQ    1372211 131 17..    ||                  |                |       |          |          [W-<Cj>] [L-BNW <Co>] [>TN <Pr>] [CBV >XD <Ob>]
  IKON11,36 ---- InfC [adjunct] ?NQQ    1372211 132 18..    ||                  |                |       |          |              [LM<N HJWT <Pr>] [NJR <Su>] [L-DWJD / <BDJ <ap><PC>] [KL H-JMJM <Ti>] [L-PNJ / B-JRWCLM / H-<JR <ap><sp><Lo>]
- IKON11,36 1sg- xQt0 [attrib.] ?NQQ    1372211 133 19..    ||                  |                |       |          |                  [>CR <Re>] [BXRTJ <Pr>] [LJ <Co>]
+ IKON11,36 1sg- xQt0 [attrib.] ?NQQ    1372211 133 19..    ||                  |                |       |          |                  [>CR <Re>] [BXRTJ <Pr>] [LJ <sc>]
  IKON11,36 ---- InfC [adjunct] ?NQQ    1372211 134 20..    ||                  |                |       |          |                      [L-FWM <Pr>] [CMJ <Ob>] [CM <Co>]
  IKON11,37 1sg- WxY0  << WxY0  ?NQQ    1372211 135 14..    ||                  |                |       |         [W-<Cj>] [>TK <Ob>] [>QX <Pr>]
  IKON11,37 2sgM WQt0  << WxY0  ?NQQ    1372211 136 16..    ||                  |                |       |              |  [W-<Cj>] [MLKT <Pr>] [B-KL <Co>]

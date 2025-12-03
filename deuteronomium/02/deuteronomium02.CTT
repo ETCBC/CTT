@@ -154,7 +154,7 @@
  DEUT02,34 1pl- Way0  << Way0  N       29    137  1..       [W-<Cj>] [NLKD <Pr>] [>T KL <RJW <Ob>] [B--<T H-HW> <Ti>]
  DEUT02,34 1pl- Way0  << Way0  N       29    138  1..       [W-<Cj>] [NXRM <Pr>] [>T KL <JR / MTM W-H-NCJM W-H-VP <sp><Ob>]
  DEUT02,34 1pl- xQt0  << Way0  N       29    139  5..            |   |   |  [L> <Ng>] [HC>RNW <Pr>] [FRJD <Ob>]
- DEUT02,35 1pl- xQt0  << xQt0  N       29    140  6..            |   |   |      [RQ H-BHMH <Ob>] [BZZNW <Pr>] [LNW <Co>]
+ DEUT02,35 1pl- xQt0  << xQt0  N       29    140  6..            |   |   |      [RQ H-BHMH <Ob>] [BZZNW <Pr>] [LNW <sc>]
  DEUT02,35 ---- Ellp  << xQt0  N       29    141  7l.            |   |   |          [W-<Cj>] [CLL H-<RJM <Ob>]
  DEUT02,35 1pl- xQt0 [attrib.] N       29    142  8..            |   |   |              [>CR <Re>] [LKDNW <Pr>]
  DEUT02,36 ---- Defc  << Way0  N       29    143  4d.            |   |  [M-<R<R <Lo>]

@@ -1,7 +1,7 @@
  NUM 10,01 3sgM WayX  <<  [R]  N       1       1  0.N   [W-<Cj>] [JDBR <Pr>] [JHWH <Su>] [>L MCH <Co>]
  NUM 10,01 ---- InfC [adjunct] N       1       2  1..    |  [L->MR <Pr>]
                                =======                   |    +===================================================================================\
- NUM 10,02 2sgM ZIm0  <<  [Q]  NQ      11      3  2.q    |    | [<FH <Pr>] [LK <Co>] [CTJ XYWYRT <Ob>] [KSP <Ob>]
+ NUM 10,02 2sgM ZIm0  <<  [Q]  NQ      11      3  2.q    |    | [<FH <Pr>] [LK <sc>] [CTJ XYWYRT <Ob>] [KSP <Ob>]
  NUM 10,02 2sgM xYq0  << ZIm0  NQ      11      4  5..    |    |      |   |  [MQCH <Ob>] [T<FH <Pr>] [>TM <Ob>]
  NUM 10,02 3pl- WQt0  << ZIm0  NQ      11      5  4..    |    |      |  [W-<Cj>] [HJW <Pr>] [LK <Co>] [L-MQR> H-<DH W-L-MS< / >T H-MXNWT <sp><PC>]
  NUM 10,03 3pl- WQt0  << WQt0  NQ      11      6  4..    |    |      |  [W-<Cj>] [TQ<W <Pr>] [BHN <Co>]

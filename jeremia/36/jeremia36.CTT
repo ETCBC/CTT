@@ -2,7 +2,7 @@
  JER 36,01 3sgM ZQtX  << Way0  N       1        2  2..    |   |  [HJH <Pr>] [H-DBR H-ZH <Su>] [>L JRMJHW <PC>] [M->T JHWH <Aj>]
  JER 36,01 ---- InfC [adjunct] N       1        3  3..    |   |      [L->MR <Pr>]
                                =======                    |   |        +===========================================================================\
- JER 36,02 2sgM ZIm0  <<  [Q]  NQ      11       4  4.q    |   |        | [QX <Pr>] [LK <Co>] [MGLT SPR <Ob>]
+ JER 36,02 2sgM ZIm0  <<  [Q]  NQ      11       4  4.q    |   |        | [QX <Pr>] [LK <sc>] [MGLT SPR <Ob>]
  JER 36,02 2sgM WQt0  << ZIm0  NQ      11       5  7..    |   |        |      |   |  [W-<Cj>] [KTBT <Pr>] [>LJH <Co>] [>T KL H-DBRJM <Ob>]
  JER 36,02 1sg- xQt0 [attrib.] NQ      11       6  8..    |   |        |      |   |      [>CR <Re>] [DBRTJ <Pr>] [>LJK <Co>] [<L JFR>L W-<L JHWDH W-<L KL H-GWJM <Aj>] [M-JWM <Ti>]
  JER 36,02 1sg- ZQt0 [attrib.] NQ      11       7 10.e    |   |        |      |   |           |  [DBRTJ <Pr>] [>LJK <Co>]
@@ -125,7 +125,7 @@
  JER 36,27 ---- InfC [adjunct] N       3      107  2..        |  [L->MR <Pr>]
                                =======                        |    +===============================================================================\
  JER 36,28 2sgM ZIm0  <<  [Q]  NQ      31     108  3.q        |    | [CWB <Pr>]
- JER 36,28 2sgM ZIm0  << ZIm0  NQ      31     109  3..        |    | [QX <Pr>] [LK <Co>] [MGLH >XRT <Ob>]
+ JER 36,28 2sgM ZIm0  << ZIm0  NQ      31     109  3..        |    | [QX <Pr>] [LK <sc>] [MGLH >XRT <Ob>]
  JER 36,28 2sgM WIm0  << ZIm0  NQ      31     110  5..        |    |      |  [W-<Cj>] [KTB <Pr>] [<LJH <Co>] [>T KL H-DBRJM H-R>CNJM <Ob>]
  JER 36,28 3pl- xQt0 [attrib.] NQ      31     111  6..        |    |      |      [>CR <Re>] [HJW <Pr>] [<L H-MGLH H-R>CNH <PC>]
  JER 36,28 3sgM xQtX [attrib.] NQ      31     112  7..        |    |      |          [>CR <Re>] [FRP <Pr>] [JHWJQJM / MLK JHWDH <ap><Su>]

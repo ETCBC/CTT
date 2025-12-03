@@ -41,7 +41,7 @@ ISAM 10,06 2sgM WQt0  << WQtX  NQ      11       36 12..    |               ||   
 ISAM 10,06 2sgM WQt0  << WQt0  NQ      11       37 12..    |               ||      |   |                  [W-<Cj>] [NHPKT <Pr>] [L->JC >XR <Co>]
 ISAM 10,07 3sgM MSyn  << WQt0  NQ      11       38  7m.    |               ||      |  [W-<Cj>] [HJH <Pr>]
 ISAM 10,07 3plF xYqX  << MSyn  NQ      11       39  9..    |               ||      |       |  [KJ <Cj>] [TB>JNH <Pr>] [H->TWT H->LH <Su>] [LK <Co>]
-ISAM 10,07 2sgM ZIm0  << MSyn  NQ      11       40  8..    |               ||      |      [<FH <Pr>] [LK <Co>]
+ISAM 10,07 2sgM ZIm0  << MSyn  NQ      11       40  8..    |               ||      |      [<FH <Pr>] [LK <sc>]
 ISAM 10,07 3sgF xYqX [object ] NQ      11       41 10..    |               ||      |           |  [>CR <Re>] [TMY> <Pr>] [JDK <Su>]
 ISAM 10,07 ---- NmCl  << ZIm0  NQ      11       42  9..    |               ||      |          [KJ <Cj>] [H->LHJM <Su>] [<MK <PC>]
 ISAM 10,08 2sgM WQt0  << WQt0  NQ      11       43  6..    |               ||     [W-<Cj>] [JRDT <Pr>] [L-PNJ <Co>] [H-GLGL <Co>]

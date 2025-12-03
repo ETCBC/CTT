@@ -77,7 +77,7 @@ ISAM 02,15 -sgM AjCl [coordin] NDQ     211      66 14..            |       |    
 ISAM 02,16 3sgM WayX  << CPen  N       212      67  7.#            |       |          [W-<Cj>] [J>MR <Pr>] [>LJW <Co>] [H->JC <Su>]
                                =======                             |       |               |+=======================================================\
 ISAM 02,16 3plM xYq0  <<  [Q]  NQ      2121     68  9.q            |       |               || [QVR <Mo>] [JQVJRWN <Pr>] [K--JWM <Ti>] [H-XLB <Ob>]
-ISAM 02,16 2sgM WIm0  << xYq0  NQ      2121     69 10..            |       |               ||     [W-<Cj>] [QX <Pr>] [LK <Co>]
+ISAM 02,16 2sgM WIm0  << xYq0  NQ      2121     69 10..            |       |               ||     [W-<Cj>] [QX <Pr>] [LK <sc>]
 ISAM 02,16 3sgF xYqX [adjunct] NQ      2121     70 11..            |       |               ||         [K->CR <Cj>] [T>WH <Pr>] [NPCK <Su>]
                                =======                             |       |               |+=======================================================/
 ISAM 02,16 3sgM WQt0  << WayX  N       212      71  8..            |       |              [W-<Cj>] [>MR <Pr>]
@@ -183,7 +183,7 @@ ISAM 02,33 3plM WXYq  << WxY0  NQQ     21611   147 11..                 |   |   
 ISAM 02,34 ---- NmCl  << NmCl  NQQ     21611   148  7..                 |   |         [W-<Cj>] [ZH <Su>] [LK <Co>] [H->WT <PC>]
 ISAM 02,34 3sgM xYq0 [attrib.] NQQ     21611   149 10..                 |   |              |   |  [>CR <Re>] [JB> <Pr>] [>L CNJ BNJK / >L XPNJ W-PJNXS <ap><Co>]
 ISAM 02,34 3plM xYqX  << NmCl  NQQ     21611   150  9..                 |   |              |  [B-JWM >XD <Ti>] [JMWTW <Pr>] [CNJHM <Su>]
-ISAM 02,35 1sg- WQt0  << NmCl  NQQ     21611   151  8..                 |   |             [W-<Cj>] [HQJMTJ <Pr>] [LJ <Co>] [KHN N>MN <Ob>]
+ISAM 02,35 1sg- WQt0  << NmCl  NQQ     21611   151  8..                 |   |             [W-<Cj>] [HQJMTJ <Pr>] [LJ <sc>] [KHN N>MN <Ob>]
 ISAM 02,35 ---- NmCl [adjunct] NQQ     21611   152 11.\                 |   |                  |   |  [K->CR <Cj>] [B-LBBJ W-B-NPCJ <PC>]
 ISAM 02,35 3sgM ZYq0  << WQt0  NQQ     21611   153 10..                 |   |                  |  [J<FH <Pr>]
 ISAM 02,35 1sg- WQt0  << ZYq0  NQQ     21611   154 11..                 |   |                  |      [W-<Cj>] [BNJTJ <Pr>] [LW <Co>] [BJT N>MN <Ob>]

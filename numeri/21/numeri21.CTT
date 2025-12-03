@@ -38,7 +38,7 @@
  NUM 21,07 3sgM WayX  << WayX  N       25     32  1.#    |  [W-<Cj>] [JTPLL <Pr>] [MCH <Su>] [B<D H-<M <Co>]
  NUM 21,08 3sgM WayX  << WayX  N       251    33  2.#    |   |  [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L MCH <Co>]
                                =======                   |   |    +===============================================================================\
- NUM 21,08 2sgM ZIm0  <<  [Q]  NQ      2511   34  3.q    |   |    | [<FH <Pr>] [LK <Co>] [FRP <Ob>]
+ NUM 21,08 2sgM ZIm0  <<  [Q]  NQ      2511   34  3.q    |   |    | [<FH <Pr>] [LK <sc>] [FRP <Ob>]
  NUM 21,08 2sgM WIm0  << ZIm0  NQ      2511   35  5..    |   |    |      |  [W-<Cj>] [FJM <Pr>] [>TW <Ob>] [<L NS <Co>]
  NUM 21,08 3sgM WQtX  << ZIm0  NQ      2511   36  4..    |   |    |     [W-<Cj>] [HJH <Pr>] [KL H-NCWK <Su>]
  NUM 21,08 3sgM WQt0  << WQtX  NQ      2511   37  5..    |   |    |         [W-<Cj>] [R>H <Pr>] [>TW <Ob>]

@@ -22,7 +22,7 @@
  DEUT03,06 1pl- Way0  << Way0  N       131    20  4..    |   |          [W-<Cj>] [NXRM <Pr>] [>WTM <Ob>]
  DEUT03,06 1pl- xQt0 [adjunct] N       131    21  7..    |   |           |   |   |  [K->CR <Cj>] [<FJNW <Pr>] [L-SJXN / MLK XCBWN <ap><Co>]
  DEUT03,06 ---- InfA  << Way0  N       131    22  6..    |   |           |   |  [HXRM <Pr>] [KL <JR / MTM H-NCJM W-H-VP <sp><Ob>]
- DEUT03,07 1pl- WxQ0  << Way0  N       1311   23  5.#    |   |           |  [W-<Cj>] [KL H-BHMH W-CLL H-<RJM <Ob>] [BZWNW <Pr>] [LNW <Co>]
+ DEUT03,07 1pl- WxQ0  << Way0  N       1311   23  5.#    |   |           |  [W-<Cj>] [KL H-BHMH W-CLL H-<RJM <Ob>] [BZWNW <Pr>] [LNW <sc>]
  DEUT03,08 1pl- Way0  << Way0  N       131    24  4..    |   |          [W-<Cj>] [NQX <Pr>] [B--<T H-HW> <Ti>] [>T H->RY <Ob>] [M-JD CNJ MLKJ H->MRJ <Co>]
  DEUT03,08 ---- NmCl [attrib.] N       131    25 10.e    |   |               |   |   |   |   |  [>CR <Re>] [B-<BR H-JRDN <PC>]
  DEUT03,08 ---- Defc  << Way0  N       131    26  9d.    |   |               |   |   |   |  [M-NXL >RNN / <D HR XRMWN <sp><Lo>]

@@ -71,7 +71,7 @@
  JOZ 24,14 2plM WIm0  << WIm0  NQ      21     66  5..    ||              |  [W-<Cj>] [<BDW <Pr>] [>T JHWH <Ob>]
  JOZ 24,15 3sgM WxQ0  << ZIm0  NQ      21     67  4..    ||             [W-<Cj>] [>M <Cj>] [R< <Pr>] [B-<JNJKM <Co>]
  JOZ 24,15 ---- InfC [adjunct] NQ      21     68  6..    ||                  |  [L-<BD <Pr>] [>T JHWH <Ob>]
- JOZ 24,15 2plM ZIm0  << WxQ0  NQ      21     69  5..    ||                 [BXRW <Pr>] [LKM <Co>] [H-JWM <Ti>]
+ JOZ 24,15 2plM ZIm0  << WxQ0  NQ      21     69  5..    ||                 [BXRW <Pr>] [LKM <sc>] [H-JWM <Ti>]
  JOZ 24,15 2plM xYq0 [object ] NQ      21     70  8..    ||                      |   |  [>T MJ <Ob>] [T<BDWN <Pr>]
  JOZ 24,15 ---- Ellp  << ZIm0  NQ      21     71  7l.    ||                      |  [>M <Cj>] [>T >LHJM <Ob>]
  JOZ 24,15 3pl- xQtX [attrib.] NQ      21     72  9..    ||                      |       |  [>CR <Re>] [<BDW <Pr>] [>BWTJKM <Su>]
@@ -125,7 +125,7 @@
  JOZ 24,22 3sgM WayX  << WayX  N       6     110  0.#   [W-<Cj>] [J>MR <Pr>] [JHWC< <Su>] [>L H-<M <Co>]
                                =======                   |   |   |+===============================================================================\
  JOZ 24,22 ---- NmCl  <<  [Q]  NQ      61    111  3.q    |   |   || [<DJM <PC>] [>TM <Su>] [BKM <Co>]
- JOZ 24,22 2plM XQtl  << NmCl  NQ      61    112  4..    |   |   ||     [KJ <Cj>] [>TM <Su>] [BXRTM <Pr>] [LKM <Co>] [>T JHWH <Ob>]
+ JOZ 24,22 2plM XQtl  << NmCl  NQ      61    112  4..    |   |   ||     [KJ <Cj>] [>TM <Su>] [BXRTM <Pr>] [LKM <sc>] [>T JHWH <Ob>]
  JOZ 24,22 ---- InfC [adjunct] NQ      61    113  5..    |   |   ||         [L-<BD <Pr>] [>WTW <Ob>]
                                =======                   |   |   |+===============================================================================/
  JOZ 24,22 3plM Way0  << WayX  N       62    114  2.#    |   |  [W-<Cj>] [J>MRW <Pr>]
@@ -168,7 +168,7 @@
  JOZ 24,32 ---- Defc  << Way0  N       91    144  4d.                |  [W-<Cj>] [>T <YMWT JWSP <Ob>]
  JOZ 24,32 3pl- xQtX [attrib.] N       91    145  6.e                |       |  [>CR <Re>] [H<LW <Pr>] [BNJ JFR>L <Su>] [M-MYRJM <Co>]
  JOZ 24,32 3pl- ZQt0  << Defc  N       91    146  5..                |      [QBRW <Pr>] [B-CKM / B-XLQT H-FDH <sp><Co>]
- JOZ 24,32 3sgM xQtX [attrib.] N       91    147  6..                |          [>CR <Re>] [QNH <Pr>] [J<QB <Su>] [M->T BNJ XMWR / >BJ CKM <ap><Co>] [B-M>H QFJVH <Aj>]
+ JOZ 24,32 3sgM xQtX [attrib.] N       91    147  6..                |          [>CR <Re>] [QNH <Pr>] [J<QB <Su>] [M->T BNJ XMWR / >BJ CKM <ap><Aj>] [B-M>H QFJVH <Aj>]
  JOZ 24,32 3plM Way0 [coordin] N       91    148  7..                |              [W-<Cj>] [JHJW <Pr>] [L-BNJ JWSP <Co>] [L-NXLH <PC>]
  JOZ 24,33 3sgM WXQt  << Way0  N       911   149  3.#               [W-<Cj>] [>L<ZR / BN >HRN <ap><Su>] [MT <Pr>]
  JOZ 24,33 3plM Way0  << WXQt  N       911   150  4..                   [W-<Cj>] [JQBRW <Pr>] [>TW <Ob>] [B-GB<T PJNXS / BNW <ap><Co>]

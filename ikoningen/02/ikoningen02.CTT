@@ -244,7 +244,7 @@
  IKON02,36 3sgM Way0  << WayX  N       219     188  3..        |      [W-<Cj>] [JQR> <Pr>] [L-CM<J <Co>]
  IKON02,36 3sgM Way0  << Way0  N       219     189  3..        |      [W-<Cj>] [J>MR <Pr>] [LW <Co>]
                                =======                         |       |+===========================================================================\
- IKON02,36 2sgM ZIm0  <<  [Q]  NQ      2191    190  4.q        |       || [BNH <Pr>] [LK <Co>] [BJT <Ob>] [B-JRWCLM <Lo>]
+ IKON02,36 2sgM ZIm0  <<  [Q]  NQ      2191    190  4.q        |       || [BNH <Pr>] [LK <sc>] [BJT <Ob>] [B-JRWCLM <Lo>]
  IKON02,36 2sgM WQt0  << ZIm0  NQ      2191    191  5..        |       ||     [W-<Cj>] [JCBT <Pr>] [CM <Co>]
  IKON02,36 2sgM WxY0  << WQt0  NQ      2191    192  7..        |       ||          |  [W-<Cj>] [L> <Ng>] [TY> <Pr>] [M-CM <Co>] [>NH W->NH <Co>]
  IKON02,37 3sgM MSyn  << WQt0  NQ      2191    193  6m.        |       ||         [W-<Cj>] [HJH <Pr>]

@@ -35,7 +35,7 @@
  JER 32,07 -sgM Ptcp  <<  [Q]  ?NQQ    1211     27  6.q        ||   |      |    | [HNH <Ij>] [XNM>L / BN CLM / DDK <ap><ap><Su>] [B> <PC>] [>LJK <Co>]
  JER 32,07 ---- InfC [adjunct] ?NQQ    1211     28  7..        ||   |      |    |     [L->MR <Pr>]
                                =======                         ||   |      |    |       +==================================================\
- JER 32,07 2sgM ZIm0  <<  [Q]  ?NQQQ   12111    29  8.q        ||   |      |    |       | [QNH <Pr>] [LK <Co>] [>T FDJ <Ob>]
+ JER 32,07 2sgM ZIm0  <<  [Q]  ?NQQQ   12111    29  8.q        ||   |      |    |       | [QNH <Pr>] [LK <sc>] [>T FDJ <Ob>]
  JER 32,07 ---- NmCl [attrib.] ?NQQQ   12111    30 10..        ||   |      |    |       |      |  [>CR <Re>] [B-<NTWT <PC>]
  JER 32,07 ---- NmCl  << ZIm0  ?NQQQ   12111    31  9..        ||   |      |    |       |     [KJ <Cj>] [LK <PC>] [MCPV H-G>LH <Su>]
  JER 32,07 ---- InfC [adjunct] ?NQQQ   12111    32 10..        ||   |      |    |       |         [L-QNWT <Pr>]
@@ -48,11 +48,11 @@
  JER 32,08 ---- NmCl [attrib.] ?NQNQ   12121    37 11..        ||   |   |      |       ||  |   |      [>CR <Re>] [B->RY BNJMJN <PC>]
  JER 32,08 ---- NmCl  << ZIm0  ?NQNQ   12121    38  9..        ||   |   |      |       ||  |  [KJ <Cj>] [LK <PC>] [MCPV H-JRCH <Su>]
  JER 32,08 ---- NmCl  << NmCl  ?NQNQ   12121    39 10..        ||   |   |      |       ||  |      [W-<Cj>] [LK <PC>] [H-G>LH <Su>]
- JER 32,08 2sgM ZIm0  << ZIm0  ?NQNQ   12121    40  8..        ||   |   |      |       || [QNH <Pr>] [LK <Co>]
+ JER 32,08 2sgM ZIm0  << ZIm0  ?NQNQ   12121    40  8..        ||   |   |      |       || [QNH <Pr>] [LK <sc>]
                                =======                         ||   |   |      |       |+==================================================/
  JER 32,08 1sg- Way0  << Way0  ?NQN    1212     41  7..        ||   |   |      |      [W-<Cj>] [>D< <Pr>]
  JER 32,08 ---- NmCl [object ] ?NQN    1212     42  8..        ||   |   |      |          [KJ <Cj>] [DBR JHWH <PC>] [HW> <Su>]
- JER 32,09 1sg- Way0  << WayX  ?NQN    1212     43  5..        ||   |   |     [W-<Cj>] [>QNH <Pr>] [>T H-FDH <Ob>] [M->T XNM>L / BN DDJ <ap><Co>]
+ JER 32,09 1sg- Way0  << WayX  ?NQN    1212     43  5..        ||   |   |     [W-<Cj>] [>QNH <Pr>] [>T H-FDH <Ob>] [M->T XNM>L / BN DDJ <ap><Aj>]
  JER 32,09 ---- NmCl [attrib.] ?NQN    1212     44  6..        ||   |   |      |  [>CR <Re>] [B-<NTWT <PC>]
  JER 32,09 1sg- Way0  << Way0  ?NQN    1212     45  5..        ||   |   |     [W-<Cj>] [>CQLH <Pr>] [LW <Co>] [>T H-KSP <Ob>]
  JER 32,09 ---- NmCl  << Way0  ?NQN    1212     46  6..        ||   |   |      |  [CB<H CQLJM W-<FRH <PC>] [H-KSP <Su>]
@@ -124,7 +124,7 @@
  JER 32,25 2sgM WXQt  << Ptcp  ?NQNQ   121232  104 11.#        ||   |   |           |                 [W-<Cj>] [>TH <Su>] [>MRT <Pr>] [>LJ <Co>]
  JER 32,25 ---- Voct  << WXQt  ?NQNQ   121232  105 14v.        ||   |   |           |                      |   |  [>DNJ JHWH <Vo>]
                                =======                         ||   |   |           |                      |+===========================\
- JER 32,25 2sgM ZIm0  <<  [Q]  ?NQNQQ  1212321 106 13.q        ||   |   |           |                      || [QNH <Pr>] [LK <Co>] [H-FDH <Ob>] [B--KSP <Aj>]
+ JER 32,25 2sgM ZIm0  <<  [Q]  ?NQNQQ  1212321 106 13.q        ||   |   |           |                      || [QNH <Pr>] [LK <sc>] [H-FDH <Ob>] [B--KSP <Aj>]
  JER 32,25 2sgM WIm0  << ZIm0  ?NQNQQ  1212321 107 14..        ||   |   |           |                      ||     [W-<Cj>] [H<D <Pr>] [<DJM <Ob>]
                                =======                         ||   |   |           |                      |+===========================/
  JER 32,25 3sgF WXQt  << WXQt  ?NQNQ   1212322 108 12.#        ||   |   |           |                     [W-<Cj>] [H-<JR <Su>] [NTNH <Pr>] [B-JD H-KFDJM <Co>]

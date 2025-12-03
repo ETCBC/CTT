@@ -58,7 +58,7 @@
  GEN 50,12 3sgM xQt0 [adjunct] N       35     47  3..    |       |  [K->CR <Cj>] [YWM <PO>]
  GEN 50,13 3plM WayX  << WayX  N       351    48  2.#    |      [W-<Cj>] [JF>W <Pr>] [>TW <Ob>] [BNJW <Su>] [>RYH KN<N <Co>]
  GEN 50,13 3plM Way0  << WayX  N       351    49  3..    |          [W-<Cj>] [JQBRW <Pr>] [>TW <Ob>] [B-M<RT FDH H-MKPLH <Co>]
- GEN 50,13 3sgM xQtX [attrib.] N       351    50  5.e    |               |  [>CR <Re>] [QNH <Pr>] [>BRHM <Su>] [>T H-FDH <Ob>] [L->XZT QBR <Co>] [M->T <PRN / H-XTJ <ap><Aj>]
+ GEN 50,13 3sgM xQtX [attrib.] N       351    50  5.e    |               |  [>CR <Re>] [QNH <Pr>] [>BRHM <Su>] [>T H-FDH <Ob>] [L->XZT QBR <Aj>] [M->T <PRN / H-XTJ <ap><Aj>]
  GEN 50,13 ---- Defc  << Way0  N       351    51  4d.    |              [<L PNJ MMR> <Lo>]
  GEN 50,14 3sgM WayX  << WayX  N       4      52  0.#   [W-<Cj>] [JCB <Pr>] [JWSP <Su>] [MYRJMH / HW> W->XJW W-KL <sp><Co>]
  GEN 50,14 -plM Ptcp [reg/rec] N       4      53  3..    |   |   |  [H-<Re>] [<LJM <PC>] [>TW <Aj>]
