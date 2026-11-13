@@ -26,9 +26,9 @@
  CAN 06,08 ---- NmCl  << NmCl  Q       21     26  4..    |           |  [W-<Cj>] [CMNJM PJLGCJM <PC>]
  CAN 06,08 ---- NmCl  << NmCl  Q       21     27  5..    |           |      [W-<Cj>] [<LMWT <Su>]
  CAN 06,08 ---- NmCl [predic.] Q       21     28  6..    |           |          [>JN <NC>] [MSPR <PC>]
- CAN 06,09 ---- NmCl  << NmCl  Q       21     29  3..    |          [>XT <PC>] [HJ> / JWNTJ / TMTJ <sp><ap><Su>]
- CAN 06,09 ---- NmCl  << NmCl  Q       21     30  5..    |               |  [>XT <PC>] [HJ> <Su>] [L->MH <Co>]
- CAN 06,09 -sgF AjCl  << NmCl  Q       21     31  6..    |               |      [BRH <PC>] [HJ> <Su>] [L-JWLDTH <Co>]
+ CAN 06,09 ---- NmCl  << NmCl  Q       21     29  3..    |          [>XT <PC>] [HJ> <Ep>] [JWNTJ / TMTJ <sp><Su>]
+ CAN 06,09 ---- NmCl  << NmCl  Q       21     30  5..    |               |  [>XT <PC>] [HJ> <Su>] [L->MH <Aj>]
+ CAN 06,09 -sgF AjCl  << NmCl  Q       21     31  6..    |               |      [BRH <PC>] [HJ> <Su>] [L-JWLDTH <Aj>]
  CAN 06,09 3pl- ZQtX  << NmCl  Q       21     32  4..    |              [R>WH <PO>] [BNWT <Su>]
                                -------                   |                   |   |+---------------------------------------------------------------\
  CAN 06,09 3plM Way0  << ZQtX  QN      21     33  7..    |                   |   || [W-<Cj>] [J>CRWH <PO>]
